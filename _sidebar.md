@@ -4,6 +4,7 @@
   - [Getting Started](getting-started)
 - **Portal Guide**
   - [Overview](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/)
+  - [Overview](tools-guide/tools-overview)
 - **Tools**
   - [Overview](tools-guide/tools-overview)
 - **Information**

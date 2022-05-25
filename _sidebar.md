@@ -1,13 +1,16 @@
 - **Getting Started**
   - [Overview](ship-hats-overview)
   - [What's New](what-s-new)
+  - [Subscription](subscription)
+  - [Roadmap](roadmap)
   - [Getting Started](getting-started)
 - **Portal Guide**
   - [Portal Overview](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)
 - **Tools Guide**
   - [Tools Overview](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
-- **Information**
+- **Additional Resources**
   - [Terms & Policies](terms-and-policies)
+  - [Training](training)
   - [Support](support)
   - [Document History](document-history)
   - [Contact Us](contact-us)

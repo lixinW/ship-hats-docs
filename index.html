@@ -19,7 +19,9 @@
     name: '',
     repo: '',
     homepage: "ship-hats-overview.md",
-    loadSidebar: true,
+    loadSidebar: true,  
+    loadNavbar: !(getURLParameterByName(['standalone','embedded']) || standalone),
+
   }
  </script>
   <!-- Docsify v4 -->

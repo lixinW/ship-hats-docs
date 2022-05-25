@@ -8,7 +8,7 @@
   - [Gitlab](gitlab-overview)
   - [Prisma Cloud](prisma-cloud-overview)
   - [pCloudy](pcloudy-overview)
-  - [SonarQube](sonarqube-overview)
+  - [SonarQube](sonarqube/sonarqube-overview)
   - [release tool](release-tool-overview)  
 - **Additional Resources**
   - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)

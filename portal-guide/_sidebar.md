@@ -1,10 +1,10 @@
 - **SHIP-HATS Portal Guide**
-  - [Overview](portal-guide/ship-hats-portal-overview)
-  - [OpenVPN](portal-guide/set-up-open-vpn)
-  - [Access](portal-guide/access-ship-hats-portal)
-  - [Accounts](portal-guide/manage-account)
-  - [Users](portal-guide/manage-users)
-  - [Projects](portal-guide/manage-projects)
+  - [Overview](ship-hats-portal-overview)
+  - [OpenVPN](set-up-open-vpn)
+  - [Access](access-ship-hats-portal)
+  - [Accounts](manage-account)
+  - [Users](manage-users)
+  - [Projects](manage-projects)
   
 &nbsp;
 

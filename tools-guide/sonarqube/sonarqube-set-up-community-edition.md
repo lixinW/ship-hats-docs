@@ -399,6 +399,8 @@ Jest provides a `jest.config.js` file for configuration. To pass test coverage i
     ```
 
     <!-- tabs:end -->
+
+
 ## Additional Resources
 
 - Bash script to check if scan passes quality gate: https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/cicd-helper-scripts/browse/bash/sonarsource_sonarqube

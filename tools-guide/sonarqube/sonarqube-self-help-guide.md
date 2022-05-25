@@ -4,7 +4,6 @@
 - [Create Quality Gates and Profiles](#create-quality-gates-and-profiles)
 - [Manage Users](#manage-users)
 - [Configure New Code Setting and Versioning](#configure-new-code-setting-and-versioning)
-- [FAQs](#faqs)
 - [Additional Resources](#additional-resources)
 
 
@@ -205,7 +204,7 @@ For more information on setting up SonarQube for your CICD pipeline, refer to th
 
   <kbd>![Creation Date](hats-sonarqube-filter-issues-fixed.png)</kbd>
 
-
+<!--
 ## FAQs
 
 <details>
@@ -258,7 +257,7 @@ The user membership will be synced to the master LDAP group created for you and 
 
 </details>
 
-
+-->
 ## Additional Resources
 
 - [SonarQube Documentation](https://docs.sonarqube.org/latest/)

@@ -14,4 +14,4 @@
 &nbsp;
 
 ---
-  - [Back to Getting Started](ship-hats-overview)
+  - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)

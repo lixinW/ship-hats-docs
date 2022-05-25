@@ -3,7 +3,7 @@
   - [What's New](what-s-new)
   - [Getting Started](getting-started)
 - **Portal Guide**
-  - [Overview](portal-guide/ship-hats-portal-overview)
+  - [Overview](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/)
 - **Tools**
   - [Overview](tools-guide/tools-overview)
 - **Information**

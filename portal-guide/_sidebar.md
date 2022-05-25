@@ -1,4 +1,4 @@
-- **Portal Guide**
+- **SHIP-HATS Portal Guide**
   - [Overview](portal-guide/ship-hats-portal-overview)
   - [OpenVPN](portal-guide/set-up-open-vpn)
   - [Access](portal-guide/access-ship-hats-portal)

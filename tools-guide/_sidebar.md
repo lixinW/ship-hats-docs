@@ -4,7 +4,7 @@
   - [JIRA](jira-overview) 
   - [Nexus Lifecycle](nexus-lifecycle-overview)
   - [Nexus Repository Pro](nexus-repository-pro-overview)
-  - [Fortify-on Demand](fortify-on-demand-overview)
+  - [Fortify-on Demand](fod/fortify-overview)
   - [Gitlab](gitlab-overview)
   - [Prisma Cloud](prisma-cloud-overview)
   - [pCloudy](pcloudy-overview)

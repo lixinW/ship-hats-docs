@@ -1,5 +1,5 @@
 - **SonarQube**
-  - [SonarQube](sonarqube/hats-sonarqube-overview)
+  - [SonarQube](sonarqube/sonarqube-overview)
     - [Community Edition](sonarqube/sonarqube-set-up-community-edition)
     - [Developer Edition](sonarqube/sonarqube-set-up-developer-edition)
     - [Self Help Guide](sonarqube/sonarqube-self-help-guide)  

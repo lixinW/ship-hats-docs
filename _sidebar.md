@@ -1,0 +1,13 @@
+- **Getting Started**
+  - [Overview](ship-hats-overview)
+  - [What's New](what-s-new)
+  - [Getting Started](getting-started)
+- **Portal Guide**
+  - [Overview](portal-guide/ship-hats-portal-overview)
+- **Tools**
+  - [Overview](tools-guide/tools-overview)
+- **Information**
+  - [Terms & Policies](terms-and-policies)
+  - [Support](support)
+  - [Document History](document-history)
+  - [Contact Us](contact-us)

@@ -9,4 +9,4 @@
 &nbsp;
 
 ---
-  - [Back to Getting Started](ship-hats-overview)  
+  - [Back to Getting Started](../ship-hats-overview.md)  

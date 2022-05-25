@@ -9,7 +9,7 @@
   - [Prisma Cloud](prisma-cloud-overview)
   - [pCloudy](pcloudy-overview)
   - [SonarQube](sonarqube-overview)
-  - [release tool]()  
+  - [release tool](release-tool-overview)  
 
 &nbsp;
 

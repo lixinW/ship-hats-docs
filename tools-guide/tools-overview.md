@@ -1,6 +1,10 @@
 # Tools Overview
 
-SHIP-HATS provides following tools while adhering to security and compliance requirements. The following table provides a list of SHIP-HATS tools and the supported version:
+SHIP-HATS provides following tools while adhering to security and compliance requirements. 
+
+## Supported Tools and Versions
+
+The following table provides a list of SHIP-HATS tools and the supported version:
 
 | **Category** | **Tools Integrated with SHIP-HATS** | **Version on SHIP-HATS** | **Endpoint(URL)** |
 | --- | --- | --- | --- |
@@ -24,23 +28,3 @@ SHIP-HATS provides following tools while adhering to security and compliance req
 >**Notes:**
 >- To know more on how to use Purple Hats, refer to our Confluence page on [Purple HATS](https://confluence.ship.gov.sg/display/HATSKB/Purple+HATS).
 >- As the pCloudy web dashboard needs proxy settings configured in your browser, we recommend you use Firefox to use pCloudy so that these proxy settings do not impact your system&#39;s proxy. For more information, refer to [pCloudy Onboarding guide for SHIP-HATS](https://confluence.ship.gov.sg/display/HATSKB/pCloudy+Onboarding+Guide).
-
-## Access Tools
-
-### To access tools:
-1. 
-1. 
-1. 
-
-<div class="row">
-<div class="column">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis nisl sed interdum. Praesent mi nisl, efficitur in felis vel, molestie sollicitudin eros. Mauris urna quam, euismod nec lacinia non, dignissim eu odio. Donec nisl nibh, facilisis at nisl vitae, porttitor hendrerit libero. Integer vel neque in ante condimentum malesuada. Mauris dictum nunc enim, non tincidunt arcu tincidunt vel. Aliquam gravida, massa id semper tincidunt, tellus sapien accumsan tortor, in placerat arcu justo ac urna. Vestibulum blandit ultrices neque, eget congue tortor vehicula id.
-
-</div>
-<div class="column">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis nisl sed interdum. Praesent mi nisl, efficitur in felis vel, molestie sollicitudin eros. Mauris urna quam, euismod nec lacinia non, dignissim eu odio. Donec nisl nibh, facilisis at nisl vitae, porttitor hendrerit libero. Integer vel neque in ante condimentum malesuada. Mauris dictum nunc enim, non tincidunt arcu tincidunt vel. Aliquam gravida, massa id semper tincidunt, tellus sapien accumsan tortor, in placerat arcu justo ac urna. Vestibulum blandit ultrices neque, eget congue tortor vehicula id.
-
-</div>
-</div>

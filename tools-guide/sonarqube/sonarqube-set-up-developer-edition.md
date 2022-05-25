@@ -3,8 +3,8 @@
 To set up SonarQube Developer edition, complete the following steps:
 
 1. [Retrieve App Key and Token ID](#retrieve-app-key-and-token-id)
-2. [Configure Bamboo plan](#configure-bamboo-plan)
-3. [Set up Sonar Scan for different languages](#sonar-scan-for-different-languages)
+2. [Configure Bamboo Plan](#configure-bamboo-plan)
+3. [Set up Sonar Scan for Different Languages](#sonar-scan-for-different-languages)
 4. [Test Coverage](#test-coverage)
 
 ---
@@ -15,7 +15,7 @@ Only **Project Admin (PA)** can get the details of the SonarQube application. Pl
 
 ### Pre-requisites
 
-- All Project Admins must log in to https://sonar.hats.stack.gov.sg/sonar with their SHIP LDAP credentials to trigger the account creation.
+- All Project Admins must log in to https://sonar1.hats.stack.gov.sg/sonar with their SHIP LDAP credentials to trigger the account creation.
 - This also applies to project admins that are added subsequently. In this case, the project admins must log in before being assigned as a project admin. 
 
 Failing to so may result in an error when either of the scenarios occurs:
@@ -47,7 +47,7 @@ Failing to so may result in an error when either of the scenarios occurs:
 ---
 
 
-## Configure Bamboo plan
+## Configure Bamboo Plan
 
 **Topics**
 - [Configure Repositories (Bitbucket)](#configure-repositories-bitbucket)
@@ -127,7 +127,7 @@ Failing to so may result in an error when either of the scenarios occurs:
     
     ![](hats-community-image15.png)
 
-1.  Copy the sonar scan script based on the language of your repository (Refer to samples in the [Sona Scan for different languages](#sonar-scan-for-different-languages) section below), and replace **Variable name** as the value of `-Dsonar.login=`
+1.  Copy the sona scan script based on the language of your repository (Refer to samples in the [Sona Scan for different languages](#sonar-scan-for-different-languages) section below), and replace **Variable name** as the value of `-Dsonar.login=`
 
     >**Note:** Do **not** store the token as plaintext in the script.
 
@@ -169,7 +169,7 @@ This is an optional step.
 
 ---
 
-## Sonar Scan for different languages
+## Sonar Scan for Different Languages
 
 >**Note:** Remove the line `-Dsonar.branch.name=${bamboo.planRepository.branchName} \` if you are not using branch analysis.
 
@@ -180,13 +180,17 @@ This is an optional step.
 - [Sonar Scan for Dotnet](#sonar-scan-for-dotnet)
 - [Sonar Scan for Others](#sonar-scan-for-others)
 
+>**Note:** In the updated SonarQube version 9.3, certain type of scans such as Maven or Ant might fail due to Java 11 needed to perform analysis as shown in the [SonarQube Moving Analysis to Java 11](https://docs.sonarqube.org/9.3/analysis/analysis-with-java-11/). For information on how to resolve this, refer to the [Using Java 11 in Sonar Scanner](#using-java-11-in-sonar-scanner) documentation.
+
 ### Sonar Scan for Java
 
 - **Maven**
 
-    1. Format to put **Script body** in step 7 in the [Configure Tasks](#configure-tasks) section:
+    Format to put **Script body** in step 7 in the [Configure Tasks](#configure-tasks) section:
 
-        ```
+    <!-- tabs:start -->
+    ### **Command Format**
+    ```
         sonar-scanner \
         -Dsonar.projectKey=<App Key> \
         -Dsonar.branch.name=${bamboo.planRepository.branchName} \
@@ -195,10 +199,10 @@ This is an optional step.
         -Dsonar.language=java \
         -Dsonar.host.url=https://sonar.hats.stack.gov.sg/sonar \
         -Dsonar.login=<Token-from-SHIP-HATS-Portal>
-        ```
+    ```
 
-        **Sample**
-        ```
+    ### **Sample**
+    ```
         sonar-scanner \
         -Dsonar.projectKey=hats_multi \
         -Dsonar.branch.name=${bamboo.planRepository.branchName} \
@@ -207,17 +211,19 @@ This is an optional step.
         -Dsonar.language=java \
         -Dsonar.host.url=https://sonar.hats.stack.gov.sg/sonar \
         -Dsonar.login=${bamboo.sonarqube_token_secret}
-        ```
+    ```
+    <!-- tabs:end -->
 
 - **Gradle**
 
-    - Current Sonarqube version : 8.9
-
-    - Official documentation for the version 8.9
-    <https://docs.sonarqube.org/8.9/analysis/scan/sonarscanner-for-gradle/>
+    Current Sonarqube version : 9.3  
+    Official documentation for the version 9.3
+    <https://docs.sonarqube.org/9.3/analysis/scan/sonarscanner-for-gradle/>  
 
     1. Declare **org.sonarqube** plugin in **build.gradle** in your repository.
 
+        <!-- tabs:start -->
+        ### **Command Format**
          ```
         plugins {
 
@@ -225,8 +231,12 @@ This is an optional step.
 
         }
         ```
+        <!-- tabs:end -->
 
     1. Format to put **Script body** iin step 7 in the [Configure Tasks](#configure-tasks) section:
+        
+        <!-- tabs:start -->
+        ### **Command Format**
         ```
         gradle sonarqube \
         -Dsonar.projectKey=<App Key> \
@@ -235,7 +245,7 @@ This is an optional step.
         -Dsonar.login=<Token-from-SHIP-HATS-Portal>
         ```
 
-        **Sample**
+        ### **Sample**
 
         ```
         gradle sonarqube \
@@ -244,10 +254,15 @@ This is an optional step.
         -Dsonar.host.url=https://sonar.hats.stack.gov.sg/sonar \
         -Dsonar.login=${bamboo.sonarqube_token_secret}
         ```
+        <!-- tabs:end -->
 
 ### Sonar Scan for MSBuild
 
 1. Format to put **Script body** in step 7 in the [Configure Tasks](#configure-tasks) section:
+
+    <!-- tabs:start -->
+
+    ### **Command Format**
 
     ```
     # Start of scan
@@ -263,9 +278,15 @@ This is an optional step.
     SonarScanner.MSBuild.exe end /d:sonar.login="<token>"
     ```
 
+    <!-- tabs:end -->
+
 ### Sonar Scan for Dotnet
 
 1. Format to put **Script body** in step 7 in the [Configure Tasks](#configure-tasks) section:
+
+    <!-- tabs:start -->
+
+    ### **Command Format**
 
     ```
     # cd to the location where .csproj is located
@@ -289,7 +310,7 @@ This is an optional step.
     dotnet sonarscanner end /d:sonar.login=<Token-from-SHIP-HATS-Portal>
     ```
 
-    **Sample**
+    ### **Sample**
 
     ```
     # cd to the location where .csproj is located
@@ -313,16 +334,26 @@ This is an optional step.
     dotnet sonarscanner end /d:sonar.login=${bamboo.sonarqube_community_portal_token_secret}
     ```
 
+    <!-- tabs:end -->
+
 ### Sonar Scan for Others
 
 1. For Typescript or projects requiring Node modules, add the following line before scan:
 
-    **Typescript**
+    <!-- tabs:start -->
+    
+    ### **Typescript**
     ```
     export NODE_PATH=${bamboo.hats.node_modules.path}
     ```
 
+    <!-- tabs:end -->
+
 1. Format to put **Script body** in step 7 in the [Configure Tasks](#configure-tasks) section:
+
+    <!-- tabs:start -->
+    
+    ### **Command Format**
 
     ```
     sonar-scanner \
@@ -333,7 +364,7 @@ This is an optional step.
     -Dsonar.login=<Token-from-SHIP-HATS-Portal\>
     ```
 
-    **Sample**
+    ### **Sample**
 
     ```
     sonar-scanner \
@@ -344,6 +375,7 @@ This is an optional step.
     -Dsonar.login=${bamboo.sonarqube_token_secret}
     ```
 
+    <!-- tabs:end -->
 ---
 
 ## Test Coverage
@@ -354,7 +386,7 @@ SonarQube app. For the unit test coverage to be visible in your SonarQube app, y
 -   As each project uses different testing frameworks with different supported report format. Please refer to official SonarQube documentation on the types of Test Coverage report path provided that suits your project requirements.
 
 -   Official Documentation:
-    <https://docs.sonarqube.org/8.9/analysis/coverage/>
+    <https://docs.sonarqube.org/9.3/analysis/coverage/>
 
 -   In this example, we use Jest Testing Framework as an example.
 
@@ -371,14 +403,18 @@ Jest provides a `jest.config.js` file for configuration. To pass test coverage i
 
     - The directory where Jest should output its coverage files:
 
-        ```coverageDirectory: \'coverage\',```
+        ```coverageDirectory: 'coverage',```
 
     - A list of reporter names that Jest uses when writing coverage reports:
 
-        ```coverageReporters: \[\'lcov\', \'text\', \'text-summary\', \'json\'\],```
+        ```coverageReporters: ['lcov', 'text', 'text-summary', 'json'],```
     
 
 1. Format to put **Script body** in step 7 in the [Configure Tasks](#configure-tasks) section. Make sure that you indicate the coverage files with the **-Dsonar.javascript.lcov.reportPaths** option.
+
+    <!-- tabs:start -->
+    
+    ### **Command Format**
 
     ```
     sonar-scanner \
@@ -390,7 +426,7 @@ Jest provides a `jest.config.js` file for configuration. To pass test coverage i
     -Dsonar.javascript.lcov.reportPaths=coverage/lcov.info
     ```
 
-    **Sample**
+    ### **Sample**
 
     ```
     sonar-scanner \
@@ -402,3 +438,73 @@ Jest provides a `jest.config.js` file for configuration. To pass test coverage i
     -Dsonar.javascript.lcov.reportPaths=coverage/lcov.info
     ```
 
+    <!-- tabs:end -->
+    
+## Additional Resources
+
+- Bash script to check if scan passes quality gate: https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/cicd-helper-scripts/browse/bash/sonarsource_sonarqube
+
+## Using Java 11 in Sonar Scanner
+
+In the updated SonarQube version 9.3, certain type of scans such as Maven or Ant might fail due to Java 11 needed to perform analysis as shown in the [SonarQube Moving Analysis to Java 11](https://docs.sonarqube.org/9.3/analysis/analysis-with-java-11/).
+
+To resolve this, add an additional line depending on the requirements or images used as shown in the [Configure Requirements](#configure-requirements) section. This additional line should be added just before the start of sonar scan as described in the [Set up Sonar Scan for Different Languages](#sonar-scan-for-different-languages) section.
+
+### For requirements/images using hats_linux_image
+
+<!-- tabs:start -->
+
+### **Command Format**
+
+```
+export JAVA_HOME=${bamboo.hats.image.linux.correttojdk11.path}
+or
+export JAVA_HOME="/opt/amazon-corretto-11"
+```
+
+### **Sample**
+
+```
+export JAVA_HOME=${bamboo.hats.image.linux.correttojdk11.path}
+ 
+cd sample/sonarqube-scanner-maven/maven-basic/
+ 
+mvn clean package
+ 
+mvn sonar:sonar \
+    -Dsonar.projectKey=${bamboo.sonarqube.projectKey} \
+    -Dsonar.host.url=${bamboo.hats.sonarqube.url} \
+    -Dsonar.login=${bamboo.sonarqube_community_portal_token_secret} \
+    -Dsonar.java.binaries=./target/classes
+```
+
+<!-- tabs:end -->
+
+### For requirements/images using hats_windows_image
+
+<!-- tabs:start -->
+
+### **Command Format**
+
+```
+set JAVA_HOME=${bamboo.hats.image.windows.correttojdk11.path}
+or
+set JAVA_HOME="C:\opt\jdk-11-aws-corretto"
+```
+
+### **Sample**
+
+```
+set JAVA_HOME=${bamboo.hats.image.windows.correttojdk11.path}
+ 
+cd sample/sonarqube-scanner-msbuild/CSharpProject/SomeConsoleApplication
+ 
+SonarScanner.MSBuild.exe begin /k:${bamboo.sonarqube.projectKey} /d:sonar.host.url=${bamboo.hats.sonarqube.url}
+/d:sonar.login=${bamboo.sonarqube_community_portal_token_secret}
+ 
+MsBuild.exe /t:Rebuild
+ 
+SonarScanner.MSBuild.exe end /d:sonar.login=${bamboo.sonarqube_community_portal_token_secret}
+```
+
+<!-- tabs:end -->

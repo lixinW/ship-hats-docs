@@ -400,7 +400,7 @@ Jest provides a `jest.config.js` file for configuration. To pass test coverage i
 
     <!-- tabs:end -->
 
---- 
+ 
 
 ## Using Java 11 in Sonar Scanner
 

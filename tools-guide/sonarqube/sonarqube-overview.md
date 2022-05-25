@@ -15,7 +15,7 @@ By default, SonarQube Community edition is available with all the tier subscript
 |All other Packages except Starter|Additional languages|Developer + Community|
 
 As an SA, after you have bought the Additional languages add-on, you cannot remove the add-on if your subscription still has SonarQube applications in the Developer edition. You will need to remove all the SonarQube applications in the Developer edition before you can downgrade and remove the add-on. 
-
+<!--
 **Topics**  
 
 - [Set up Community Edition](sonarqube-set-up-community-edition)
@@ -60,3 +60,4 @@ Yes. SonarQube can scan for any customisation that the COTS product supports.
 Example: Configuration files in XML or Javascript/ Java or plugins written in Java or Python.
   </details>
 
+-->

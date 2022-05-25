@@ -400,10 +400,7 @@ Jest provides a `jest.config.js` file for configuration. To pass test coverage i
 
     <!-- tabs:end -->
 
-
-## Additional Resources
-
-- Bash script to check if scan passes quality gate: https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/cicd-helper-scripts/browse/bash/sonarsource_sonarqube
+--- 
 
 ## Using Java 11 in Sonar Scanner
 
@@ -469,3 +466,7 @@ SonarScanner.MSBuild.exe end /d:sonar.login=${bamboo.sonarqube_community_portal_
 ```
 
 <!-- tabs:end -->
+
+## Additional Resources
+
+- Bash script to check if scan passes quality gate: https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/cicd-helper-scripts/browse/bash/sonarsource_sonarqube

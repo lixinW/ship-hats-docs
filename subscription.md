@@ -18,7 +18,7 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
 <br>
 <details>
  <summary><b>How does an agency subscribe to SHIP-HATS?</b></summary><br>  
-  <ol><li>test</li><li>rest</li></ul>
+  <ol><li>Please send an email</li><li>Please send an email</li></ul>
 
   1. Please send an email to <enquiries_ENP@tech.gov.sg> with the primary email contact.  
   2. We will send an **Onboarding Form** to the Primary Contact to provide information such as subscription requirements, Start Date, details of Primary Contact, Secondary  

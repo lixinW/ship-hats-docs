@@ -5,6 +5,7 @@
   - [Roadmap](roadmap)
   - [Getting Started](getting-started)
 **Portal Guide**
+**[Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)**
   - [Portal Overview](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)
 **Tools Guide**
   - [Tools Overview](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)

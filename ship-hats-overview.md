@@ -1,13 +1,15 @@
 # SHIP-HATS Overview
 
-**SHIP (Secure Hybrid Integration Pipeline)-HATS (Hive Agile Testing Solutions)** is a Continuous Integration/Continuous Delivery [CI/CD](https://en.wikipedia.org/wiki/CI/CD){:target="_blank"} component within SG Government Tech Stack (SGTS) with security and governance guardrails that enables developers to plan, build, test, and deploy code to production.  
+**SHIP (Secure Hybrid Integration Pipeline)-HATS (Hive Agile Testing Solutions)** is a Continuous Integration/Continuous Delivery [CI/CD](https://en.wikipedia.org/wiki/CI/CD) component within SG Government Tech Stack (SGTS) with security and governance guardrails that enables developers to plan, build, test, and deploy code to production.  
 
 - **SHIP** is a continuous integration platform that automates the delivery of applications and simplifies policy clearance.
 - **HATS** is a continuous deployment platform that provides functional test automation tools for web and mobile applications. It allows government developers to define end-to-end test scenarios and implement the test steps/actions, together with assertion checks.
 
 By offering a common development platform, automating delivery of applications and simplifying policy clearance, SHIP-HATS establishes a consistent and automated way for continuous integration, continuous testing and delivery to create better quality products faster. 
 
-**[Learn why is CI/CD important?](https://youtu.be/RlZCyexsJBc?t=260)**{:Target="_blank"}
+### [Learn why is CI/CD important?](https://youtu.be/RlZCyexsJBc?t=260)
+
+## Features
 
 The platform offers following features:
 - **Visibility & Transparency:** Have a better understanding of how your project is being carried out
@@ -17,12 +19,13 @@ The platform offers following features:
 
 SHIP-HATS drives best practices and policy compliance requirements. The platform provides recommended configurations and recipes to accelerate the development work and provide greater transparency in software development activities to promote collaboration and to support auditing tasks.
 
+<!--
 **Topics**
 - [Architecture](#architecture)
 - [Terminology](#terminology)
 - [Tools in SHIP-HATS](#tools-in-ship-hats)
 - [User Roles and Permissions](#user-roles-and-permissions)
-
+-->
 
 ## Architecture
 

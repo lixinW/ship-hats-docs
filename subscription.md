@@ -6,7 +6,7 @@
 
 Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx){:target="_blank"}. For further queries on pricing, please drop us an email at <enquiries_ENP@tech.gov.sg>.
 
-## Understanding SHIP-HATS subscription
+## Understanding SHIP-HATS Subscription
 
 <iframe src="https://www.youtube.com/embed/ksUEnR78m4w?showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -71,9 +71,7 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
  
 <details>
  <summary><b>Can I monitor resource utilisation at subscription and project levels? </b></summary><br>
-
-  Yes, as a Subscription Administrator or a Project Administrator, you can monitor resource utilisation from your SHIP-HATS account.
-
+  Yes, as a Subscription Administrator or a Project Administrator, you can monitor resource utilisation from your SHIP-HATS account.  
   Subscription Administrators can monitor Plan Details, Named Users, Projects and Bamboo utilisation hours at the subscription level while Project Administrators can monitor Named Users and Bamboo utilisation hours at the associated project level.
   </details>
  
@@ -92,20 +90,17 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
 <br> 
 <details>
  <summary><b>How does SHIP-HATS pricing compare with other commercially available CI/CD tools? </b></summary><br>
-
   Based on Total Cost of Ownership which includes set up and operating costs (including maintenance and audit), SHIP-HATS’ bundled pricing is approximately 60% more cost-efficient than subscribing to commercial licenses individually. Public officers can visit the [Competitive Pricing Assessment](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/WopiFrame2.aspx?sourcedoc=%7BACB6DFA8-2433-48B8-9A24-BABA8688B0F6%7D&file=SHIP-HATS%20Competitive%20Pricing%20Assessment.pdf&action=default&IsList=1&ListId=%7B609D81FE-D9DB-4B7D-8D1A-1F02CD38880C%7D&ListItemId=80) for a cost comparison with Azure DevOps and GitLab.
  </details>
  
 <details>
  <summary><b>Can I subscribe to individual tools like Jira or Confluence only?</b></summary><br>
- 
   We are not offering tools individually now; our bundles have been carefully designed to enable agencies adopt good DevSecOps practices. However, if you are keen and have valid reasons, please let us know using [SHIP-HATS Enquiries](https://go.gov.sg/she) form so that we may assess the possibility based on the demand.
  </details>
 
 <br> 
 <details>
  <summary><b>Can I request for a trial subscription?</b></summary><br>
-
   Yes, we offer a 1-month trial account subject to availability. Agencies can reach <enquiries_ENP@tech.gov.sg> to request for trial accounts.
  </details>
  

@@ -17,14 +17,14 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
 
 <br>
 <details>
- <summary><b>How does an agency subscribe to SHIP-HATS?</b></summary><br>
+ <summary><b>How does an agency subscribe to SHIP-HATS?</b></summary><br>  
+  <ol><li>test</li><li>rest</li></ul>
 
-  1. Please send an email to <enquiries_ENP@tech.gov.sg> with the primary email contact. 
-  2. We will send an **Onboarding Form** to the Primary Contact to provide information such as subscription requirements, Start Date, details of Primary Contact, Secondary
-  Contact, Agency Nominated Approver and Billing Contact.  
-  3. We review the information provided and email the Universal Service Terms (UST) and Service Sheet to the agency nominated approver for approval. 
-  4. Once approved, we provision<sup>i</sup> Primary and Secondary subscription administrator accounts.
-
+  1. Please send an email to <enquiries_ENP@tech.gov.sg> with the primary email contact.  
+  2. We will send an **Onboarding Form** to the Primary Contact to provide information such as subscription requirements, Start Date, details of Primary Contact, Secondary  
+  Contact, Agency Nominated Approver and Billing Contact.   
+  3. We review the information provided and email the Universal Service Terms (UST) and Service Sheet to the agency nominated approver for approval.   
+  4. Once approved, we provision<sup>i</sup> Primary and Secondary subscription administrator accounts.  
   For vendors, kindly get in touch with the agency that you engage with for SHIP-HATS access.
  </details>
  

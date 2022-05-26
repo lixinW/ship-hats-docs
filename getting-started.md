@@ -9,6 +9,14 @@
 
 - Make sure that you have the required [Subscription](subscription).   <!--Visit [Subscription info](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/subscription) and [Subscription FAQ](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/subscription) for information on subscription tiers. --> 
 - A session is active for 20 minutes. Therefore, we recommend having the following details before clicking the onboarding link that you receive in your email: 
+    |Information|Particulars|
+    |---|---|
+    |Details of the [Primary and Secondary Subscription Admins](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/user-roles-permissions?id=sa-permissions)|Name<br>Email<br>Mobile Number<br><br>For more information, refer to [User Roles and Permissions](user-roles-permissions).| 
+    |Details of the Billing contact|Name<br>Email<br>Contact Number<br>Address<br> Sub Business Unit code details<br><br>**Note:** Sub Business Unit (SUB BU) is not your Department code. Please work with your finance team for the SUB BU code.|
+    |Approval of the subscription by a MIC (Manager In-Charge).|The approver of the subscription has to be Deputy Director and above for signatory.|
+    |Approver Details|Name<br>Email<br>Designation| 
+- The onboarding link only lasts for 14 days. If you require an extension, send an email to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg).
+
     - Details of the [Primary and Secondary Subscription Admins](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/user-roles-permissions?id=sa-permissions):
         - Name
         - Email

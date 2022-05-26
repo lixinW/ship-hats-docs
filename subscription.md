@@ -111,19 +111,16 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
  
 <details>
  <summary><b>What security classification is supported by SHIP-HATS?</b></summary><br>
-
   SHIP-HATS supports applications and content that are “Restricted” or below.
  </details>
 
 <details>
- <summary>Can I use an existing email address to add a new user account?</summary><br>
-
-  No. Each user account requires a unique email address. For each new user account, you must use a new email address. 
+ <summary><b>Can I use an existing email address to add a new user account?</b></summary><br>
+No. Each user account requires a unique email address. For each new user account, you must use a new email address. 
  </details> 
 
 <details>
  <summary><b>What are the Basic languages that are available for SonarQube add-on and who can buy them as add-on?</b></summary><br>
-
 [Languages](https://docs.sonarqube.org/latest/analysis/languages/overview/) supported by SonarQube's [Community edition](https://www.sonarsource.com/plans-and-pricing/community/) are the basic languages. Note that only tenants who have subscribed to **Starter** tier can buy this add-on as it is available by default for other tiers.
  </details>
  

@@ -1,11 +1,10 @@
 # Subscription
 
-## Overview
-[SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview) manages its tenants through subscriptions. Only agencies can subscribe to SHIP-HATS, however, agencies can extend subscriptions to non-agency users, such as vendors. Following image shows the 4 subscription tiers (Starter, Squad, Team, and Tribe) and available add-ons for each service under SHIP-HATS.
+SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe to SHIP-HATS. However, agencies can extend subscriptions to non-agency users, such as vendors. Following image shows the 4 subscription tiers (Starter, Squad, Team, and Tribe) and available add-ons for each service under SHIP-HATS.
 
 ![Subscription Tiers](ship-hats-subscription-table.png)
 
-Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx). For further queries on pricing, please drop us an email at <enquiries_ENP@tech.gov.sg>.
+Public officers can visit the [Intranet website for pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx). For further queries on pricing, please drop us an email at <enquiries_ENP@tech.gov.sg>.
 
 ## Understanding SHIP-HATS Subscription
 
@@ -18,7 +17,6 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
 <br>
 <details>
  <summary><b>How does an agency subscribe to SHIP-HATS?</b></summary><br>  
-  <ol><li>Please send an email</li><li>Please send an email</li></ul>
 
   1. Please send an email to <enquiries_ENP@tech.gov.sg> with the primary email contact.  
   2. We will send an **Onboarding Form** to the Primary Contact to provide information such as subscription requirements, Start Date, details of Primary Contact, Secondary  
@@ -30,26 +28,22 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
  
 <details>
  <summary><b>How much does it cost to subscribe to SHIP-HATS?</b></summary><br>
-
   Refer to [pricing details](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/SitePages/Pricing.aspx) accessible via your GSIB/SOE machine.
  </details>
  
 <details>
  <summary><b>When does billing start for a subscription?</b></summary><br>
-
   Billing starts only from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. 
   For example, if account was provisioned on 5 February 2021, billing starts from 1 March 2021. We charge on a monthly basis, and agency receives invoices every quarter.
  </details>
  
 <details>
  <summary><b>Can there be users who just have “read-only” access? </b></summary><br>
-
   Yes. Note that users with read-only access are also counted as one of the users of that subscription.
  </details>
  
 <details>
  <summary><b>Can I upgrade or downgrade to a different tier and how do I do this?</b></summary><br>
-
   Yes. Subscription Administrator may upgrade or downgrade to a different tier by raising a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11)<sup>ii</sup>. While you may upgrade to an upper tier anytime, you can downgrade to a lower tier after the Minimum Commitment Period<sup>iii</sup>. 
  
   For example, if TEAM tier was provisioned on 1 February 2021, the Subscription Administrator may raise a service request to upgrade to TRIBE tier anytime. If needed, you may request to downgrade to SQUAD or STARTER tiers after 1 August 2021.
@@ -57,7 +51,6 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
  
 <details>
  <summary><b>Can I add-on or scale-down tools or resources bundled along with my subscription?</b></summary><br>
-
   Yes. Subscription Administrator may add-on additional tools or resources any time and scale-down newly added tools after the Minimum Commitment Period<sup>iii</sup>. Agency can scale up requirement at any point of time. To add on or scale-down the newly added tools, Subscription Administrator can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11)<sup>ii</sup>. 
  
   For example, if TEAM tier was provisioned on 1 February 2021 and later you identify a need to have a total of 40 users, 400 shared agent hours and six applications to be scanned for vulnerabilities. In this case, you may add on 2 sets of eight users, 100 shared agent hours and two more apps to your subscription anytime. To remove these add-ons, Subscription Administrator can raise a service request after 1 August 2021.
@@ -65,7 +58,6 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
  
 <details>
  <summary><b>How do I cancel my subscription?</b></summary><br>
-
   Subscription Administrator can cancel the subscription. For more information, refer to the [Off-board an Account](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-account?id=off-board-an-account) documentation. 
  </details>
  
@@ -111,17 +103,17 @@ Public officers can visit the i[ntranet website for pricing](https://sgdcs.sgnet
 
 <details>
  <summary><b>Can I use an existing email address to add a new user account?</b></summary><br>
-No. Each user account requires a unique email address. For each new user account, you must use a new email address. 
+  No. Each user account requires a unique email address. For each new user account, you must use a new email address. 
  </details> 
 
 <details>
  <summary><b>What are the Basic languages that are available for SonarQube add-on and who can buy them as add-on?</b></summary><br>
-[Languages](https://docs.sonarqube.org/latest/analysis/languages/overview/) supported by SonarQube's [Community edition](https://www.sonarsource.com/plans-and-pricing/community/) are the basic languages. Note that only tenants who have subscribed to **Starter** tier can buy this add-on as it is available by default for other tiers.
+  [Languages](https://docs.sonarqube.org/latest/analysis/languages/overview/) supported by SonarQube's [Community edition](https://www.sonarsource.com/plans-and-pricing/community/) are the basic languages. Note that only tenants who have subscribed to **Starter** tier can buy this add-on as it is available by default for other tiers.
  </details>
  
 <details>
  <summary><b>Is there any add-on to support multiple branch analysis in SonarQube?</b></summary><br>
-Yes. You can add additional programming languages which extend your SonarQube Community edition capabilities to support the [Developer edition](https://www.sonarqube.org/developer-edition/) features and this includes multiple branch analysis. For more information on the languages supported, please refer to [languages](https://docs.sonarqube.org/latest/analysis/languages/overview/) supported by SonarQube.
+  Yes. You can add additional programming languages which extend your SonarQube Community edition capabilities to support the [Developer edition](https://www.sonarqube.org/developer-edition/) features and this includes multiple branch analysis. For more information on the languages supported, please refer to [languages](https://docs.sonarqube.org/latest/analysis/languages/overview/) supported by SonarQube.
  </details>
 
 <br>

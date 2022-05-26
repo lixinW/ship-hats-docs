@@ -1,6 +1,6 @@
 **Getting Started**
   - [Overview](ship-hats-overview)
-  - [What's New](what-s-new)
+  - [What's New](whats-new)
   - [Subscription](subscription)
   - [Roadmap](roadmap)
   - [Getting Started](getting-started)  

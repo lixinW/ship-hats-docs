@@ -52,9 +52,6 @@ The following section provide links to documentation and tutorials to learn the 
 
 For information on specific versions of Tools in SHIP-HATS, refer to the [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) guide. 
 
-For information on specific versions of Tools in SHIP-HATS, refer to the [Tools](/tools-guide/tools-overview) guide. 
-
-
 ### Project Management Tools
 
 | **Tool** | **Description** | **Links** |
@@ -107,7 +104,7 @@ For information on specific versions of Tools in SHIP-HATS, refer to the [Tools]
 
 ### Tools Permissions  
 
-For user roles and permissions related to tools, refer to respective [tool document area via the left navigation](tools-overview). 
+For user roles and permissions related to tools, refer to the Users and Permissions section in the [SHIP-HATS Tools guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview). 
 <!--
 - [Bitbucket User Roles and Permission](bitbucket-user-role)
 - [Bamboo User Roles and Permission](bamboo-user-roles)

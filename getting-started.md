@@ -7,7 +7,7 @@
 
 ## Pre-requisites
 
-- Visit [Subscription info](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/subscription) and [Subscription FAQ](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/subscription) for information on subscription tiers.  
+- Make sure that you have the required [Subscription](subscription).   <!--Visit [Subscription info](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/subscription) and [Subscription FAQ](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/subscription) for information on subscription tiers. --> 
 - A session is active for 20 minutes. Therefore, we recommend having the following details before clicking the onboarding link that you receive in your email: 
     - Details of the [Primary and Secondary Subscription Admins](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/user-roles-permissions?id=sa-permissions):
         - Name

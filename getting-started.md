@@ -18,17 +18,21 @@
 
 ## Quick Start Guide 
 
-|Step|Notes|
-|---|---|
-|Use gov.sg email to send an email request with the email address of your Primary Subscription Admin (SA).|[enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg)|
-|The SA receives the onboarding link via email.|[Invite Users](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users)|
-Open the invitation link on an Internet device, enter the fields, and then submit the onboarding form.| [Create Account](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=create-account)|
-|SHIP-HATS Team verifies the information.| Add link|
-|System will send an email with the Memorandum of Understanding (MoU) to the approver nominated in the onboarding form.| Add link|
-|Agency's approver is required to reply 'Approved’ after receiving the email |Add link|
-|After approver replies, SHIP-HATS Team provisions account for the Primary SA and Secondary SA.| Add link|
-|SAs will receive an email to inform that your account is provisioned.| Add link|
-|SAs log into the [SHIP-HATS Portal](http://ship.gov.sg) after their accounts have been provisioned and send the [invitation link](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-users?id=invite-users) to their users for them to self-create accounts and approve the user accounts.|Add link|
+|Step|Who|Notes|
+|---|---|---|
+|Use gov.sg email to send an email request with the email address of your Primary Subscription Admin (SA).|Agency|[enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg)|
+|The SA receives the onboarding link via email.|SHIP-HATS|<span style="color:red">Add link</span>|
+|Open the invitation link on an Internet device, enter the fields, and then submit the onboarding form.|Agency|<span style="color:red">Add link</span>|
+|SHIP-HATS Team verifies the information.|SHIP-HATS|<span style="color:red">Add link</span>|
+|System will send an email with the Memorandum of Understanding (MoU) to the approver nominated in the onboarding form.|SHIP-HATS |<span style="color:red">Add link; do we need to combine with previous item?</span>|
+|Agency's approver is required to reply 'Approved’ after receiving the email|Agency Approver|<span style="color:red">Add link</span>|
+|After approver replies, SHIP-HATS Team provisions account for the Primary SA and Secondary SA.|SHIP-HATS |<span style="color:red">Add link</span>|
+|SAs will receive an email to inform that your account is provisioned.|SHIP-HATS |<span style="color:red">Add link</span>|
+|Log in to the [SHIP-HATS Portal](http://ship.gov.sg).| Subscription Admin (SA)|[Access SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal)|
+
+## What's Next
+
+- [Invite Users via the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users) 
 
 <!--
 

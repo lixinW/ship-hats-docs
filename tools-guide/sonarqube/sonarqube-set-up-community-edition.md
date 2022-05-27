@@ -27,9 +27,9 @@ Failing to so may result in an error when either of the scenarios occurs:
 
 ### To retrieve App Key and Token ID:
 
-1. Go to https://www.ship.gov.sg, and then log in with your SHIP Credentials.
+1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg).
 
-1.  Under **Projects**, click **All Projects**, and then click **Manage** on the desired project.
+1.  Under **Projects**, click **All Projects**, and then click **Manage** on the required project.
 
 1.  Click the **QA & Security** tab.
 

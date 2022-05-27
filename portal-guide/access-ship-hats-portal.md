@@ -32,16 +32,13 @@ set up and connect to openvpn?</span>.
 
     <kbd>![log-in](log-in.png ':size=100%')</kbd>
 
-3. Enter your **Username** ,**Password** and click **Log In**.
-
+3. Enter your **Username**, **Password**, and then click **Log In**.
     - If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
     - If you are a regular user, the **Profile** page appears. For more details, refer to the [View user profile](#view-user-profile) section.
 
-Add result statment and image of landing page (dashboard page?)
+    <kbd>![dashboard]()</kbd>
 
-<kbd>![dashboard]()</kbd>
-
-explain the page and left nav briefly.
+<span style="color:red">explain the page and left nav briefly.</span>
 
 
 ### **Log in via TechPass**
@@ -53,23 +50,27 @@ explain the page and left nav briefly.
 
     <kbd>![log-in](tplogin.png ':size=100%')</kbd>
 
-3. Enter your **Enter your TechPass details** and click **Next**.
+3. Enter your **Enter your TechPass details**, and then click **Next**.
 
     <kbd>![log-in](tp2.png ':size=100%')</kbd>
 
-4. You will be redirected to the GCC log-in page. Enter your TechPass email address along with the verification code from the Authenticator app and click sign in. 
+    You will be redirected to the GCC log-in page. 
+1. Enter your TechPass email address along with the verification code from the Authenticator app and click sign in. 
 
     <kbd>![log-in](tpgcc1.png ':size=100%')</kbd>
 
-5. Read through the **TechPass** Terms of Use and click **Accept**.
+5. Read through the **TechPass** Terms of Use, and then click **Accept**.
 
     <kbd>![log-in](tptou.png ':size=100%')</kbd>
 
-6. Read through the **TechPass MDM** Terms of Use and click **Accept**.
+6. Read through the **TechPass MDM** Terms of Use, and then click **Accept**.
 
     <kbd>![log-in](techpassmdm.png ':size=100%')</kbd>
 
-You have successfully linked your TechPass to SHIP-HATS. You can directly log in using TechPass for future access. 
+You have successfully linked your TechPass to SHIP-HATS. You can directly log in using TechPass for future access.  
+<span style="color:red">Is there any step missing here?</span> 
+- If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
+- If you are a regular user, the **Profile** page appears. For more details, refer to the [View user profile](#view-user-profile) section.
 
 <!-- tabs:end -->
 
@@ -77,7 +78,7 @@ You have successfully linked your TechPass to SHIP-HATS. You can directly log in
 ## View Dashboard
 The **Overview** page of the subscription account gives the dashboard view of the subscription account. Only Subscription Admin (SA) and Project Admin (PA) can access this dashboard to view the following details:
 
-- Subscription tier for the Billing Account
+- Subscription tier for the Billing Account. By default, you view the subscription details of the first account to which you were added as SA or PA. You can [switch account](), as needed.
 - [Plan details](#view-plan-details)
 - Count of projects hosted on this account
 - Count of users added to this account
@@ -88,10 +89,6 @@ The **Overview** page of the subscription account gives the dashboard view of 
 >**Note:** The term **Overview** and **Dashboard view** may be used interchangeably.
 
 <kbd>![overview](ship-update.png ':size=100%')</kbd>
-
->**Notes:**
->- If you are an SA or PA for a subscription account, when you log in, by default, you will be viewing the subscription details of the first account to which you were added as SA or PA. If you want to switch to a different subscription account, refer to [**Switch Account**](#switch-account).
->- SA and PA must have logged in to SonarQube at least once before proceeding to create applications in SonarQube. Though only SA and PA can create applications in SonarQube, we recommend all users to log in to SonarQube at least once to ease the process if a user role is changed to a PA role in the future. Refer to [SHIP-HATS integrated tools version](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/ship-hats-integrated-tools-version) for SonarQube's URL.
 
 ## View User Profile
 

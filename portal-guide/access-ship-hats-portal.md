@@ -13,7 +13,7 @@
 ## Prerequisites
 
 - Before you start, you must have been [invited and onboarded to SHIP-HATS]().
-- After you have successfully onboarded, make sure that you have setup [your OpenVPN connection]().
+- After you have successfully onboarded, make sure that you have setup <span style="color:red">your OpenVPN connection</span>.
 
 <span style="color:red">Will there be any prerequisites?
 someone has to provide access, right permissions, etc.

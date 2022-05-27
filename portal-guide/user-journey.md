@@ -15,6 +15,7 @@ The following section outlines the user journey to set up the SHIP-HATS portal.
 |[Approve a New User]()|SA or PA|
 |[Add User to a Project]()|SA or PA|
 |[Add an Application to a Project Tool]()|PA|
+|[Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)|?|
 
 ## Related Topics
 - [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview).

@@ -2,11 +2,6 @@
 
 The following section outlines the user journey to set up the SHIP-HATS portal.
 
-![Flowchart]()
-
-![User Journey Image]()
-
-https://jira.ship.gov.sg/browse/CODEX-179569
 
 
 |Task|Who|
@@ -21,7 +16,13 @@ https://jira.ship.gov.sg/browse/CODEX-179569
 |[Add User to a Project]()|SA or PA|
 |[Add an Application to a Project Tool]()|PA|
 
+## Related Topics
+- [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview).
 
-For information specific to each tool, refer to the [Tools guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview).
 
 
+![Flowchart]()
+
+![User Journey Image]()
+
+https://jira.ship.gov.sg/browse/CODEX-179569

@@ -1,9 +1,9 @@
 # Getting Started
-
+<!--
 **Topics**
 - [Prerequisites](#prerequisites)
 - [Quick Start Guide](#quick-start-guide)
-
+-->
 ## Prerequisites
 
 - Make sure that you have the required [Subscription](subscription).

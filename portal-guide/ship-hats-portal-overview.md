@@ -1,13 +1,13 @@
 # SHIP-HATS Portal Overview
 
+Add conceptual information and features of the portal. 
 
-> Draft: Add conceptual information and features of the portal.
 
-**Topics**
-- [Set up OpenVPN](#set-up-openvpn)
-- [Access SHIP-HATS Portal](#access-ship-hats-portal)
+Using the SHIP-HATS portal, you can:
+
+> **Important:** Make sure that you have onboarded to **[TechPass, SEED, and DEEP](onboarding-prerequisites)**.
+    
 - [Manage Account](manage-account)
-- [Manage Users](manage-users)
 - [Manage Projects](manage-projects)
-- [Manage Fortify applications](manage-fortify-applications)
-- [Declaring DGP Systems](declaring-dgp-systems)
+- [Manage Users](manage-users)
+- [Declare DGP Systems](declare-dgp-systems)

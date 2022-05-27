@@ -17,6 +17,21 @@
 - The onboarding link only lasts for 14 days. If you require an extension, send an email to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg).
 
 ## Quick Start Guide 
+
+|Step|Notes|
+|---|---|
+|Use gov.sg email to send an email request with the email address of your Primary Subscription Admin (SA).|[enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg)|
+|The SA receives the onboarding link via email.|[Invite Users](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users)|
+Open the invitation link on an Internet device, enter the fields, and then submit the onboarding form.| [Create Account](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=create-account)|
+|SHIP-HATS Team verifies the information.| Add link|
+|System will send an email with the Memorandum of Understanding (MoU) to the approver nominated in the onboarding form.| Add link|
+|Agency's approver is required to reply 'Approved’ after receiving the email |Add link|
+|After approver replies, SHIP-HATS Team provisions account for the Primary SA and Secondary SA.| Add link|
+|SAs will receive an email to inform that your account is provisioned.| Add link|
+|SAs log into the [SHIP-HATS Portal](http://ship.gov.sg) after their accounts have been provisioned and send the [invitation link](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-users?id=invite-users) to their users for them to self-create accounts and approve the user accounts.|Add link|
+
+<!--
+
 1. Use gov.sg email to send a request to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg) with the email address of your Primary Subscription Admin (SA).  
 1. The SA receives the onboarding link via email.
 1. Open the invitation link on an Internet device, enter the fields, and then submit the onboarding form. 
@@ -26,3 +41,4 @@
 1. After approver replies, SHIP-HATS Team provisions the Primary SA and Secondary SA's account. 
 1. SAs will receive an email to inform that your account is provisioned. 
 1. SAs log into [SHIP-HATS Portal](http://ship.gov.sg) after their accounts have been provisioned and send the [invitation link](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-users?id=invite-users) to their users for them to self-create accounts and approve the user accounts.
+-->

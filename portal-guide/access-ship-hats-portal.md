@@ -1,6 +1,7 @@
 # Access SHIP-HATS Portal
 
 **Topics**
+- [Prerequisites](#prerequisites)
 - [Log In](#log-in)
 - [Log in via TechPass](#log-in-via-techpass)
 - [View Dashboard](#view-dashboard)
@@ -8,21 +9,23 @@
 - [Log Out](#log-out)
 
 
+
+## Prerequisites
+
+- Before you start, you must have been [invited and onboarded to SHIP-HATS]().
+- After you have successfully onboarded, make sure that you have setup [your OpenVPN connection]().
+
+<span style="color:red">Will there be any prerequisites?
+someone has to provide access, right permissions, etc.
+set up and connect to openvpn?</span>.
+
 ## Log In
 
-### Prerequisites
+<!-- tabs:start -->
 
-- Before you start, you must have been invited and onboarded to SHIP-HATS.
-- Once you have successfully onboarded, make sure that you have setup your OpenVPN connection.
+### **Log In**
 
-Will there be any prerequisites?
-someone has to provide access, right permissions, etc.
-set up and connect to openvpn?
-
-After the above are successfully completed, you can proceed to log in to SHIP-HATS. 
-
-
-### To log in to the SHIP-HATS portal:
+**To log in to the SHIP-HATS portal**
 
 1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
 2. Click **Log In**.
@@ -41,9 +44,9 @@ Add result statment and image of landing page (dashboard page?)
 explain the page and left nav briefly.
 
 
-## Log in via TechPass
+### **Log in via TechPass**
 
-### To log in to the SHIP-HATS portal using TechPass:
+**To log in to the SHIP-HATS portal using TechPass**
 
 1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
 2. Click **Log In with TechPass**.
@@ -68,6 +71,8 @@ explain the page and left nav briefly.
 
 You have successfully linked your TechPass to SHIP-HATS. You can directly log in using TechPass for future access. 
 
+<!-- tabs:end -->
+
 
 ## View Dashboard
 The **Overview** page of the subscription account gives the dashboard view of the subscription account. Only Subscription Admin (SA) and Project Admin (PA) can access this dashboard to view the following details:
@@ -89,41 +94,38 @@ The **Overview** page of the subscription account gives the dashboard view of 
 >- SA and PA must have logged in to SonarQube at least once before proceeding to create applications in SonarQube. Though only SA and PA can create applications in SonarQube, we recommend all users to log in to SonarQube at least once to ease the process if a user role is changed to a PA role in the future. Refer to [SHIP-HATS integrated tools version](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/ship-hats-integrated-tools-version) for SonarQube's URL.
 
 ## View User Profile
-When users other than SA or PA log in to the [SHIP-HATS portal](https://www.ship.gov.sg/), they are directed to their **Profile** page. You may view more information on your subscription ie. the number of fortify and sonarqube applications tied to the subscription.
 
-<kbd>![profile-of-other-users](info.png ':size=100%')</kbd>
+As a user (other than SA or PA), when you [log in](#log-in) to the [SHIP-HATS portal](https://www.ship.gov.sg/), you can:
+- View your **Profile** page that includes information on your subscription, such as number of fortify and sonarqube applications tied to the subscription
 
-Users can click on the applications to view tokens and the expiry date. The information is also downloadable as CSV
+    <kbd>![profile-of-other-users](info.png ':size=100%')</kbd>
+- Click on the applications to view tokens and the expiry date. You can also download the information as CSV
 
-<kbd>![token info](fa.png ':size=100%')</kbd>
+    <kbd>![token info](fa.png ':size=100%')</kbd>
+- View the user groups you belong to
 
-Users are also able to view the user groups they belong to.
-
-<kbd>![user group](profile-2.png ':size=100%')</kbd>
+    <kbd>![user group](profile-2.png ':size=100%')</kbd>
 
 
 ## Log Out 
 When you are done with your activities on the portal, you can log out as shown below.
 
-### To log out from the SHIP-HATS portal:
+### To log out from the SHIP-HATS portal
 - Hover over your profile icon, and then click **Log out**.
     
     <kbd>![log-out](log-out.png ':size=100%')</kbd>
 
-If you are inactive for five minutes on the portal, the system prompts you with the following message. Click **Yes, Keep me signed in** to continue your session.
+- If you are inactive for five minutes on the portal, the system prompts you with the following message. Click **Yes, Keep me signed in** to continue your session.
 
-<kbd>![idle-time-prompt-after-5-mins](idle-time-prompt-after-5-mins.png ':size=100%')</kbd>
+    <kbd>![idle-time-prompt-after-5-mins](idle-time-prompt-after-5-mins.png ':size=100%')</kbd>
 
-If you are inactive for 10 minutes on the portal, the system prompts you with the following message.
+- If you are inactive for 10 minutes on the portal, the system prompts you with the following message:
 
-<kbd>![session-timed-out](session-timed-out.png ':size=100%')</kbd>
-
-
-
+    <kbd>![session-timed-out](session-timed-out.png ':size=100%')</kbd>
 
 **Related Topics**
   - [Manage Account](manage-account)
   - [Manage Users](manage-users)
   - [Manage Projects](manage-projects)
   - [Manage Fortify applications](manage-fortify-applications)
-  - [Declaring DGP Systems](declaring-dgp-systems)
+  - [Declare DGP Systems](declare-dgp-systems)

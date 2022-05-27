@@ -1,6 +1,7 @@
 - SHIP-HATS Portal Guide
   - [Overview](ship-hats-portal-overview)
-  - [OpenVPN](set-up-open-vpn)
+  - [Prerequisites](onboarding-prerequisites)
+  - [User Journey](user-journey)
   - [Access](access-ship-hats-portal)
   - [Accounts](manage-account)
   - [Users](manage-users)

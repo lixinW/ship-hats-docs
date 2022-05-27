@@ -5,12 +5,14 @@
   - [Roadmap](roadmap)
   - [Getting Started](getting-started)  
 **Portal Guide**
-  - [Head over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview) 
+  - [Head over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)  
+**[Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)**  
 **CI/CD Pipeline**
 - [CI Pipeline](ci-pipeline)  
 - [CD Pipeline](cd-pipeline) 
 **Tools Guide**
   - [Head over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)  
+**[Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)**   
 **Additional Resources**
   - [Terms & Policies](terms-and-policies)
   - [Training](training)

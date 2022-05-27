@@ -1,5 +1,9 @@
 # Subscription
 
+
+
+## Overview 
+
 SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe to SHIP-HATS. However, agencies can extend subscriptions to non-agency users, such as vendors. Following image shows the 4 subscription tiers (Starter, Squad, Team, and Tribe) and available add-ons for each service under SHIP-HATS.
 
 ![Subscription Tiers](ship-hats-subscription-table.png)
@@ -122,3 +126,5 @@ Public officers can visit the [Intranet website for pricing](https://sgdcs.sgnet
 <sup>[iii]</sup> Six consecutive months from the date of account provisioning. 
 
 
+## Related Topics
+- [Users and Permissions]()

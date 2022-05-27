@@ -29,7 +29,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |2|Send onboarding link to the SA via email.|SHIP-HATS|
 |3|Open the invitation link on an Internet device, enter the fields, and then submit the onboarding form.|Agency|
 |4|Verify the information and send an email with the Memorandum of Understanding (MoU) to the approver nominated in the onboarding form.|SHIP-HATS|
-|5|Reply `Approved` after receiving the email|Agency Approver|
+|5|Reply `Approved` after receiving the email.|Agency Approver|
 |6|SHIP-HATS Team provisions account for the Primary and Secondary SA.|SHIP-HATS |
 |7|SAs receive an email indicating that their account is provisioned.|SHIP-HATS |
 |8|[Log in to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|

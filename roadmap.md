@@ -11,3 +11,5 @@ Coming Soon!
   />
   <figcaption>Fig 1: SHIP-HATS Roadmap</figcaption>
 </figure>
+
+![Roadmap](ship-hats-roadmap.jpg)

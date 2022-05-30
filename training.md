@@ -27,7 +27,6 @@ Agencies can now request for a one-hour session for the CIO or Business or IT le
 Submit your [feedback](https://form.gov.sg/#!/6086619c7be16c0012b35281) and we will include it in our prioritisation.  
 
 
-## 
 
 ## Workshops
 

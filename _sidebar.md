@@ -14,9 +14,9 @@
   - [Head over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)  
 **Training**
   - [Training](training)
-  - [Webinars]()
-  - [Workshops]()
-  - [Book a Session]()
+  - [Webinars](webinars)
+  - [Workshops](workshops)
+  - [Book a Session](book-a-session)
 **Additional Resources**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)

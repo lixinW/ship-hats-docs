@@ -1,13 +1,18 @@
 # Training
 
-You can find additional training resources here:
-
+## Getting Started
 - [DevSecOps Playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/#/)
 - [Preparing your team for DevOps](https://www.youtube.com/watch?v=wgW-8vvK5sMte) 
 
 ## Video Library 
 
-| Developers |  Project Managers, Business Analysts  |
+| Developers | Project Managers, Business Analysts  |
+| --- | ---|
+| [SHIP-HATS Architectural Approach](https://www.youtube.com/watch?v=yiD4--KSdTI) <br>[Security Testing 101](https://www.youtube.com/watch?v=SVomPCqKGM4) <br>[Continuous Delivery](https://www.youtube.com/watch?v=DMMhqLKHLx0) <br> | [SHIP-HATS Overview for Newbies](https://www.youtube.com/watch?v=SVomPCqKGM4) <br>[Request trial (for Public Officers)](./subscription#11-can-i-request-for-a-trial-subscription)| 
+
+<br>
+
+| Developers | Project Managers, Business Analysts  |
 | --- | ---|
 | <ul><li>[SHIP-HATS Architectural Approach](https://www.youtube.com/watch?v=yiD4--KSdTI) </li><li>[Security Testing 101](https://www.youtube.com/watch?v=SVomPCqKGM4) </li><li>[Continuous Delivery](https://www.youtube.com/watch?v=DMMhqLKHLx0) </li></ul> | <ul><li>[SHIP-HATS Overview for Newbies](https://www.youtube.com/watch?v=SVomPCqKGM4) </li><li>[Request trial (for Public Officers)](./subscription#11-can-i-request-for-a-trial-subscription)</li></ul> 
 

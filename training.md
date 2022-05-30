@@ -8,7 +8,7 @@
 
 | Developers | Project Managers, Business Analysts  |
 | --- | ---|
-| [SHIP-HATS Architectural Approach](https://www.youtube.com/watch?v=yiD4--KSdTI) <br>[Security Testing 101](https://www.youtube.com/watch?v=SVomPCqKGM4) <br>[Continuous Delivery](https://www.youtube.com/watch?v=DMMhqLKHLx0) <br> | [SHIP-HATS Overview for Newbies](https://www.youtube.com/watch?v=SVomPCqKGM4) <br>[Request trial (for Public Officers)](./subscription#11-can-i-request-for-a-trial-subscription)| 
+| [SHIP-HATS Architectural Approach](https://www.youtube.com/watch?v=yiD4--KSdTI) <br><br>[Security Testing 101](https://www.youtube.com/watch?v=SVomPCqKGM4) <br><br>[Continuous Delivery](https://www.youtube.com/watch?v=DMMhqLKHLx0) <br> | [SHIP-HATS Overview for Newbies](https://www.youtube.com/watch?v=SVomPCqKGM4) <br><br>[Request trial (for Public Officers)](./subscription#11-can-i-request-for-a-trial-subscription)| 
 
 <br>
 

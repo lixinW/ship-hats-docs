@@ -8,7 +8,7 @@
 
 - Make sure that you have the required [Subscription](subscription).
 - A session is active for 20 minutes. Therefore, we recommend having the following details before clicking the onboarding link that you receive in your email: 
-    |Information|Particulars|
+    |Information|Particulars Required|
     |---|---|
     |Details of the [Primary and Secondary Subscription Admins](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/user-roles-permissions?id=sa-permissions)|Name<br>Email<br>Mobile Number<br><br>For more information, refer to [User Roles and Permissions](user-roles-permissions).| 
     |Details of the Billing contact|Name<br>Email<br>Contact Number<br>Address<br> Sub Business Unit code details<br><br>**Note:** Sub Business Unit (SUB BU) is not your Department code. Please work with your finance team for the SUB BU code.|

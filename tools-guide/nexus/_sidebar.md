@@ -4,6 +4,7 @@
     - [Community Edition](sonarqube/sonarqube-set-up-community-edition)
     - [Developer Edition](sonarqube/sonarqube-set-up-developer-edition)
     - [Self Help Guide](sonarqube/sonarqube-self-help-guide)  
+    - [Cleanup Policy](clean-up-policy)
     - [FAQs](sonarqube/sonarqube-faqs)  
 - **Additional Resources**
   - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)

@@ -4,7 +4,7 @@ The following section outlines the user journey to set up the SHIP-HATS portal.
 
 
 
-|Task|Who|
+|Task|Owner|
 |---|---|
 |[Log in to the SHIP-HATS portal](access-ship-hats-portal).|Subscription Admin (SA)|
 |[Create a Project]()|SA or Project Admin (PA)|
@@ -17,7 +17,7 @@ The following section outlines the user journey to set up the SHIP-HATS portal.
 |[Add an Application to a Project Tool]()|PA|
 |[Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)|?|
 
-## Related Topics
+## What's Next/Related Topics
 - [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview).
 
 

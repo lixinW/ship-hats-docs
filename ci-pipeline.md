@@ -1,25 +1,35 @@
 # CI Pipeline
 
 This tutorial guides you to set up a simple pipeline using Javascript to check out and scan the sample application in SHIP-HATS.
-
+<!--
 **Topics**
 - [Prerequisites](#prerequisites)
 - [Set up CI Pipeline](#set-up-ci-pipeline)
-
+-->
 ## Prerequisites
-- You must have Bitbucket, Bamboo, Nexus IQ, and Nexus Repository added to your project.  If not, please contact your Project Admin to get the required access.
-- You must have *write access* to the projects created on the above-mentioned tools. If not, please contact your Project Admin to get the required access.
-- You must have a basic understanding of the SHIP-HATS CI Tools (Bitbucket, Bamboo, Nexus IQ, and Nexus Repository).
+- You must have [Nexus IQ and Nexus Repository]() added to your project.  For more information, contact your Project Admin.
+- You must have [*write access* to the projects]() created on the above-mentioned tools. To get the required access, contact your Project Admin.
+- You must have a basic understanding of the SHIP-HATS CI Tools (For example, Nexus IQ and Nexus Repository).
 
 For more information on prerequisites, refer to:  
 - [General Information on user roles and permissions](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/user-roles-permissions)
+<!--
 - [Bitbucket user roles and permissions](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/bitbucket-user-role)
 - [Bamboo user roles and permissions](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/bamboo-user-roles)
+-->
 
 ## Set up CI Pipeline
 
-### To set up a simple pipeline to check out and scan the sample application in SHIP-HATS:
+### To set up a simple pipeline to check out and scan the sample application in SHIP-HATS
 
+<span style="color:red"> What is the new CI pipeline procedure? </span>  
+
+1.
+1.
+1.
+1.
+
+<!--
 1. **Fork Repo to Bitbucket**  
 
     Bitbucket is a source code management tool. Source code for your application is hosted within a Bitbucket repository. A Bitbucket project contains one or more repositories.  
@@ -72,3 +82,5 @@ For more information on prerequisites, refer to:
     Click on the image or [link](https://youtu.be/0GAtczJpKwA) to access the video.
 
     >**Note:** As this is a sample pipeline, do reset user access and unlink the repository after completion of the tutorial.
+
+-->

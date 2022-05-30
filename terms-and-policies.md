@@ -1,11 +1,10 @@
-# SHIP-HATS Terms and Policies
+# Terms and Policies
 
 **Topics**
 - [Announcements](#announcements)
 - [Service Level Agreement](#service-level-agreement)
 - [Third Party Schedule](#third-party-schedule)
-- [Cleanup Policy](#cleanup-policy)
-- [Plugin Review Process]()
+- [Plugin Review Process](#plugin-review-process)
 
 ## Announcements
 
@@ -43,75 +42,6 @@ Agencies are requested **not** to override the default SHIP-HATS Bamboo Plan con
   
   Tenants are expected not to keep more than 10 last builds per plan. After successful build, the plan resources (eg, artifacts, build logs) expiry should keep as minimal as possible. Our default recommended expiry is after 3 days of build and release artifacts.
 
-<!--
-<details>
- <summary><b>What if I want to keep one or few of disabled plans for our future reference?</b></summary><br />
- We strongly recommend you to housekeep them at your local environment. However, you can still change the configuration at SHIP-HATS Bamboo system by updating the plan from disabled to enable state.
-</details>
-<br >
-<details>
- <summary><b>Will there be any notification send to agency what are all the disabled plans were terminated?</b></summary><br>
-No notification will be sent to the agency. Please work with your Project Admin and complete the required housekeeping actions.
-</details>
-<br >
-
-<details>
- <summary><b>Which resources will be removed by deleting the suspended or disabled plans?</b></summary><br>
-Deleting a plan completely removes the plan from SHIP-HATS Bamboo system. In addition, deleting a plan deletes the corresponding branch plans from Bamboo. Kindly review all your disabled or suspended plans and contact us if you have any concern before 10th Nov, 2021.  
-
-<br >
-<b>Note:</b> If your source code is configured in Bitbucket repo and branch, there will be no impact to these linked bitbucket repos. 
-
-
-</details>
-<br >
-
-<details>
- <summary><b>I have bamboo plans configured in SHIP-HATS. Can I delete or manage the plans by myself?</b></summary><br>
-Yes. Users with <b>Admin</b> permission to the project plans can delete or manage the plans. For further guidance, please work with the Project Admin for your requirement.
-</details>
-<br >
-
-<details>
- <summary><b>Do you have any recommended Bamboo Plan configurations for SHIP-HATS plans?</b></summary><br>
-Tenants are expected not to keep more than 10 last builds per plan. After successful build, the plan resources (eg, artifacts, build logs) expiry should keep as minimal as possible. Our default recommended expiry is after 3 days of build and release artifacts.
-</details>
-<br >
--->
-
-
-
-<!--
-<details>
- <summary> 25 Oct 2021</summary><br>
- 
- 
-In the view of improving our service capability and operation efficiency, SHIP-HATS will be performing phase-1 Bamboo plans clean-up activities by deleting suspended or disabled plans (older than a year ago). Additionally,  we will contact high usage tenants separately to assist them on Plan expiry configurations and housekeeping settings.
-
-We seek your help to housekeep the older plans at your end. On 10th Nov ‘21,  disabled plans older than 1 year will be deleted.  As we continually seek to improve our solutions, we encourage you to refer to the [Bamboo Plans - Housekeep best practices](https://confluence.ship.gov.sg/display/SHIP/Bamboo+clean+up+and+best+practices) – the confluence page documentation with more details.   
-
- 
-#### FAQs
-
-**1. What if I want to keep one or few of disabled plans for our future reference?**
-We strongly recommend you to housekeep them at your local environment. However you can still change the configuration at SHIP-HATS Bamboo system by updating the plan from disabled to enable state.
-
-**2. Will there be any notification send to agency what are all the disabled plans were terminated?**
-No notification will be sent to the agency. Please work with your project admin and do necessary housekeeping actions.
-
-**3.What are all the resources will be removed by deleting the suspended or disabled plans?**
-Deleting a plan completely removes from SHIP-HATS Bamboo system. FYI deleting a plan also delete its branch plans from Bamboo. [Note: If your source code(s) configured in Bitbucket repo and branch, no impact to these linked bitbucket repos]. Kindly review all your disabled / suspended plans and contact us if you have any concern before 10th Nov ‘21.
-
-**4. I have bamboo plans configured in SHIP-HATS; Am I able to delete or housekeep the plans by myself?**
-Yes. Users with “Admin” permission to the project plans; able to perform Delete Plan action. If not, please work with the Project admin for the requested.
-Do you have any recommended Bamboo Plan configurations for SHIP-HATS plans?
-Tenants are expected not to keep more than 10 last builds per plan. After successful build, the plan resources (eg, artifacts, build logs) expiry should keep as minimal as possible. Our default recommended expiry is after 3 days of build and release artifacts.
- 
-
-Agencies are reminded NOT to override the default SHIP-HATS Bamboo Plan configuration for any of your plans. Please contact us if you need any exemption or assist from us.  
- 
-  </details>
- -->
 <details>
  <summary> 24 Sep 2021 </summary><br>
  
@@ -230,75 +160,52 @@ Drop us a note if you require any clarifications on this matter.
   </details>
 
 ## Service Level Agreement
-This Service Level Agreement, henceforth also known as “SLA” is between Government
-Technology Agency (GovTech/Service Provider) and the client for all services and service
-levels in connection to SHIP-HATS, henceforth also known as “Service”.
+This Service Level Agreement (SLA) is between Government
+Technology Agency (GovTech/Service Provider) and the client for all services and service levels in connection to SHIP-HATS (henceforth also known as *Service*).
 
 During the period of the Subscription Term, GovTech will provide:
-1. System Availability of at least 98.0% availability per service/ application, inclusive of
-scheduled maintenance downtime.
-2. Technical support to resolve any errors in the Services, in accordance with the following
-error resolution schedule. Please see table below.
-3. Monthly maintenance and updates (including patches) will be notified 5 days in advance.
+- System Availability of at least 98.0% availability per service/ application, inclusive of scheduled maintenance downtime
+- 5 days advanced notification for Monthly maintenance and updates (including patches)
+- Technical support to resolve any errors in the Services in accordance with the following error resolution schedule. Please see table below:
 
-| Severity Level | Description | Resolution time |
-| :------------- | :---------- | :-------------- |
-| 1 | Critical incident that prevents use of all Services | 1 to 3 business days |
-| 2 | Incident that disables major functions of the Services. | 4 to 6 business days |
-| 3 | Incident that disables minor functions. |Subject to complexity of the error in the service |
+  | Severity Level* | Description | Resolution Time** |
+  | :------------- | :---------- | :-------------- |
+  | 1 | Critical incident that prevents use of all Services | 1 to 3 business days |
+  | 2 | Incident that disables major functions of the Services. | 4 to 6 business days |
+  | 3 | Incident that disables minor functions. |Subject to complexity of the error in the service |
 
-| Terms | Description |
-| :--- | :----------- |
-| Resolution Time | Time required to provide a permanent or temporary solution in respect of the relevant error and commences from the time GovTech is notified of the error. |
+  ***Classification of the severity levels** is subject to GovTech&#39;s reasonable discretion. Technical support hours are Mondays to Fridays 9.00 am to 5.30 pm except public holidays. If the solution is temporary, GovTech will continue to work on the issue until a permanent solution is found.
 
-Classification of the severity levels is subject to GovTech&#39;s reasonable discretion. Technical
-support hours are Mondays to Fridays 9.00 am to 5.30 pm except public holidays. If the solution
-is temporary, GovTech will continue to work on the issue until a permanent solution is found.
+  ****Resolution Time:** Indicates the time required to provide a permanent or temporary solution with respect to the relevant error and commences from the time GovTech is notified of the error. 
+
 
 ## Third Party Schedule 
 
 All applicable terms and conditions relating to the following: 
-1. Atlassian Service / Data Center Products - https://www.atlassian.com/legal/privacy-policy/product-family 
-2. OpenVPN - https://openvpn.net/terms  & https://openvpn.net/license 
+- **Atlassian Service / Data Center Products:** https://www.atlassian.com/legal/privacy-policy/product-family 
+- **OpenVPN:** https://openvpn.net/terms  & https://openvpn.net/license 
 
-## Cleanup Policy
+<Span style="color:red">OpenVPN is going away. Do we have any other schedule links to mention here?</span>
 
-This section provides an overview about SHIP-HATS cleanup policy for your Nexus Repositories and recommendations that you can follow to improve performance and maintenance.
+## Plugin Review Process
 
-### Audience
+>**Important:** The information provided in this document is for reference only. To request for a plugin review, you must [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11). The information contained herein is subject to change and the plugins can be rejected at the discretion of SHIP-HATS team.  
 
-SHIP-HATS users.
+### Minimum requirement for a plugin request
 
-### Why do we need a cleanup policy?
+Following are the minimum requirements for a plugin request:
+- Data center approved
+- Cloud Supported
+- Atlassian endorsed as Trusted Partners
+  - Cloud Fortified
+  - Cloud Security Participant
+- Plugin Ratings:
+  - Stars > 3
+  - Votes > 50
+- Vendor Supported
 
-A cleanup policy helps to purge unnecessary components to optimise disk space supporting better performance. SHIP-HATS leverages upon [Sonatype's Cleanup feature](https://help.sonatype.com/repomanager3/repository-management/cleanup-policies) to manage components at repository level.
+### Plugin Review Process
 
-### SHIP-HATS cleanup policy
+Following diagram shows the plugin review process:
 
-Our default cleanup policy is configured to automatically delete a component from your nexus repository after 180 days from the date of its creation. Our cleanup policy is at repository level and not at subscription/billing account level.
-
-This policy is applied to your repositories from October 11 2021, and the task is scheduled to run daily at 01.00 AM.
-
-We highly recommend you to periodically review your repositories and to housekeep them from your end.
-
-### FAQs
-
-- **Will there be any customer impact when the cleanup task is running?**
-
-   No, there will be no customer impact.
-
-- **What should I do if I wish to retain some of my artifacts of a repository beyond 180 days?**
-
-   Raise a service request to SHIP-HATS with your requirements.
-
-- **Can I have my own cleanup policy?**
-
-   Yes. Raise a service request to SHIP-HATS with your requirements.
-
-- **How to check which of our repositories are using the maximum space?**
-
-   Contact your repo administrator to get this information.
-
-- **Will there be any communications sent to agencies for the cleanups?**
-
-   There was an initial communication sent to our tenants on September 24, 2021 about SHIP-HATS cleanup policy. As this is a recurring task scheduled every day at   01:00 AM, there will be no ongoing communications.
+![Plugin Review Process](plugin-review-process.png)

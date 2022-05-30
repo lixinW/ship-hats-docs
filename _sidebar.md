@@ -13,7 +13,6 @@
 **Tools Guide**
   - [Head over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)  
 **Training**
-  - [Getting Started]()
   - [Training](training)
   - [Webinars]()
   - [Workshops]()

@@ -11,7 +11,9 @@
 - [CI Pipeline](ci-pipeline)  
 - [CD Pipeline](cd-pipeline) 
 **Tools Guide**
-  - [Head over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)    
+  - [Head over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)  
+**Training**
+-     
 **Additional Resources**
   - [Terms & Policies](terms-and-policies)
   - [Training](training)

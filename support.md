@@ -4,7 +4,7 @@
 
 - [Create a Service Request](https://jira.ship.gov.sg/servicedesk/customer/portal/11)
 
-## Maintenance Timing
+## Maintenance Schedule
 
 
 | Tool | Frequency/Timing | Impact to activity during this timing |

@@ -22,6 +22,10 @@ For more information on prerequisites, refer to:
 
 ### To set up a simple pipeline to check out and scan the sample application in SHIP-HATS
 
+>Important: Review [Maintenance Schedule](support)
+
+Covered by GitLab
+
 <span style="color:red"> What is the new CI pipeline procedure? </span>  
 
 1.

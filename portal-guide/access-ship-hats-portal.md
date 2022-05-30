@@ -12,8 +12,8 @@
 
 ## Prerequisites
 
-- Before you start, you must have been [invited and onboarded to SHIP-HATS]().
-- After you have successfully onboarded, make sure that you have setup <span style="color:red">your OpenVPN connection</span>.
+- Before you start, you must have been [invited and onboarded to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/getting-started?id=quick-start-guide) by SHIP-HATS.
+- Make sure that you have setup <span style="color:red">your OpenVPN connection</span>.
 
 <span style="color:red">Will there be any prerequisites?
 someone has to provide access, right permissions, etc.
@@ -32,14 +32,15 @@ set up and connect to openvpn?</span>.
 
     <kbd>![log-in](log-in.png ':size=100%')</kbd>
 
-3. Enter your **Username**, **Password**, and then click **Log In**.
+3. Enter your **Username**, **Password**, and then click **Login**.
     - If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
     - If you are a regular user, the **Profile** page appears. For more details, refer to the [View user profile](#view-user-profile) section.
 
-    <kbd>![dashboard]()</kbd>
+    <kbd>![dashboard](dashboard.png)</kbd>
 
+<!--
 <span style="color:red">explain the page and left nav briefly.</span>
-
+-->
 
 ### **Log in via TechPass**
 
@@ -52,20 +53,20 @@ set up and connect to openvpn?</span>.
 
 3. Enter your **Enter your TechPass details**, and then click **Next**.
 
-    <kbd>![log-in](tp2.png ':size=100%')</kbd>
+    <kbd>![log-in](tp-sign-in.png ':size=100%')</kbd>
 
     You will be redirected to the GCC log-in page. 
 1. Enter your TechPass email address along with the verification code from the Authenticator app and click sign in. 
 
-    <kbd>![log-in](tpgcc1.png ':size=100%')</kbd>
+    <kbd>![log-in](tp-gcc-log-in.png ':size=100%')</kbd>
 
 5. Read through the **TechPass** Terms of Use, and then click **Accept**.
 
-    <kbd>![log-in](tptou.png ':size=100%')</kbd>
+    <kbd>![log-in](tp-terms-of-use.png ':size=100%')</kbd>
 
 6. Read through the **TechPass MDM** Terms of Use, and then click **Accept**.
 
-    <kbd>![log-in](techpassmdm.png ':size=100%')</kbd>
+    <kbd>![log-in](tp-mdm-terms-of-use.png ':size=100%')</kbd>
 
 You have successfully linked your TechPass to SHIP-HATS. You can directly log in using TechPass for future access.  
 <span style="color:red">Is there any step missing here?</span> 
@@ -80,10 +81,10 @@ The **Overview** page of the subscription account gives the dashboard view of 
 
 - Subscription tier for the Billing Account. By default, you view the subscription details of the first account to which you were added as SA or PA. You can [switch account](), as needed.
 - [Plan details](#view-plan-details)
-- Count of projects hosted on this account
-- Count of users added to this account
-- Projects using shared Bamboo agents and their usage quota. 
-- Announcements about SHIP-HATS services, maintenance notice, generic subscription updates, and any urgent or important messages.
+- Number of projects hosted on this account
+- Number of users added to this account
+- Projects using shared Bamboo agents and their usage quota 
+- Announcements about SHIP-HATS services, maintenance notice, generic subscription updates, and any urgent or important messages
     <kbd>![Portal Announcements](portal-announcements.png ':size=60%')
 
 >**Note:** The term **Overview** and **Dashboard view** may be used interchangeably.
@@ -92,14 +93,14 @@ The **Overview** page of the subscription account gives the dashboard view of 
 
 ## View User Profile
 
-As a user (other than SA or PA), when you [log in](#log-in) to the [SHIP-HATS portal](https://www.ship.gov.sg/), you can:
-- View your **Profile** page that includes information on your subscription, such as number of fortify and sonarqube applications tied to the subscription
+As a user (other than SA or PA), when you [log in](#log-in) to the [SHIP-HATS portal](https://www.ship.gov.sg/), you can complete the following actions:
+- View your **Profile** page that includes information on your subscription, such as number of fortify and sonarqube applications tied to the subscription.
 
-    <kbd>![profile-of-other-users](info.png ':size=100%')</kbd>
-- Click on the applications to view tokens and the expiry date. You can also download the information as CSV
+    <kbd>![view-profile-other-users.png](info.png ':size=100%')</kbd>
+- Click the applications to view tokens and the expiry date. You can also download the information as CSV.
 
-    <kbd>![token info](fa.png ':size=100%')</kbd>
-- View the user groups you belong to
+    <kbd>![token info](view-users-token.png ':size=100%')</kbd>
+- View the user groups to which you belong.
 
     <kbd>![user group](profile-2.png ':size=100%')</kbd>
 

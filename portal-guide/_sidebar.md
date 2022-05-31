@@ -17,7 +17,6 @@
   - [Manage Applications](manage-applications)
 **DGP Systems**
   - [Declare DGP Systems](declare-dgp-systems)  
-
 - **Additional Resources**
   - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 
   - [Head Over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) 

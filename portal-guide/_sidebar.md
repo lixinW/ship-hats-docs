@@ -1,6 +1,7 @@
 **SHIP-HATS Portal Guide**
   - [Overview](ship-hats-portal-overview)
   - [Prerequisites](onboarding-prerequisites)
+  - [User Roles and Permissions](user-roles-and-permissions)
   - [Configure Portal](configure-portal)
   - [Access](access-ship-hats-portal)
   - [Accounts](manage-account)

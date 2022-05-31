@@ -78,7 +78,7 @@ For information on specific versions of Tools in SHIP-HATS, refer to the [Tools]
 | **Fortify WebInspect** | Dynamic Application Security Testing (DAST) tool that identifies vulnerabilities in web applications and APIs while they are running in production. | [Overview & Free Trial](https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview) |  
 |**Fortify SCA** | Static Application Security Testing (SAST) tool that identifies security vulnerabilities in software source code. Developers find and fix security defects in real-time during the coding process, with integrations to IDEs. | [Overview](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview) |  
 
-
+<!--
 ## User Roles and Permissions
 
 [SHIP-HATS](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/overview.html) tenants are managed through subscriptions. Following roles and permissions are available to agencies and vendors within the SHIP-HATS web portal:
@@ -107,6 +107,8 @@ For information on specific versions of Tools in SHIP-HATS, refer to the [Tools]
 ### Tools Permissions  
 
 For user roles and permissions related to tools, refer to the Users and Permissions section in the [SHIP-HATS Tools guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview). 
+-->
+
 <!--
 - [Bitbucket User Roles and Permission](bitbucket-user-role)
 - [Bamboo User Roles and Permission](bamboo-user-roles)

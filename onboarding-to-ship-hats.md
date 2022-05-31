@@ -8,12 +8,12 @@
 
 - Make sure that you have the required [Subscription](subscription).
 - A session is active for 20 minutes. Therefore, we recommend having the following details before clicking the onboarding link that you receive in your email: 
-    |Information|Particulars Required|
-    |---|---|
-    |Details of the [Primary and Secondary Subscription Admins](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/user-roles-permissions?id=sa-permissions)|Name<br>Email<br>Mobile Number<br><br>For more information, refer to [User Roles and Permissions](user-roles-permissions).| 
-    |Details of the Billing contact|Name<br>Email<br>Contact Number<br>Address<br> Sub Business Unit code details<br><br>**Note:** Sub Business Unit (SUB BU) is not your Department code. Please work with your finance team for the SUB BU code.|
-    |Approval of the subscription by a MIC (Manager In-Charge).|The approver of the subscription has to be Deputy Director and above for signatory.|
-    |Approver Details|Name<br>Email<br>Designation| 
+    |Information|Particulars Required|Notes|
+    |---|---|---|
+    |Details of the [Primary and Secondary Subscription Admins](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/user-roles-permissions?id=sa-permissions)|Name<br>Email<br>Mobile Number|For more information, refer to [User Roles and Permissions](user-roles-permissions).|
+    |Details of the Billing contact|Name<br>Email<br>Contact Number<br>Address<br> Sub Business Unit code details|Sub Business Unit (SUB BU) is not your Department code. Please work with your finance team for the SUB BU code.|
+    |Approval of the subscription by a MIC (Manager In-Charge).|The approver of the subscription has to be Deputy Director and above for signatory.|None|
+    |Approver Details|Name<br>Email<br>Designation|None| 
 - The onboarding link only lasts for 14 days. If you require an extension, send an email to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg).
 
 ## Onboarding 
@@ -25,7 +25,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 |Step|Task|Owner|
 |---|---|---|
-|1|[Review the Subscription information](subscription)|Agency|
+|1|[Review the Subscription information](subscription).|Agency|
 |2|Use your `gov.sg` email to send a request to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg) with the email address of your Primary Subscription Admin (SA).|Agency|
 |3|Send onboarding link to the SA via email.|SHIP-HATS|
 |4|Open the invitation link on an Internet device, enter the fields, and then submit the onboarding form.|Agency|
@@ -33,14 +33,14 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |6|Reply `Approved` after receiving the email.|Agency Approver|
 |7|SHIP-HATS Team provisions account for the Primary and Secondary SA.|SHIP-HATS |
 |8|SAs receive an email indicating that their account is provisioned.|SHIP-HATS |
-|9|[Onboard to SEED]()|<span style="color:red">?</span>|
-|10|[Onboard to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines)|<span style="color:red">?</span>|
-|10|[Log in to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|
+|9|[Onboard to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines).|<span style="color:red">?</span>|
+|10|[Onboard to SEED]().|<span style="color:red">?</span>|
+|11|[Log in to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|
 
 
 
 
-## What's Next
+## What's Next/Related Topics
 - [Complete the set up in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/configure-portal)
 - [Invite Users via the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users) 
 

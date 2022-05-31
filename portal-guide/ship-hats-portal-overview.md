@@ -1,11 +1,12 @@
 # SHIP-HATS Portal Overview
 
-Add conceptual information and features of the portal. 
+<span style="color:red">
+Add conceptual information and features of the portal. </span>
 
 
 Using the SHIP-HATS portal, you can:
 
-> **Important:** Make sure that you have onboarded to **[TechPass, SEED, and DEEP](onboarding-prerequisites)**.
+> **Important:** Make sure that you have onboarded to **[TechPass and SEED](onboarding-prerequisites)**.
     
 - [Manage Account](manage-account)
 - [Manage Projects](manage-projects)

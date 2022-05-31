@@ -4,7 +4,7 @@
   - [Subscription](subscription)
   - [Roadmap](roadmap)
 **Onboarding to SHIP-HATS**  
-  - [Onboarding](getting-started) 
+  - [Onboarding](onboarding-to-ship-hats) 
 **Portal Guide**
   - [Head over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)  
 **CI/CD Pipeline**

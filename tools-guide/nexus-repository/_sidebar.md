@@ -1,0 +1,14 @@
+- **Nexus Repo**
+  - [Overview](nexus-repository/overview)
+  - [Nexus Proxy Repositories](nexus-repository/repository)
+  - [Roles and Permissions](nexus-repository/roles-and-permissions)
+  - [Create](nexus-repository/configure)
+  - [Access](nexus-repository/access)
+  - [Remove](nexus-repository/remove)
+  - [Cleanup Policy](nexus-repository/clean-up-policy)
+  - [FAQs](nexus-repository/faqs)  
+  - [Additional Resources](nexus-repository/additional-resources)
+- **Additional Resources**
+  - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
+  - [Head Over to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
+  - [Head Over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)

@@ -1,4 +1,4 @@
-# Getting Started
+# Onboarding to SHIP-HATS
 <!--
 **Topics**
 - [Prerequisites](#prerequisites)
@@ -16,7 +16,7 @@
     |Approver Details|Name<br>Email<br>Designation| 
 - The onboarding link only lasts for 14 days. If you require an extension, send an email to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg).
 
-## Quick Start Guide 
+## Onboarding 
 
 The following table outlines the steps that you must complete to get started with SHIP-HATS. After you have completed these steps, you will need to perform additional steps to configure the tools that you want to use.  
 
@@ -25,14 +25,17 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 |Step|Task|Owner|
 |---|---|---|
-|1|Use your `gov.sg` email to send a request to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg) with the email address of your Primary Subscription Admin (SA).|Agency|
-|2|Send onboarding link to the SA via email.|SHIP-HATS|
-|3|Open the invitation link on an Internet device, enter the fields, and then submit the onboarding form.|Agency|
-|4|Verify the information and send an email with the Memorandum of Understanding (MoU) to the approver nominated in the onboarding form.|SHIP-HATS|
-|5|Reply `Approved` after receiving the email.|Agency Approver|
-|6|SHIP-HATS Team provisions account for the Primary and Secondary SA.|SHIP-HATS |
-|7|SAs receive an email indicating that their account is provisioned.|SHIP-HATS |
-|8|[Log in to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|
+|1|[Review the Subscription information](subscription)|Agency|
+|2|Use your `gov.sg` email to send a request to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg) with the email address of your Primary Subscription Admin (SA).|Agency|
+|3|Send onboarding link to the SA via email.|SHIP-HATS|
+|4|Open the invitation link on an Internet device, enter the fields, and then submit the onboarding form.|Agency|
+|5|Verify the information and send an email with the Memorandum of Understanding (MoU) to the approver nominated in the onboarding form.|SHIP-HATS|
+|6|Reply `Approved` after receiving the email.|Agency Approver|
+|7|SHIP-HATS Team provisions account for the Primary and Secondary SA.|SHIP-HATS |
+|8|SAs receive an email indicating that their account is provisioned.|SHIP-HATS |
+|9|[Onboard to SEED]()|<span style="color:red">?</span>|
+|10|[Onboard to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines)|<span style="color:red">?</span>|
+|10|[Log in to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|
 
 
 

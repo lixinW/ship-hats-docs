@@ -4,13 +4,10 @@ This section describes the following:
 
 - [View users](#view-users)
 - [Generate a User Report](#generate-a-user-report)
-- [Remove users](#remove-users) 
 - [Manage Access](#manage-access)
-- [Change SA](#change-sa)
-- [Change PA](#change-pa)
-- [Reactivate users](#reactivate-users)
 - [Update user profile](#update-user-profile)
-
+- [Reactivate users](#reactivate-users)
+- [Remove users](#remove-users) 
 
 
 ## [View users](#view-users)
@@ -109,85 +106,23 @@ You can generate a report to view all details for the active and removed users.
    >- A PA or SA user will be able to update their own access.
    >- You will not be able to proceed if both the options are cleared.
 
+## [Update user profile](#update-user-profile)
+When users other than SA or PA log in to [SHIP-HATS portal](https://www.ship.gov.sg/), they are directed to their profile page. 
 
-## [Remove users](#remove-users)
+### To edit user profile:
+1. Go to the [TechPass Portal](https://portal.techpass.gov.sg/secure/account/profile).
 
-We recommend Subscription Admin (SA) and Project Admin (PA) to periodically review the named users in their account, consumed user quota and remove users who are no longer required.
+1. Click **edit profile**.
 
->**Note:** SA and PA can remove a user who does not have the Project Admin or Subscription Admin roles in the subscription account.
+    <kbd>![edit-profile-normal-users-](editprofilegsib.png ':size=75%')</kbd>
 
-### To remove a user:
+2. Modify the details as needed, and then click **Save**. 
 
->**Notes:**
->- You can remove a user that is added to the billing subscription (quota consumed) only.
->- You can remove a user from a subscription if the user is not consuming quota from the current subscription (labeled as **free user**). However, you cannot remove a user consuming quota from current subscription if the user is also included in another subscription.
->- You cannot remove a user from a billing subscription (quota consumed) if the user is also added to another subscription (quota not consumed and labeled as **free user**). 
+    <kbd>![save-normal-user-profile-updates](editprofilegsib2.png ':size=75%')</kbd>
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
-Make sure that you are in the required account. If needed, refer to [Switch account](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).
-1. From the side menu, click **Users > All Users**.
-1. Search for the user to be removed and from the **Action** column, click ![3_dot](3_dot.png) corresponding to the user.
-   >**Tip:** Refer to [View users](#view-users) to know how to search for users and to sort by **Quota Consumed**.
-
-   <kbd>![remove_user](remove-users-2.png ':size=100%')</kbd>
-
-1. Choose **Remove User**.
+Alternatively, hover over your profile icon at the upper-right corner. To view and update user profile, click **View Profile**.
 
 
-## [Change SA](#change-sa)
-
-To change or transfer the existing SA role to another user, one of the SAs can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/364) with the required details, such as the name and email address of the user to whom the SA role is to be transferred.
-
-
-## [Change PA](#change-pa)
-To change or transfer the existing PA role to another user, one of the SAs can add or remove PA on the [SHIP-HATS Portal](http://www.ship.gov.sg).
-
-### To view existing PAs:
-1. Log in to [SHIP-HATS Portal](http://www.ship.gov.sg).
-1. Click **Users > All users**.
-1. Click **Project Role**.
-
-   <kbd>![view user role](pa2.png ':size=100%')</kbd>
-
-1. Name of users will be displayed based on the project role.
-
-### To add PAs:
-1. Log in to [SHIP-HATS Portal](http://www.ship.gov.sg).
-1. Click **Overview** > **Project**. 
-
-   <kbd>![overview page](overviewpage1.png ':size=100%')</kbd>
-1. Click the **pencil** icon.
-
-   <kbd>![pa](pa1.png ':size=60%')</kbd>
-
-1. Click **+ Add another**. The number of PAs each project is entitled to is based on the [subscription tier](http://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/subscription) quota the agency has subscribed to. 
-
-   <kbd>![add pa](addpacopy.png ':size=60%')</kbd>
-
-1. Choose the designated PA from the drop-down selection and click **Add**. 
-
-   <kbd>![add pa](add-ppl.png ':size=60%')</kbd>
-
-You have successfully added a PA.
-
-### To remove PAs:
-1. Log in to [SHIP-HATS Portal](http://www.ship.gov.sg).
-1. Click **Overview** > **Project**.
-
-   <kbd>![overview page](overviewpage1.png ':size=100%')</kbd>
-1. Click the **pencil** icon.
-
-   <kbd>![pa](pa1.png ':size=60%')</kbd>
-
-1. Hover over to the name you would like to remove, and then click **Remove**.
-
-   <kbd>![remove](remove-users.png ':size=60%')</kbd>
-
-1. When prompted, click **Yes**.
-
-   <kbd>![remove confirmation](usure.png ':size=60%')</kbd>
-
-   You have successfully removed the user as a PA.
 
 ## [Reactivate users](#reactivate-users)
 
@@ -221,21 +156,31 @@ If you are **not a TechPass user**, the SA or PA can complete the following step
    >- After a user has been reactivated, an email notification about this reactivation is sent to the requestor and the SAs.
 
 
-## [Update user profile](#update-user-profile)
-When users other than SA or PA log in to [SHIP-HATS portal](https://www.ship.gov.sg/), they are directed to their profile page. 
 
-### To edit user profile:
-1. Go to the [TechPass Portal](https://portal.techpass.gov.sg/secure/account/profile).
 
-1. Click **edit profile**.
+## [Remove users](#remove-users)
 
-    <kbd>![edit-profile-normal-users-](editprofilegsib.png ':size=75%')</kbd>
+We recommend Subscription Admin (SA) and Project Admin (PA) to periodically review the named users in their account, consumed user quota and remove users who are no longer required.
 
-2. Modify the details as needed, and then click **Save**. 
+>**Note:** SA and PA can remove a user who does not have the Project Admin or Subscription Admin roles in the subscription account.
 
-    <kbd>![save-normal-user-profile-updates](editprofilegsib2.png ':size=75%')</kbd>
+### To remove a user:
 
-Alternatively, hover over your profile icon at the upper-right corner. To view and update user profile, click **View Profile**.
+>**Notes:**
+>- You can remove a user that is added to the billing subscription (quota consumed) only.
+>- You can remove a user from a subscription if the user is not consuming quota from the current subscription (labeled as **free user**). However, you cannot remove a user consuming quota from current subscription if the user is also included in another subscription.
+>- You cannot remove a user from a billing subscription (quota consumed) if the user is also added to another subscription (quota not consumed and labeled as **free user**). 
+
+1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
+Make sure that you are in the required account. If needed, refer to [Switch account](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).
+1. From the side menu, click **Users > All Users**.
+1. Search for the user to be removed and from the **Action** column, click ![3_dot](3_dot.png) corresponding to the user.
+   >**Tip:** Refer to [View users](#view-users) to know how to search for users and to sort by **Quota Consumed**.
+
+   <kbd>![remove_user](remove-users-2.png ':size=100%')</kbd>
+
+1. Choose **Remove User**.
+
 
 ## What's Next
 

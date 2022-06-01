@@ -6,6 +6,7 @@
   - [Access Portal](access-ship-hats-portal)
 **Accounts**  
   - [Manage Accounts](manage-account)
+  - [Change SA/PA](change-sa-pa)
 **Users**
   - [Onboard Users](onboarding-users)
   - [Manage Users](manage-users)

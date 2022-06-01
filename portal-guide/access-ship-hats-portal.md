@@ -1,5 +1,6 @@
 # Access SHIP-HATS Portal
 
+<!--
 **Topics**
 - [Prerequisites](#prerequisites)
 - [Log In](#log-in)
@@ -7,7 +8,7 @@
 - [View Dashboard](#view-dashboard)
 - [View User Profile](#view-user-profile)
 - [Log Out](#log-out)
-
+-->
 
 
 ## Prerequisites

@@ -12,11 +12,11 @@ Make sure that you have set up the following accounts:
 If you have migrated from SHIP-HATS 1.0, you must use onboard to TechPass, SEED, and DEEP. OpenVPN will be deprecated <span style="color:red">what is the timeline?</span>.
 
 
-## Onboarding
+## Configure Portal
 The following section outlines the steps to configure the SHIP-HATS portal.
 
-|Task|Owner|
-|---|---|
+|Task|Owner|Notes|
+|---|---|---|
 |[Log in to the SHIP-HATS portal](access-ship-hats-portal).|Subscription Admin (SA)|
 |[Create a Project]()|SA or Project Admin (PA)|
 |[Add a Project Admin]()|SA|  

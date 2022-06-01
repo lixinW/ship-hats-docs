@@ -9,6 +9,7 @@
 **Users**
   - [Onboard Users](onboarding-users)
   - [Manage Users](manage-users)
+  - [Password and Username](password-and-username)
 **Projects**
   - [Manage Projects](manage-projects)
   - [Manage Project Admins](manage-project-admins)

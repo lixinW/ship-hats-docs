@@ -1,11 +1,12 @@
 # Manage Tools
 This section explains how a Subscription Admin creates SHIP-HATS projects and how Project Admin manages these projects by adding the required users and tools.
 
+<!--
 - [Add project tools](#add-project-tools)
 - [Create Project tool with customised project key](#creation-of-project-tool-with-customised-project-key)
 - [Manage users within a Project Tool](#manage-users-within-a-project-tool)
 - [Remove project tools](#remove-project-tools)
-
+-->
 
 ## [Add project tools](#add-project-tools)
 

@@ -1,14 +1,14 @@
 # Manage Users
 This section describes the following:
 
-
+<!--
 - [View users](#view-users)
 - [Generate a User Report](#generate-a-user-report)
 - [Manage Access](#manage-access)
 - [Update user profile](#update-user-profile)
 - [Reactivate users](#reactivate-users)
 - [Remove users](#remove-users) 
-
+-->
 
 ## [View users](#view-users)
 

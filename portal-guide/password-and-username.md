@@ -2,10 +2,12 @@
 
 As a SHIP-HATS a Subscription Admin (SA) or a Project Admin(PA), you can manage your account and complete the following tasks.
 
-
+<!--
 - [Change password](#change-password)
 - [Retrieve username](#retrieve-username)
 - [Reset password](#reset-password)
+-->
+
 
 ## [Change password](#change-password)
 As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at least once every 12 months. Users can change the password using the SHIP-HATS portal.

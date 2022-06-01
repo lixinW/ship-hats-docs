@@ -1,10 +1,10 @@
 # Change SA or PA
 This section describes the following:
 
-
+<!--
 - [Change SA](#change-sa)
 - [Change PA](#change-pa)
-
+-->
 
 ## [Change SA](#change-sa)
 

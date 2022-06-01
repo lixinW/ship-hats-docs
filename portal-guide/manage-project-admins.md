@@ -45,5 +45,3 @@ Subscription Admin can remove a project as long as no tool has been added to it.
     <kbd>![remove-project](remove-project.png ':size=100%')</kbd>
 
 3. Click the three dots and then choose **Remove project**.
-
-

@@ -40,25 +40,6 @@ SA and PA can update their profile from the [**Overview**](#view-dashboard) pa
 
     <kbd>![edit-profile-details-blurred](edit-profile-details-blurred.png ':size=75%')</kbd>
 
-## [Update user profile](#update-user-profile)
-When users other than SA or PA log in to [SHIP-HATS portal](https://www.ship.gov.sg/), they are directed to their profile page. 
-
-### To edit user profile page:
-1. Go to the [TechPass Portal](https://portal.techpass.gov.sg/secure/account/profile).
-
-1. Click **edit profile**.
-
-    <kbd>![edit-profile-normal-users-](editprofilegsib.png ':size=75%')</kbd>
-
-2. Edit the details as needed and click **Save**. 
-
-    <kbd>![save-normal-user-profile-updates](editprofilegsib2.png ':size=75%')</kbd>
-
-Alternatively, hover over your profile icon at the upper-right corner. To view and update user profile, click **View Profile**.
-
-<!--<kbd>![edit-profile-normal-users-alternate-way](edit-profile-normal-users-alternate-way.png)</kbd-->
-
-
 
 ## [Change password](#change-password)
 As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at least once every 12 months. Users can change the password using the SHIP-HATS portal.

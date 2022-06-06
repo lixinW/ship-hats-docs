@@ -90,20 +90,20 @@ The **Overview** page of the subscription account gives the dashboard view of 
 
 >**Note:** The term **Overview** and **Dashboard view** may be used interchangeably.
 
-<kbd>![overview](ship-update.png ':size=100%')</kbd>
+<kbd>![overview](ship-update.png ':size=60%')</kbd>
 
 ## View User Profile
 
 As a user (other than SA or PA), when you [log in](#log-in) to the [SHIP-HATS portal](https://www.ship.gov.sg/), you can complete the following actions:
 - View your **Profile** page that includes information on your subscription, such as number of fortify and sonarqube applications tied to the subscription.
 
-    <kbd>![view-profile-other-users.png](plan-details.png ':size=100%')</kbd>
+    <kbd>![Plan Details](plan-details.png ':size=100%')</kbd>
 - Click the applications to view tokens and the expiry date. You can also download the information as CSV.
 
-    <kbd>![token info](view-users-token.png ':size=100%')</kbd>
+    <kbd>![Token Info](view-users-token.png ':size=100%')</kbd>
 - View the user groups to which you belong.
 
-    <kbd>![user group](user-group-profile.png ':size=100%')</kbd>
+    <kbd>![User Group](user-group-profile.png ':size=100%')</kbd>
 
 
 ## Log Out 
@@ -112,15 +112,15 @@ When you are done with your activities on the portal, you can log out as shown b
 ### To log out from the SHIP-HATS portal
 - Hover over your profile icon, and then click **Log out**.
     
-    <kbd>![log-out](log-out.png ':size=100%')</kbd>
+    <kbd>![Log Out](log-out.png ':size=100%')</kbd>
 
 - If you are inactive for five minutes on the portal, the system prompts you with the following message. Click **Yes, Keep me signed in** to continue your session.
 
-    <kbd>![idle-time-prompt-after-5-mins](idle-time-prompt-after-5-mins.png ':size=100%')</kbd>
+    <kbd>![Idle Time Prompt After 5 Mins](idle-time-prompt-after-5-mins.png ':size=100%')</kbd>
 
 - If you are inactive for 10 minutes on the portal, the system prompts you with the following message:
 
-    <kbd>![session-timed-out](session-timed-out.png ':size=100%')</kbd>
+    <kbd>![Session Timed Out](session-timed-out.png ':size=100%')</kbd>
 
 **Related Topics**
   - [Manage Account](manage-account)

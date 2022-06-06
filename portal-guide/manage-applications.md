@@ -1,5 +1,21 @@
 # Manage Applications
-This section explains how a Subscription Admin creates SHIP-HATS projects and how Project Admin manages these projects by adding the required users and tools.
+
+**Topics**
+- [Add applications to a project tool](#add-applications-to-a-project-tool)
+- [Retrieve token](#retrieve-token)
+- [Remove applications from a project tool](#remove-applications-from-a-project-tool)
+
 
 ## Add applications to a project tool
 
+### To add an application to a project tool
+
+## Retrieve token 
+
+### To retrive token
+
+## Remove applications from a project tool
+
+### to remove an app
+
+## 

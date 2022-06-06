@@ -28,8 +28,7 @@ The following section outlines the steps to configure the SHIP-HATS portal.
 ||[Create Account as a Public Officer or a Vendor](onboarding-users)|Public Officer or Vendor|
 ||[Approve a New User](onboarding-users)|SA|
 ||[Create a Project](manage-projects)|SA|
-||[Add a Project Admin](manage-admins/#add-project-admins)|SA|  
-||[Add](manage-admins)|SA|  
+||[Add a Project Admin](manage-admins)|SA|  
 ||[Add a Project Tool](manage-tools)|SA or Project Admin (PA)|
 ||[Add User to a Project]()|SA or PA|
 ||[Add an Application to a Project Tool](manage-applications)|PA|

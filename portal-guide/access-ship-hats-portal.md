@@ -90,7 +90,7 @@ The **Overview** page of the subscription account gives the dashboard view of 
 
 >**Note:** The term **Overview** and **Dashboard view** may be used interchangeably.
 
-<kbd>![overview](ship-update.png ':size=60%')</kbd>
+<kbd>![Overview](ship-update.png ':size=60%')</kbd>
 
 ## View User Profile
 

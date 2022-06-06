@@ -1,12 +1,12 @@
 # Onboarding Users
 
 
-<!--
+
 This section describes the following:
 - [Invite users](#invite-users)
-- [Create Account](#create-account)
+- [Create account](#create-account)
 - [Approve new users](#approve-new-users)
--->
+
 
 
 ## [Invite users](#invite-users)
@@ -25,10 +25,15 @@ By default, a new invitation link has a 14 days expiry date.  Whenever you invit
 1. Click **Email me** to send this link with the expiry date to your SHIP-HATS registered email address and forward it to the intended users so that they can provide required information in the **Invitation Form**.  
 Alternatively, click the copy icon to copy and share the invite link with intended users. Note, in this case, make sure to inform the users about the expiry date of this link.
 
-## [Create Account](#create-account)
+## [Create account](#create-account)
 You will receive an invitation email with a link to onboard to SHIP-HATS portal upon successful approval. 
 
 Access the link via the onboarding email and perform the following steps based on the account that you want to create. 
+
+<!-- tabs:start -->
+
+
+### **Public Officer**
 
 ### To create an account for a Public Officer
 
@@ -44,7 +49,9 @@ Access the link via the onboarding email and perform the following steps based o
 
    <kbd>![Create Account](create-account.png ':size=100%')</kbd>
 
-### To create an account for a Vendor:
+### **Vendor**
+
+### To create an account for a Vendor
 
 1. In the Invitation form, select the role as **Vendor**.  
 
@@ -62,11 +69,13 @@ Access the link via the onboarding email and perform the following steps based o
    
    <kbd>![Create Account](create-vendor-account.png ':size=100%')</kbd>
 
+<!-- tabs:end -->
+
 
 ## [Approve new users](#approve-new-users)
 After a user submits the completed SHIP-HATS **Invitation Form**, Subscription Admin (SA) and Project Admin (PA) will be notified by an email to approve the user registration.
 
-### To approve new user registration:
+### To approve new user registration
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switching account](manage-account).
 
@@ -99,8 +108,5 @@ This user is now approved as SHIP-HATS user under this account.
 
    >**Note:** Irrespective of agencies, individuals approved as SHIP-HATS users can be added to any SHIP-HATS project and will be billed under the account that initially approved them.  
 
-## What's Next
-- 
-
-## Related Topics
+## What's Next/Related Topics
 - [Manage Users](manage-users)

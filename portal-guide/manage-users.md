@@ -20,8 +20,8 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
    Make sure that you are in the required account. If needed, refer to [Switching account](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).
 
 1. From the side menu, click **Users > All Users**.  
-   A list of users appears, along with following details:
-   Column|Description
+   A list of users appears, along with following details:  
+   |Column|Description|
    |---|---|
    **Name**|Indicates the name of the user. <br>If *First Name* and *Last Name* were not provided when creating a new user account, only email address will appear in this column.<br>If a user is a Subscription Admin, it is indicated by the label **Subscr Admin** beside the username.
    **Project Role**|Indicates whether a user is a Project Admin.

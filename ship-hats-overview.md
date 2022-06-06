@@ -9,11 +9,13 @@ By offering a common development platform, automating delivery of applications a
 
 ## [Learn why is CI/CD important?](https://youtu.be/RlZCyexsJBc?t=260)
 
-[![Learn the Importance of CI/CD](learn-ci-cd-important.png)](https://youtu.be/RlZCyexsJBc?t=260)
-
 <ifigure> 
-<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/RlZCyexsJBc?t=260showinfo=0" height="500" width="800" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/RlZCyexsJBc?t=260showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </ifigure>
+
+<!--
+[![Learn the Importance of CI/CD](learn-ci-cd-important.png)](https://youtu.be/RlZCyexsJBc?t=260)
+-->
 
 ## Features
 

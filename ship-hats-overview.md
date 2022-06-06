@@ -11,6 +11,10 @@ By offering a common development platform, automating delivery of applications a
 
 [![Learn the Importance of CI/CD](learn-ci-cd-important.png)](https://youtu.be/RlZCyexsJBc?t=260)
 
+<ifigure> 
+<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/RlZCyexsJBc?t=260showinfo=0" height="315" width="560" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</ifigure>
+
 ## Features
 
 The platform offers following features:

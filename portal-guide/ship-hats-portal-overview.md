@@ -1,11 +1,10 @@
 # SHIP-HATS Portal Overview
 
-<span style="color:red">Add conceptual information and features of the portal. </span>
-
-
-Using the SHIP-HATS portal, you can:
+SHIP-HATS provides you a friendly portal to manage the following aspects:
     
-- [Manage Account](manage-account)
+- [Manage Accounts](manage-account)
 - [Manage Projects](manage-projects)
 - [Manage Users](manage-users)
 - [Declare DGP Systems](declare-dgp-systems)
+
+Before you can get started with SHIP-HATS Portal, you must familiarize yourself with [User Roles and Permissions](user-roles-and-permissions).

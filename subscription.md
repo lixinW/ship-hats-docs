@@ -10,10 +10,11 @@ SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe
 
 Public officers can visit the [Intranet website for pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx). For further queries on pricing, please drop us an email at <enquiries_ENP@tech.gov.sg>.
 
-## Understanding SHIP-HATS Subscription
+## [Understanding SHIP-HATS Subscription](https://www.youtube.com/embed/ksUEnR78m4w?showinfo=0)
 
-[![Understanding SHIP HATS](understanding-ship-hats.png)](https://www.youtube.com/embed/ksUEnR78m4w?showinfo=0)
-
+<ifigure> 
+<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/ksUEnR78m4w?showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</ifigure>
 
 
 ## FAQs

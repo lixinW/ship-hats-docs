@@ -1,14 +1,13 @@
 # Access SHIP-HATS Portal
 
-<!--
+
 **Topics**
 - [Prerequisites](#prerequisites)
 - [Log In](#log-in)
-- [Log in via TechPass](#log-in-via-techpass)
 - [View Dashboard](#view-dashboard)
 - [View User Profile](#view-user-profile)
 - [Log Out](#log-out)
--->
+
 
 
 ## Prerequisites

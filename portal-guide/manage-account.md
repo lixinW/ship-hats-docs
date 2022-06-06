@@ -1,7 +1,6 @@
 # Manage Account
 
-As a SHIP-HATS a Subscription Admin (SA) or a Project Admin(PA), you can manage your account and complete the following tasks.
-<!--
+**Topics**
 - [Switch account](#switch-account)
 - [Update admin profile](#update-admin-profile)
 - [Update user profile](#update-user-profile)
@@ -9,11 +8,11 @@ As a SHIP-HATS a Subscription Admin (SA) or a Project Admin(PA), you can manage 
 - [View plan details](#view-plan-details)
 - [View billing information](#view-billing-information)
 - [Off-board an account](#off-board-an-account)
--->
+
 ## [Switch account](#switch-account)
 If you are a SA or PA for more than one subscription account in SHIP-HATS, you may need to switch between these accounts to Manage users, Manage Projects, Viewing Plan Details and Viewing Billing Info.
 
-### To switch account:
+### To switch account
 
 1. From the [**Overview**](#view-dashboard) page, hover over **Billing Account** at the upper-right area of the page and choose **Switch account**.
 

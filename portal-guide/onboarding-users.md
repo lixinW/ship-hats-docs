@@ -58,13 +58,15 @@ Access the link via the onboarding email and perform the following steps based o
    <kbd>![Create Vendor Account](new-account-vendor.png ':size=60%')</kbd>
 1. Enter the following details, and then click **Submit**.  
 
-   - **First Name:** Enter first name of the user.
-   - **Last Name:** Enter last name  of the user.
-   - **Company Email Address:** Enter email address of the user. 
-   - **Mobile Number:** Enter mobile number of the user.
-   - **Organisation:** Enter organisation name of the user. 
-   - **Department:** Enter department name of the user.
-   - **Require SEED Account:** Select this checkbox if the user require a SEED account. This account is required only for users who are actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.  
+   |Field|Description|
+   |---|---|
+   |**First Name**| Enter first name of the user.
+   |**Last Name**| Enter last name  of the user.
+   |**Company Email Address**| Enter email address of the user. 
+   |**Mobile Number**| Enter mobile number of the user.
+   | **Organisation**| Enter organisation name of the user. 
+   | **Department** |Enter department name of the user.
+   | **Require SEED Account**| Select this checkbox if the user require a SEED account. This account is required only for users who are actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.  
 <br />
    
    <kbd>![Create Account](create-vendor-account.png ':size=100%')</kbd>
@@ -100,8 +102,11 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
    <kbd>![Approve](tp-approve-user.png ':size=100%')</kbd>
 
 4. In **Grant user access for:**, You can choose which tools to give access to. Following options are available:
-   - **CI tools:** Select this option if the user is required to have access to JIRA, Confluence, Bitbucket, Bamboo, pCloudy, SonarQube, Fortify SCA & WebInspect, and Prisma Cloud services.
-   - **SonaType tools:** Select this option if the user is required to have access to Nexus Repository and Nexus IQ Scan services.  
+   
+   |Field|Description|
+   |---|---|
+   |**CI tools**| Select this option if the user is required to have access to JIRA, Confluence, Bitbucket, Bamboo, pCloudy, SonarQube, Fortify SCA & WebInspect, and Prisma Cloud services.
+   |**SonaType tools**| Select this option if the user is required to have access to Nexus Repository and Nexus IQ Scan services.  
 
 1. Click **Confirm**.  
 This user is now approved as SHIP-HATS user under this account.

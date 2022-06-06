@@ -1,15 +1,13 @@
 # Username and Password
 
-<!--As a SHIP-HATS a Subscription Admin (SA) or a Project Admin(PA), you can manage your account and complete the following tasks.-->
-
-<!--
+**Topics**
 - [Change password](#change-password)
 - [Retrieve username](#retrieve-username)
 - [Reset password](#reset-password)
--->
 
 
-## [Change password](#change-password)
+
+## Change password
 As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at least once every 12 months. Users can change the password using the SHIP-HATS portal.
 
 ### To change password
@@ -26,7 +24,7 @@ As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at l
 3. Enter **Current password**.
 4. Enter **New Password** , **Confirm new password**, and then click **Update password**.
 
-## [Retrieve username](#retrieve-username)
+## Retrieve username
 If you have forgotten your SHIP-HATS username, you may retrieve it anytime following the below steps.
 
 ### To retrieve SHIP-HATS username
@@ -46,7 +44,7 @@ If you have forgotten your SHIP-HATS username, you may retrieve it anytime follo
 
     <kbd>![Retrieve Username Success.png](retrieve-username-request-success-1.png ':size=75%')</kbd>
 
-## [Reset password](#reset-password)
+## Reset password
 If you have forgotten your SHIP-HATS password, you may reset it anytime following the below steps.
 
 ### To reset SHIP-HATS password

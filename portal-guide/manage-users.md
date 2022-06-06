@@ -1,17 +1,16 @@
 # Manage Users
 
-<!--
-This section describes the following:
+**Topics**
 
 - [View users](#view-users)
-- [Generate a User Report](#generate-a-user-report)
-- [Manage Access](#manage-access)
+- [Generate user report](#generate-user-report)
+- [Manage access](#manage-access)
 - [Update user profile](#update-user-profile)
 - [Reactivate users](#reactivate-users)
 - [Remove users](#remove-users) 
--->
 
-## [View users](#view-users)
+
+## View users
 
 Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in your account.
 
@@ -48,7 +47,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 
     - **Download:** If you want to download the user list as a .csv file to your local machine, click **Export CSV**. This csv lists the active and removed users along with the approval and removal details. For more details, refer to the [Generate a User Report](#generate-a-user-report) documentation.
 
-## Generate a User Report
+## Generate user report
 You can generate a report to view all details for the active and removed users.
 
 ### To generate a user report
@@ -61,7 +60,7 @@ You can generate a report to view all details for the active and removed users.
 1. Click **Export CSV**.  
    The CSV report is downloaded to the your machine with the following details:
 
-   Field|Description
+   |Field|Description|
    |---|---|
    **Username**|Indicates the username for the user
    **Name**|Indicates the full name of the user
@@ -79,7 +78,7 @@ You can generate a report to view all details for the active and removed users.
    **Removed By**|Indicates the name of the SA or PA who removed the user.
    **Removal Reason**|Indicates the reason for removal of a user as entered by the SA or PA
 
-## [Manage Access](#manage-access)
+## Manage access
 
 ### To manage access for a user
 
@@ -107,7 +106,7 @@ You can generate a report to view all details for the active and removed users.
    >- A PA or SA user will be able to update their own access.
    >- You will not be able to proceed if both the options are cleared.
 
-## [Update user profile](#update-user-profile)
+## Update user profile
 When users other than SA or PA log in to [SHIP-HATS portal](https://www.ship.gov.sg/), they are directed to their profile page. 
 
 ### To edit user profile
@@ -125,7 +124,7 @@ Alternatively, hover over your profile icon at the upper-right corner. To view a
 
 
 
-## [Reactivate users](#reactivate-users)
+## Reactivate users
 
 If SHIP-HATS users are inactive for 60 consecutive days, their status changes from **normal user** to **sleeping user**. If the user continues to be inactive, from day 81 onwards an email notification is sent every day to the user until user becomes active (**normal user**) or until it reaches day 90.  
 
@@ -159,7 +158,7 @@ If you are **not a TechPass user**, the SA or PA can complete the following step
 
 
 
-## [Remove users](#remove-users)
+## Remove users
 
 We recommend Subscription Admin (SA) and Project Admin (PA) to periodically review the named users in their account, consumed user quota and remove users who are no longer required.
 

@@ -9,10 +9,10 @@
 | **User** | User is the default role for all the users from the Agency and vendors. | Refer to [User Permissions](#user-permissions) for detailed permissions. For tool-specific permissions, refer to [Tools Permissions](#tools-permissions).|  
 
 ## SA Permissions
-- Manage a subscription including upgrading or downgrading to a different tier from [SHIP-HATS Portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](subscription).
+- Manage a subscription including upgrading or downgrading to a different tier from [SHIP-HATS Portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription).
 - Add users to a subscription and manage their roles.
 - Create and manage projects. While creating a project, it is mandatory to assign at least one Project Administrator (PA). The maximum number of PAs allowed depends on your subcription model.
-- Request or remove additional resources for a subscription. For more information refer to the [SHIP-HATS Portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](subscription).
+- Request or remove additional resources for a subscription. For more information refer to the [SHIP-HATS Portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription).
 
 ## PA Permissions
 - Manage project from [SHIP-HATS Portal](https://www.ship.gov.sg/).

@@ -13,7 +13,7 @@
 
 ## Prerequisites
 
-- Before you start, you must have been [invited and onboarded to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/getting-started?id=quick-start-guide) by SHIP-HATS.
+- Before you start, you must have been [invited and onboarded to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/onboarding-to-ship-hats?id=onboarding) by SHIP-HATS.
 - Make sure that you have setup <span style="color:red">your OpenVPN connection</span>.
 
 <span style="color:red">Will there be any prerequisites?
@@ -80,8 +80,8 @@ You have successfully linked your TechPass to SHIP-HATS. You can directly log in
 ## View Dashboard
 The **Overview** page of the subscription account gives the dashboard view of the subscription account. Only Subscription Admin (SA) and Project Admin (PA) can access this dashboard to view the following details:
 
-- Subscription tier for the Billing Account. By default, you view the subscription details of the first account to which you were added as SA or PA. You can [switch account](), as needed.
-- [Plan details](#view-plan-details)
+- Subscription tier for the Billing Account. By default, you view the subscription details of the first account to which you were added as SA or PA. You can [switch account](manage-account), as needed.
+- [Plan details](manage-accounts)
 - Number of projects hosted on this account
 - Number of users added to this account
 - Projects using shared Bamboo agents and their usage quota 
@@ -97,13 +97,13 @@ The **Overview** page of the subscription account gives the dashboard view of 
 As a user (other than SA or PA), when you [log in](#log-in) to the [SHIP-HATS portal](https://www.ship.gov.sg/), you can complete the following actions:
 - View your **Profile** page that includes information on your subscription, such as number of fortify and sonarqube applications tied to the subscription.
 
-    <kbd>![view-profile-other-users.png](info.png ':size=100%')</kbd>
+    <kbd>![view-profile-other-users.png](plan-details.png ':size=100%')</kbd>
 - Click the applications to view tokens and the expiry date. You can also download the information as CSV.
 
     <kbd>![token info](view-users-token.png ':size=100%')</kbd>
 - View the user groups to which you belong.
 
-    <kbd>![user group](profile-2.png ':size=100%')</kbd>
+    <kbd>![user group](user-group-profile.png ':size=100%')</kbd>
 
 
 ## Log Out 

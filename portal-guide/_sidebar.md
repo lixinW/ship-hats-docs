@@ -1,4 +1,3 @@
-- **Option 1**
 **Overview**
   - [Overview](ship-hats-portal-overview)
   - [User Roles and Permissions](user-roles-and-permissions)
@@ -19,13 +18,15 @@
   - [Manage Applications](manage-applications)
 **DGP Systems**
   - [Declare DGP Systems](declare-dgp-systems)  
-- **Additional Resources**
-  - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 
-  - [Head Over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) 
+
 &nbsp;
 
 ---
 **Additional Resources**
+  - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 
+  - [Head Over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) 
+<!--
+- **Additional Resources**
   - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 
   - [Head Over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) 
 - **Option 2**
@@ -42,6 +43,4 @@
   - [Manage Users](manage-users)
   - [Password and Username](password-and-username)      
   - [Manage Accounts](manage-account)
-
-  
-   
+-->

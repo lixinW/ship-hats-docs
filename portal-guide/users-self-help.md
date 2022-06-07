@@ -1,7 +1,8 @@
 # Users Self Help
 
 **Topics**
-- [Access User Profile]()
+- [Access User Profile](#access-user-profile)
+- [View User Profile](#view-user-profile)
 - [Update User Profile](#update-user-profile)
 - [Retrieve username](#retrieve-username)
 - [Reset 2FA](#reset-2fa)
@@ -12,7 +13,18 @@
 ## Access User Profile
 
 ### To access your profile
-1. 
+
+1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
+    On the **Profile** page, you can view the following information:
+    - Your subscription information, such as number of fortify and sonarqube applications tied to the subscription.
+
+    <kbd>![Plan Details](plan-details.png ':size=100%')</kbd>
+    - Click the applications to view tokens and the expiry date. You can also download the information as CSV.
+
+    <kbd>![Token Info](view-users-token.png ':size=100%')</kbd>
+    - View the user groups to which you belong.
+
+    <kbd>![User Group](user-group-profile.png ':size=100%')</kbd>
 
 
 

@@ -1,11 +1,11 @@
-# Manage Tools
+# Manage Tools and Applications
 
 **Topics**
 - [Add project tools](#add-project-tools)
 - [Create project tool with customised project key](#create-project-tool-with-customised-project-key)
+- [Add applications to a project tool](#add-applications-to-a-project-tool)
 - [Manage users within a project tool](#manage-users-within-a-project-tool)
 - [Remove project tools](#remove-project-tools)
-- [Add applications to a project tool](#add-applications-to-a-project-tool)
 - [Retrieve token](#retrieve-token)
 - [Remove applications from a project tool](#remove-applications-from-a-project-tool)
 

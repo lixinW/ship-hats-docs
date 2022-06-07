@@ -164,5 +164,5 @@ Make sure that you are in the required account. If needed, refer to [Switch acco
 
 1. Choose **Remove User**.
 
-## Related Topics
+### Related Topics
 

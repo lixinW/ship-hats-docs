@@ -2,11 +2,10 @@
 
 **Topics**
 - [Switch account](#switch-account)
-- [Update admin profile](#update-admin-profile)
-- [Update user profile](#update-user-profile)
 - [View plan details](#view-plan-details)
 - [View billing information](#view-billing-information)
-- [Modify billing information]()
+- [Modify billing information](#modify-billing-information)
+- [Update admin profile](#update-admin-profile)
 - [Off-board an account](#off-board-an-account)
 
 ## Switch account
@@ -14,27 +13,13 @@ If you are a SA or PA for more than one subscription account in SHIP-HATS, you m
 
 ### To switch account
 
-1. From the [**Overview**](#view-dashboard) page, hover over **Billing Account** at the upper-right area of the page and choose **Switch account**.
+1. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page and choose **Switch account**.
 
     <kbd>![switch-account](switch-account.png ':size=100%')</kbd>
 
 2. Choose the required billing account to view its dashboard.
 
     <kbd>![switch-account](switch-account-choose-account.png ':size=100%')</kbd>
-
-## Update admin profile
-SA and PA can update their profile from the [**Overview**](#view-dashboard) page.
-
-### To view and update profile as SA and PA
-
-1. From the [**Overview**](#view-dashboard) page, hover over your profile icon at the upper-right corner. Your user name and user role for this account are displayed. In the below example, the logged in user is a **Subscription Admin** for this account.
-
-    <kbd>![view-and-update-profile-user-role-and-name-blurred](view-and-update-profile-user-role-and-name-blurred.png ':size=75%')</kbd>
-
-2. Choose **View Profile**. Your personal information and details of accounts in which you are SA and PA are listed.
-3. To update your **Personal Information**, click the edit icon.
-
-    <kbd>![edit-profile-details-blurred](edit-profile-details-blurred.png ':size=75%')</kbd>
 
 
 
@@ -48,14 +33,14 @@ SA and PA can view the plan details of their subscription account(s) from the da
 
     <kbd>![plan-details](plan-details.png ':size=100%')</kbd>
 
-2. From the [**Overview**](#view-dashboard) page, hover over **Billing Account** at the upper-right area of the page and choose **Plan Details**.
+2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page and choose **Plan Details**.
 
     <kbd>![plan-details](plan-details-1.png ':size=50%')</kbd>
 
 Alternatively, click **Plan details** from **Overview** as shown below.
 
 >**Note:** SHIP-HATS users other than SA and PA can view their associated subscription account details, such as **Billing Account Name** and **Billing Account Number**, from their **Profile** page as shown below. Refer to [View user profile](#view-user-profile) and [Update user profile](#update-user-profile) for additional information.
-><kbd>![view-subscription-details-for-other-users](view-subscription-details-for-other-users.png ':size=75%')</kbd>
+><kbd>![View Subscription Details](view-subscription-details-for-other-users.png ':size=75%')</kbd>
 
 ## View billing information
 
@@ -63,8 +48,8 @@ If you are a Subscription Admin, you will be able to view the billing informatio
 
 ### To view the billing information
 
-1. Ensure you are in the required account. If needed, refer to [Switching account](manage-account).
-2. From the **[Overview](#view-dashboard)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
+1. Ensure you are in the required account. If needed, refer to [Switching account](#switch-account).
+2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
 
     <kbd>![billing-info-menu](billing-info-menu.png ':size=75%')</kbd>
 
@@ -93,8 +78,8 @@ If you are a Subscription Admin, you will be able to modify the billing informat
 
 ### To view the billing information
 
-1. Ensure you are in the required account. If needed, refer to [Switching account](manage-account).
-2. From the **[Overview](#view-dashboard)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
+1. Ensure you are in the required account. If needed, refer to [Switching account](#switch-account).
+2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
 
     <kbd>![billing-info-menu](billing-info-menu.png ':size=75%')</kbd>
 
@@ -119,6 +104,20 @@ You can find the approver details for this account.
 You can find the signed service sheets for this account.
 
 <kbd>![signed-service-sheet](signed-ss.png ':size=75%')</kbd>
+
+## Update admin profile
+SA and PA can update their profile from the **[Overview](access-ship-hats-portal)** page.
+
+### To view and update profile as SA and PA
+
+1. From the **[Overview](access-ship-hats-portal)** page, hover over your profile icon at the upper-right corner. Your user name and user role for this account are displayed. In the below example, the logged in user is a **Subscription Admin** for this account.
+
+    <kbd>![view-and-update-profile-user-role-and-name-blurred](view-and-update-profile-user-role-and-name-blurred.png ':size=75%')</kbd>
+
+2. Choose **View Profile**. Your personal information and details of accounts in which you are SA and PA are listed.
+3. To update your **Personal Information**, click the edit icon.
+
+    <kbd>![edit-profile-details-blurred](edit-profile-details-blurred.png ':size=75%')</kbd>
 
 
 ## Off-board an Account

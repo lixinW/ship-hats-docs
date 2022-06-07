@@ -1,6 +1,8 @@
 # Onboarding to SHIP-HATS Portal
 
-The following section outlines the steps to configure the SHIP-HATS portal.
+The following table outlines the steps that you must complete to configure the SHIP-HATS portal. After you have completed these steps, you will need to perform additional steps to configure the tools that you want to use.
+
+These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted.
 
 |Step|Task|Owner|
 |---|---|---|
@@ -18,7 +20,7 @@ The following section outlines the steps to configure the SHIP-HATS portal.
 |12|[Declare DGP Systems](declare-dgp-systems)|Agency<br>This is an optional step.|    
 
 
-## What's Next
+### What's Next
 - [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview).
 
 <!--

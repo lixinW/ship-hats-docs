@@ -113,8 +113,8 @@ This user is now approved as SHIP-HATS user under this account.
 
    >**Note:** Irrespective of agencies, individuals approved as SHIP-HATS users can be added to any SHIP-HATS project and will be billed under the account that initially approved them.  
 
-## What's Next
+### What's Next
 - [Create Project](manage-projects)
 
-## Related Topics
+### Related Topics
 - [Manage Users](manage-users)

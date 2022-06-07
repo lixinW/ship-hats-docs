@@ -91,20 +91,6 @@ The **Overview** page of the subscription account gives the dashboard view of 
 
 <kbd>![Overview](ship-update.png ':size=60%')</kbd>
 
-## View User Profile
-
-As a user (other than SA or PA), when you [log in](#log-in) to the [SHIP-HATS portal](https://www.ship.gov.sg/), you can complete the following actions:
-- View your **Profile** page that includes information on your subscription, such as number of fortify and sonarqube applications tied to the subscription.
-
-    <kbd>![Plan Details](plan-details.png ':size=100%')</kbd>
-- Click the applications to view tokens and the expiry date. You can also download the information as CSV.
-
-    <kbd>![Token Info](view-users-token.png ':size=100%')</kbd>
-- View the user groups to which you belong.
-
-    <kbd>![User Group](user-group-profile.png ':size=100%')</kbd>
-
-
 ## Log Out 
 When you are done with your activities on the portal, you can log out as shown below.
 
@@ -121,7 +107,7 @@ When you are done with your activities on the portal, you can log out as shown b
 
     <kbd>![Session Timed Out](session-timed-out.png ':size=100%')</kbd>
 
-**Related Topics**
+### Related Topics
   - [Manage Account](manage-account)
   - [Manage Users](manage-users)
   - [Manage Projects](manage-projects)

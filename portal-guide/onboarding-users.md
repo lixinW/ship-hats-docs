@@ -4,12 +4,12 @@
 
 This section describes the following:
 - [Invite users](#invite-users)
-- [Create account](#create-account)
+- [Register account](#register-account)
 - [Approve new users](#approve-new-users)
 
 
 
-## [Invite users](#invite-users)
+## Invite users
 Subscription Admin (SA) and Project Admin (PA) can invite and add users to the subscription. Note that only SA can add a user as PA to their SHIP-HATS projects.
 
 ### To invite users
@@ -25,7 +25,7 @@ By default, a new invitation link has a 14 days expiry date.  Whenever you invit
 1. Click **Email me** to send this link with the expiry date to your SHIP-HATS registered email address and forward it to the intended users so that they can provide required information in the **Invitation Form**.  
 Alternatively, click the copy icon to copy and share the invite link with intended users. Note, in this case, make sure to inform the users about the expiry date of this link.
 
-## [Create account](#create-account)
+## Register Account
 You will receive an invitation email with a link to onboard to SHIP-HATS portal upon successful approval. 
 
 Access the link via the onboarding email and perform the following steps based on the account that you want to create. 
@@ -35,7 +35,7 @@ Access the link via the onboarding email and perform the following steps based o
 
 ### **Public Officer**
 
-### To create an account for a Public Officer
+### To register an account for a Public Officer
 
 1. In the Invitation form, select the role as **Public Officer**. 
 
@@ -51,7 +51,7 @@ Access the link via the onboarding email and perform the following steps based o
 
 ### **Vendor**
 
-### To create an account for a Vendor
+### To register an account for a Vendor
 
 1. In the Invitation form, select the role as **Vendor**.  
 
@@ -74,7 +74,7 @@ Access the link via the onboarding email and perform the following steps based o
 <!-- tabs:end -->
 
 
-## [Approve new users](#approve-new-users)
+## Approve new users
 After a user submits the completed SHIP-HATS **Invitation Form**, Subscription Admin (SA) and Project Admin (PA) will be notified by an email to approve the user registration.
 
 ### To approve new user registration
@@ -113,5 +113,8 @@ This user is now approved as SHIP-HATS user under this account.
 
    >**Note:** Irrespective of agencies, individuals approved as SHIP-HATS users can be added to any SHIP-HATS project and will be billed under the account that initially approved them.  
 
-## What's Next/Related Topics
+## What's Next
+- [Create Project](manage-projects)
+
+## Related Topics
 - [Manage Users](manage-users)

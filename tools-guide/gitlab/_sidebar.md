@@ -1,0 +1,12 @@
+- **GitLab**
+  - [GitLab](gitlab/overview)
+    - [Access](gitlab/access)
+    - [Users and Permissions](gitlab/)
+    - [Create](gitlab/)
+    - [Update](gitlab/update) 
+    - [Remove](gitlab/remove) 
+    - [FAQs](gitlab/faqs)  
+- **Additional Resources**
+  - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
+  - [Head Over to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
+  - [Head Over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)

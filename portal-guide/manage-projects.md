@@ -32,6 +32,9 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 SA or PA can add tools and additional PAs. 
 > **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/subscription) quota for which the agency has subscribed.
 
+### What's Next 
+- [Add a Project Admin](manage-admins)
+
 ## [View projects](#view-projects)
 
 SA and PAs of a subscription account can view all the projects of the subscription account.
@@ -58,3 +61,7 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
     <kbd>![Remove Projects](remove-project.png ':size=100%')</kbd>
 
 1. Click the three dots, and then choose **Remove project**.
+
+### Related Topics
+- [Manage Admins](manage-admins)
+- [Manage Tools](manage-tools)

@@ -7,15 +7,14 @@
 **Users**
   - [Onboard Users](onboarding-users)
   - [Manage Users](manage-users)
-  - [Password and Username](password-and-username)  
+  - [Users Self Help](users-self-help)  
 **Projects**
   - [Manage Projects](manage-projects)
   - [Manage Admins](manage-admins)
+**Project Tools & Applications**
+  - [Manage Tools & Apps](manage-tools)
 **Accounts**  
   - [Manage Accounts](manage-account)
-**Project Tools & Applications**
-  - [Manage Tools](manage-tools)
-  - [Manage Applications](manage-applications)
 **DGP Systems**
   - [Declare DGP Systems](declare-dgp-systems)  
 

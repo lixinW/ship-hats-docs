@@ -5,7 +5,6 @@
 - [View users](#view-users)
 - [Generate user report](#generate-user-report)
 - [Manage access](#manage-access)
-- [Update user profile](#update-user-profile)
 - [Reactivate users](#reactivate-users)
 - [Remove users](#remove-users) 
 
@@ -83,7 +82,7 @@ You can generate a report to view all details for the active and removed users.
 ### To manage access for a user
 
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
-   Make sure that you are in the required account. If needed, refer to [Switching account](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).
+   Make sure that you are in the required account. If needed, refer to [Switching account](manage-account).
 
 1. From the side menu, click **Users > All Users**.
 
@@ -105,22 +104,6 @@ You can generate a report to view all details for the active and removed users.
    >- The Proceed button is enabled only when there is a change to the existing selection.
    >- A PA or SA user will be able to update their own access.
    >- You will not be able to proceed if both the options are cleared.
-
-## Update user profile
-When users other than SA or PA log in to [SHIP-HATS portal](https://www.ship.gov.sg/), they are directed to their profile page. 
-
-### To edit user profile
-1. Go to the [TechPass Portal](https://portal.techpass.gov.sg/secure/account/profile).
-
-1. Click **edit profile**.
-
-    <kbd>![edit-profile-normal-users-](editprofilegsib.png ':size=75%')</kbd>
-
-2. Modify the details as needed, and then click **Save**. 
-
-    <kbd>![save-normal-user-profile-updates](editprofilegsib2.png ':size=75%')</kbd>
-
-Alternatively, hover over your profile icon at the upper-right corner. To view and update user profile, click **View Profile**.
 
 
 

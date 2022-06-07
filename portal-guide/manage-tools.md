@@ -5,6 +5,9 @@
 - [Create project tool with customised project key](#create-project-tool-with-customised-project-key)
 - [Manage users within a project tool](#manage-users-within-a-project-tool)
 - [Remove project tools](#remove-project-tools)
+- [Add applications to a project tool](#add-applications-to-a-project-tool)
+- [Retrieve token](#retrieve-token)
+- [Remove applications from a project tool](#remove-applications-from-a-project-tool)
 
 ## Add project tools
 
@@ -38,8 +41,9 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 
 ### To customise project key 
 
-1. Go to **Projects> All Projects>** > Manage > to view and select the relevant project. 
-2. Click Add tool under **Development** tab.
+1. Go to **Projects** > **All Projects**.
+1. Identify your project and click **Manage**. 
+2. Under the **Development** tab, click **Add tool**.
 3. Choose the required tool.
 
     ![Add new Development tool](add-new-dev-tool.png)
@@ -48,9 +52,15 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 
     ![customise](customise.png)
 
-5. Enter the required project key. It can only have 2-10 characters, consisting of uppercase letters A-Z and numbers from0-9. First character must be an alphabet. 
+5. Enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
 
     ![add](addnewkey.png)
+
+## Add applications to a project tool
+
+### To add an application to a project tool
+
+
 
 ## Manage users within a Project Tool
 
@@ -80,6 +90,10 @@ Subscription Admin and Project Admin can manage users within a project tool or a
     >
     ><kbd>![Manage Users](portal-projects-manage-users.png  ':size=60%')</kbd>
 
+## Retrieve token 
+
+### To retrive token
+
 
 ## Remove project tools
 Subscription Admin and Project Admin can remove a tool/app when it is not required. These tools are Jira, Confluence, Bitbucket, Fortify, and WebInspect. 
@@ -99,3 +113,12 @@ Subscription Admin and Project Admin can remove a tool/app when it is not requir
 5. Enter the required action. 
 
     ![proceed](proceed.png)
+
+
+
+
+
+
+## Remove applications from a project tool
+
+### to remove an app

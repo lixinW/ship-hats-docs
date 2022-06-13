@@ -2,8 +2,6 @@
 
 Using snippet here:
 
-<embed src="/snippets/_snippet-sample.md" />
-
 [Snippet Sample](snippets/snippet-sample.md ':include')
 
 [filename](snippets/_snippet-sample.md ':include :type=code')

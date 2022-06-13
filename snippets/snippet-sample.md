@@ -1,4 +1,4 @@
-# Sample
+## Sample
 
 This is a sample file to try out snippets.
 
@@ -12,4 +12,4 @@ I hope this works out
 
 ## Resource
 
-https://redocly.com/docs/developer-portal/guides/reusing-content/ 
+I did it!!!

@@ -1,5 +1,10 @@
 # Document History
 
+Using snippet here:
+
+<embed src="/snippets/_snippet-sample.md" />
+
+---
 The following table describes important additions to the SHIP-HATS documentation. We also update the documentation frequently to address the feedback that you send us.
 
 | Change | Description | Date |

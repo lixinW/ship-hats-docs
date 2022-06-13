@@ -21,9 +21,4 @@
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
   - [Contact Us](contact-us)
-
-<!--
-  - [Document History](document-history)
-
-
--->  
+  - [Document History](document-history) 

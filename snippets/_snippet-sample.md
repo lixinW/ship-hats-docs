@@ -10,6 +10,8 @@ Can we reuse content in our portal?
 
 I hope this works out
 
-## Resource
+## Reuse again
 
-https://redocly.com/docs/developer-portal/guides/reusing-content/ 
+[Snippet Sample](snippets/snippet-sample.md ':include')
+
+[Snippet Sample](snippets/snippet-sample.md ':include :type=code')

@@ -22,4 +22,5 @@
   - [Support](support)
   - [Contact Us](contact-us)
   - [Document History](document-history) 
-  - [Snippet Sample](snippet-sample)
+  - [Snippet Sample](snippets/snippet-sample)
+  - [Another one](snippets/_snippet-sample)

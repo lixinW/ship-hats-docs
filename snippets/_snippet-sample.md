@@ -12,6 +12,6 @@ I hope this works out
 
 ## Reuse again
 
-[Snippet Sample](snippets/snippet-sample.md ':include')
+[Snippet Sample](snippet-sample.md ':include')
 
 [Snippet Sample](snippets/snippet-sample.md ':include :type=code')

@@ -4,6 +4,10 @@ Using snippet here:
 
 <embed src="/snippets/_snippet-sample.md" />
 
+[filename](snippets/snippet-sample.md ':include')
+
+[filename](snippets/_snippet-sample.md ':include')
+
 ---
 The following table describes important additions to the SHIP-HATS documentation. We also update the documentation frequently to address the feedback that you send us.
 

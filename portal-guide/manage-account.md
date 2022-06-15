@@ -29,7 +29,7 @@ SA and PA can view the plan details of their subscription account(s) from the da
 
 ### To view plan details of a subscription
 
-1. Ensure you are in the required account. If needed, refer to [Switching account](#switch-account).
+1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
     <kbd>![plan-details](plan-details.png ':size=100%')</kbd>
 
@@ -48,7 +48,7 @@ If you are a Subscription Admin, you will be able to view the billing informatio
 
 ### To view the billing information
 
-1. Ensure you are in the required account. If needed, refer to [Switching account](#switch-account).
+1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
 
     <kbd>![billing-info-menu](billing-info-menu.png ':size=75%')</kbd>
@@ -78,7 +78,7 @@ If you are a Subscription Admin, you will be able to modify the billing informat
 
 ### To view the billing information
 
-1. Ensure you are in the required account. If needed, refer to [Switching account](#switch-account).
+1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
 
     <kbd>![billing-info-menu](billing-info-menu.png ':size=75%')</kbd>

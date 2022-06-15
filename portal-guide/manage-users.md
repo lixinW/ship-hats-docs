@@ -16,7 +16,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 ### To view users
 
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
-   Make sure that you are in the required account. If needed, refer to [Switching account](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).
+   Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
 1. From the side menu, click **Users > All Users**.  
    A list of users appears, along with following details:  
@@ -51,7 +51,7 @@ You can generate a report to view all details for the active and removed users.
 
 ### To generate a user report
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
-   Make sure that you are in the required account. If needed, refer to [Switching account](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).
+   Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 1. From the side menu, click **Users > All Users**.
 
    <kbd>![all-users-new](all-users-new.png ':size=100%')</kbd>
@@ -82,7 +82,7 @@ You can generate a report to view all details for the active and removed users.
 ### To manage access for a user
 
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
-   Make sure that you are in the required account. If needed, refer to [Switching account](manage-account).
+   Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
 1. From the side menu, click **Users > All Users**.
 
@@ -124,7 +124,7 @@ If you are **a TechPass user**, the SA can raise a service request using the [Te
 If you are **not a TechPass user**, the SA or PA can complete the following steps to reactivate a user:
 
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
-   Make sure that you are in the required account. If needed, refer to [Switching account](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).  
+   Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).  
 1.  From the side menu, click **Users > All Users**.  
 1. Search for the user to be reactivated and from the **Action** column, click ![3_dot](3_dot.png) corresponding to the user.  
 
@@ -155,7 +155,7 @@ We recommend Subscription Admin (SA) and Project Admin (PA) to periodically revi
 >- You cannot remove a user from a billing subscription (quota consumed) if the user is also added to another subscription (quota not consumed and labeled as **free user**). 
 
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
-Make sure that you are in the required account. If needed, refer to [Switch account](https://docs.developer.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).
+Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 1. From the side menu, click **Users > All Users**.
 1. Search for the user to be removed and from the **Action** column, click ![3_dot](3_dot.png) corresponding to the user.
    >**Tip:** Refer to [View users](#view-users) to know how to search for users and to sort by **Quota Consumed**.

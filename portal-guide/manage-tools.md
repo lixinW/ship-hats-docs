@@ -18,7 +18,7 @@ SA or PA can add the required project tools as explained below. You can add tool
 
 ### To add project tools
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to Switch account.
+1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
 1. Locate the project to which you want to add a tool, and then click **Manage**.
 1. Go to the required tab, and then click **Add tool**. Follow the steps in table for the tool that you want to add.
 

@@ -7,7 +7,7 @@
 
 ## Create new projects
 
-Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SAs assign Project Admins (PA). Both SA and PA can manage the projects by adding [project tools](manage-tools) and [users](manage-users).
+Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SAs assign Project Admins (PA). Both SA and PA can manage the projects by adding [project tools](manage-tools), [user groups](manage-user-groups), and [users](manage-users).
 
 ### To create a new project
 
@@ -58,7 +58,7 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 
 ### To remove a project
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switching account](manage-account).
+1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
 1. Locate the project, and then click **Manage**. You will see ![Remove Project Icon](remove-project-icon.png) next to the project name as shown below.
 
     <kbd>![Remove Projects](remove-project.png ':size=100%')</kbd>

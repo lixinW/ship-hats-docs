@@ -35,19 +35,19 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 
 ## View existing project admins
 1. Log in to [SHIP-HATS Portal](http://www.ship.gov.sg).
-1. Click **Users > All users**.
+1. Click **Users** > **All users**.
 1. Click **Project Role**.
 
    <kbd>![View User Role](view-user-role.png ':size=100%')</kbd>
 
-1. Name of users will be displayed based on the project role.
+   Name of users will be displayed based on the project role.
 
 
 ## Change project admins
-To change or transfer the existing PA role to another user, one of the SAs can add or remove PA on the [SHIP-HATS Portal](http://www.ship.gov.sg).
+To change or transfer the existing PA role to another user, one of the SAs can add or remove PA on the [SHIP-HATS portal](http://www.ship.gov.sg).
 
 ### To change an existing project admin
-1. Log in to the [SHIP-HATS Portal](http://www.ship.gov.sg).
+1. Log in to the [SHIP-HATS portal](http://www.ship.gov.sg).
 1. Click **Overview** > **Project**. 
 
    <kbd>![Overview page](overview-page.png ':size=100%')</kbd>
@@ -68,7 +68,7 @@ You have successfully added a PA.
 ## Remove project admin
 
 ### To add a project admin
-1. Log in to [SHIP-HATS Portal](http://www.ship.gov.sg).
+1. Log in to [SHIP-HATS portal](http://www.ship.gov.sg).
 1. Click **Overview** > **Project**.
 
    <kbd>![Overview p=Page](overview-page.png ':size=100%')</kbd>

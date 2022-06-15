@@ -5,7 +5,7 @@
 - [View projects](#view-projects)
 - [Remove projects](#remove-projects)
 
-## [Create new projects](#create-new-projects)
+## Create new projects
 
 Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SAs assign Project Admins (PA). Both SA and PA can manage the projects by adding [project tools](manage-tools) and [users](manage-users).
 
@@ -25,23 +25,26 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
     |**Project Description**| Specify details of the project. 
     |**Project Admin 1**| Select Project Admin from the drop-down list. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list.
     |**Project Admin 2**| This is an optional field. Select a second Project Admin from the drop-down list. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list. 
-1. Click **Create Project**. The created project details are displayed as shown below.
+1. Click **Create Project**.  
+    
+    The created project details are displayed as shown below.
 
     <kbd>![Newly Created Project](newly-created-project.png ':size=100%')</kbd>
 
-SA or PA can add tools and additional PAs. 
-> **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/subscription) quota for which the agency has subscribed.
+    SA or PA can add tools and additional PAs. 
+    
+    > **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/subscription) quota for which the agency has subscribed.
 
 ### What's Next 
 - [Add a Project Admin](manage-admins)
 
-## [View projects](#view-projects)
+## View projects
 
 SA and PAs of a subscription account can view all the projects of the subscription account.
 
 ### To view a project in a subscription account
 
-1. From the side menu click **Projects** > **All Projects**.
+1. From the side menu, click **Projects** > **All Projects**.
 
     Tile view of all the projects in this subscription account is displayed. If needed, refer to [Switch account](manage-account).
 
@@ -49,14 +52,14 @@ SA and PAs of a subscription account can view all the projects of the subscripti
 
 1. Click **Manage** to view tools that are currently added to the project.
 
-## [Remove projects](#remove-projects)
+## Remove projects
 
 Subscription Admin can remove a project if no tool has been added to it. If Tools have been added to a project, you must remove them before the project can be removed.
 
 ### To remove a project
 
 1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switching account](manage-account).
-1. Locate the project and click **Manage**. You will see ![Remove Project Icon](remove-project-icon.png) beside the project name as shown below.
+1. Locate the project, and then click **Manage**. You will see ![Remove Project Icon](remove-project-icon.png) next to the project name as shown below.
 
     <kbd>![Remove Projects](remove-project.png ':size=100%')</kbd>
 

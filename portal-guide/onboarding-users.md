@@ -25,7 +25,7 @@ By default, a new invitation link has a 14 days expiry date.  Whenever you invit
 1. Click **Email me** to send this link with the expiry date to your SHIP-HATS registered email address and forward it to the intended users so that they can provide required information in the **Invitation Form**.  
 Alternatively, click the copy icon to copy and share the invite link with intended users. Note, in this case, make sure to inform the users about the expiry date of this link.
 
-## Register Account
+## Register account
 You will receive an invitation email with a link to onboard to SHIP-HATS portal upon successful approval. 
 
 Access the link via the onboarding email and perform the following steps based on the account that you want to create. 
@@ -33,9 +33,9 @@ Access the link via the onboarding email and perform the following steps based o
 <!-- tabs:start -->
 
 
-### **Public Officer**
+### **Public officer**
 
-### To register an account for a Public Officer
+### To register an account for a public officer
 
 1. In the Invitation form, select the role as **Public Officer**. 
 
@@ -51,7 +51,7 @@ Access the link via the onboarding email and perform the following steps based o
 
 ### **Vendor**
 
-### To register an account for a Vendor
+### To register an account for a vendor
 
 1. In the Invitation form, select the role as **Vendor**.  
 

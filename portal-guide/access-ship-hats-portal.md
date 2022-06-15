@@ -1,33 +1,29 @@
-# Access SHIP-HATS Portal
+# Access SHIP-HATS portal
 
 
 **Topics**
 - [Prerequisites](#prerequisites)
-- [Log In](#log-in)
-- [View Dashboard](#view-dashboard)
-- [View User Profile](#view-user-profile)
-- [Log Out](#log-out)
+- [Log in](#log-in)
+- [View dashboard](#view-dashboard)
+- [View user profile](#view-user-profile)
+- [Log out](#log-out)
 
 
 
 ## Prerequisites
 
 - Before you start, you must have been [invited and onboarded to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/onboarding-to-ship-hats?id=onboarding) by SHIP-HATS.
-- Make sure that you have setup <span style="color:red">your OpenVPN connection</span>.
+- Make sure that you have setup SEED and TechPass.
 
-<span style="color:red">Will there be any prerequisites?
-someone has to provide access, right permissions, etc.
-set up and connect to openvpn?</span>.
-
-## Log In
+## Log in
 
 <!-- tabs:start -->
 
-### **Log In**
+### **Log in**
 
 **To log in to the SHIP-HATS portal**
 
-1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
+1. Go to the [SHIP-HATS portal](https://www.ship.gov.sg/).
 2. Click **Log In**.
 
     <kbd>![log-in](log-in.png ':size=100%')</kbd>
@@ -46,7 +42,7 @@ set up and connect to openvpn?</span>.
 
 **To log in to the SHIP-HATS portal using TechPass**
 
-1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
+1. Go to the [SHIP-HATS portal](https://www.ship.gov.sg/).
 2. Click **Log In with TechPass**.
 
     <kbd>![log-in](tplogin.png ':size=100%')</kbd>
@@ -69,14 +65,14 @@ set up and connect to openvpn?</span>.
     <kbd>![log-in](tp-mdm-terms-of-use.png ':size=100%')</kbd>
 
 You have successfully linked your TechPass to SHIP-HATS. You can directly log in using TechPass for future access.  
-<span style="color:red">Is there any step missing here?</span> 
+<!--<span style="color:red">Is there any step missing here?</span>--> 
 - If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
 - If you are a regular user, the **Profile** page appears. For more details, refer to the [View user profile](#view-user-profile) section.
 
 <!-- tabs:end -->
 
 
-## View Dashboard
+## View dashboard
 The **Overview** page of the subscription account gives the dashboard view of the subscription account. Only Subscription Admin (SA) and Project Admin (PA) can access this dashboard to view the following details:
 
 - Subscription tier for the Billing Account. By default, you view the subscription details of the first account to which you were added as SA or PA. You can [switch account](manage-account), as needed.
@@ -91,7 +87,7 @@ The **Overview** page of the subscription account gives the dashboard view of 
 
 <kbd>![Overview](ship-update.png ':size=60%')</kbd>
 
-## Log Out 
+## Log out 
 When you are done with your activities on the portal, you can log out as shown below.
 
 ### To log out from the SHIP-HATS portal
@@ -107,9 +103,9 @@ When you are done with your activities on the portal, you can log out as shown b
 
     <kbd>![Session Timed Out](session-timed-out.png ':size=100%')</kbd>
 
-### Related Topics
-  - [Manage Account](manage-account)
-  - [Manage Users](manage-users)
-  - [Manage Projects](manage-projects)
-  - [Manage Fortify applications](manage-fortify-applications)
-  - [Declare DGP Systems](declare-dgp-systems)
+### Related topics
+  - [Manage account](manage-account)
+  - [Manage users](manage-users)
+  - [Manage user groups](manage-user-groups)
+  - [Manage projects](manage-projects)
+  - [Declare DGP systems](declare-dgp-systems)

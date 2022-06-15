@@ -21,6 +21,8 @@
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
   - [Contact Us](contact-us)
+<!--  
   - [Document History](document-history) 
   - [Snippet Sample](snippets/snippet-sample)
   - [Another one](snippets/_snippet-sample)
+  -->

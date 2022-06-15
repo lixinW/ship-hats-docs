@@ -37,10 +37,11 @@ SA and PA can view the plan details of their subscription account(s) from the da
 
     <kbd>![plan-details](plan-details-1.png ':size=50%')</kbd>
 
-Alternatively, click **Plan details** from **Overview** as shown below.
+    Alternatively, click **Plan details** from **Overview** as shown below.
 
->**Note:** SHIP-HATS users other than SA and PA can view their associated subscription account details, such as **Billing Account Name** and **Billing Account Number**, from their **Profile** page as shown below. Refer to [View user profile](#view-user-profile) and [Update user profile](#update-user-profile) for additional information.
-><kbd>![View Subscription Details](view-subscription-details-for-other-users.png ':size=75%')</kbd>
+    >**Note:** SHIP-HATS users other than SA and PA can view their associated subscription account details, such as **Billing Account Name** and **Billing Account Number**, from their **Profile** page as shown below. Refer to [Access user profile](#view-user-profile) and [Update user profile](users-self-help) for additional information.
+    >
+    ><kbd>![View Subscription Details](view-subscription-details-for-other-users.png ':size=75%')</kbd>
 
 ## View billing information
 

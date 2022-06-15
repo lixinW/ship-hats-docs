@@ -2,7 +2,6 @@
 
 **Topics**
 - [Access user profile](#access-user-profile)
-- [View user profile](#view-user-profile)
 - [Update user profile](#update-user-profile)
 - [Retrieve username](#retrieve-username)
 - [Reset 2FA](#reset-2fa)
@@ -105,7 +104,7 @@ As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at l
     <kbd>![Change Password](change-pwd.png ':size=75%')</kbd>
 
 3. Enter **Current password**.
-4. Enter **New Password** , **Confirm new password**, and then click **Update password**.
+4. Enter values in **New Password**, **Confirm new password**, and then click **Update password**.
 
 ## Reset password
 If you have forgotten your SHIP-HATS password, you may reset it anytime following the below steps.

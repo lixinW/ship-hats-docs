@@ -55,23 +55,23 @@ If you are a Subscription Admin, you will be able to view the billing informatio
 
     You can view information in the following three sections: Billing Information, Approver Information, and Signed Service Sheets (SS).
 
-    **Billing Information**
+    - **Billing Information**
 
-    <kbd>![billing-information](billing-information.png ':size=75%')</kbd>
+        <kbd>![billing-information](billing-information.png ':size=75%')</kbd>
 
-    >**Note:** GL Account is applicable for GovTech agencies and Sub-Business Unit is applicable for non-GovTech agencies.
+        >**Note:** GL Account is applicable for GovTech agencies and Sub-Business Unit is applicable for non-GovTech agencies.
 
-    **Approver Information**
+    - **Approver Information**
 
-    You can find the approver details for this account.
+        You can find the approver details for this account.
 
-    <kbd>![approver-information](approver-information.png ':size=75%')</kbd>
+        <kbd>![approver-information](approver-information.png ':size=75%')</kbd>
 
-    **Signed Service Sheets(SS)**
+    - **Signed Service Sheets(SS)**
 
-    You can find the signed service sheets for this account.
+        You can find the signed service sheets for this account.
 
-    <kbd>![signed-service-sheet](signed-ss.png ':size=75%')</kbd>
+        <kbd>![signed-service-sheet](signed-ss.png ':size=75%')</kbd>
 
 ## Modify billing information
 If you are a Subscription Admin, you will be able to modify the billing information of their subscription account(s).
@@ -85,25 +85,25 @@ If you are a Subscription Admin, you will be able to modify the billing informat
 
     You can view information in the following three sections: Billing Information, Approver Information, and Signed Service Sheets (SS).
 
-**Billing Information**
+    - **Billing Information**
 
-<kbd>![billing-information](billing-information.png ':size=75%')</kbd>
+        <kbd>![billing-information](billing-information.png ':size=75%')</kbd>
 
-SA can edit all the details in this section except **Billing Agency**.
+        SA can edit all the details in this section except **Billing Agency**.
 
->**Note:** GL Account is applicable for Govtech agencies and Sub-Business Unit is applicable for non-Govtech agencies.
+        >**Note:** GL Account is applicable for Govtech agencies and Sub-Business Unit is applicable for non-Govtech agencies.
 
-**Approver Information**
+    - **Approver Information**
 
-You can find the approver details for this account.
+        You can find the approver details for this account.
 
-<kbd>![approver-information](approver-information.png ':size=75%')</kbd>
+        <kbd>![approver-information](approver-information.png ':size=75%')</kbd>
 
-**Signed Service Sheets(SS)**
+    - **Signed Service Sheets(SS)**
 
-You can find the signed service sheets for this account.
+        You can find the signed service sheets for this account.
 
-<kbd>![signed-service-sheet](signed-ss.png ':size=75%')</kbd>
+        <kbd>![signed-service-sheet](signed-ss.png ':size=75%')</kbd>
 
 ## Update admin profile
 SA and PA can update their profile from the **[Overview](access-ship-hats-portal)** page.
@@ -114,8 +114,8 @@ SA and PA can update their profile from the **[Overview](access-ship-hats-porta
 
     <kbd>![view-and-update-profile-user-role-and-name-blurred](view-and-update-profile-user-role-and-name-blurred.png ':size=75%')</kbd>
 
-2. Choose **View Profile**. Your personal information and details of accounts in which you are SA and PA are listed.
-3. To update your **Personal Information**, click the edit icon.
+1. Choose **View Profile**. Your personal information and details of accounts in which you are SA and PA are listed.
+1. To update your **Personal Information**, click the edit icon.
 
     <kbd>![edit-profile-details-blurred](edit-profile-details-blurred.png ':size=75%')</kbd>
 

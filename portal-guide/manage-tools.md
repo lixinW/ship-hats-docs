@@ -50,16 +50,16 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 
 1. Go to **Projects** > **All Projects**.
 1. Identify your project and click **Manage**. 
-2. Under the **Development** tab, click **Add tool**.
-3. Choose the required tool.
+1. Under the **Development** tab, click **Add tool**.
+1. Choose the required tool.
 
     ![Add new Development tool](add-new-dev-tool.png)
 
-4.  Select **Customise Project Key**.
+1.  Select **Customise Project Key**.
 
     ![customise](customise.png)
 
-5. Enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
+1. Enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
 
     ![add](addnewkey.png)
 

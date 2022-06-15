@@ -17,21 +17,21 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 ### To add a project admin
 
 1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
-2. Locate the project and click **Manage**.
+1. Locate the project and click **Manage**.
 
     <kbd>![Add Project Admin](add-project-admin.png ':size=100%')</kbd>
 
-3. Click the edit icon.  
+1. Click the edit icon.  
    The **Manage Admin** panel appears.
 
     <kbd>![Manage Admin](manage-project-admin.png ':size=100%')</kbd>
 
-4. Click **Add another** to select the required user from the drop-down list.
+1. Click **Add another** to select the required user from the drop-down list.
 
     <kbd>![Add Another](add-another-pa.png ':size=100%')</kbd>
 
     >**Note:** If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list.
-5. Click **Add** to add this user as a project admin. Once successfully added, an email notification will be sent to the requesting SA with copy sent to the other SA and the newly added PA.
+1. Click **Add** to add this user as a project admin. Once successfully added, an email notification will be sent to the requesting SA with copy sent to the other SA and the newly added PA.
 
 ## View existing project admins
 1. Log in to [SHIP-HATS Portal](http://www.ship.gov.sg).

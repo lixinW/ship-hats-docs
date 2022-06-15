@@ -17,7 +17,7 @@ If you are a SA or PA for more than one subscription account in SHIP-HATS, you m
 
     <kbd>![switch-account](switch-account.png ':size=100%')</kbd>
 
-2. Choose the required billing account to view its dashboard.
+1. Choose the required billing account to view its dashboard.
 
     <kbd>![switch-account](switch-account-choose-account.png ':size=100%')</kbd>
 
@@ -33,7 +33,7 @@ SA and PA can view the plan details of their subscription account(s) from the da
 
     <kbd>![plan-details](plan-details.png ':size=100%')</kbd>
 
-2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page and choose **Plan Details**.
+1. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page and choose **Plan Details**.
 
     <kbd>![plan-details](plan-details-1.png ':size=50%')</kbd>
 

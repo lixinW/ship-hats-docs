@@ -229,7 +229,7 @@ You can remove app from the following project tools:
 - Nexus IQ
 - SonarQube
 
-### to remove an app
+### To remove an app
 
 1. Go to **Projects** > **All Projects**.
 1. Navigate to your project, and then click **Manage**.

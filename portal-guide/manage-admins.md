@@ -88,6 +88,6 @@ You have successfully added a PA.
 
 To change or transfer the existing SA role to another user, one of the SAs can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/364) with the required details, such as the name and email address of the user to whom the SA role is to be transferred.
 
-## Related Topics
+### Related Topics
 
 

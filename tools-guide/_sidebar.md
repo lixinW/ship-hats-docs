@@ -1,7 +1,7 @@
 - **Tools**
   - [Overview](tools-overview) 
   - [Confluence](confluence/overview)
-  - [JIRA](jira/jira-overview) 
+  - [JIRA](jira/overview) 
   - [Nexus Lifecycle](nexus-lifecycle-overview)
   - [Nexus Repository Pro](nexus-repository/nexus-repository-pro-overview)
   - [Fortify-on Demand](fod/fortify-overview)

@@ -3,7 +3,7 @@
 Confluence provides a shared space for collaboration to view, access, and manage all tasks and problems for the entire team enforces the idea of the shared responsibility. Knowledge sharing and environment also encourage experimentation.
 
 For more information, refer to https://www.atlassian.com/software/confluence.
-
+<!--
 **Topics**  
 
 - [Provision JIRA via SHIP-HATS Portal]()
@@ -91,3 +91,4 @@ After you have authenticated, you will be redirected to your dashboard.
 ## Troubleshooting
 ## Additional Resources
 - Links to learning sites in Confluence
+-->

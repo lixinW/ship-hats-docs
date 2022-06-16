@@ -1,11 +1,18 @@
-- **SonarQube**
-  - [SonarQube](sonarqube/sonarqube-overview)
-    - [Access](sonarqube/sonarqube-access)
-    - [Community Edition](sonarqube/sonarqube-set-up-community-edition)
-    - [Developer Edition](sonarqube/sonarqube-set-up-developer-edition)
-    - [Self Help Guide](sonarqube/sonarqube-self-help-guide)  
-    - [FAQs](sonarqube/sonarqube-faqs)  
+- **jira**
+  - [jira](jira/overview)
+    -	[User Journey](jira/user-journey)
+    -	[Roles and Permissions](jira/roles-and-permissions)
+    - [Provision JIRA via SHIP-HATS Portal](jira/provision)
+    - [Access](jira/access)
+    -	[Add](jira/add)
+    -	[Modify](jira/modify)
+    -	[Remove](jira/remove)
+    - [Best Practices](jira/best-practices)
+    - [FAQs](jira/faqs)
+    - [Troubleshooting](jira/troubleshooting)
+    - [Additional Resources](jira/additional-resources)
+      
 - **Additional Resources**
   - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
   - [Head Over to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
-  - [Head Over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)
+  - [Head Over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)  

@@ -1,25 +1,6 @@
-# JIRA
+# Roles and Permissions
 
-**Topics**  
-
-- [Provision JIRA via SHIP-HATS Portal]()
-- [Roles and Permissions](#roles-and-permissions)
-- [User Journey]()
-- [Create]()
-- [Access]()
-- [Update/Modify/Edit]()
-- [Delete/Remove]()
-- [Best Practices]() 
-- [FAQs]()
-- [Troubleshooting]()
-- [Additional Resources]()
-
-## Provision JIRA via SHIP-HATS Portal
-
-
-
-## Roles and Permissions
-You can use Jira for bug tracking, issue tracking and project management. [SHIP-HATS Project Admin (PA)](user-roles-permissions) can add Atlassian Jira to the SHIP-HATS project.
+You can use Jira for bug tracking, issue tracking and project management. [SHIP-HATS Project Admin (PA)]() can add Atlassian Jira to the SHIP-HATS project.
 
 Now that you have added Jira as your project tool, let us look at the project roles recommended for all users.
 
@@ -47,10 +28,10 @@ There are three types of user roles for a SHIP-HATS Jira project. All these role
 
 ### SHIP-HATS - Jira role mapping
  
-| SHIP-HATS Users | Jira Users |
-| :-------- | ------------- |
-| Project Admin |Administrator at project level. This role is assigned by default when Jira is added to the SHIP-HATS project. Administrator can assign project roles to other users and there can be more than one Administrator. |
-| User | SHIP-HATS users can be assigned as Administrator, Users and Developer in the Jira project. |
+| SHIP-HATS Users | Jira Users |Description|
+| --- | --- |---|
+| Project Admin |Administrator at project level. |This role is assigned by default when Jira is added to the SHIP-HATS project. Administrator can assign project roles to other users and there can be more than one Administrator. |
+| User | SHIP-HATS users | These users can be assigned as Administrator, Users, and Developer in the Jira project. |
 
 
 ### Permissions for subscription tiers
@@ -134,36 +115,5 @@ Jira administrator from the SHIP-HATS team evaluates the requests on a case-by-c
 
 ### Additional Resources
 
-Refer to [Jira Documentation](https://confluence.atlassian.com/adminjiraserver0816/managing-project-permissions-1063164378.html) for more information on managing project permissions in Jira.
+- [Jira Project Permissions](https://confluence.atlassian.com/adminjiraserver0816/managing-project-permissions-1063164378.html) 
 
-
-
-## User Journey
-
-## Create
-
-## Access
-
->**Note:** The steps may vary based on the validity of the different authenticator tokens.  
-
-### To log in to JIRA:
-
-1. Go to [JIRA](http://confluence.ship.gov.sg).  
-    You will be directed to Cloudflare.
-1. Select **Azure AD**.  
-    
-    ![cloudflare](cloudflare.png)
-    
-    If you have not logged into your TechPass, you will be prompted to sign in. For more details, refer to the [TechPass user guide](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/) if you are logging in to TechPass for the first time.
-
-1. Authenticate and approve your TechPass login using your Microsoft authenticator app with your SG Govt M365 profile.  
-After you have authenticated, you will be redirected to your dashboard. 
-
-## Update/Modify/Edit
-## Delete/Remove
-## Best Practices
-## FAQs
-## Troubleshooting
-## Additional Resources
-
-- Links to learning sites in JIRA

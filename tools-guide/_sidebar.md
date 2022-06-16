@@ -1,6 +1,6 @@
 - **Tools**
   - [Overview](tools-overview) 
-  - [Confluence](confluence/confluence-overview)
+  - [Confluence](confluence/overview)
   - [JIRA](jira/jira-overview) 
   - [Nexus Lifecycle](nexus-lifecycle-overview)
   - [Nexus Repository Pro](nexus-repository/nexus-repository-pro-overview)

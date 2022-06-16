@@ -1,10 +1,11 @@
-- **jira**
-  - [jira](jira/overview)
+- **Jira**
+  - [Jira](jira/overview)
     -	[User Journey](jira/user-journey)
     -	[Roles and Permissions](jira/roles-and-permissions)
     - [Provision JIRA via SHIP-HATS Portal](jira/provision)
     - [Access](jira/access)
     -	[Add](jira/add)
+    - [Alerts](jira/alerts)
     -	[Modify](jira/modify)
     -	[Remove](jira/remove)
     - [Best Practices](jira/best-practices)

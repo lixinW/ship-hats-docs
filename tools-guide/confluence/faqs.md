@@ -18,13 +18,13 @@ C, C++, Obj-C, Swift, ABAP, T-SQL, PL/SQL are supported. Public officers can ref
  <details>
   <summary><b>Are COTS (commercial off-the-shelf) products supported on SonarQube?</b></summary><br>
 
-Yes. SonarQube can scan for any customisation that the COTS product supports.
+Yes. SonarQube can scan for any customisation that the COTS product supports.  
 Example: Configuration files in XML or Javascript/ Java or plugins written in Java or Python.
   </details>
 
 
 <br>
-Refer to this section if you have previously been assigned permissions in SonarQube via groups and have lost your access.  
+Refer to the following section if you have previously been assigned permissions in SonarQube via groups and have lost your access.   
 
 <br>
 

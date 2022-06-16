@@ -1,10 +1,17 @@
-- **SonarQube**
-  - [SonarQube](sonarqube/sonarqube-overview)
-    - [Access](sonarqube/sonarqube-access)
-    - [Community Edition](sonarqube/sonarqube-set-up-community-edition)
-    - [Developer Edition](sonarqube/sonarqube-set-up-developer-edition)
-    - [Self Help Guide](sonarqube/sonarqube-self-help-guide)  
-    - [FAQs](sonarqube/sonarqube-faqs)  
+- **Confluence**
+  - [Confluence](confluence/overview)
+    -	[User Journey](confluence/user-journey)
+    -	[Roles and Permissions](confluence/roles-and-permissions)
+    - [Provision JIRA via SHIP-HATS Portal](confluence/provision)
+    - [Access](confluence/access)
+    -	[Add](confluence/add)
+    -	[Modify](confluence/modify)
+    -	[Remove](confluence/remove)
+    - [Best Practices](confluence/best-practices)
+    - [FAQs](confluence/faqs)
+    - [Troubleshooting](confluence/troubleshooting)
+    - [Additional Resources](confluence/additional-resources)
+      
 - **Additional Resources**
   - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
   - [Head Over to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)

@@ -2,7 +2,7 @@
   - [Jira](jira/jira-overview)
     -	[User Journey](jira/jira-user-journey)
     -	[Roles and Permissions](jira/jira-roles-and-permissions)
-    - [Provision JIRA via SHIP-HATS Portal](jira/jira-provision)
+    - [Provision](jira/jira-provision)
     - [Access](jira/jira-access)
     -	[Add](jira/jira-add)
     - [Alerts](jira/jira-alerts)

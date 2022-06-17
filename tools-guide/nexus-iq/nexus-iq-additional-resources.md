@@ -1,6 +1,5 @@
 # Additional Resources
 
-- [Project Permissions and Roles](https://support.atlassian.com/jira-software-cloud/docs/understand-project-permissions-and-roles/)
-- [Jira](https://www.atlassian.com/software/jira)
-- [Jira Software Cloud](https://support.atlassian.com/jira-software-cloud/)
-- [Overview](https://www.atlassian.com/software/jira/guides/getting-started/overview)
+- [Nexus IQ](https://www.sonatype.com/nexus-iq-server)
+- [Policy Management](https://help.sonatype.com/iqserver/managing/policy-management)
+- [Accessing the Report](https://help.sonatype.com/iqserver/reporting/application-composition-report/accessing-the-report)

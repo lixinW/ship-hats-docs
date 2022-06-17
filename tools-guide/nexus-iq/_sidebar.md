@@ -2,7 +2,7 @@
   - [Nexus IQ](nexus-iq/nexus-iq-overview)
     -	[User Journey](nexus-iq/nexus-iq-user-journey)
     -	[Roles and Permissions](nexus-iq/nexus-iq-roles-and-permissions)
-    - [Provision nexus-iq via SHIP-HATS Portal](nexus-iq/nexus-iq-provision)
+    - [Provision](nexus-iq/nexus-iq-provision)
     - [Access](nexus-iq/nexus-iq-access)
     -	[Add](nexus-iq/nexus-iq-add)
     -	[Modify](nexus-iq/nexus-iq-modify)

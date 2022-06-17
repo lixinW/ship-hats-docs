@@ -6,7 +6,7 @@ SHIP-HATS provides following tools while adhering to security and compliance req
 
 The following table provides a list of tools integrated with SHIP-HATS and the supported version:
 
-Tools | Purpose/Category| Supported Version | Endpoint (URL) |
+|Tools | Purpose/Category| Supported Version | Endpoint (URL) |
 | --- | --- | --- | --- |
 | [Crowd]() | User Group Management for Atlassian tools | 4.3.5 | https://crowd.ship.gov.sg|
 |  [Confluence](confluence/overview) | Documentation and Collaboration |7.14.1 |https://confluence.ship.gov.sg/|

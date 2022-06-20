@@ -2,9 +2,9 @@
 
 **Topics**
 - [Announcements](#announcements)
-- [Service Level Agreement](#service-level-agreement)
-- [Third Party Schedule](#third-party-schedule)
-- [Plugin Review Process](#plugin-review-process)
+- [Service level agreement](#service-level-agreement)
+- [Third party schedule](#third-party-schedule)
+- [Plugin review process](#plugin-review-process)
 
 ## Announcements
 
@@ -26,7 +26,7 @@ The policies and annoucements below have been emailed out to SHIP-HATS users. It
   </details>
 -->
 
-## Service Level Agreement
+## Service level agreement
 This Service Level Agreement (SLA) is between Government
 Technology Agency (GovTech/Service Provider) and the client for all services and service levels in connection to SHIP-HATS (henceforth also known as *Service*).
 
@@ -46,15 +46,18 @@ During the period of the Subscription Term, GovTech will provide:
   ****Resolution Time:** Indicates the time required to provide a permanent or temporary solution with respect to the relevant error and commences from the time GovTech is notified of the error. 
 
 
-## Third Party Schedule 
+## Third party schedule 
 
 All applicable terms and conditions relating to the following: 
-- **Atlassian Service / Data Center Products:** https://www.atlassian.com/legal/privacy-policy/product-family 
-- **OpenVPN:** https://openvpn.net/terms  & https://openvpn.net/license 
 
-<Span style="color:red">OpenVPN is going away. Do we have any other schedule links to mention here?</span>
+|Tool/Service|Link|
+|---|---|
+|Atlassian Service & Data Center Products| https://www.atlassian.com/legal/privacy-policy/product-family 
+|OpenVPN |https://openvpn.net/terms <br><br> https://openvpn.net/license 
+|SonarQube|https://www.gnu.org/licenses/lgpl-3.0.en.html <br><br>https://www.sonarsource.com/docs/sonarsource_terms_and_conditions.pdf
 
-## Plugin Review Process
+
+## Plugin review process
 
 >**Important:** The information provided in this document is for reference only. To request for a plugin review, you must [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11). The information contained herein is subject to change and the plugins can be rejected at the discretion of SHIP-HATS team.  
 

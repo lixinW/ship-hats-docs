@@ -1,0 +1,17 @@
+- **pCloudy**
+  - [pCloudy](pcloudy/pcloudy-overview)
+    -	[User Journey](pcloudy/pcloudy-user-journey)
+    -	[Roles and Permissions](pcloudy/pcloudy-roles-and-permissions)
+    - [Provision](pcloudy/pcloudy-provision)
+    - [Access](pcloudy/pcloudy-access)
+    -	[Add](pcloudy/pcloudy-add)
+    -	[Modify](pcloudy/pcloudy-modify)
+    -	[Remove](pcloudy/pcloudy-remove)
+    - [Best Practices](pcloudy/pcloudy-best-practices)
+    - [FAQs](pcloudy/pcloudy-faqs)
+    - [Troubleshooting](pcloudy/pcloudy-troubleshooting)
+    - [Additional Resources](pcloudy/pcloudy-additional-resources)        
+- **Additional Resources**
+  - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
+  - [Head Over to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
+  - [Head Over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)

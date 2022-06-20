@@ -5,9 +5,10 @@
   - [Gitlab](gitlab/gitlab-overview)  
   - [JIRA](jira/jira-overview) 
   - [Prisma Cloud](prisma-cloud/prisma-cloud-overview)
-  - [pCloudy](pcloud/pcloudy-overview)
+  - [pCloudy](pcloudy/pcloudy-overview)
   - [release tool](release-tool-overview)
   - [SonarQube](sonarqube/sonarqube-overview)
+  - [Thinking Hats](thinking-hats/thinking-hats-overview)
   - [Nexus IQ](nexus-iq/nexus-iq-overview)
   - [Nexus Repository Pro](nexus-repository/nexus-repository-pro-overview)
 

@@ -1,10 +1,16 @@
-- **SonarQube**
-  - [SonarQube](sonarqube/sonarqube-overview)
-    - [Access](sonarqube/sonarqube-access)
-    - [Community Edition](sonarqube/sonarqube-set-up-community-edition)
-    - [Developer Edition](sonarqube/sonarqube-set-up-developer-edition)
-    - [Self Help Guide](sonarqube/sonarqube-self-help-guide)  
-    - [FAQs](sonarqube/sonarqube-faqs)  
+- **Prisma Cloud**
+  - [Prisma Cloud](prisma-cloud/prisma-cloud-overview)
+    -	[User Journey](prisma-cloud/prisma-cloud-user-journey)
+    -	[Roles and Permissions](prisma-cloud/prisma-cloud-roles-and-permissions)
+    - [Provision](prisma-cloud/prisma-cloud-provision)
+    - [Access](prisma-cloud/prisma-cloud-access)
+    -	[Add](prisma-cloud/prisma-cloud-add)
+    -	[Modify](prisma-cloud/prisma-cloud-modify)
+    -	[Remove](prisma-cloud/prisma-cloud-remove)
+    - [Best Practices](prisma-cloud/prisma-cloud-best-practices)
+    - [FAQs](prisma-cloud/prisma-cloud-faqs)
+    - [Troubleshooting](prisma-cloud/prisma-cloud-troubleshooting)
+    - [Additional Resources](prisma-cloud/prisma-cloud-additional-resources)        
 - **Additional Resources**
   - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
   - [Head Over to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)

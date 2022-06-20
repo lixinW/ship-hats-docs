@@ -2,9 +2,9 @@
 >**Note:** The steps may vary based on the validity of the different authenticator tokens.  
 
 
-### To log in to GitLab
+### To log in to Prisma Cloud
 
-1. Go to [GitLab]().  
+1. Go to [Prisma Cloud]().  
     You will be directed to Cloudflare.
 1. Select **Azure AD**.  
     

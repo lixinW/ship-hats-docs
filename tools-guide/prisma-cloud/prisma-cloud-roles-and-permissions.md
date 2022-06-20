@@ -3,10 +3,10 @@
 
 
 **Topics**
-- [SHIP-HATS - GitLab role mapping]()
-- [GitLab Users]()
+- [SHIP-HATS - Prisma Cloud role mapping]()
+- [Prisma Cloud Users]()
 
-## SHIP-HATS - GitLab role mapping
+## SHIP-HATS - Prisma Cloud role mapping
 
 | SHIP-HATS Users | GitLab Users |Description|
 | --- | --- |---|

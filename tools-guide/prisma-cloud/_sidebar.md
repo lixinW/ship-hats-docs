@@ -6,6 +6,7 @@
     - [Access](prisma-cloud/prisma-cloud-access)
     -	[Add](prisma-cloud/prisma-cloud-add)
     -	[Modify](prisma-cloud/prisma-cloud-modify)
+    - [Retrieve token]()
     -	[Remove](prisma-cloud/prisma-cloud-remove)
     - [Best Practices](prisma-cloud/prisma-cloud-best-practices)
     - [FAQs](prisma-cloud/prisma-cloud-faqs)

@@ -5,8 +5,8 @@
 |Task|Owner|
 |---|---|
 |Review users and permissions||
-|Provision GitLab in the SHIP-HATS portal||
-|Add users or user groups in GitLab||
+|Provision Prisma Cloud in the SHIP-HATS portal||
+|Add users or user groups in Prisma Cloud||
 |||
 |||
 |||

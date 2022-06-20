@@ -1,18 +1,5 @@
-# Gitlab
+# Prisma Cloud
 
+Prisma Cloud is a container vulnerability scanner that protects custom container images, configured by subscribers.
 
-
-**Topics**  
-- [Roles and Permissions](#roles-and-permissions)
-- [Access](#access)
-- [FAQs](#faqs)
-
-
-## Roles and Permissions
-
-
-## Access
-
-
-
-## FAQs
+For more information on Prisma Cloud, refer to https://docs.paloaltonetworks.com/prisma/prisma-cloud.html

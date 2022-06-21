@@ -7,6 +7,7 @@
 - [Manage user groups within a project tool](#manage-user-groups-within-a-project-tool)
 - [Manage users within a project tool](#manage-users-within-a-project-tool)
 - [Retrieve token](#retrieve-token)
+- [Renew token](#renew-token)
 - [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)
 - [Remove project tools](#remove-project-tools)
 - [Remove applications from a project tool](#remove-applications-from-a-project-tool)
@@ -151,9 +152,10 @@ You can retrieve token for the following project tools:
 - Fortify SCA & WebInspect 
 - Container Image Scanner
 - Nexus IQ
+- pCloudy Device Farm & HATS Browser Farm
 - SonarQube
 
-### To retrive token
+### To retrieve token
 1. Go to **Projects** > **All Projects**.
 
     <kbd>![All Projects](./images/portal-projects-all-projects.png)</kbd>
@@ -163,6 +165,34 @@ You can retrieve token for the following project tools:
 1. If requested, select the app name.
     The token appears under the **Token/Decoded Token ID** field. 
 1. Click the **Copy** button next to the token to copy the token.
+
+## Renew Token
+
+You can renew token for the following tools:
+- Fortify SCA & WebInspect
+- SonarQube
+
+### To renew an expired token
+
+1. From the side menu, click  **Projects**  >  **All Projects**  to view all the projects in this subscription account. If needed, refer to [**Switch account**](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-account?id=switch-account).
+2. Find the project, and then click  **Manage**.
+3. Click **QA &amp; Security**.
+
+4. Click **Manage**. 
+    
+    The **Manage Tool** pane is displayed.
+
+5. Click the drop-down arrow, and then choose **Token**. The option may vary based on tool selected.
+
+6. Click **Renew Token**.
+
+    <kbd>![Renew Token](renew-token.png ':size=75%')</kbd>
+    A message appears, indicating that the token renewal is in progress. 
+
+    <kbd>![Renew Token In Progress](renew-token-inprogress.png ':size=75%')</kbd>
+
+1. Refresh the page to get the new token. 
+
 
 
 ## Remove user groups from a project tool

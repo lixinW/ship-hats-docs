@@ -186,10 +186,10 @@ You can renew token for the following tools:
 
 6. Click **Renew Token**.
 
-    <kbd>![Renew Token](renew-token.png ':size=75%')</kbd>
+    <kbd>![Renew Token](./images/renew-token.png ':size=75%')</kbd>
     A message appears, indicating that the token renewal is in progress. 
 
-    <kbd>![Renew Token In Progress](renew-token-inprogress.png ':size=75%')</kbd>
+    <kbd>![Renew Token In Progress](./images/renew-token-inprogress.png ':size=75%')</kbd>
 
 1. Refresh the page to get the new token. 
 

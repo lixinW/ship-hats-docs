@@ -53,15 +53,15 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 1. Under the **Development** tab, click **Add tool**.
 1. Choose the required tool.
 
-    ![Add new Development tool](add-new-dev-tool.png)
+    ![Add new Development tool](./images/add-new-dev-tool.png)
 
 1.  Select **Customise Project Key**.
 
-    ![customise](customise.png)
+    ![customise](./images/customise.png)
 
 1. Enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
 
-    ![add](addnewkey.png)
+    ![add](./images/addnewkey.png)
 
 
 ## Add applications to a project tool
@@ -77,7 +77,7 @@ By default, when you add a project tool, an application is added. However, you c
 ### To add an application to a project tool
 1. Go to **Projects** > **All Projects**.
 
-    <kbd>![All Projects](portal-projects-all-projects.png)</kbd>
+    <kbd>![All Projects](./images/portal-projects-all-projects.png)</kbd>
 
 1. Navigate to your project, and then click **Manage**.
 1. Go to the required tab, and then click **Add another** under the project tool to which you want to add another application.  
@@ -100,17 +100,17 @@ You can manage user groups and permissions/roles for the following tools:
 
 1. Go to **Projects** > **All Projects**.
 
-    <kbd>![All Projects](portal-projects-all-projects.png)</kbd>
+    <kbd>![All Projects](./images/portal-projects-all-projects.png)</kbd>
 
 1. Navigate to your project, and then click **Manage** on the project tool for which you want to manage/add user groups. 
 
 1. In the **Manage Tool** window that appears, from the dropdown, select **Manage/add user group**. 
     - **SonarQube:** Provide values in the **App Name** and **User Group** fields, and then select the required permissions. The **Browse** permission is selected by default along with any other permission.
 
-        <kbd>![Manage Tool](sonarqube-manage-user-group.png ':size=60%')
+        <kbd>![Manage Tool](./images/sonarqube-manage-user-group.png ':size=60%')
     - **Nexus IQ:** Provide value in the **User Group** field, and then select the required roles.
         
-        <kbd>![Manage Tool](nexus-iq-manage-user-group.png  ':size=60%')</kbd> 
+        <kbd>![Manage Tool](./images/nexus-iq-manage-user-group.png  ':size=60%')</kbd> 
 1. Click **Update**.
     The permissions or roles are updated in the portal as well as respective tools. Any permissions assigned via portal will override the previously assigned permissions in NexusIQ at the app level.
 
@@ -125,7 +125,7 @@ As a Subscription Admin or a Project Admin, you can manage users within a projec
 
 1. Go to **Projects** > **All Projects**.
 
-    <kbd>![All Projects](portal-projects-all-projects.png)</kbd>
+    <kbd>![All Projects](./images/portal-projects-all-projects.png)</kbd>
 
 1. Navigate to your project, and then select **Manage**.
 1. Go to the required tab, and then click **Manage** on the project tool whose users you want to manage. The **Manage Tool** window appears. 
@@ -141,7 +141,7 @@ As a Subscription Admin or a Project Admin, you can manage users within a projec
 
     >**Note:** For the Atlassian apps (Confluence and JIRA), in the **Manage Tool** window, the link to tool or app server, includes the project key that you selected. This enables you to get to the project in the tool or app server directly. 
     >
-    ><kbd>![All Projects](portal-projects-manage-users.png  ':size=60%')</kbd>
+    ><kbd>![All Projects](./images/portal-projects-manage-users.png  ':size=60%')</kbd>
 
 
 ## Retrieve token 
@@ -156,7 +156,7 @@ You can retrieve token for the following project tools:
 ### To retrive token
 1. Go to **Projects** > **All Projects**.
 
-    <kbd>![All Projects](portal-projects-all-projects.png)</kbd>
+    <kbd>![All Projects](./images/portal-projects-all-projects.png)</kbd>
 
 1. Navigate to your project, and then click **Manage** on the project tool for which you want to retrieve the token. 
 1. In the **Manage Tool** window that appears, from the dropdown, select **Token for bamboo pipeline**. 
@@ -175,7 +175,7 @@ As a Subscription Admin or a Project Admin, you can remove permissions and roles
 
 1. Go to **Projects** > **All Projects**.
 
-    <kbd>![All Projects](portal-projects-all-projects.png)</kbd>
+    <kbd>![All Projects](./images/portal-projects-all-projects.png)</kbd>
 
 1. Navigate to your project, and then click **Manage** on the project tool for which you want to manage/add user groups. 
 1. In the **Manage Tool** window that appears, from the dropdown, select **Manage/add user group**. 
@@ -204,15 +204,15 @@ As a Subscription Admin or a Project Admin, you can remove a tool or an app when
 1. From the dropdown, select **Remove App**. 
     **Select App to Remove:** appears, displaying a list of apps. 
 
-    ![removetool](removetool.png)
+    ![removetool](./images/removetool.png)
 
 1. Next to the app that want to remove, click **Remove**.  
     The **Remove** window appears.
 
-    ![remove](confirmremove.png)
+    ![remove](./images/confirmremove.png)
 1. Enter the requested information, and then click **Proceed**.  
 
-    ![proceed](proceed.png)
+    ![proceed](./images/proceed.png)
     The selected app is removed. If this the last app for the tool, the project tool is also removed. 
 
 
@@ -238,13 +238,13 @@ You can remove app from the following project tools:
 1. From the dropdown, select **Remove App**. 
     **Select App to Remove:** appears, displaying a list of apps. 
 
-    ![removetool](removetool.png)
+    ![removetool](./images/removetool.png)
 
 1. Next to the app that want to remove, click **Remove**.  
     The **Remove** window appears.
 
-    ![remove](confirmremove.png)
+    ![remove](./images/confirmremove.png)
 1. Enter the requested information, and then click **Proceed**.  
 
-    ![proceed](proceed.png)
+    ![proceed](./images/proceed.png)
     The selected app is removed. If this the last app for the tool, the project tool is also removed. 

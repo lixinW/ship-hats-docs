@@ -20,7 +20,7 @@ Subscription Admin (SA) and Project Admin (PA) can invite and add users to the s
 1. From the side menu, click **Users > Invite Users**. An invitation link is automatically generated.  
 By default, a new invitation link has a 14 days expiry date.  Whenever you invite new users, the same link will be displayed with the remaining expiry date until it expires. In the example below, SA invites a new user to SHIP-HATS. As the invite was created 2 days earlier, the link is valid for the next 12 days.
 
-   <kbd>![Invite Users](invite-users.png ':size=100%')</kbd>
+   <kbd>![Invite Users](./images/invite-users.png ':size=100%')</kbd>
 
 1. Click **Email me** to send this link with the expiry date to your SHIP-HATS registered email address and forward it to the intended users so that they can provide required information in the **Invitation Form**.  
 Alternatively, click the copy icon to copy and share the invite link with intended users. Note, in this case, make sure to inform the users about the expiry date of this link.
@@ -47,7 +47,7 @@ Access the link via the onboarding email and perform the following steps based o
    - **Require SEED Account:** Select this checkbox if the user requires a SEED account. This account is required only for a user who is actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.  
 <br />
 
-   <kbd>![Create Account](create-account.png ':size=100%')</kbd>
+   <kbd>![Create Account](./images/create-account.png ':size=100%')</kbd>
 
 ### **Vendor**
 
@@ -55,7 +55,7 @@ Access the link via the onboarding email and perform the following steps based o
 
 1. In the Invitation form, select the role as **Vendor**.  
 
-   <kbd>![Create Vendor Account](new-account-vendor.png ':size=60%')</kbd>
+   <kbd>![Create Vendor Account](./images/new-account-vendor.png ':size=60%')</kbd>
 1. Enter the following details, and then click **Submit**.  
 
    |Field|Description|
@@ -69,7 +69,7 @@ Access the link via the onboarding email and perform the following steps based o
    | **Require SEED Account**| Select this checkbox if the user require a SEED account. This account is required only for users who are actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.  
 <br />
    
-   <kbd>![Create Account](create-vendor-account.png ':size=100%')</kbd>
+   <kbd>![Create Account](./images/create-vendor-account.png ':size=100%')</kbd>
 
 <!-- tabs:end -->
 
@@ -81,7 +81,7 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switching account](manage-account).
 
-   <kbd>![Pending User Approval Notification](pending_user_approval_notification.png ':size=100%')</kbd>
+   <kbd>![Pending User Approval Notification](./images/pending_user_approval_notification.png ':size=100%')</kbd>
 
    If there is a pending user approval task for you, it will be displayed in the **ALERTS** section.  
 
@@ -91,15 +91,15 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
    
    If there is a pending user approval task, the **Pending** section will display the number of users pending approval. Here, you can view the users that are pending your approval along with their email address.  
 
-   <kbd>![Add User](tp-add-user.png ':size=100%')</kbd>   
+   <kbd>![Add User](./images/tp-add-user.png ':size=100%')</kbd>   
     
    Only email addresses that are included in our approved list will be approved. If you provide an email address that is not included in our approved list, in the SHIP-HATS portal when approving the user, you will see a message indicating that this domain will be required to be included in TechPass. As required, you may select the **Proceed to whitelist domain** option to raise a service request. 
    
-   <kbd>![Unapproved Domain](vendor-unapproved-user-domain.png ':size=100%')</kbd>
+   <kbd>![Unapproved Domain](./images/vendor-unapproved-user-domain.png ':size=100%')</kbd>
 
 3. Click **Approve** corresponding to the user.
 
-   <kbd>![Approve](tp-approve-user.png ':size=100%')</kbd>
+   <kbd>![Approve](./images/tp-approve-user.png ':size=100%')</kbd>
 
 4. In **Grant user access for:**, You can choose which tools to give access to. Following options are available:
    

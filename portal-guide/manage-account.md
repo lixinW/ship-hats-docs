@@ -15,11 +15,11 @@ If you are a SA or PA for more than one subscription account in SHIP-HATS, you m
 
 1. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page and choose **Switch account**.
 
-    <kbd>![switch-account](switch-account.png ':size=100%')</kbd>
+    <kbd>![switch-account](./images/switch-account.png ':size=100%')</kbd>
 
 1. Choose the required billing account to view its dashboard.
 
-    <kbd>![switch-account](switch-account-choose-account.png ':size=100%')</kbd>
+    <kbd>![switch-account](./images/switch-account-choose-account.png ':size=100%')</kbd>
 
 
 
@@ -31,17 +31,17 @@ SA and PA can view the plan details of their subscription account(s) from the da
 
 1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
-    <kbd>![plan-details](plan-details.png ':size=100%')</kbd>
+    <kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>
 
 1. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page and choose **Plan Details**.
 
-    <kbd>![plan-details](plan-details-1.png ':size=50%')</kbd>
+    <kbd>![plan-details](./images/plan-details-1.png ':size=50%')</kbd>
 
     Alternatively, click **Plan details** from **Overview** as shown below.
 
     >**Note:** SHIP-HATS users other than SA and PA can view their associated subscription account details, such as **Billing Account Name** and **Billing Account Number**, from their **Profile** page as shown below. Refer to [Access user profile](#view-user-profile) and [Update user profile](users-self-help) for additional information.
     >
-    ><kbd>![View Subscription Details](view-subscription-details-for-other-users.png ':size=75%')</kbd>
+    ><kbd>![View Subscription Details](./images/view-subscription-details-for-other-users.png ':size=75%')</kbd>
 
 ## View billing information
 
@@ -52,13 +52,13 @@ If you are a Subscription Admin, you will be able to view the billing informatio
 1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
 
-    <kbd>![billing-info-menu](billing-info-menu.png ':size=75%')</kbd>
+    <kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>
 
     You can view information in the following three sections: Billing Information, Approver Information, and Signed Service Sheets (SS).
 
     - **Billing Information**
 
-        <kbd>![billing-information](billing-information.png ':size=75%')</kbd>
+        <kbd>![billing-information](./images/billing-information.png ':size=75%')</kbd>
 
         >**Note:** GL Account is applicable for GovTech agencies and Sub-Business Unit is applicable for non-GovTech agencies.
 
@@ -66,13 +66,13 @@ If you are a Subscription Admin, you will be able to view the billing informatio
 
         You can find the approver details for this account.
 
-        <kbd>![approver-information](approver-information.png ':size=75%')</kbd>
+        <kbd>![approver-information](./images/approver-information.png ':size=75%')</kbd>
 
     - **Signed Service Sheets(SS)**
 
         You can find the signed service sheets for this account.
 
-        <kbd>![signed-service-sheet](signed-ss.png ':size=75%')</kbd>
+        <kbd>![signed-service-sheet](./images/signed-ss.png ':size=75%')</kbd>
 
 ## Modify billing information
 If you are a Subscription Admin, you will be able to modify the billing information of their subscription account(s).
@@ -82,13 +82,13 @@ If you are a Subscription Admin, you will be able to modify the billing informat
 1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
 
-    <kbd>![billing-info-menu](billing-info-menu.png ':size=75%')</kbd>
+    <kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>
 
     You can view information in the following three sections: Billing Information, Approver Information, and Signed Service Sheets (SS).
 
     - **Billing Information**
 
-        <kbd>![billing-information](billing-information.png ':size=75%')</kbd>
+        <kbd>![billing-information](./images/billing-information.png ':size=75%')</kbd>
 
         SA can edit all the details in this section except **Billing Agency**.
 
@@ -98,13 +98,13 @@ If you are a Subscription Admin, you will be able to modify the billing informat
 
         You can find the approver details for this account.
 
-        <kbd>![approver-information](approver-information.png ':size=75%')</kbd>
+        <kbd>![approver-information](./images/approver-information.png ':size=75%')</kbd>
 
     - **Signed Service Sheets(SS)**
 
         You can find the signed service sheets for this account.
 
-        <kbd>![signed-service-sheet](signed-ss.png ':size=75%')</kbd>
+        <kbd>![signed-service-sheet](./images/signed-ss.png ':size=75%')</kbd>
 
 ## Update admin profile
 SA and PA can update their profile from the **[Overview](access-ship-hats-portal)** page.
@@ -113,12 +113,12 @@ SA and PA can update their profile from the **[Overview](access-ship-hats-porta
 
 1. From the **[Overview](access-ship-hats-portal)** page, hover over your profile icon at the upper-right corner. Your user name and user role for this account are displayed. In the below example, the logged in user is a **Subscription Admin** for this account.
 
-    <kbd>![view-and-update-profile-user-role-and-name-blurred](view-and-update-profile-user-role-and-name-blurred.png ':size=75%')</kbd>
+    <kbd>![view-and-update-profile-user-role-and-name-blurred](./images/view-and-update-profile-user-role-and-name-blurred.png ':size=75%')</kbd>
 
 1. Choose **View Profile**. Your personal information and details of accounts in which you are SA and PA are listed.
 1. To update your **Personal Information**, click the edit icon.
 
-    <kbd>![edit-profile-details-blurred](edit-profile-details-blurred.png ':size=75%')</kbd>
+    <kbd>![edit-profile-details-blurred](./images/edit-profile-details-blurred.png ':size=75%')</kbd>
 
 
 ## Off-board an Account

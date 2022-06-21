@@ -30,7 +30,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
    **Last Login**|Indicates the date and time when the user logged in the last time.
    **Action**|Enables you to [Manage access](#manage-accessmanage-access) and [Remove User](#remove-usersremove-users).
 
-   <kbd>![all-users-new](all-users-new.png ':size=100%')</kbd>
+   <kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>
 
    You can perform following additional functions on this screen:
    - **Sort:** You can sort this list in ascending or descending order by one of the following options:
@@ -42,7 +42,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
       - Last Login
     - **Search:** You can quickly search for a user by typing the username in the search box.
 
-       <kbd>![search_user](export-csv.png ':size=100%')</kbd>
+       <kbd>![search_user](./images/export-csv.png ':size=100%')</kbd>
 
     - **Download:** If you want to download the user list as a .csv file to your local machine, click **Export CSV**. This csv lists the active and removed users along with the approval and removal details. For more details, refer to the [Generate a User Report](#generate-a-user-report) documentation.
 
@@ -54,7 +54,7 @@ You can generate a report to view all details for the active and removed users.
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 1. From the side menu, click **Users > All Users**.
 
-   <kbd>![all-users-new](all-users-new.png ':size=100%')</kbd>
+   <kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>
 
 1. Click **Export CSV**.  
    The CSV report is downloaded to the your machine with the following details:
@@ -86,15 +86,15 @@ You can generate a report to view all details for the active and removed users.
 
 1. From the side menu, click **Users > All Users**.
 
-   <kbd>![all-users-new](all-users-new.png ':size=100%')</kbd>
+   <kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>
 
 1. Search for the user whose access you want to manage. 
-1. From the **Action** column, click ![3 dots](3_dot.png) corresponding to the user.  
+1. From the **Action** column, click ![3 dots](./images/3_dot.png) corresponding to the user.  
 1. Select **Manage Access**, and then select the tools that you want to enable for the user. Following options are available: 
    - **CI tools:** Select this option if the user is required to have access to JIRA, Confluence, Bitbucket, Bamboo, pCloudy, SonarQube, Fortify SCA & WebInspect, and Prisma Cloud services.
    - **SonaType tools:** Select this option if the user is required to have access to Nexus Repository and Nexus IQ Scan services.
 
-   <kbd>![manage-access](manage-access.png ':size=100%')</kbd>
+   <kbd>![manage-access](./images/manage-access.png ':size=100%')</kbd>
 
 1. Click **Proceed**.  
    A confirmation message appears, indicating that the user will receive an email regarding the change. 
@@ -113,7 +113,7 @@ If SHIP-HATS users are inactive for 60 consecutive days, their status changes fr
 
 On day 91, if the user is still inactive on SHIP-HATS, user status changes from **sleeping user** to **suspended user**, indicated by a grey avatar.  
 
-<kbd>![profile-legends](profile-legends.png ':size=100%')</kbd>
+<kbd>![profile-legends](./images/profile-legends.png ':size=100%')</kbd>
 
 <!--SA and PA can reactivate a suspended user back to their account if required.-->
 
@@ -126,9 +126,9 @@ If you are **not a TechPass user**, the SA or PA can complete the following step
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).  
 1.  From the side menu, click **Users > All Users**.  
-1. Search for the user to be reactivated and from the **Action** column, click ![3_dot](3_dot.png) corresponding to the user.  
+1. Search for the user to be reactivated and from the **Action** column, click ![3_dot](./images/3_dot.png) corresponding to the user.  
 
-   <kbd>![user_status_2](user_status_2.png ':size=100%')</kbd><br />
+   <kbd>![user_status_2](./images/user_status_2.png ':size=100%')</kbd><br />
    
    > **Tip:** Refer to [Viewing users](#view-users) to know how to search for users  
 
@@ -157,10 +157,10 @@ We recommend Subscription Admin (SA) and Project Admin (PA) to periodically revi
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
 Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 1. From the side menu, click **Users > All Users**.
-1. Search for the user to be removed and from the **Action** column, click ![3_dot](3_dot.png) corresponding to the user.
+1. Search for the user to be removed and from the **Action** column, click ![3_dot](./images/3_dot.png) corresponding to the user.
    >**Tip:** Refer to [View users](#view-users) to know how to search for users and to sort by **Quota Consumed**.
 
-   <kbd>![remove_user](remove-users-2.png ':size=100%')</kbd>
+   <kbd>![remove_user](./images/remove-users-2.png ':size=100%')</kbd>
 
 1. Choose **Remove User**.
 

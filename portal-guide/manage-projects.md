@@ -15,7 +15,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 
     >**Tip:** Alternatively, if you are viewing **All Projects**, click **Create Project**.  
 
-    <kbd>![Create New Project](create-new-project.png ':size=100%')</kbd>
+    <kbd>![Create New Project](./images/create-new-project.png ':size=100%')</kbd>
 
 1. Provide information in the following fields:
 
@@ -29,7 +29,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
     
     The created project details are displayed as shown below.
 
-    <kbd>![Newly Created Project](newly-created-project.png ':size=100%')</kbd>
+    <kbd>![Newly Created Project](./images/newly-created-project.png ':size=100%')</kbd>
 
     SA or PA can add tools and additional PAs. 
     
@@ -48,7 +48,7 @@ SA and PAs of a subscription account can view all the projects of the subscripti
 
     Tile view of all the projects in this subscription account is displayed. If needed, refer to [Switch account](manage-account).
 
-    <kbd>![View All Projects](view-all-projects-tile-view.png ':size=100%')</kbd>
+    <kbd>![View All Projects](./images/view-all-projects-tile-view.png ':size=100%')</kbd>
 
 1. Click **Manage** to view tools that are currently added to the project.
 
@@ -59,9 +59,9 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 ### To remove a project
 
 1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
-1. Locate the project, and then click **Manage**. You will see ![Remove Project Icon](remove-project-icon.png) next to the project name as shown below.
+1. Locate the project, and then click **Manage**. You will see ![Remove Project Icon](./images/remove-project-icon.png) next to the project name as shown below.
 
-    <kbd>![Remove Projects](remove-project.png ':size=100%')</kbd>
+    <kbd>![Remove Projects](./images/remove-project.png ':size=100%')</kbd>
 
 1. Click the three dots, and then choose **Remove project**.
 

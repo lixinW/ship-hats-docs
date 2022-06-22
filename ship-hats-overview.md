@@ -14,7 +14,7 @@ By offering a common development platform, automating delivery of applications a
 </ifigure>
 
 <!--
-[![Learn the Importance of CI/CD](learn-ci-cd-important.png)](https://youtu.be/RlZCyexsJBc?t=260)
+[![Learn the Importance of CI/CD](./images/learn-ci-cd-important.png)](https://youtu.be/RlZCyexsJBc?t=260)
 -->
 
 ## Features
@@ -41,7 +41,7 @@ SHIP-HATS drives best practices and policy compliance requirements. The platform
 
 For information on tools, refer to the [Tools in SHIP-HATS](#tools-in-ship-hats) section.
 
-![Architecture](architecture.png)
+![Architecture](./images/architecture.png)
 
 ## Terminology
 This documentation uses the following terminology:

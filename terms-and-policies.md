@@ -78,4 +78,4 @@ Following are the minimum requirements for a plugin request:
 
 Following diagram shows the plugin review process:
 
-![Plugin Review Process](plugin-review-process.png)
+![Plugin Review Process](./images/plugin-review-process.png)

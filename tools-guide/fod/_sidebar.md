@@ -1,4 +1,4 @@
-- **fod**
+- **Fortify on Demand**
   - [Overview](fod/fod-overview)
   -	[User Journey](fod/fod-user-journey)
   - [User roles and permissions](fod/fod-user-roles-and-permissions)

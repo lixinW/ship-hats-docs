@@ -1,7 +1,7 @@
 - **Tools**
   - [Overview](tools-overview) 
   - [Confluence](confluence/confluence-overview)
-  - [Fortify-on Demand](fod/fortify-on-demand-overview)
+  - [Fortify-on Demand](fod/fod-overview)
   - [Gitlab](gitlab/gitlab-overview)  
   - [JIRA](jira/jira-overview) 
   - [Prisma Cloud](prisma-cloud/prisma-cloud-overview)

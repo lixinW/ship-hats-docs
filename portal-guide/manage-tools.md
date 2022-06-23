@@ -1,16 +1,27 @@
 # Manage Tools and Applications
 
 **Topics**
-- [Add project tools](#add-project-tools)
-- [Create project tool with customised project key](#create-project-tool-with-customised-project-key)
-- [Add applications to a project tool](#add-applications-to-a-project-tool)
-- [Manage user groups within a project tool](#manage-user-groups-within-a-project-tool)
-- [Manage users within a project tool](#manage-users-within-a-project-tool)
-- [Retrieve token](#retrieve-token)
-- [Renew token](#renew-token)
-- [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)
-- [Remove project tools](#remove-project-tools)
-- [Remove applications from a project tool](#remove-applications-from-a-project-tool)
+- [Manage Tools and Applications](#manage-tools-and-applications)
+  - [Add project tools](#add-project-tools)
+    - [To add project tools](#to-add-project-tools)
+  - [Create project tool with customised project key](#create-project-tool-with-customised-project-key)
+    - [To customise project key](#to-customise-project-key)
+  - [Add applications to a project tool](#add-applications-to-a-project-tool)
+    - [To add an application to a project tool](#to-add-an-application-to-a-project-tool)
+  - [Manage user groups within a project tool](#manage-user-groups-within-a-project-tool)
+    - [To manage user groups for your project tool or app](#to-manage-user-groups-for-your-project-tool-or-app)
+  - [Manage users within a Project Tool](#manage-users-within-a-project-tool)
+    - [To manage users for your project tool or app](#to-manage-users-for-your-project-tool-or-app)
+  - [Retrieve token](#retrieve-token)
+    - [To retrieve token](#to-retrieve-token)
+  - [Renew Token](#renew-token)
+    - [To renew an expired token](#to-renew-an-expired-token)
+  - [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)
+    - [To remove user groups for your project tool or app](#to-remove-user-groups-for-your-project-tool-or-app)
+  - [Remove project tools](#remove-project-tools)
+    - [To remove a project tool](#to-remove-a-project-tool)
+  - [Remove applications from a project tool](#remove-applications-from-a-project-tool)
+    - [To remove an app](#to-remove-an-app)
 
 ## Add project tools
 
@@ -278,3 +289,7 @@ You can remove app from the following project tools:
 
     ![proceed](./images/proceed.png)
     The selected app is removed. If this the last app for the tool, the project tool is also removed. 
+
+This is a test scenario.
+[Snippet Sample](../snippets/snippet-sample.md ':include')
+

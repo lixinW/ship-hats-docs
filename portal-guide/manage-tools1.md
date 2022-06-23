@@ -278,3 +278,10 @@ You can remove app from the following project tools:
 
     ![proceed](./images/proceed.png)
     The selected app is removed. If this the last app for the tool, the project tool is also removed. 
+
+This is a test scenario.  
+
+[Snippet Sample](../snippets/snippet-sample.md ':include')
+
+
+/Users/nsearch/Documents/GitHub/ship-hats-docs/snippets

@@ -290,6 +290,15 @@ You can remove app from the following project tools:
     ![proceed](./images/proceed.png)
     The selected app is removed. If this the last app for the tool, the project tool is also removed. 
 
-This is a test scenario.
+This is a test scenario.  
+
 [Snippet Sample](../snippets/snippet-sample.md ':include')
 
+<link rel="stylesheet" href="/main/css/basic.css" type="text/css" media="screen" />
+
+
+<link rel="stylesheet" href="../css/basic.css" type="text/css" media="screen" />
+
+this is second test
+
+[Snippet Sample]("/ship-hats-docs/snippets/snippet-sample.md" ':include')

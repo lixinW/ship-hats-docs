@@ -294,11 +294,5 @@ This is a test scenario.
 
 [Snippet Sample](../snippets/snippet-sample.md ':include')
 
-<link rel="stylesheet" href="/main/css/basic.css" type="text/css" media="screen" />
 
-
-<link rel="stylesheet" href="../css/basic.css" type="text/css" media="screen" />
-
-this is second test
-
-[Snippet Sample]("/ship-hats-docs/snippets/snippet-sample.md" ':include')
+/Users/nsearch/Documents/GitHub/ship-hats-docs/snippets

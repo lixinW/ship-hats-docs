@@ -3,12 +3,12 @@
 
 
 **Topics**
-- [SHIP-HATS - GitLab role mapping]()
-- [GitLab Users]()
+- [SHIP-HATS - Purple Hats role mapping]()
+- [Purple Hats Users]()
 
-## SHIP-HATS - GitLab role mapping
+## SHIP-HATS - Purple Hats role mapping
 
-| SHIP-HATS Users | GitLab Users |Description|
+| SHIP-HATS Users | Purple Hats Users |Description|
 | --- | --- |---|
 | |||
 

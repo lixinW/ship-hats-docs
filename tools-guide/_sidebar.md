@@ -1,5 +1,6 @@
 - **Tools**
   - [Overview](tools-overview) 
+  - [Service accounts](service-accounts)
   - [Confluence](confluence/confluence-overview)
   - [Fortify-on Demand](fod/fod-overview)
   - [Gitlab](gitlab/gitlab-overview)  

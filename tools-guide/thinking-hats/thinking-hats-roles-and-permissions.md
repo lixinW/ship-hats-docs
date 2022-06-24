@@ -3,12 +3,12 @@
 
 
 **Topics**
-- [SHIP-HATS - GitLab role mapping]()
-- [GitLab Users]()
+- [SHIP-HATS - Thinking Hats role mapping]()
+- [Thinking Hats Users]()
 
-## SHIP-HATS - GitLab role mapping
+## SHIP-HATS - Thinking Hats role mapping
 
-| SHIP-HATS Users | GitLab Users |Description|
+| SHIP-HATS Users | Thinking Hats Users |Description|
 | --- | --- |---|
 | |||
 

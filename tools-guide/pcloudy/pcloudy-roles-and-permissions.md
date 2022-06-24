@@ -3,12 +3,12 @@
 
 
 **Topics**
-- [SHIP-HATS - GitLab role mapping]()
-- [GitLab Users]()
+- [SHIP-HATS - pCloudy role mapping]()
+- [pCloudy Users]()
 
-## SHIP-HATS - GitLab role mapping
+## SHIP-HATS - pCloudy role mapping
 
-| SHIP-HATS Users | GitLab Users |Description|
+| SHIP-HATS Users | pCloudy Users |Description|
 | --- | --- |---|
 | |||
 

@@ -4,7 +4,7 @@ Purple HATS can perform the following to scan the target URL.
 - Results will be compiled in JSON format, followed by generating a HTML report.
 - To start using Purple HATS, run `node index`. Questions will be prompted to assist you in providing the right inputs.
 
-> NOTE: For your initial scan, there may be some loading time required before use.
+> **NOTE:** For your initial scan, there may be some loading time required before use.
 
 ## Scan Selection
 You can interact via your arrow keys.

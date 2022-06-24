@@ -6,6 +6,7 @@
     - [Access](purple-hats/purple-hats-access)
     -	[Add](purple-hats/purple-hats-add)
     - [Map](purple-hats/purple-hats-map-axe-to-wcag)
+    - [Scan](purple-hats/purple-hats-scan)
     -	[Modify](purple-hats/purple-hats-modify)
     -	[Remove](purple-hats/purple-hats-remove)
     - [Best Practices](purple-hats/purple-hats-best-practices)

@@ -1,11 +1,29 @@
 # Provision Purple Hats
 
+## Prerequisites
 
-### To provision Purple Hats, you need to onboarding and dedicating HATS Linux Elastic Agent
+Ensure the following requirements are met:
+- **Node.js version to be version 15.10.0 and above.**
+- If you do not have node, or if there is a need to manage your node versions, you can consider using [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm).
+- Make sure NVM is pointing to a node version >= 15.10.0. Refere to [Node Version Manager (NVM)](#node-version-manager-(NVM))
+- Install the required NPM packages with `npm install`.
 
-- If you have onboarded SHIP-HATS previously, you would have a dedicated Linux elastic agent to perform the security scans with Fortify and/or SonarQube. You can use the same Linux agent for Purple HATS scan as well.
+### Node Version Manager (NVM)
+```shell
+# If have not installed a version >= v15, install NodeJs version with NVM
+nvm install <nodejs_version_greater_than_15>
 
-- If you are new, please raise a [HATS service request](https://go.gov.sg/hats-ssd) to request for dedication of elastic agent. Include information on Bamboo build project/build plan for your project.
+# For subsequent use, you will need to run the command below as time you open a new terminal
+nvm use <nodejs_version_greater_than_15>
+```
+
+### To provision Purple Hats, onboard and dedicate HATS Linux Elastic Agent
+
+- **Existing user:** If you have onboarded SHIP-HATS previously, you would have a dedicated Linux elastic agent to perform the security scans with Fortify and/or SonarQube. You can use the same Linux agent for Purple HATS scan as well.
+
+- **New user:** If you are new, please raise a [HATS service request](https://go.gov.sg/hats-ssd) to request for dedicated elastic agent. Include information on Bamboo build project/build plan for your project.
+To enable Purple HATS, [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/group/57). 
+
 
 <!--
 You can provision GitLab by:

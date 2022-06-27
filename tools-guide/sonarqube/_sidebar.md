@@ -1,6 +1,6 @@
 - **SonarQube**
   - [SonarQube](sonarqube/sonarqube-overview)
-    - [Users and permissions](sonarqube/sonarqube-users-and-permissions)
+    - [Roles and permissions](sonarqube/sonarqube-users-and-permissions)
     - [User journey](sonarqube/sonarqube-user-journey)
     - [Provision](sonarqube/sonarqube-provision)
     - [Access](sonarqube/sonarqube-access)

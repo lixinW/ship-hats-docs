@@ -5,8 +5,6 @@
 - [Create quality gate](#create-quality-gate)
 - [Sample metric tables](#sample-metric-tables)
 
-
-
 ## Create quality gate
 
 ### To create a customized quality gate and profile
@@ -20,7 +18,7 @@
     - Applications to assign gates to
     - Project Owner name and Agency name to seek approval from
 
-2. After the Agency or Project Owner approves, we will create the gates and assign to the applications.
+1. After the Agency or Project Owner approves, we will create the gates and assign to the applications.
 
 ### An example of metrics required 
 

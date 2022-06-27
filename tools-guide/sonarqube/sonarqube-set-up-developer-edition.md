@@ -1,19 +1,19 @@
-# Set up SonarQube Developer Edition
+# Set up SonarQube developer edition
 
 To set up SonarQube Developer edition, complete the following steps:
 
-1. [Retrieve App Key and Token ID](#retrieve-app-key-and-token-id)
-2. [Configure Bamboo Plan](#configure-bamboo-plan)
-3. [Set up Sonar Scan for Different Languages](#sonar-scan-for-different-languages)
-4. [Test Coverage](#test-coverage)
+1. [Retrieve app key and token ID](#retrieve-app-key-and-token-id)
+2. [Configure Bamboo plan](#configure-bamboo-plan)
+3. [Set up Sonar scan for different languages](#sonar-scan-for-different-languages)
+4. [Test coverage](#test-coverage)
 
 ---
 
-## Retrieve App Key and Token ID
+## Retrieve app key and token ID
 
 Only **Project Admin (PA)** can get the details of the SonarQube application. Please contact your **PA** to retrieve **App Key** and **Token ID**.
 
-### Pre-requisites
+### Prerequisites
 
 - All Project Admins must log in to https://sonar1.hats.stack.gov.sg/sonar with their SHIP LDAP credentials to trigger the account creation.
 - This also applies to project admins that are added subsequently. In this case, the project admins must log in before being assigned as a project admin. 
@@ -24,7 +24,7 @@ Failing to so may result in an error when either of the scenarios occurs:
 
 ---
 
-### To retrieve App Key and Token ID
+### To retrieve app key and token ID
 
 1. Go to https://www.ship.gov.sg, and then log in with your SHIP Credentials.
 
@@ -47,7 +47,7 @@ Failing to so may result in an error when either of the scenarios occurs:
 ---
 
 
-## Configure Bamboo Plan
+## Configure Bamboo plan
 
 **Topics**
 - [Configure Repositories (Bitbucket)](#configure-repositories-bitbucket)
@@ -56,7 +56,7 @@ Failing to so may result in an error when either of the scenarios occurs:
 - [Configure Tasks](#configure-tasks)
 - [Configure Branches (Optional)](#configure-branches)
 
-### Configure Repositories (Bitbucket)
+### Configure repositories (Bitbucket)
 
 1.  Sample repository from Bitbucket. We will run the SonarQube scan on both **develop** and **master** branch.
 
@@ -74,7 +74,7 @@ Failing to so may result in an error when either of the scenarios occurs:
     
     ![Variables](./images/hats-developer-configure-repo.png)
 
-### Configure Variables
+### Configure variables
 
 1.  In **Plan configuration**, click **Variables**.
 1.  Add a variable ending with *secret* (for example **sonarqube_token_secret**).
@@ -83,7 +83,7 @@ Failing to so may result in an error when either of the scenarios occurs:
 
     ![Variables](./images/hats-community-image7.png)
 
-### Configure Requirements
+### Configure requirements
 
 1.  In job configuration, in **Search for a capability**, add the necessary capability, and then select **Add**. For example:
     - For Linux, add **hats_linux_image** to exists.
@@ -95,7 +95,7 @@ Failing to so may result in an error when either of the scenarios occurs:
 
 1.  If the screen shows **No Agents**, create a ticket to request for HATS Linux or Windows Agent to be dedicated to the Bamboo Project or a specific plan.
 
-### Configure Tasks
+### Configure tasks
 
 >**Note:** Do **not** use Sonar Plugin on  Bamboo. Use **Script**.
 
@@ -143,7 +143,7 @@ Failing to so may result in an error when either of the scenarios occurs:
     >-   Bamboo variables are exported as bash shell variables. All full stops (periods) are converted to underscores.
     >-   For example, the variable `bamboo.my.variable` is `$bamboo_my_variable` in bash. This is related to File Script tasks (not Inline Script tasks).
 
-### Configure Branches
+### Configure branches
 
 This is an optional step.
 
@@ -169,7 +169,7 @@ This is an optional step.
 
 ---
 
-## Sonar Scan for Different Languages
+## Sonar scan for different languages
 
 >**Note:** Remove the line `-Dsonar.branch.name=${bamboo.planRepository.branchName} \` if you are not using branch analysis.
 
@@ -182,7 +182,7 @@ This is an optional step.
 
 >**Note:** In the updated SonarQube version 9.3, certain type of scans such as Maven or Ant might fail due to Java 11 needed to perform analysis as shown in the [SonarQube Moving Analysis to Java 11](https://docs.sonarqube.org/9.3/analysis/analysis-with-java-11/). For information on how to resolve this, refer to the [Using Java 11 in Sonar Scanner](#using-java-11-in-sonar-scanner) documentation.
 
-### Sonar Scan for Java
+### Sonar scan for Java
 
 - **Maven**
 
@@ -256,7 +256,7 @@ This is an optional step.
         ```
         <!-- tabs:end -->
 
-### Sonar Scan for MSBuild
+### Sonar scan for MSBuild
 
 1. Format to put **Script body** in step 7 in the [Configure Tasks](#configure-tasks) section:
 
@@ -280,7 +280,7 @@ This is an optional step.
 
     <!-- tabs:end -->
 
-### Sonar Scan for Dotnet
+### Sonar scan for Dotnet
 
 1. Format to put **Script body** in step 7 in the [Configure Tasks](#configure-tasks) section:
 
@@ -336,7 +336,7 @@ This is an optional step.
 
     <!-- tabs:end -->
 
-### Sonar Scan for Others
+### Sonar scan for others
 
 1. For Typescript or projects requiring Node modules, add the following line before scan:
 
@@ -378,7 +378,7 @@ This is an optional step.
     <!-- tabs:end -->
 ---
 
-## Test Coverage
+## Test coverage
 
 By default, your unit test results are not visible in your
 SonarQube app. For the unit test coverage to be visible in your SonarQube app, you will need to provide the report path to the test coverage artifacts.
@@ -443,7 +443,7 @@ Jest provides a `jest.config.js` file for configuration. To pass test coverage i
     
 
 
-## Using Java 11 in Sonar Scanner
+## Using Java 11 in sonar scanner
 
 In the updated SonarQube version 9.3, certain type of scans such as Maven or Ant might fail due to Java 11 needed to perform analysis as shown in the [SonarQube Moving Analysis to Java 11](https://docs.sonarqube.org/9.3/analysis/analysis-with-java-11/).
 
@@ -508,6 +508,6 @@ SonarScanner.MSBuild.exe end /d:sonar.login=${bamboo.sonarqube_community_portal_
 
 <!-- tabs:end -->
 
-## Additional Resources
+## Additional resources
 
 - Bash script to check if scan passes quality gate: https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/cicd-helper-scripts/browse/bash/sonarsource_sonarqube

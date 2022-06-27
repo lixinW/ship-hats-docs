@@ -24,7 +24,7 @@ Failing to so may result in an error when either of the scenarios occurs:
 
 ---
 
-### To retrieve App Key and Token ID:
+### To retrieve App Key and Token ID
 
 1. Go to https://www.ship.gov.sg, and then log in with your SHIP Credentials.
 
@@ -36,13 +36,13 @@ Failing to so may result in an error when either of the scenarios occurs:
 
     2.  Click **+ Add another**, enter the required details, and then click **Add**.
 
-    ![](hats-community-image1.png)
+    ![Add new](./images/hats-community-image1.png)
 
 1.  In the **SonarQube** section, click **Manage**.
 
 1.  Retrieve the **App Key** and **Token ID**.
 
-    ![](hats-community-image2.png)
+    ![Manage tool](./images/hats-community-image2.png)
 
 ---
 
@@ -60,19 +60,19 @@ Failing to so may result in an error when either of the scenarios occurs:
 
 1.  Sample repository from Bitbucket. We will run the SonarQube scan on both **develop** and **master** branch.
 
-    ![](hats-community-image3.png)
+    ![Source](./images/hats-community-image3.png)
 
 1.  In **Plan configuration**, click **Repositories**, and then click **Add repository**.
     
-    ![](hats-community-image4.png)
+    ![Plan configuration](./images/hats-community-image4.png)
 
 1.  Select **Bitbucket Server / Stash**.
     
-    ![](hats-community-image5.png)
+    ![Repository host](./images/hats-community-image5.png)
 
 1.  In **Repository**, enter repository name, and then select the **master** branch. The name choice is up to you.
     
-    ![](hats-developer-configure-repo.png)
+    ![Variables](./images/hats-developer-configure-repo.png)
 
 ### Configure Variables
 
@@ -81,17 +81,17 @@ Failing to so may result in an error when either of the scenarios occurs:
 1. In **Value**, enter the
     **Token ID** obtained in step 5 in the [To Retrieve App Key and Token ID](#to-retrieve-app-key-and-token-id) section. 
 
-    ![](hats-community-image7.png)
+    ![Variables](./images/hats-community-image7.png)
 
 ### Configure Requirements
 
 1.  In job configuration, in **Search for a capability**, add the necessary capability, and then select **Add**. For example:
     - For Linux, add **hats_linux_image** to exists.
 
-        ![](hats-community-image8.png)
+        ![Requirements](./images/hats-community-image8.png)
     - For Windows, add **hats_windows_image** to exists.
 
-        ![](hats-community-image9.png)
+        ![Requirements](./images/hats-community-image9.png)
 
 1.  If the screen shows **No Agents**, create a ticket to request for HATS Linux or Windows Agent to be dedicated to the Bamboo Project or a specific plan.
 
@@ -101,31 +101,31 @@ Failing to so may result in an error when either of the scenarios occurs:
 
 1.  In the job configuration, click **Tasks**, and then click **Add task**. 
 
-    ![](hats-community-image10.png)
+    ![Tasks](./images/hats-community-image10.png)
 
 1.  Search for *source code checkout*, and then click **Source Code Checkout**.
 
-    ![](hats-community-image11.png)
+    ![Source code checkout](./images/hats-community-image11.png)
 
 1.  Dropdown and select the repository configured in the [Configure Repositories](#configure-repositories-bitbucket) section. 
 1. Select the **Force Clean Build** check box.
 
-    ![](hats-community-image12.png)
+    ![Force clean build](./images/hats-community-image12.png)
 
 1.  Click **Add Task** again, search for *script*, and then click **Script**.
 
-    ![](hats-community-image13.png)
+    ![Task types](./images/hats-community-image13.png)
 
 1.  Ensure the **Script** task is placed below the **Source Code Checkout** task.
 
 1. In the description of **Tasks**, click *runtime, plan, project and global variables*. 
 
-    ![](hats-community-image14.png)
+    ![Tasks](./images/hats-community-image14.png)
 
 1.  In the new window that appears, scroll down till you see **Plan variables** where you will find the token you configured in the [Configure Variables](#configure-variables) section. 
 1. Copy the value from **Variable name**.
     
-    ![](hats-community-image15.png)
+    ![Variable name](./images/hats-community-image15.png)
 
 1.  Copy the sona scan script based on the language of your repository (Refer to samples in the [Sona Scan for different languages](#sonar-scan-for-different-languages) section below), and replace **Variable name** as the value of `-Dsonar.login=`
 
@@ -137,7 +137,7 @@ Failing to so may result in an error when either of the scenarios occurs:
 
     <br> 
 
-    ![](hats-developer-configure-task.png)
+    ![Inline](./images/hats-developer-configure-task.png)
 
     >**Using variables in bash**
     >-   Bamboo variables are exported as bash shell variables. All full stops (periods) are converted to underscores.
@@ -149,19 +149,19 @@ This is an optional step.
 
 1. In **Plan configuration**, click **Branches**, and then click **Create plan branch**.
 
-    ![](hats-developer-create-branch.png)
+    ![Branches](./images/hats-developer-create-branch.png)
 
 1. Add the branch name in the repository that you created in step 1 in the [Configure Repository](#configure-repositories-bitbucket) section, and then click **Create**.
 
-    ![](hats-developer-branch.png)
+    ![Create plan branch](./images/hats-developer-branch.png)
 
 1. If the **Plan branch** does not switch to the new branch, click the dropdown to switch to the new branch. 
 
-    ![](hats-developer-plan-branch.png)
+    ![Plan branch](./images/hats-developer-plan-branch.png)
 
 1. In the **Plan branch configuration**, click **Repositories**, and then click the repository created in step 4 in the [Configure Repository](#configure-repositories-bitbucket) section.
 
-    ![](hats-developer-save-repo.png)
+    ![Repositories](./images/hats-developer-save-repo.png)
 
 1. In the **Branch** field, click the dropdown and change to the newly created branch in step 2 in the [Configure Branches](#configure-branches) section.
 1. Click **Save Repository**.

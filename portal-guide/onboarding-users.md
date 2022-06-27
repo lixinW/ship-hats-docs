@@ -15,7 +15,7 @@ Subscription Admin (SA) and Project Admin (PA) can invite and add users to the s
 ### To invite users
 
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
-   Make sure that you are in the required account. If needed, refer to [Switching account](manage-account).
+   Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
 1. From the side menu, click **Users > Invite Users**. An invitation link is automatically generated.  
 By default, a new invitation link has a 14 days expiry date.  Whenever you invite new users, the same link will be displayed with the remaining expiry date until it expires. In the example below, SA invites a new user to SHIP-HATS. As the invite was created 2 days earlier, the link is valid for the next 12 days.
@@ -79,7 +79,7 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
 
 ### To approve new user registration
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
-   Make sure that you are in the required account. If needed, refer to [Switching account](manage-account).
+   Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
    <kbd>![Pending User Approval Notification](./images/pending_user_approval_notification.png ':size=100%')</kbd>
 

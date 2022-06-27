@@ -28,7 +28,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
    **CI**| Indicates whether the user is consuming the CI tools quota from the current subscription. 
    **Sonatype**|Indicates whether the user is consuming Sonatype tools quota from the current subscription.
    **Last Login**|Indicates the date and time when the user logged in the last time.
-   **Action**|Enables you to [Manage access](#manage-accessmanage-access) and [Remove User](#remove-usersremove-users).
+   **Action**|Enables you to [Manage access](#manage-access) and [Remove User](#remove-users).
 
    <kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>
 

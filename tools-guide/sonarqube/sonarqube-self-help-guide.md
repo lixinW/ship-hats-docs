@@ -14,21 +14,17 @@
 >**Note:** Customized profiles are not following the standards set by the CTMO team in GovTech. Therefore, Agency will need to understand the risks and quality differences set by the new customized Quality gates.
 
 
-1. Raise a ticket
-[here](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/149). Provide the following details:  
-    a.  Quality Gate Name
-
-    b. Quality Gate Metrics requirements (refer to [Section 2](#CreatingcustomizedQualityGatesandProfil) below)
-
-    c. Applications to assign gates to
-
-    d. Project Owner name and Agency name to seek approval from
+1. [Raise a ticket](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/149). Provide the following details:  
+    - Quality Gate Name
+    - Quality Gate Metrics requirements (refer to [Section 2](#CreatingcustomizedQualityGatesandProfil) below)
+    - Applications to assign gates to
+    - Project Owner name and Agency name to seek approval from
 
 2. After the Agency or Project Owner approves, we will create the gates and assign to the applications.
 
 ### An example of metrics required 
 
-<kbd>![Example Metrics](hats-sonarqube-example-metrics-required.png)</kbd>
+<kbd>![Example Metrics](./images/hats-sonarqube-example-metrics-required.png)</kbd>
 
 ### Sample metric tables
 
@@ -143,19 +139,19 @@ wont_fix_issues	|	Won't Fix issues	|is greater than|	76
 
 1. Log in to [SonarQube](https://sonar.hats.stack.gov.sg/sonar) as a Project Admin (PA).  
 
-    <kbd>![Log in](hats-sonarqube-log-in.png)</kbd>
+    <kbd>![Log in](./images/hats-sonarqube-log-in.png)</kbd>
 
 1. Search for the application and click to manage it.
 
-    <kbd>![Search app](hats-sonarqube-search.png)</kbd>
+    <kbd>![Search app](./images/hats-sonarqube-search.png)</kbd>
 1. Navigate to **Project Settings** > **Permissions**.
 
-    <kbd>![Project settings](hats-sonarqube-manage-app-permission.png)
+    <kbd>![Project settings](./images/hats-sonarqube-manage-app-permission.png)
 
 1. Give users permissions on individual apps.  
     >**Tip:** You can click the ? icon to see what each permission allow the user to do.
 
-    <kbd>![User Permission](hats-sonarqube-give-user-permission.png)
+    <kbd>![User Permission](./images/hats-sonarqube-give-user-permission.png)
 
 
 ## Configure New Code Setting and Versioning
@@ -177,7 +173,7 @@ For more information on setting up SonarQube for your CICD pipeline, refer to th
 1. In the **Name** field, specify the version name. 
 1. Click **Change** to apply the changes.
 
-    <kbd>![Change Version](sonarqube-change-version.png)</kbd>
+    <kbd>![Change Version](./images/sonarqube-change-version.png)</kbd>
 
 ### To configure New Code setting:
 
@@ -191,18 +187,18 @@ For more information on setting up SonarQube for your CICD pipeline, refer to th
     For this documentation, we are using the option **Specific analysis**.
 1.	In the **Analysis from** dropdown, click to select an option of your choice. By default, **Last 30 days** is selected. 
 
-    <kbd>![New Code Settings](hats-sonarqube-configure-new-code-setting.png)</kbd>
+    <kbd>![New Code Settings](./images/hats-sonarqube-configure-new-code-setting.png)</kbd>
 
 ### To filter issues:
 
 - To access unresolved issues, click **Resolution**. 
 - To access resolved issues (for example, bug, vulnerability, code smell, etc.), under the **Resolution** dropdown, click **Fixed**.
 
-  <kbd>![Filter Issues](hats-sonarqube-filter-issues.png)</kbd>
+  <kbd>![Filter Issues](./images/hats-sonarqube-filter-issues.png)</kbd>
 
 - If you want to filter issues based specific date range, under the **Creation Date** section, select the required start and end date.
 
-  <kbd>![Creation Date](hats-sonarqube-filter-issues-fixed.png)</kbd>
+  <kbd>![Creation Date](./images/hats-sonarqube-filter-issues-fixed.png)</kbd>
 
 <!--
 ## FAQs

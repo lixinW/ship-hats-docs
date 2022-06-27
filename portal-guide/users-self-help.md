@@ -58,7 +58,7 @@ If you have forgotten your SHIP-HATS username, you may retrieve it anytime follo
     <kbd>![Retrieve Username Self Help](./images/retrieve-username-self-help-page.png ':size=75%')</kbd>
 
 4. Click **Retrieve Username**.
-5. Enter **Email Address** used for** registering with SHIP-HATS.
+5. Enter **Email Address** used for registering with SHIP-HATS.
 6. Select the checkbox to confirm that you are not a robot and click **Submit**.
 
     <kbd>![Retrieve Username Success.png](./images/retrieve-username-request-success-1.png ':size=75%')</kbd>
@@ -80,7 +80,7 @@ You can reset your 2FA for SHIP-HATS anytime by following the below steps.
     <kbd>![reset-2fa-self-help-page](./images/reset-2fa-self-help-page.png ':size=75%')</kbd>
 
 4. Click **Reset 2FA**.
-5. Enter your **Username** used for** registering with SHIP-HATS.
+5. Enter your **Username** used for registering with SHIP-HATS.
 6. Select the checkbox to confirm that you are not a robot and click **Submit**.
 
     <kbd>![2fa-reset-request-success](./images/2fa-reset-request-success.png ':size=75%')</kbd>
@@ -121,7 +121,7 @@ If you have forgotten your SHIP-HATS password, you may reset it anytime followin
     <kbd>![Reset Password Self Help](./images/reset-pwd-self-help-page.png ':size=75%')</kbd>
 
 1. Click **Reset Password**.
-2. Enter your **Username** or **Email Address** used for** registering with SHIP-HATS.
+2. Enter your **Username** or **Email Address** used for registering with SHIP-HATS.
 3. Select the checkbox to confirm that you are not a robot and click **Submit**.
 
     <kbd>![Reset Password Request Access](./images/reset-pwd-link-request-success.png ':size=75%')</kbd>

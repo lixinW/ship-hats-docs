@@ -1,10 +1,17 @@
 - **SonarQube**
   - [SonarQube](sonarqube/sonarqube-overview)
+    - [Users and permissions](sonarqube/sonarqube-users-and-permissions)
+    - [User journey](sonarqube/sonarqube-user-journey)
+    - [Provision](sonarqube/sonarqube-provision)
     - [Access](sonarqube/sonarqube-access)
     - [Community Edition](sonarqube/sonarqube-set-up-community-edition)
     - [Developer Edition](sonarqube/sonarqube-set-up-developer-edition)
     - [Self Help Guide](sonarqube/sonarqube-self-help-guide)  
-    - [FAQs](sonarqube/sonarqube-faqs)  
+    - [Best Practices](sonarqube/sonarqube-best-practices)
+    - [FAQs](sonarqube/sonarqube-faqs) 
+    - [Troubleshooting](sonarqube/sonarqube-troubleshooting)
+    - [Additional Resources](sonarqube/sonarqube-additional-resources)
+
 - **Additional Resources**
   - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
   - [Head Over to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)

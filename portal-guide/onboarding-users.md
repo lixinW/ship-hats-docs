@@ -17,16 +17,20 @@ Subscription Admin (SA) and Project Admin (PA) can invite and add users to the s
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
-1. From the side menu, click **Users > Invite Users**. An invitation link is automatically generated.  
-By default, a new invitation link has a 14 days expiry date.  Whenever you invite new users, the same link will be displayed with the remaining expiry date until it expires. In the example below, SA invites a new user to SHIP-HATS. As the invite was created 2 days earlier, the link is valid for the next 12 days.
+1. From the side menu, click **Users > Invite Users**.  
+   
+   An invitation link is automatically generated.  
+
+   By default, a new invitation link has a 14 days expiry date.  Whenever you invite new users, the same link will be displayed with the remaining expiry date until it expires. In the example below, SA invites a new user to SHIP-HATS. As the invite was created 2 days earlier, the link is valid for the next 12 days.
 
    <kbd>![Invite Users](./images/invite-users.png ':size=100%')</kbd>
 
-1. Click **Email me** to send this link with the expiry date to your SHIP-HATS registered email address and forward it to the intended users so that they can provide required information in the **Invitation Form**.  
-Alternatively, click the copy icon to copy and share the invite link with intended users. Note, in this case, make sure to inform the users about the expiry date of this link.
+1. Click **Email me** to send this link with the expiry date to your SHIP-HATS registered email address, and then forward it to the intended users so that they can provide required information in the **Invitation Form**.  
+
+   Alternatively, click the copy icon to copy and share the invite link with intended users. Make sure to inform the users about the expiry date of this link.
 
 ## Register account
-You will receive an invitation email with a link to onboard to SHIP-HATS portal upon successful approval. 
+As a user, you will receive an invitation email with a link to onboard to SHIP-HATS portal upon successful approval. 
 
 Access the link via the onboarding email and perform the following steps based on the account that you want to create. 
 
@@ -41,10 +45,12 @@ Access the link via the onboarding email and perform the following steps based o
 
 1. Enter the following details, and then click **Submit**.  
 
-   - **First Name:** Enter first name of the user.
-   - **Last Name:** Enter last name of the user.
-   - **Public Service Email Address:** Enter official email address of the user.
-   - **Require SEED Account:** Select this checkbox if the user requires a SEED account. This account is required only for a user who is actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.  
+   |Field|Description|
+   |---|---|
+   |**First Name**| Enter first name of the user.
+   |**Last Name**| Enter last name of the user.
+   |**Public Service Email Address**| Enter official email address of the user.
+   |**Require SEED Account**| Select this checkbox if the user requires a SEED account. This account is required only for a user who is actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.  
 <br />
 
    <kbd>![Create Account](./images/create-account.png ':size=100%')</kbd>
@@ -85,7 +91,7 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
 
    If there is a pending user approval task for you, it will be displayed in the **ALERTS** section.  
 
-2. Click **View** corresponding to that alert. You will be directed to the **Pending Approval** section.
+1. Click **View** corresponding to that alert. You will be directed to the **Pending Approval** section.
 
    >**Tip:** Alternatively, from the side menu, click **Users** > **All Users**. 
    
@@ -97,11 +103,11 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
    
    <kbd>![Unapproved Domain](./images/vendor-unapproved-user-domain.png ':size=100%')</kbd>
 
-3. Click **Approve** corresponding to the user.
+1. Click **Approve** corresponding to the user.
 
    <kbd>![Approve](./images/tp-approve-user.png ':size=100%')</kbd>
 
-4. In **Grant user access for:**, You can choose which tools to give access to. Following options are available:
+1. In **Grant user access for:**, You can choose which tools to give access to. Following options are available:
    
    |Field|Description|
    |---|---|

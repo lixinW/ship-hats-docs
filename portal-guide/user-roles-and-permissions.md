@@ -4,14 +4,14 @@
 
 | **Role** | **Description** | **Permissions** |  
 | --- | --- | --- |
-| **Subscription Administrator (SA)** | Each subscription is managed by SA. Only an agency user can be assigned as an SA and there can be up to two SAs per subscription. By default, an SA has all the rights in a subscription. SAs can view the limit of projects, project admins, and users quota within the SHIP-HATS Portal pages. | Refer to [SA permissions](#sa-permissions) for detailed permissions. |
-| **Project Administrator (PA)** | A subscription can have multiple projects and each project is managed by PAs. An Agency user or a vendor can be assigned as a PA. <br> **Note:** The number of PAs that can be added to a project through the SHIP-HATS portal vary based on your subscription tier level. PAs can view the limit of projects, project admins, and users quota within the SHIP-HATS Portal pages. | Refer to [PA permissions](#pa-permissions) for detailed permissions. |  
+| **Subscription Administrator (SA)** | Each subscription is managed by a Subscription Administrator (SA). <ul><li>Only an agency user can be assigned as an SA.</li><li> There can be up to two SAs per subscription.</li></ul> By default, an SA has all the rights in a subscription. <br> SAs can view the limit of projects, project admins, and users quota within the SHIP-HATS Portal pages. | Refer to [SA permissions](#sa-permissions) for detailed permissions. |
+| **Project Administrator (PA)** | A subscription can have multiple projects and each project is managed by a project admin (PA). <ul><li>An Agency user or a vendor can be assigned as a PA. </li><li>The number of PAs that can be added to a project through the SHIP-HATS portal vary based on your subscription tier level.</li></ul> PAs can view the limit of projects, project admins, and users quota within the SHIP-HATS Portal pages. | Refer to [PA permissions](#pa-permissions) for detailed permissions. |  
 | **User** | User is the default role for all the users from the Agency and vendors. | Refer to [User permissions](#user-permissions) for detailed permissions. For tool-specific permissions, refer to [Tools permissions](#tools-permissions).|  
 
 ## SA permissions
 - Manage a subscription including upgrading or downgrading to a different tier from [SHIP-HATS portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription).
 - Add users to a subscription and manage their roles.
-- Create and manage projects. While creating a project, it is mandatory to assign at least one Project Administrator (PA). The maximum number of PAs allowed depends on your subcription model.
+- Create and manage projects. While creating a project, it is mandatory to assign at least one Project Administrator (PA). 
 - Request or remove additional resources for a subscription. For more information refer to the [SHIP-HATS portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription).
 
 ## PA permissions
@@ -25,11 +25,4 @@
 
 ## Tools permissions  
 
-For user roles and permissions related to tools, refer to the Users and Permissions section in the [SHIP-HATS Tools guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview). 
-<!--
-- [Bitbucket User Roles and Permission](bitbucket-user-role)
-- [Bamboo User Roles and Permission](bamboo-user-roles)
-- [Confluence User Roles and Permission](confluence-user-role)
-- [Jira User Roles and Permission](jira-user-role)
-- [Fortify User Roles and Permissions](fortify-user-roles-and-permissions)
--->
+For user roles and permissions related to tools, refer to the **Users and Permissions** section in the [SHIP-HATS Tools guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview). 

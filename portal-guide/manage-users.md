@@ -43,7 +43,6 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
     - **Search:** You can quickly search for a user by typing the username in the search box.
 
        <kbd>![search_user](./images/export-csv.png ':size=100%')</kbd>
-
     - **Download:** If you want to download the user list as a .csv file to your local machine, click **Export CSV**. This csv lists the active and removed users along with the approval and removal details. For more details, refer to the [Generate a User Report](#generate-a-user-report) documentation.
 
 ## Generate user report
@@ -55,7 +54,6 @@ You can generate a report to view all details for the active and removed users.
 1. From the side menu, click **Users > All Users**.
 
    <kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>
-
 1. Click **Export CSV**.  
    The CSV report is downloaded to the your machine with the following details:
 
@@ -131,28 +129,23 @@ If you are **not a TechPass user**, the SA or PA can complete the following step
    <kbd>![user_status_2](./images/user_status_2.png ':size=100%')</kbd><br />
    
    > **Tip:** Refer to [Viewing users](#view-users) to know how to search for users  
-
 1. Choose **Reactivate User**. User, SAs and the requestor will be notified through an email about the reactivation.  
 
    >**Notes:**
    >- Though the reactivated user can log in using the existing credentials, we recommend reactivated users to reset their password. The email sent to the reactivated users includes the link to reset their password.  
    >- After a user has been reactivated, an email notification about this reactivation is sent to the requestor and the SAs.
 
-
-
-
 ## Remove users
 
 We recommend Subscription Admin (SA) and Project Admin (PA) to periodically review the named users in their account, consumed user quota and remove users who are no longer required.
 
->**Note:** SA and PA can remove a user who does not have the Project Admin or Subscription Admin roles in the subscription account.
-
-### To remove a user
-
 >**Notes:**
+>- You can remove a user who does not have the Project Admin or Subscription Admin roles in the subscription account.
 >- You can remove a user that is added to the billing subscription (quota consumed) only.
 >- You can remove a user from a subscription if the user is not consuming quota from the current subscription (labeled as **free user**). However, you cannot remove a user consuming quota from current subscription if the user is also included in another subscription.
 >- You cannot remove a user from a billing subscription (quota consumed) if the user is also added to another subscription (quota not consumed and labeled as **free user**). 
+
+### To remove a user
 
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
 Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).

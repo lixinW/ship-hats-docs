@@ -1,9 +1,9 @@
 # Onboarding to SHIP-HATS
-<!--
+
 **Topics**
 - [Prerequisites](#prerequisites)
-- [Quick Start Guide](#quick-start-guide)
--->
+- [Onboarding](#onboarding)
+
 ## Prerequisites
 
 - Make sure that you have the required [Subscription](subscription).
@@ -40,7 +40,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 
 
-## What's Next/Related Topics
+### What's Next
 - [Complete the set up in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/configure-portal)
 - [Invite Users via the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users) 
 

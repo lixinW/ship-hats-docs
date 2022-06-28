@@ -81,3 +81,7 @@ On GSIB devices: login to TechPass and access any of the SHIP-HATS tools. You ha
 You can use TechPass to access SHIP-HATS services seamlessly on GSIB and GMD devices without logging in to individual tools and in the future have a single sign on for all SGTS products.
 </details>
 <br>
+
+### Related Topics
+- [Support FAQs](support)
+- [Subscription FAQs](subscription)

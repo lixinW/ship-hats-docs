@@ -30,7 +30,7 @@ Public officers can visit the [Intranet website for pricing](https://sgdcs.sgnet
   4. Once approved, we provision<sup>i</sup> Primary and Secondary subscription administrator accounts.  
   For vendors, kindly get in touch with the agency that you engage with for SHIP-HATS access.
  </details>
- 
+
 <details>
  <summary><b>How much does it cost to subscribe to SHIP-HATS?</b></summary><br>
   Refer to [pricing details](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/SitePages/Pricing.aspx) accessible via your GSIB/SOE machine.
@@ -41,7 +41,13 @@ Public officers can visit the [Intranet website for pricing](https://sgdcs.sgnet
   Billing starts only from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. 
   For example, if account was provisioned on 5 February 2021, billing starts from 1 March 2021. We charge on a monthly basis, and agency receives invoices every quarter.
  </details>
- 
+
+<details>
+  <summary><b>Do Subscription Admin(SA) accounts consume quota? </b></summary><br>
+No. Subscription Admin (SA) accounts do not consume quota.
+</details>
+
+
 <details>
  <summary><b>Can there be users who just have “read-only” access? </b></summary><br>
   Yes. Note that users with read-only access are also counted as one of the users of that subscription.

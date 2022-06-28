@@ -20,6 +20,7 @@
 **Additional Resources**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
+  - [FAQs](faqs)
   - [Contact Us](contact-us)
 <!--  
   - [Document History](document-history) 

@@ -1,4 +1,8 @@
 # Document History
+## Testing redirect
+
+  - [redirect example 1](another-example-page)
+  - [example-blog-post](example-blog-post)
 
 Using snippet here:
 
@@ -8,10 +12,6 @@ Using snippet here:
 
 [filename](snippets/example.mp4 ':include :type=video controls width=100%')
 
-## Testing redirect
-
-  - [redirect example 1](another-example-page)
-  - [example-blog-post](example-blog-post)
 
 ---
 The following table describes important additions to the SHIP-HATS documentation. We also update the documentation frequently to address the feedback that you send us.

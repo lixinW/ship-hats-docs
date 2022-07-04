@@ -1,6 +1,6 @@
 
-'/another-example-page/':
-  to: '/document-history/'
+'another-example-page':
+  to: 'document-history'
   type: 301
-'/example-blog-post':
-  to: '/document-history/'
+'example-blog-post':
+  to: 'document-history'

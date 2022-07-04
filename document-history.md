@@ -4,6 +4,8 @@
   - [redirect example 1](test-example)
   - [example-blog-post](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/test-example)
 
+  This page is stuck now!
+
 Using snippet here:
 
 [Snippet Sample](snippets/snippet-sample.md ':include')

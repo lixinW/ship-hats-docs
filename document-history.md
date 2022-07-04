@@ -1,8 +1,8 @@
 # Document History
 ## Testing redirect
 
-  - [redirect example 1](another-example-page)
-  - [example-blog-post](example-blog-post)
+  - [redirect example 1](test-example)
+  - [example-blog-post](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/test-example)
 
 Using snippet here:
 

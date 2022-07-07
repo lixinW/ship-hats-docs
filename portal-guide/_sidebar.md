@@ -1,22 +1,22 @@
 **Overview**
   - [Audience](audience)
   - [Overview](ship-hats-portal-overview)
-  - [User roles and permissions](user-roles-and-permissions)
+  - [User roles and permissions](user-roles-and-permissions)  
 **Portal**  
   - [Onboard to portal](onboarding-to-portal)
-  - [Access portal](access-ship-hats-portal)
-**Users**
+  - [Access portal](access-ship-hats-portal)  
+**Users**  
   - [Onboard users](onboarding-users)
   - [Manage users](manage-users)
   - [Manage user groups](manage-user-groups)
   - [Users self help](users-self-help)  
 **Projects**
   - [Manage projects](manage-projects)
-  - [Manage admins](manage-admins)
+  - [Manage admins](manage-admins)  
 **Project Tools & Applications**
-  - [Manage tools & apps](manage-tools)
+  - [Manage tools & apps](manage-tools)  
 **Accounts**  
-  - [Manage accounts](manage-account)
+  - [Manage accounts](manage-account)  
 **DGP Systems**
   - [Declare DGP systems](declare-dgp-systems)  
 

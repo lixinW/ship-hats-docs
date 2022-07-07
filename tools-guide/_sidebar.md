@@ -1,4 +1,4 @@
-- **Tools**
+**Tools**
   - [Audience](audience)
   - [Overview](tools-overview) 
   - [Service accounts](service-accounts)

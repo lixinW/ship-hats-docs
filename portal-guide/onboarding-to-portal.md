@@ -7,18 +7,18 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |Step|Task|Owner|
 |---|---|---|
 |1|[Review users and permissions](user-roles-and-permissions)|Subscription Admin (SA)|
-|1|[Log in to the SHIP-HATS portal](access-ship-hats-portal)|SA|
-|2|[Invite a User](onboarding-users)|SA|
-|3|[Register an Account as a Public Officer or a Vendor](onboarding-users)|Public Officer or Vendor|
-|4|[Approve a New User](onboarding-users)|SA|
-|5|[Onboard the user to TechPass]()|User|
-|6|[Onboard the devices to SEED]()|User|
-|7|[Create a Project](manage-projects)|SA|
-|8|[Add a Project Admin](manage-admins)|SA|  
-|9|[Add a Project Tool](manage-tools)|SA or Project Admin (PA)|
-|10|[Add User to a Project]()|SA or PA|
-|11|[Add an Application to a Project Tool](manage-applications)|PA|
-|12|[Declare DGP Systems](declare-dgp-systems)|Agency<br>This is an optional step.|    
+|2|[Log in to the SHIP-HATS portal](access-ship-hats-portal)|SA|
+|3|[Invite a User](onboarding-users)|SA|
+|4|[Register an Account as a Public Officer or a Vendor](onboarding-users)|Public Officer or Vendor|
+|5|[Approve a New User](onboarding-users)|SA|
+|6|[Onboard the user to TechPass]()|User|
+|7|[Onboard the devices to SEED]()|User|
+|8|[Create a Project](manage-projects)|SA|
+|9|[Add a Project Admin](manage-admins)|SA|  
+|10|[Add a Project Tool](manage-tools)|SA or Project Admin (PA)|
+|11|[Add User to a Project]()|SA or PA|
+|12|[Add an Application to a Project Tool](manage-applications)|PA|
+|13|[Declare DGP Systems](declare-dgp-systems)|Agency<br>This is an optional step.|    
 
 
 ### What's Next

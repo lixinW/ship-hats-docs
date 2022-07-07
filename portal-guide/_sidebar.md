@@ -24,8 +24,8 @@
 
 ---
 **Additional Resources**
-  - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 
-  - [Head Over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) 
+  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 
+  - [Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) 
 <!--
 - **Additional Resources**
   - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 

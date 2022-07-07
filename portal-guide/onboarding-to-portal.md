@@ -6,7 +6,8 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 |Step|Task|Owner|
 |---|---|---|
-|1|[Log in to the SHIP-HATS portal](access-ship-hats-portal)|Subscription Admin (SA)|
+|1|[Review users and permissions](user-roles-and-permissions)|Subscription Admin (SA)|
+|1|[Log in to the SHIP-HATS portal](access-ship-hats-portal)|SA|
 |2|[Invite a User](onboarding-users)|SA|
 |3|[Register an Account as a Public Officer or a Vendor](onboarding-users)|Public Officer or Vendor|
 |4|[Approve a New User](onboarding-users)|SA|

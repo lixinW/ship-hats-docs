@@ -1,17 +1,18 @@
 **Overview**
+  - [Audience](audience)
   - [Overview](ship-hats-overview)
   - [What's New](whats-new)
   - [Subscription](subscription)
   - [Roadmap](roadmap)
-**Onboarding to SHIP-HATS**  
+**Onboard to SHIP-HATS**  
   - [Onboarding](onboarding-to-ship-hats) 
-**Portal Guide**
-  - [Head over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)  
+**Onboard to SHIP-HATS Portal**
+  - [Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)  
 **CI/CD Pipeline**
 - [CI Pipeline](ci-pipeline)  
 - [CD Pipeline](cd-pipeline) 
 **Tools Guide**
-  - [Head over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)  
+  - [Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)  
 **Training**
   - [Training](training)
   - [Webinars](webinars)

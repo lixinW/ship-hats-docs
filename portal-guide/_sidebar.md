@@ -1,7 +1,8 @@
 **Overview**
+  - [Audience](audience)
   - [Overview](ship-hats-portal-overview)
   - [User roles and permissions](user-roles-and-permissions)
-**Onboarding**  
+**Portal**  
   - [Onboard to portal](onboarding-to-portal)
   - [Access portal](access-ship-hats-portal)
 **Users**

@@ -1,4 +1,5 @@
 - **Tools**
+  - [Audience](audience)
   - [Overview](tools-overview) 
   - [Service accounts](service-accounts)
   - [Bamboo](bamboo)
@@ -18,6 +19,10 @@
   - [SonarQube](sonarqube/sonarqube-overview)
   - [Nexus IQ](nexus-iq/nexus-iq-overview)
   - [Nexus Repository Pro](nexus-repository/nexus-repository-pro-overview)  
-- **Additional Resources**
-  - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
-  - [Head Over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)
+
+&nbsp;
+
+---  
+**Additional Resources**
+  - [Getting Started Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
+  - [Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)

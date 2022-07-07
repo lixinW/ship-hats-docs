@@ -3,9 +3,6 @@
 [Documentation Resources](doc-resources.md ':include')
 
 
-[Video Library](video-library.md ':include')
-
-
 [Webinars](webinars.md ':include')
 
 

@@ -35,6 +35,7 @@ SA or PA can add the required project tools as explained below. You can add tool
     |QA &amp; Security|SonarQube - Community Edition|Make sure that you have logged in to [SonarQube](https://sonar.hats.stack.gov.sg/sonar) at least once.<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** and **App ID** fields.</li><ol>|
     |QA &amp; Security|SonarQube - Developer Edition|Make sure that you have logged in to [SonarQube](https://sonar1.hats.stack.gov.sg/sonar) at least once.<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** and **App ID** fields.</li><ol>|
     |QA &amp; Security|Fortify SCA & WebInspect|<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** field.</li><ol>|
+    |QA &amp; Security|Fortify on Demand| <ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** field.</li><ol>|
     |QA &amp; Security|Container Image Scanner|<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **Scanner Type** and **App Name** fields.</li><ol>|
     |Release|NA|<ol><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add the tools.</li><ol>.|
     
@@ -94,6 +95,8 @@ As a Subscription Admin or a Project Admin, you can manage following within a pr
 - Permissions or Roles  
 
 You can manage user groups and permissions/roles for the following tools:
+- Confluence
+- Jira
 - Nexus IQ
 - SonarQube
 
@@ -106,12 +109,20 @@ You can manage user groups and permissions/roles for the following tools:
 1. Navigate to your project, and then click **Manage** on the project tool for which you want to manage/add user groups. 
 
 1. In the **Manage Tool** window that appears, from the dropdown, select **Manage/add user group**. 
-    - **SonarQube:** Provide values in the **App Name** and **User Group** fields, and then select the required permissions. The **Browse** permission is selected by default along with any other permission.
 
-        <kbd>![Manage Tool](./images/sonarqube-manage-user-group.png ':size=60%')
+    - **Confluence:** Provide value in the **User Group** field, and then select the required permissions.
+
+        <kbd>![Manage tool](confluence-manage-user-group.png) ':size=60%')</kbd>
+    - **Jira:** Provide value in the **User Group** field, and then select the required roles.
+
+        <kbd>![Manage tool](jira-manage-user-group.png) ':size=60%')</kbd>
     - **Nexus IQ:** Provide value in the **User Group** field, and then select the required roles.
         
         <kbd>![Manage Tool](./images/nexus-iq-manage-user-group.png  ':size=60%')</kbd> 
+    - **SonarQube:** Provide values in the **App Name** and **User Group** fields, and then select the required permissions. The **Browse** permission is selected by default along with any other permission.
+
+        <kbd>![Manage Tool](./images/sonarqube-manage-user-group.png ':size=60%')
+    
 1. Click **Update**.
     The permissions or roles are updated in the portal as well as respective tools. Any permissions assigned via portal will override the previously assigned permissions in NexusIQ at the app level.
 
@@ -198,6 +209,8 @@ You can renew token for the following tools:
 ## Remove user groups from a project tool
 
 As a Subscription Admin or a Project Admin, you can remove permissions and roles within a project tool or app for the following tools:
+- Confluence
+- Jira
 - Nexus IQ
 - SonarQube
 

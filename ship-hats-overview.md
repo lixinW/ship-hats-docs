@@ -19,7 +19,7 @@ By offering a common development platform, automating delivery of applications a
 
 ## Features
 
-The platform offers following features:
+The SHIP-HATS platform offers following features:
 - **Visibility & Transparency:** Have a better understanding of how your project is being carried out
 - **Speedy Time to Market:** Promotes faster delivery of features, fixes and updates
 - **Reduce Procurement:** Access a range of tools instead of sourcing individually
@@ -81,6 +81,7 @@ For information on specific versions of Tools in SHIP-HATS, refer to the [Tools]
 | **Nexus IQ** | Tool for scanning application binaries and open source libraries for all popular formats, including NPM, Nuget, Maven, Bowser, and more. This tool continuously monitors and alerts users of open-source vulnerabilities. | [Overview](https://www.sonatype.com/nexus-iq-server) |  
 | **pCloudy Test Farm** | Tool to run automated tests on browsers (desktop and mobile) and mobile apps. Automation is triggered from Bamboo using the [Robot Framework](https://robotframework.org/). | [Overview](https://www.pcloudy.com/) |
 | **SonarQube** | Automatic code review tool to detect bugs, vulnerabilities, and code smell. 15 supported base languages include C#, Java, CSS, VB.NET, JavaScript, XML, TypeScript, Python, Flex, Kotlin, PHP, Go, Ruby, HTML, and Scala. | [Overview](https://docs.sonarqube.org/latest/) |
+| **Fortify on Demand** | A tool that identifies vulnerabilities without the need for external infrastructure or resources. | [Overview & Free Trial](https://www.microfocus.com/en-us/cyberres/application-security/fortify-on-demand) |  
 | **Fortify WebInspect** | Dynamic Application Security Testing (DAST) tool that identifies vulnerabilities in web applications and APIs while they are running in production. | [Overview & Free Trial](https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview) |  
 |**Fortify SCA** | Static Application Security Testing (SAST) tool that identifies security vulnerabilities in software source code. Developers find and fix security defects in real-time during the coding process, with integrations to IDEs. | [Overview](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview) |  
 

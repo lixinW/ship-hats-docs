@@ -5,12 +5,20 @@
   - [Subscription](subscription)
   - [Roadmap](roadmap)
 **Onboard to SHIP-HATS**  
-  - [Onboarding](onboarding-to-ship-hats)   
+  - [Onboarding](onboarding-to-ship-hats)  
 **CI/CD Pipeline**
 - [CI Pipeline](ci-pipeline)  
-- [CD Pipeline](cd-pipeline)   
+- [CD Pipeline](cd-pipeline)  
 **Training**
   - [Training](training)
+  - [Documentation Resources](doc-resources)
+  - [Video Library](video-library)
+  - [Webinars](webinars)
+  - [Workshops](workshops)
+  - [Book session](book-session)
+  - [Request trial](request-trial)
+  - [Request training](request-training)
+  - [Templates](templates)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
@@ -28,12 +36,4 @@
   - [Document History](document-history) 
   - [Snippet Sample](snippets/snippet-sample)
   - [Another one](snippets/_snippet-sample)
-  - [Documentation Resources](doc-resources)
-  - [Video Library](video-library)
-  - [Webinars](webinars)
-  - [Workshops](workshops)
-  - [Book session](book-session)
-  - [Request trial](request-trial)
-  - [Request training](request-training)
-  - [Templates](templates)  
   -->

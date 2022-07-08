@@ -15,7 +15,8 @@
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
-  - [FAQs](faqs)
+  - [General FAQs](general-faqs)
+  - [TechPass FAQs](techpass-faqs)
   - [Contact us](contact-us) 
 
 &nbsp;

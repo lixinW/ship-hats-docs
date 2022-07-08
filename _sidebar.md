@@ -11,13 +11,6 @@
 - [CD Pipeline](cd-pipeline)  
 **Training**
   - [Training](training)
-  - [Documentation Resources](doc-resources)
-  - [Video Library](video-library)
-  - [Webinars](webinars)
-  - [Workshops](workshops)
-  - [Book session](book-session)
-  - [Request trial](request-trial)
-  - [Request training](request-training)
   - [Templates](templates)
 **Support**
   - [Terms & Policies](terms-and-policies)
@@ -36,4 +29,11 @@
   - [Document History](document-history) 
   - [Snippet Sample](snippets/snippet-sample)
   - [Another one](snippets/_snippet-sample)
+  - [Documentation Resources](doc-resources)
+  - [Video Library](video-library)
+  - [Webinars](webinars)
+  - [Workshops](workshops)
+  - [Book session](book-session)
+  - [Request trial](request-trial)
+  - [Request training](request-training)
   -->

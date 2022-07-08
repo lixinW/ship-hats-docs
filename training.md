@@ -1,18 +1,46 @@
 # Training
 
-[Documentation Resources](doc-resources.md ':include')
+## Documentation resources
+
+- [DevSecOps Playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/#/)
+
+## Video Library 
+
+### [Preparing your team for DevOps](https://www.youtube.com/watch?v=wgW-8vvK5sMte) 
+
+<ifigure> 
+<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/wgW-8vvK5sM?t=260showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</ifigure>
+
+### [SHIP-HATS Architectural Approach](https://www.youtube.com/watch?v=yiD4--KSdTI)
+
+<ifigure> 
+<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/yiD4--KSdTI?t=260showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</ifigure>
+
+### [Security Testing 101](https://www.youtube.com/watch?v=SVomPCqKGM4)
+
+<ifigure> 
+<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/SVomPCqKGM4?t=260showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</ifigure>
+
+## Webinars
 
 
-[Webinars](webinars.md ':include')
+## Workshops
 
 
-[Workshops](workshops.md ':include')
+## Book a session
 
+Agencies can now request for a one-hour session for the CIO or Business or IT leaders to build the CI/CD strategy. The session will include an overview of Singapore Government Tech Stack (SGTS) and SHIP-HATS roadmap.
 
-[Book session](book-a-session.md ':include')
+[Submit a request](https://form.gov.sg/#!/6086619c7be16c0012b35281) on our enquiry form to schedule. After you submit the form, we will reach out in five business days to schedule a session depending on availability of the leaders from the agency and GovTech.
 
+## Request a trial
 
-[Request trial](request-trial.md ':include')
+We offer a 1-month trial account subject to availability. Agencies can write to <enquiries_ENP@tech.gov.sg> to request for a trial account.
 
+## Request training
 
-[Request training](request-training.md ':include')
+If you need a specific training, please [submit your feedback](https://form.gov.sg/#!/6086619c7be16c0012b35281) and we will include it in our prioritisation. 
+

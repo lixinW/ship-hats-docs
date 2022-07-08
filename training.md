@@ -1,10 +1,19 @@
 # Training
 
+Following training resources are available:
+- [Documentation resources](#documentation-resources)
+- [Video library](#video-library)
+- [Webinars](#webinars)
+- [Workshops](#workshops)
+- [Book a session](#book-a-session)
+- [Request a trial](#request-a-trial)
+- [Request training](#request-training)
+
 ## Documentation resources
 
 - [DevSecOps Playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/#/)
 
-## Video Library 
+## Video library 
 
 ### [Preparing your team for DevOps](https://www.youtube.com/watch?v=wgW-8vvK5sMte) 
 

@@ -24,6 +24,9 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 ![Onboarding](./images/onboarding-ship-hats.png)
 
+<p align="center">
+  <img src="./images/onboarding-ship-hats.png">
+</p>
 
 |Step|Task|Owner|
 |---|---|---|
@@ -36,7 +39,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |7|SHIP-HATS Team provisions account for the Primary and Secondary SA.|SHIP-HATS |
 |8|Send an email to SAs indicating that their account has been provisioned.|SHIP-HATS |
 |9|[Onboard to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines).|Agency|
-|10|[Onboard to SEED]().|Agency|
+|10|[Onboard to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/).|Agency|
 |11|[Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|
 
 

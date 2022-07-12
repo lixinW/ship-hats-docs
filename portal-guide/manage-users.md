@@ -158,4 +158,5 @@ Make sure that you are in the required account. If needed, refer to [Switch acco
 1. Choose **Remove User**.
 
 ### Related Topics
-
+- [Manage user groups](manage-user-groups)
+- [Manage tools & apps](manage-tools)  

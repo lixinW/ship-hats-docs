@@ -18,9 +18,11 @@
 
 ## Onboarding 
 
-The following table outlines the steps that you must complete to get started with SHIP-HATS. After you have completed these steps, you will need to perform additional steps to configure the tools that you want to use.  
+The following image and table outlines the steps that you must complete to get started with SHIP-HATS. After you have completed these steps, you will need to perform additional steps to configure the tools that you want to use.  
 
 These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted.
+
+![Onboarding](./images/onboarding-ship-hats.png)
 
 
 |Step|Task|Owner|
@@ -32,10 +34,10 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |5|Verify the information and send an email with the Memorandum of Understanding (MoU) to the approver nominated in the onboarding form.|SHIP-HATS|
 |6|Reply `Approved` after receiving the email.|Agency Approver|
 |7|SHIP-HATS Team provisions account for the Primary and Secondary SA.|SHIP-HATS |
-|8|SAs receive an email indicating that their account is provisioned.|SHIP-HATS |
-|9|[Onboard to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines).|<span style="color:red">?</span>|
-|10|[Onboard to SEED]().|<span style="color:red">?</span>|
-|11|[Log in to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|
+|8|Send an email to SAs indicating that their account has been provisioned.|SHIP-HATS |
+|9|[Onboard to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines).|Agency|
+|10|[Onboard to SEED]().|Agency|
+|11|[Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|
 
 
 

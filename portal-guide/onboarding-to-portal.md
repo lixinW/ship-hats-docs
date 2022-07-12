@@ -4,10 +4,6 @@ The following image and table outlines the steps that you must complete to confi
 
 These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted.
 
-<p align="center">
-  <img src="./images/onboarding-ship-hats-portal.png">
-</p>
-
 ![Onboarding to Portal](./images/onboarding-ship-hats-portal.png)
 
 |Step|Task|Owner|

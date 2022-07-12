@@ -46,7 +46,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 
 ### What's Next
-- [Complete the set up in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/configure-portal)
+- [Complete the set up in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/onboarding-to-portal)
 - [Invite Users via the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users) 
 
 <!--

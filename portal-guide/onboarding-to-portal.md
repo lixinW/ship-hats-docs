@@ -16,7 +16,7 @@ this is a text
 ![Onboarding](./images/Picture3.png)
 
 
-<kbd>![Onboarding](./images/Slide4.png)</kbd>
+<!--<kbd>![Onboarding](./images/Slide4.png)</kbd>-->
 
 
 ![Onboarding](./images/Picture1.png)

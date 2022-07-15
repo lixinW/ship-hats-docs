@@ -1,7 +1,7 @@
 # Run manual testing
 
 
-## Prerequisites
+### Prerequisites
 To access the [pCloudy web dashboard](https://hats.pcloudy.com), make sure you have the following:
 - SHIP VPN
 - Internet access and Firefox browser/ Firefox Developer Edition browser, preferably on a non-government issued laptop/ development laptop
@@ -20,4 +20,4 @@ As the dashboard can only be accessed via the proxy:
 >- When developing your functional testing scripts with Robot Framework, please do note the versions of Python and the following packages:  
     >- Appium Server, v1.19
     >- Python, v3.8.5 and above
-    >- Robot Framework, v3.2.2 OR pabot, v1.10.0
+    >- Robot Framework, v3.2.2 or pabot, v1.10.0

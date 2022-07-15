@@ -28,18 +28,18 @@ To use the pCloudy CLI in bamboo, you would need to retrieve your pCloudy token 
 1. Log in to the [SHIP-HATS Portal](https://www.ship.gov.sg).
 1. Click **Projects** > **All Projects**, and then click **Manage** on the project that your pCloudy application is in. If your pCloudy application is already created, you can jump to step 5. If you want to create a new pCloudy application, go to next step.  
 
-    <kbd>![All Projects](pcloudy-manage.png)
+    <kbd>![All Projects](./images/pcloudy-manage.png)
 1. Click **QA & Security**, and then click **Add tool**.  
 
-    <kbd>![All Projects](pcloudy-qa-security.png)
+    <kbd>![All Projects](./images/pcloudy-qa-security.png)
 
 1. Click **Select tool**, and then select **pCloudy Device Farm & HATS Browser Farm**.
 
-    <kbd>![All Projects](pcloudy-add-new-tool.png)
+    <kbd>![All Projects](./images/pcloudy-add-new-tool.png)
 
 1. Click **Add**, and then copy the pCloudy token that appears.
 
-    <kbd>![All Projects](pcloudy-copy-token.png)
+    <kbd>![All Projects](./images/pcloudy-copy-token.png)
 
 
 ## Set up Bamboo Plan

@@ -15,7 +15,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |[Log in to pCloudy](pcloudy-manage)|SA/PA|
 |Review registeration and allocate mobile devices|HATS team|
 |[Register Devices in Apple Developer Portal](pcloudy-register-devices)|SA/PA|
-|Run [manual testing](pcloudy-testing) or [automated testing](pcloudy-testing) |Agency|
+|Run [automated testing](pcloudy-automated-testing) or [manual testing](pcloudy-manual-testing) |Agency|
 
 <!--
 ## Prerequisites

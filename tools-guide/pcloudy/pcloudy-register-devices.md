@@ -18,7 +18,7 @@
 1. Log in to the [pCloudy device farm](https://hats.pcloudy.com).
 1. Click **Devices** > **UUID**. You will be able to see the list of iOS devices.
 
-    <kbd>![UUID](pcloudy-uuid.png)</kbd>
+    <kbd>![UUID](./images/pcloudy-uuid.png)</kbd>
 
 
 ## Register devices in the Apple Developer Account
@@ -30,7 +30,7 @@ This step is required for iOS devices only. This step is not required for Androi
 1. Click **Devices**.
 1. Register single devices or multiple devices (via device file).
 
-    <kbd>![Register a New Device](pcloudy-register-a-device.png)</kbd>
+    <kbd>![Register a New Device](./images/pcloudy-register-a-device.png)</kbd>
 
 ## Additional Resources
 - Register a single device: https://help.apple.com/developer-account/#/dev40df0d9fa

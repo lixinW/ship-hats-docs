@@ -1,6 +1,6 @@
 - **Nexus Repo**
   - [Overview](nexus-repository/nexus-repo-overview)
-  - [User Journey](nexus-repo-user-journey)
+  - [User Journey](nexus-repository/nexus-repo-user-journey)
   - [Nexus Proxy Repositories](nexus-repository/nexus-repository)
   - [Roles and Permissions](nexus-repository/nexus-repo-roles-and-permissions)
   - [Provision](nexus-repository/nexus-repo-provision)

@@ -1,17 +1,23 @@
 # User Journey
 
 
+The following image and table outlines the steps that you must complete to get started with pCloudy. After you have completed these steps, you will need to perform additional steps to configure the tools that you want to use.
+
+These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted. 
+
+![User Journey](user-journey-pcloudy.png)
 
 |Task|Owner|
 |---|---|
 |Subscribe for mobile device farm as part of your [subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription)|SA/PA|
 |[Provision pCloudy in the SHIP-HATS portal](pcloudy-provision) |PA|
 |[Register your account in pCloudy](pcloudy-register)|Agency |
+|[Access pCloudy](pcloudy-manage)|SA/PA|
 |Review registeration and allocate mobile devices|HATS team|
 |[Register Devices in Apple Developer Portal](pcloudy-register-devices)|SA/PA|
-|Run [manual testing](pcloudy-testing) or [automated testing using CLI](pcloudy-testing) ||
+|Run [manual testing](pcloudy-testing) or [automated testing](pcloudy-testing) |Agency|
 
-
+<!--
 ## Prerequisites
 Prerequisites for pCloudy Mobile Device Farm using pCloudy CLI
 
@@ -35,5 +41,4 @@ For pCloudy CLI automation:
 
 Steps are narrated in https://confluence.ship.gov.sg/display/HATSKB/pCloudy+CLI
 
-
-
+-->

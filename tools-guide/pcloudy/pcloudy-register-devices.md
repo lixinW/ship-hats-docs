@@ -11,6 +11,7 @@
 - You must have access to the Apple Developer Account with has Apple Developer Program Membership.
 - You must have access to HATS pCloudy iOS devices.
 
+
 ## Retrieve UUID from pCloudy
 
 ### To register UUID from pCloudy:
@@ -21,6 +22,7 @@
 
 
 ## Register devices in the Apple Developer Account
+This step is required for iOS devices only. This step is not required for Android devices.
 
 ### To register devices in the Apple Developer Account
 1. Log in to the Apple Developer Program.

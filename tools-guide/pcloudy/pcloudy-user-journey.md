@@ -4,13 +4,12 @@
 
 |Task|Owner|
 |---|---|
-|Subscribe for mobile device farm|PA|
-|[Review users and permissions](pcloudy-roles-and-permissions) |PA|
-|[Provision pCloudy in the SHIP-HATS portal](pcloudy-provision) |PA|
+|Subscribe for mobile device farm as part of your [subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription)|SA/PA|
 |[Add project](pcloudy-add)|PA|
-|[Add users or user groups in pCloudy]() |PA|
-|[Register Devices in Apple Developer Portal](pcloudy-register-devices)|PA|
-|Reviews the registeration and allocate mobile devices|HATS team|
+|[Provision pCloudy in the SHIP-HATS portal](pcloudy-provision) |PA|
+|[Register your account in pCloudy](pcloudy-register)|Agency |
+|Review registeration and allocate mobile devices|HATS team|
+|[Register Devices in Apple Developer Portal](pcloudy-register-devices)|SA/PA|
 |Run [manual testing](pcloudy-testing) or [automated testing using CLI](pcloudy-testing) ||
 
 
@@ -38,15 +37,4 @@ For pCloudy CLI automation:
 Steps are narrated in https://confluence.ship.gov.sg/display/HATSKB/pCloudy+CLI
 
 
-Overview
-Prerequisites
-Workflow
-Retrieving your PCloudy Token
-Setting up your Bamboo Plan
-Upload Files (Optional)
-Book Device
-Expected Outputs
-Run your tests
-Download Tests Logs (Optional)
-Release Device
-CLI Documentation
+

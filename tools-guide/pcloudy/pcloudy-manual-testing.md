@@ -1,16 +1,7 @@
-# pCloudy Testing
+# Manual Testing
 
-**Topics**
-- [Automated Testing](#automated-testing)
-- [Manual Testing](#manual-testing)
 
-## Automated Testing
-Please refer to [pCloudy CLI](https://confluence.ship.gov.sg/x/Foo4IQ) tool to get started with mobile automated testing.
-
-If you need technical assistance on connecting to pcloudy devices, please raise a service request [here](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/149).
-
-## Manual Testing
-### Prerequisites
+## Prerequisites
 To access the [pCloudy web dashboard](https://hats.pcloudy.com), make sure you have the following:
 - SHIP VPN
 - Internet access and Firefox browser/ Firefox Developer Edition browser, preferably on a non-government issued laptop/ development laptop
@@ -30,12 +21,3 @@ As the dashboard can only be accessed via the proxy:
     >- Appium Server, v1.19
     >- Python, v3.8.5 and above
     >- Robot Framework, v3.2.2 OR pabot, v1.10.0
-
-### Usage of Pabot
-
-Pabot allows parallel execution of tests. However, there is a known issue where the path of the embedded screenshots in the log file does not align with the filepath of the screenshots taken when tests fail. They are stored under the `pabot_results/` folder instead.
-
-We strongly encourage you to use Robot Framework i.e. `robot` command, where the screenshots are well embedded into the HTML report generated.
-
-
-

@@ -1,5 +1,5 @@
 - **Nexus IQ**
-  - [Nexus IQ](nexus-iq/nexus-iq-overview)
+  - [Overview](nexus-iq/nexus-iq-overview)
   -	[User Journey](nexus-iq/nexus-iq-user-journey)
   -	[Roles and Permissions](nexus-iq/nexus-iq-roles-and-permissions)
   - [Provision](nexus-iq/nexus-iq-provision)

@@ -18,7 +18,7 @@
   - [release tool](release-tool-overview)
   - [SonarQube](sonarqube/sonarqube-overview)
   - [Nexus IQ](nexus-iq/nexus-iq-overview)
-  - [Nexus Repository Pro](nexus-repository/nexus-repository-pro-overview)  
+  - [Nexus Repository Pro](nexus-repository/nexus-repo-overview)  
 
 &nbsp;
 

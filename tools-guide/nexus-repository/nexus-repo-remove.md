@@ -12,7 +12,7 @@
 ## Remove users
 [Remove users]()
 
-## Remove Nexus IQ
+## Remove Nexus Repo
 
-[Remove Nexus IQ](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-tools?id=remove-project-tools)
+[Remove Nexus Repo](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-tools?id=remove-project-tools)
 

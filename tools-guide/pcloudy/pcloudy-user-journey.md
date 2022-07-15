@@ -12,7 +12,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |Subscribe for mobile device farm as part of your [subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription)|SA/PA|
 |[Provision pCloudy in the SHIP-HATS portal](pcloudy-provision) |PA|
 |[Register your account in pCloudy](pcloudy-register)|Agency |
-|[Access pCloudy](pcloudy-manage)|SA/PA|
+|[Log in to pCloudy](pcloudy-manage)|SA/PA|
 |Review registeration and allocate mobile devices|HATS team|
 |[Register Devices in Apple Developer Portal](pcloudy-register-devices)|SA/PA|
 |Run [manual testing](pcloudy-testing) or [automated testing](pcloudy-testing) |Agency|

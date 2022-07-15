@@ -6,7 +6,7 @@ pCloudy CLI is a Command Line Interface(CLI) tool to be used as part of the Bamb
 - The user must be a Project Admin (PA) in order to retrieve the pCloudy token from the SHIP-HATS Self Help Portal.
 - Make sure that your bamboo plan has an elastic image configuration of the HATS security agent dedicated to it (check with the HATS team)
 
-## Retrieve PCloudy Token
+## Retrieve PCloudy token
 
 To use the pCloudy CLI in bamboo, you would need to retrieve your pCloudy token from your pCloudy application from the SHIP-HATS Self Help portal.
 
@@ -36,7 +36,7 @@ After you have your pCloudy token, you can use the pCloudy CLI in your bamboo pl
 
 You can also use the pCloudy CLI to upload files to pCloudy.
 
-## Upload Files
+## Upload files
 
 This is an optional step. This is mainly used to upload your application to pCloudy for testing.
 
@@ -86,7 +86,7 @@ You can then use a tool like `jq`  or `awk`  or `grep`  to get the data you want
 
 
 
-## Book Device
+## Book device
 
 Regardless of whether you upload your test file or not to pCloudy, you can use the pCloudy CLI to book a device for testing.
 

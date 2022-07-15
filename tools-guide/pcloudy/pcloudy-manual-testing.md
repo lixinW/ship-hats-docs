@@ -1,4 +1,4 @@
-# Manual Testing
+# Run manual testing
 
 
 ## Prerequisites

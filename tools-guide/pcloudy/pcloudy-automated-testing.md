@@ -475,11 +475,11 @@ After your tests are complete and you want to release the booked device, you can
 Example|	pcloudy-cli --help<br>pcloudy-cli -V
 Description	|Base command for pCloudy CLI, should only be used in debugging situations.
 
+
 |Options|Description|
 |---|---|
 --help	|Show the various options for the command and their respective descriptions
 --version, -V	|Shows the version of the pCloudy CLI you are using
-
 ---
 
 |Command Name|pcloudy-cli upload-file|
@@ -488,6 +488,7 @@ Synopsis	|pcloudy-cli upload-file --pcloudy-token/-P <pcloudy_token> --file/-f <
 Example	|pcloudy-cli upload-file -P 6ba4b6d2f0fecc6f2b9ee16bee2d2eb8 -f artifacts/test_build_12_21.apk
 Expected Output|	{"uploaded_filename": "test_build_12_21-1637507508.apk"}
 Description	|pCloudy CLI command used to upload a file to pCloudy
+
 
 |Options|Description|
 |---|---|
@@ -503,6 +504,7 @@ Synopsis	|pcloudy-cli book-device --pcloudy-token/-P <pcloudy_token> --duration/
 Example	|pcloudy-cli book-device -P 6ba4b6d2f0fecc6f2b9ee16bee2d2eb8 -d 10 -p ios -b
 Expected Output	|{"duration": 10, "platform": "ios", "full_name": "Apple_iPhoneXR_Ios_14.4.0_f1c43", "version": "14.4.0", "rid": "53257", "platform_name": "Ios", "browser_name": "14", "device_name": "14", "appium_endpoint": "https://hats.pcloudy.com/appium/hubble/n6nn6382nbnf-6643"}
 Description	|pCloudy CLI command used to book a device on pCloudy, using the pCloudy token generated from a SHIP-HATS subscription
+
 
 |Options|Description|
 |---|---|

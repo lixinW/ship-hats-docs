@@ -14,7 +14,7 @@
 
 ## Retrieve UUID from pCloudy
 
-### To register UUID from pCloudy:
+### To register UUID from pCloudy
 1. Log in to the [pCloudy device farm](https://hats.pcloudy.com).
 1. Click **Devices** > **UUID**. You will be able to see the list of iOS devices.
 

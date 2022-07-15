@@ -1,19 +1,6 @@
-# pCloudy CLI
+## pCloudy CLI
 
 pCloudy CLI is a Command Line Interface(CLI) tool to be used as part of the Bamboo pipeline to help book and release devices on pCloudy.
-
-**Topics**
-- [Prerequisites](#prerequisites)
-- [Retrieve PCloudy Token](#retrieve-pcloudy-token)
-- [Set up Bamboo Plan](#set-up-bamboo-plan)
-- [Upload Files (Optional)](#upload-files)
-- [Book Device](#book-device)
-- [Expected Outputs](#expected-outputs)
-- [Run your tests](#run-your-tests)
-- [Download Tests Logs (Optional)](#download-test-logs)
-- [Release Device](#release-device)
-- [CLI Documentation](#cli-documentation)
-
 
 ## Prerequisites
 - The user must be a Project Admin (PA) in order to retrieve the pCloudy token from the SHIP-HATS Self Help Portal.
@@ -23,7 +10,7 @@ pCloudy CLI is a Command Line Interface(CLI) tool to be used as part of the Bamb
 
 To use the pCloudy CLI in bamboo, you would need to retrieve your pCloudy token from your pCloudy application from the SHIP-HATS Self Help portal.
 
-### To retrieve PCloudy token:
+### To retrieve PCloudy token
 
 1. Log in to the [SHIP-HATS Portal](https://www.ship.gov.sg).
 1. Click **Projects** > **All Projects**, and then click **Manage** on the project that your pCloudy application is in. If your pCloudy application is already created, you can jump to step 5. If you want to create a new pCloudy application, go to next step.  
@@ -44,7 +31,7 @@ To use the pCloudy CLI in bamboo, you would need to retrieve your pCloudy token 
 
 ## Set up Bamboo Plan
 
-### To set up your Bamboo plan:
+### To set up your Bamboo plan
 After you have your pCloudy token, you can use the pCloudy CLI in your bamboo plans, to book and release devices on pCloudy.
 
 You can also use the pCloudy CLI to upload files to pCloudy.
@@ -54,7 +41,7 @@ You can also use the pCloudy CLI to upload files to pCloudy.
 This is an optional step. This is mainly used to upload your application to pCloudy for testing.
 
 
-### To upload files:
+### To upload files
 
 You can use the pCloudy CLI with the command: `pcloudy-cli upload-file`. 
 
@@ -103,7 +90,7 @@ You can then use a tool like `jq`  or `awk`  or `grep`  to get the data you want
 
 Regardless of whether you upload your test file or not to pCloudy, you can use the pCloudy CLI to book a device for testing.
 
-### To book a device:
+### To book a device
 
 - You need your token for this command
 - This command will return you the `rid` (used for releasing the booked device early) and the `api_endpoint` (the appium endpoint you would use to run your robots tests)
@@ -210,7 +197,7 @@ You can then use a tool like jq  or awk  or grep  to get the data you want out o
 
 After booking the device (and optionally uploading your apk file), you can run additional commands to perform your pCloudy tests. In this example, we are using Robot Framework as the testing framework.
 
-### To run your tests:
+### To run your tests
 
 **Sample Test Script**  
 
@@ -370,7 +357,7 @@ robot --variable ENDPOINT:"$APP_URL/wd/hub" --variable DEVICE_ID:"$DEVICE_ID" \
 ## Download Test Logs
 After your tests are complete you can also download the logs from pCloudy using the pcloudy-cli download-logs-data command. This is an optional step.
 
-### To download test logs:
+### To download test logs
 - You will need your pCloudy Token and `rid`  used to book the device
 - The logs will also be based on the tests ran on the booked device
 - Log files will be downloaded into the bamboo agent, where you can persist them by saving them as bamboo artifacts.
@@ -432,7 +419,7 @@ The downloaded logs will be stored in the current project's directory , in the b
 ## Release Device
 After your tests are complete and you want to release the booked device, you can run the pcloudy-cli release-device  command.
 
-### To release a device:
+### To release a device
 - You will need to use the same token and rid  when booking the device
     <!-- tabs:start -->
 

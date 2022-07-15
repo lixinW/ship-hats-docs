@@ -5,7 +5,6 @@
 |Task|Owner|
 |---|---|
 |Subscribe for mobile device farm as part of your [subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription)|SA/PA|
-|[Add project](pcloudy-add)|PA|
 |[Provision pCloudy in the SHIP-HATS portal](pcloudy-provision) |PA|
 |[Register your account in pCloudy](pcloudy-register)|Agency |
 |Review registeration and allocate mobile devices|HATS team|

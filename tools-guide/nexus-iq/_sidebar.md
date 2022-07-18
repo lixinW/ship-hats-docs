@@ -5,7 +5,6 @@
   - [Provision](nexus-iq/nexus-iq-provision)
   -	[Add Apps](nexus-iq/nexus-iq-add-apps)
   - [Add users or user groups](nexus-iq/nexus-iq-add)
-  -	[Modify](nexus-iq/nexus-iq-modify)
   - [Log in](nexus-iq/nexus-iq-log-in)
   - [Scan app](nexus-iq/nexus-iq-scan)
   - [Access report](nexus-iq/nexus-iq-access-report)
@@ -19,3 +18,7 @@
   - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
   - [Head Over to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
   - [Head Over to Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)  
+
+<!--
+  -	[Modify](nexus-iq/nexus-iq-modify)
+-->  

@@ -5,11 +5,11 @@ The following image and table outlines the steps that you must complete to get s
 
 These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted. 
 
-![User Journey](user-journey-pcloudy.png)
+![Placeholder for User Journey Image](user-journey-pcloudy.png)
 
 |Task|Owner|
 |---|---|
-|Subscribe for mobile device farm as part of your [subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription)|SA/PA|
+|Subscribe for pCloudy Device Farm (mobile device farm) as part of your [subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription)|SA/PA|
 |[Provision pCloudy in the SHIP-HATS portal](pcloudy-provision) |PA|
 |[Register your account in pCloudy](pcloudy-register)|Agency |
 |[Log in to pCloudy](pcloudy-manage)|SA/PA|

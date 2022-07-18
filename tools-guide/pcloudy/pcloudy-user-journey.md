@@ -5,7 +5,7 @@ The following image and table outlines the steps that you must complete to get s
 
 These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted. 
 
-![Placeholder for User Journey Image](user-journey-pcloudy.png)
+![User Journey](./images/user-journey-pcloudy.png)
 
 |Task|Owner|
 |---|---|
@@ -13,7 +13,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |[Provision pCloudy in the SHIP-HATS portal](pcloudy-provision) |PA|
 |[Register your account in pCloudy](pcloudy-register)|Agency |
 |[Log in to pCloudy](pcloudy-manage)|SA/PA|
-|Review registeration and allocate mobile devices|HATS team|
+|Review registration and allocate mobile devices|HATS team|
 |[Register Devices in Apple Developer Portal](pcloudy-register-devices)|SA/PA|
 |Run [automated testing](pcloudy-automated-testing) or [manual testing](pcloudy-manual-testing) |Agency|
 

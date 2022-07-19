@@ -9,3 +9,14 @@
 |||
 |||
 |||
+Retrieve app key and token ID|PA
+Configure GitLab for ?|
+Configure GitLab for Sonar scan|
+Run pipeline|
+View 
+Create quality gates and profiles (optional)|  
+Log in to SonarQube|  
+Include versioning  
+Rename untagged analysis
+Configure code dettings
+Filter issues

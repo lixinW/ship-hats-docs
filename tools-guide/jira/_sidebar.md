@@ -12,6 +12,7 @@
   - [FAQs](jira/jira-faqs)
   - [Troubleshooting](jira/jira-troubleshooting)
   - [Additional Resources](jira/jira-additional-resources)
+  - [Case Studies](jira/jira-case-studies)
       
 - **Additional Resources**
   - [Back to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)

@@ -22,4 +22,4 @@ All Artifacts will be deleted 180 days from the date of creation.
   </details>
 <br>  
 
-[Clean up FAQs](clean-up-policy-faqs.md ':include')
+[Clean up FAQs](./snippets/clean-up-policy-faqs.md ':include')

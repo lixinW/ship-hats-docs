@@ -81,7 +81,7 @@ The order of repositories or other groups in a group can be used to influence th
 
 ## Best practices
 
-[Best Practices](best-practices.md ':include')
+[Best Practices](./snippets/best-practices.md ':include')
 
 <!--
 - Place hosted repositories higher in the list than proxy repositories within the list. For proxy repositories, the repository manager needs to periodically check remote for updates, which will incur more overhead than a hosted repository lookup.  

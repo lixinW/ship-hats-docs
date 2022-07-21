@@ -1,8 +1,4 @@
-# Troubleshooting
 
-[Troubleshooting](./snippets/troubleshooting.md ':include')
-
-<!--
 <details>
   <summary><b>How can I resolve a 403 error in the pipeline?</b></summary><br>
 
@@ -17,8 +13,8 @@ docker logout
 ```
 
 This is because the login points to the docker hub and needs to be refreshed using the above commands.
-  </details>
-
+</details>
+<br>
 <details>
   <summary><b>I am unable to update docker in the pipeline?</b></summary><br>
 
@@ -34,4 +30,3 @@ docker logout
 
 This is because the login points to the docker hub and needs to be refreshed using the above commands.
   </details>
--->

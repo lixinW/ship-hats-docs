@@ -1,6 +1,6 @@
-# Provision Nexus Repo
+# Provision Nexus repo
 
-### To create Nexus Repo
+### To provision or create Nexus repo
 
 1. Raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/152).
 

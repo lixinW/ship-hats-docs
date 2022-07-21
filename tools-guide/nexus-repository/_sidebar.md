@@ -1,11 +1,9 @@
 - **Nexus Repo**
   - [Overview](nexus-repository/nexus-repo-overview)
-  - [User Journey](nexus-repository/nexus-repo-user-journey)
-  - [Roles and Permissions](nexus-repository/nexus-repo-roles-and-permissions)
+  - [User journey](nexus-repository/nexus-repo-user-journey)
+  - [Roles and permissions](nexus-repository/nexus-repo-roles-and-permissions)
   - [Provision](nexus-repository/nexus-repo-provision)
-  - [Create Nexus Repo](nexus-repository/nexus-repo-create)
   - [Log in](nexus-repository/nexus-repo-log-in)
-  -	[Modify](nexus-repository/nexus-repo-modify)
   - [Remove](nexus-repository/nexus-repo-remove)
   - [Clean up docker repo](nexus-repository/nexus-repo-clean-up-docker-repo)  
   - [Cleanup Policy](nexus-repository/nexus-repo-clean-up-policy)

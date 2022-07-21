@@ -1,5 +1,7 @@
 # Clean up Docker repo
 
+You must clean up repo every six months. 
+
 The root of the docker hosted repository is at:
 
 ```
@@ -62,3 +64,7 @@ docker logout
 ```
 
 This is because the login points to the docker hub and needs to be refreshed using the above commands.
+
+### Related Topics
+
+- [Cleanup Policy](nexus-repository/nexus-repo-clean-up-policy)

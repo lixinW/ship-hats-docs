@@ -4,18 +4,9 @@
 
 |Task|Owner|
 |---|---|
-|[Review users and permissions]() ||
-|[Provision Nexus Repo in the SHIP-HATS portal]() ||
-|[Add users or user groups in Nexus Repo]() ||
-|||
-|||
-|[Create Nexus Repo]()||
-|[Clean up docker repo](nexus-repository-clean-up-docker-repo)||
-
-Raise SSDL:  https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/152
-Write steps to do above
-Who all need access - for 3 users only
-final step - access repos in nexus
-upload to nexus -
-nexus clean up policy every 6 months
-docker repo - clean up every  https://confluence.ship.gov.sg/display/SHIP/Nexus+Repo+Creation+-+Docker - start after billing
+|[Review roles and permissions](nexus-repository/nexus-repo-roles-and-permissions) |PA|
+|[Provision Nexus repo](nexus-repository/nexus-repo-provision) |PA|
+|[Log in to Nexus repo](nexus-repository/nexus-repo-log-in)|PA|
+|[Clean up docker repo](nexus-repository/nexus-repository-clean-up-docker-repo)|PA|
+|[Access repo](nexus-repository/)|PA
+|[Upload to Nexus repo](nexus-repository/)|

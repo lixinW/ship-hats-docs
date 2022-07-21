@@ -14,7 +14,7 @@ Nexus repository provides the following features:
     - [Proxy repository](#proxy-repository)
     - [Hosted repository](#hosted-repository)
     - [Group repository](#group-repository)
-    - [Best practices](#best-practices)
+- [Best practices](#best-practices)
 
 
 ## Nexus Proxy repositories

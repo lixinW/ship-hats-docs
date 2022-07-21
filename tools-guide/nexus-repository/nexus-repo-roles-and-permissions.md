@@ -1,4 +1,4 @@
-# Roles and Permissions
+# Roles and permissions
 
 User roles and their permissions determine the actions a user can perform in NexusIQ. NexusIQ as a COTS product comes with system defined roles and permissions. We have customised these system-defined roles and permissions to meet your requirements.
 

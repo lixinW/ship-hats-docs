@@ -1,4 +1,4 @@
-# Cleanup Policy
+# Cleanup policy
 
 This section provides an overview on SHIP-HATS cleanup policy for your Nexus Repositories and recommendations that you can follow to improve performance and maintenance.
 
@@ -20,6 +20,9 @@ We highly recommend you to periodically review your repositories and to maintain
 
 ## FAQs
 
+[Clean up FAQs](clean-up-policy-faqs.md ':include')
+
+<!--
 <details>
  <summary> <b>Will there be any customer impact when the cleanup task is running?</b> </summary><br>No, there will be no customer impact.
 </details>
@@ -42,7 +45,8 @@ We highly recommend you to periodically review your repositories and to maintain
  <summary> <b>Will there be any communications sent to agencies for the cleanups?</b> </summary><br>
    There was an initial communication sent to our tenants on September 24, 2021 about SHIP-HATS cleanup policy. As this is a recurring task scheduled every day at   01:00 AM, there will be no ongoing communications.
 </details>
+-->
 
-### Related Topics
+### Related topics
 
 - [Clean up docker repo](nexus-repository/nexus-repo-clean-up-docker-repo) 

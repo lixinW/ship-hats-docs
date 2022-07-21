@@ -1,3 +1,3 @@
 # Best Practices
 
-[Best Practices](best-practices.md `:include`)
+[Best Practices](nexus-repository/best-practices.md `:include`)

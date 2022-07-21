@@ -1,4 +1,4 @@
-# Roles and Permissions
+# Roles and permissions
 
 User roles and their permissions determine the actions a user can perform in NexusIQ. NexusIQ as a COTS product comes with system defined roles and permissions. We have customised these system-defined roles and permissions to meet your requirements.
 
@@ -11,8 +11,9 @@ Application Security Tester|Tests security vulnerabilities<br>Can change securit
 Component Evaluator|Evaluates inidvisual components<br>Views policy violation results for a specific application|
 Developer|Views all information for their assigned organisation or application|
 Legal Reviewer|Reviews legal obligations for component licenses|
----
+
 <!--https://confluence.ship.gov.sg/display/SHIP/Nexus+IQ+Roles-->
+<!--
 IQ Server has several built-in roles, which are shown below. If one does not suit your needs, you can create a custom role.
 
 Administrator Roles:
@@ -53,3 +54,4 @@ Personnel: May be GT user or application vendor user if project team plans to ha
 Included in Onboarding form
 
 <picture>
+-->

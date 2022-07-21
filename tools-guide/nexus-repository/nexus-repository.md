@@ -27,7 +27,7 @@ Following types of Repositories are available:
 - [Hosted Repository](#hosted-repository)
 - [Group Repository](#group-repository)
 
-### Proxy Repository
+## Proxy Repository
 Proxy Repository is a repository linked to a remote repository. The Proxy Repository has a type `proxy`.  
 Any request for a component is verified against the local content of the proxy repository. If no local component is found, the request is forwarded to the remote repository. The component is then retrieved and stored locally in the repository manager, which acts as a cache.  
 Subsequent requests for the same component are then fulfilled from the local storage. This eliminates the network bandwidth and time overhead of retrieving the component from the remote repository again.
@@ -38,7 +38,7 @@ By default, the repository manager ships with the following configured proxy rep
 
 - **[nuget.org](http://nuget.org/)-proxy:** This proxy repository accesses the [NuGet](https://www.nuget.org/) Gallery. It is the default component repository used by the nuget package management tool used for .Net development.
 
-### Hosted Repository
+## Hosted Repository
 A Hosted Repository is a repository that stores components in the repository manager as the authoritative location for these components. The Hosted Repository has a type `hosted`. 
 
 By default, the repository manager ships with the following configured hosted repositories:

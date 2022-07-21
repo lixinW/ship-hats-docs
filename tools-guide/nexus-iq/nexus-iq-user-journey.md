@@ -9,7 +9,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 |Task|Owner|
 |---|---|
-|[Provision Nexus IQ in the SHIP-HATS portal](nexus-iq/nexus-iq-provision)|PA|
+|[Provision Nexus IQ in the SHIP-HATS portal](nexus-iq/nexus-iq-provision)|SA or PA|
 |[Add Apps](nexus-iq/nexus-iq-manage)|PA|
 |[Review roles and permissions](nexus-iq/nexus-iq-roles-and-permissions)|PA|
 |[Add users or user groups in Nexus IQ](nexus-iq/nexus-iq-add)|PA|

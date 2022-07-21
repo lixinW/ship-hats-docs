@@ -9,15 +9,15 @@
   - [Fortify Static Code Analyzer (SCA)](fortify-sca)
   - [Fortify WebInspect Enterprise](fortify-webinspect)
   - [Gitlab](gitlab/gitlab-overview)  
-  - [Thinking Hats](thinking-hats/thinking-hats-overview)
   - [Jira](jira/jira-overview) 
+  - [Nexus IQ](nexus-iq/nexus-iq-overview)
+  - [Nexus Repository Pro](nexus-repository/nexus-repo-overview) 
   - [pCloudy](pcloudy/pcloudy-overview)
   - [Prisma Cloud](prisma-cloud/prisma-cloud-overview)
   - [Purple Hats](purple-hats/purple-hats-overview)
   - [release tool](release-tool-overview)
   - [SonarQube](sonarqube/sonarqube-overview)
-  - [Nexus IQ](nexus-iq/nexus-iq-overview)
-  - [Nexus Repository Pro](nexus-repository/nexus-repo-overview)  
+  - [Thinking Hats](thinking-hats/thinking-hats-overview)
 
 &nbsp;
 

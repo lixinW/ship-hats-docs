@@ -4,13 +4,13 @@
 
 |Task|Owner|
 |---|---|
-|Review users and permissions||
-|Provision Nexus Repo in the SHIP-HATS portal||
-|Add users or user groups in Nexus Repo||
+|[Review users and permissions]() ||
+|[Provision Nexus Repo in the SHIP-HATS portal]() ||
+|[Add users or user groups in Nexus Repo]() ||
 |||
 |||
-|||
-|||
+|[Create Nexus Repo]()||
+|[Clean up docker repo](nexus-repository-clean-up-docker-repo)||
 
 Raise SSDL:  https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/152
 Write steps to do above

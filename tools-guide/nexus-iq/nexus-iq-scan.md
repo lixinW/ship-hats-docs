@@ -14,7 +14,7 @@ Using Nexus IQ involves the following tasks:
 
 1. Make sure you have your organization name and project name in Nexus-IQ. If it is not added, request the SHIP-HATS team to add it. 
 
-    ![Root organization](./images/)
+    ![Root organization](./images/root-org.png)
 
 1. When creating a new application, provide the application name and application-id (this must be unique).
 
@@ -45,14 +45,14 @@ Using Nexus IQ involves the following tasks:
 
 1. Check the logs.
 
-    ![Check the logs](./images/)
+    ![Check the logs](./images/check-logs.png)
 
 1. Copy the link given in the log and use that link to look at your report.
 
-    ![Report](./images/)
+    ![Report](./images/report.png)
 
 1. You can add new policy and give your preferred conditions.
 
 1. Also you can add your email id to get the report whenever there is any build failure or any security vulnerability issue in the build.
 
-    ![Policy](./images/)
+    ![Policy](./images/policy.png)

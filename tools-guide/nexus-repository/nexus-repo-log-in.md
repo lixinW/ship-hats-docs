@@ -1,4 +1,4 @@
-# Access
+# Log in
 >**Note:** The steps may vary based on the validity of the different authenticator tokens.  
 
 

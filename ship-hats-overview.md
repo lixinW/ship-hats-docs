@@ -52,7 +52,7 @@ This documentation uses the following terminology:
 | GCC | Government Commercial Cloud |
 | SOE | Standard ICT Operating Environment|
 | VPC | Virtual Private Cloud|
-| TWG | Transit Gateway|
+| TGW | Transit GateWay|
 
 ## Tools in SHIP-HATS
  
@@ -64,8 +64,9 @@ For information on specific versions of Tools in SHIP-HATS, refer to the [Tools]
 
 | **Tool** | **Description** | **Links** |
 | --- | --- | --- |
-| **Jira** | Project management tool that is used to view, track, and manage projects and the progress of your team's tasks or bugs for a sprint displayed in an agile board. | [Overview](https://www.atlassian.com/software/jira/guides/getting-started/overview) & [Tutorials](https://www.atlassian.com/software/jira/guides/getting-started/basics#step-2-pick-a-template) | 
-| **Confluence** | Shared space for collaboration to view, access, and manage all tasks and problems for the entire team enforces the idea of shared responsibility. Shared knowledge and environment also encourages experimentation. | [Overview](https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview#hosting-options) & [Tutorials](https://www.atlassian.com/software/confluence/guides/get-started/set-up) | 
+| **Jira Cloud** | Project management tool that is used to view, track, and manage projects and the progress of your team's tasks or bugs for a sprint displayed in an agile board. With Jira Software Cloud, Atlassian hosts and sets up your Jira Software site in the cloud for you. This allows you to get started quickly and easily without the need to manage the technical complexity of hosting yourself. | [Overview](https://www.atlassian.com/software/jira/guides/getting-started/overview) & [Tutorial](https://www.atlassian.com/software/jira/guides/getting-started/basics) | 
+| **Confluence Cloud** | Shared space for collaboration to view, access, and manage all tasks and problems for the entire team enforces the idea of shared responsibility. Shared knowledge and environment to encourage experimentation. With Confluence Cloud, Atlassian hosts your site for you to provide you immediate access to latest features.| [Overview](https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview) & [Tutorials](https://www.atlassian.com/software/confluence/guides/get-started/set-up) | 
+![Confluence](./images/confluence.png)|![Jira](./images/jira.png ':size=50%')
 
 ### Build Tools
 

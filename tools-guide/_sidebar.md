@@ -15,7 +15,6 @@
   - [pCloudy](pcloudy/pcloudy-overview)
   - [Prisma Cloud](prisma-cloud/prisma-cloud-overview)
   - [Purple Hats](purple-hats/purple-hats-overview)
-  - [release tool](release-tool-overview)
   - [SonarQube](sonarqube/sonarqube-overview)
   - [Thinking Hats](thinking-hats/thinking-hats-overview)
 

@@ -21,22 +21,22 @@ Nexus repository provides the following features:
 
 We have moved all the proxy repositories to S3-Proxy blobstore. So any new proxy repo request should select S3-Proxy as the blobstore.  All the other repo request (hosted/group) should move to S3Blobstore bucket. 
 
-|S.No.|Proxy Type|Proxy Name|Proxy URL|Upstream URL (in this order)|
-|---|---|---|---|---|  
-1	|Bower|	bower-proxy|	https://nexus.ship.gov.sg/repository/bower-proxy/	|https://registry.bower.io
-2	|NPM|	npm-proxy|	https://nexus.ship.gov.sg/repository/npm-proxy/|	https://registry.npmjs.org/
-3|	Docker|	docker-proxy|	https://nexus.ship.gov.sg/repository/docker-proxy | https://registry-1.docker.io
-4|	Nuget V2|	nuget-proxy|	https://nexus.ship.gov.sg/repository/nuget-proxy/	|https://www.nuget.org/api/v2/
-5|	Pypi	|pypi-proxy|	https://nexus.ship.gov.sg/repository/pypi-proxy/	|https://pypi.org
-6|	Rubygems|	rubygems-proxy|	https://nexus.ship.gov.sg/repository/rubygems-proxy/	|https://rubygems.org
-7|	Maven2	|maven2-proxy	|https://nexus.ship.gov.sg/repository/maven2-proxy/	|https://repo.maven.apache.org/maven2
-8|	Maven2|	maven2-bintray	|https://nexus.ship.gov.sg/repository/maven2-bintray/	|https://jcenter.bintray.com
-9|	Maven2|	maven2-gradle	|https://nexus.ship.gov.sg/repository/maven2-gradle/	|https://plugins.gradle.org/m2/
-10|	Maven2|	maven2-exetended-proxy|	https://nexus.ship.gov.sg/repository/maven2-extended-proxy/	|https://repo1.maven.org/maven2/ <br>https://jcenter.bintray.com <br>https://plugins.gradle.org/m2/
-11|	Yum|	yum-proxy|	https://nexus.ship.gov.sg/repository/yum-proxy/	|http://mirror.centos.org/centos/
-12|	Nuget V3|	nuget-sitecore-commerce	|https://nexus.ship.gov.sg/repository/nuget-sitecore-commerce/|	https://sitecore.myget.org/F/sc-commerce-packages/api/v3/index.json
-13|	Nuget V3|	nuget-sitecore|	https://nexus.ship.gov.sg/repository/nuget-sitecore/|	https://sitecore.myget.org/F/sc-packages/api/v3/index.json
-14|	Nuget V3|	nuget-api-proxy|	https://nexus.ship.gov.sg/repository/nuget-api-proxy/	|https://api.nuget.org/v3/index.json
+|Proxy Type|Proxy Name|Proxy URL|Upstream URL (in this order)|
+|---|---|---|---|  
+|Bower|	bower-proxy|	https://nexus.ship.gov.sg/repository/bower-proxy/	|https://registry.bower.io
+|NPM|	npm-proxy|	https://nexus.ship.gov.sg/repository/npm-proxy/|	https://registry.npmjs.org/
+|	Docker|	docker-proxy|	https://nexus.ship.gov.sg/repository/docker-proxy | https://registry-1.docker.io
+|	Nuget V2|	nuget-proxy|	https://nexus.ship.gov.sg/repository/nuget-proxy/	|https://www.nuget.org/api/v2/
+|	Pypi	|pypi-proxy|	https://nexus.ship.gov.sg/repository/pypi-proxy/	|https://pypi.org
+|	Rubygems|	rubygems-proxy|	https://nexus.ship.gov.sg/repository/rubygems-proxy/	|https://rubygems.org
+|	Maven2	|maven2-proxy	|https://nexus.ship.gov.sg/repository/maven2-proxy/	|https://repo.maven.apache.org/maven2
+|	Maven2|	maven2-bintray	|https://nexus.ship.gov.sg/repository/maven2-bintray/	|https://jcenter.bintray.com
+|	Maven2|	maven2-gradle	|https://nexus.ship.gov.sg/repository/maven2-gradle/	|https://plugins.gradle.org/m2/
+|	Maven2|	maven2-exetended-proxy|	https://nexus.ship.gov.sg/repository/maven2-extended-proxy/	|https://repo1.maven.org/maven2/ <br>https://jcenter.bintray.com <br>https://plugins.gradle.org/m2/
+|	Yum|	yum-proxy|	https://nexus.ship.gov.sg/repository/yum-proxy/	|http://mirror.centos.org/centos/
+|	Nuget V3|	nuget-sitecore-commerce	|https://nexus.ship.gov.sg/repository/nuget-sitecore-commerce/|	https://sitecore.myget.org/F/sc-commerce-packages/api/v3/index.json
+|	Nuget V3|	nuget-sitecore|	https://nexus.ship.gov.sg/repository/nuget-sitecore/|	https://sitecore.myget.org/F/sc-packages/api/v3/index.json
+|	Nuget V3|	nuget-api-proxy|	https://nexus.ship.gov.sg/repository/nuget-api-proxy/	|https://api.nuget.org/v3/index.json
 
 
 ## Repository types

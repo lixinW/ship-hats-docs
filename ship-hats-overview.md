@@ -7,7 +7,15 @@
 
 By offering a common development platform, automating delivery of applications and simplifying policy clearance, SHIP-HATS establishes a consistent and automated way for continuous integration, continuous testing and delivery to create better quality products faster. 
 
-## [Learn why is CI/CD important?](https://youtu.be/RlZCyexsJBc?t=260)
+**Topics**
+
+- [Learn why is CI/CD important](#learn-why-is-cicd-importanthttpsyoutuberlzcyexsjbct260)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Terminology](#terminology)
+- [Tools in SHIP-HATS](#tools-in-ship-hats)
+
+## [Learn why is CI/CD important](https://youtu.be/RlZCyexsJBc?t=260)
 
 <ifigure> 
 <iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/RlZCyexsJBc?t=260showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,36 +63,40 @@ This documentation uses the following terminology:
 | TGW | Transit GateWay|
 
 ## Tools in SHIP-HATS
- 
+
+![Tools in SHIP-HATS](./images/tools.png)
+
 The following section provide links to documentation and tutorials to learn the tools offered under **SHIP-HATS**. Note that these are not specific to SHIP-HATS but a pre-cursor to enable you to use these tools within SHIP-HATS effectively.  
 
 For information on specific versions of Tools in SHIP-HATS, refer to the [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) guide. 
 
 ### Project Management Tools
 
-| **Tool** | **Description** | **Links** |
+| Tool | Description | Links |
 | --- | --- | --- |
-| **Jira Cloud** | Project management tool that is used to view, track, and manage projects and the progress of your team's tasks or bugs for a sprint displayed in an agile board. With Jira Software Cloud, Atlassian hosts and sets up your Jira Software site in the cloud for you. This allows you to get started quickly and easily without the need to manage the technical complexity of hosting yourself. | [Overview](https://www.atlassian.com/software/jira/guides/getting-started/overview) & [Tutorial](https://www.atlassian.com/software/jira/guides/getting-started/basics) | 
-| **Confluence Cloud** | Shared space for collaboration to view, access, and manage all tasks and problems for the entire team enforces the idea of shared responsibility. Shared knowledge and environment to encourage experimentation. With Confluence Cloud, Atlassian hosts your site for you to provide you immediate access to latest features.| [Overview](https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview) & [Tutorials](https://www.atlassian.com/software/confluence/guides/get-started/set-up) | 
-![Confluence](./images/confluence.png)|![Jira](./images/jira.png ':size=50%')
+![Confluence](./images/confluence.png)|Shared space for collaboration to view, access, and manage all tasks and problems for the entire team enforces the idea of shared responsibility. Shared knowledge and environment to encourage experimentation. With Confluence Cloud, Atlassian hosts your site for you to provide you immediate access to latest features.| [Overview](https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview) & [Tutorial](https://www.atlassian.com/software/confluence/guides/get-started/set-up) |
+![Jira](./images/jira.png )|Project management tool that is used to view, track, and manage projects and the progress of your team's tasks or bugs for a sprint displayed in an agile board. With Jira Software Cloud, Atlassian hosts and sets up your Jira Software site in the cloud for you. This allows you to get started quickly and easily without the need to manage the technical complexity of hosting yourself. | [Overview](https://www.atlassian.com/software/jira/guides/getting-started/overview) & [Tutorial](https://www.atlassian.com/software/jira/guides/getting-started/basics) |
 
 ### Build Tools
 
-| **Tool** | **Description** | **Link** |
+| Tool | Description | Links |
 | --- | --- | --- |  
-| **GitLab** | Tool for Continuous Integration that enables constant merging and testing of code, which leads to early defect detection and saves time to fix merge issues. This also enables the development teams to receive rapid feedback on their work. |  [Overview](https://about.gitlab.com/) |
+![GitLab](./images/gitlab.png )|Tool for Continuous Integration that enables constant merging and testing of code, which leads to early defect detection and saves time to fix merge issues. This also enables the development teams to receive rapid feedback on their work. |  [Get Started with GitLab](https://docs.gitlab.com/ee/user/index.html) & [Tutorials](https://docs.gitlab.com/ee/tutorials/)|
 
 ### QA & Security Tools
 
-| **Tool** | **Description** | **Links** |
+| Tool | Description | Links |
 | --- | --- | --- |
-| **Nexus Repository Manager** | Tool for artifact management to ensure that the development, build, and production environments deploy consistent artifacts. This tool helps in reducing errors due to differences in build artifacts. This tool also provides version control for release artifacts for better control and easier rollback. | [Overview](https://www.sonatype.com/product-nexus-repository) |  
-| **Nexus IQ** | Tool for scanning application binaries and open source libraries for all popular formats, including NPM, Nuget, Maven, Bowser, and more. This tool continuously monitors and alerts users of open-source vulnerabilities. | [Overview](https://www.sonatype.com/nexus-iq-server) |  
-| **pCloudy Test Farm** | Tool to run automated tests on browsers (desktop and mobile) and mobile apps. Automation is triggered from Bamboo using the [Robot Framework](https://robotframework.org/). | [Overview](https://www.pcloudy.com/) |
+| **Nexus Repository Manager** | Tool for artifact management to ensure that the development, build, and production environments deploy consistent artifacts. This tool helps in reducing errors due to differences in build artifacts. This tool also provides version control for release artifacts for better control and easier rollback. | [Overview](https://www.sonatype.com/product-nexus-repository) & [Tutorials](https://help.sonatype.com/learning/repository-manager-3)|  
+![Nexus Repository](./images/nexus-repo-pro.png)| Tool for artifact management to ensure that the development, build, and production environments deploy consistent artifacts. This tool helps in reducing errors due to differences in build artifacts. This tool also provides version control for release artifacts for better control and easier rollback. | [Overview](https://www.sonatype.com/product-nexus-repository) & [Tutorials](https://help.sonatype.com/learning/repository-manager-3)|
+| **Nexus IQ** | Tool for scanning application binaries and open source libraries for all popular formats, including NPM, Nuget, Maven, Bowser, and more. This tool continuously monitors and alerts users of open-source vulnerabilities. | [Overview](https://www.sonatype.com/nexus-iq-server) & [Getting Started](https://help.sonatype.com/iqserver)|  
+| **pCloudy Test Farm** | Tool to run automated tests on browsers (desktop and mobile) and mobile apps. Automation is triggered from Bamboo using the [Robot Framework](https://robotframework.org/). | [Overview](https://www.pcloudy.com/) & [Documentation](https://www.pcloudy.com/mobile-application-testing-documentation/index.php)|
+| ![pCloudy](./images/pcloudy.png)| Tool to run automated tests on browsers (desktop and mobile) and mobile apps. Automation is triggered from Bamboo using the [Robot Framework](https://robotframework.org/). | [Overview](https://www.pcloudy.com/) |
 | **SonarQube** | Automatic code review tool to detect bugs, vulnerabilities, and code smell. 15 supported base languages include C#, Java, CSS, VB.NET, JavaScript, XML, TypeScript, Python, Flex, Kotlin, PHP, Go, Ruby, HTML, and Scala. | [Overview](https://docs.sonarqube.org/latest/) |
+| ![SonarQube](./images/sonarqube.png) | Automatic code review tool to detect bugs, vulnerabilities, and code smell. 15 supported base languages include C#, Java, CSS, VB.NET, JavaScript, XML, TypeScript, Python, Flex, Kotlin, PHP, Go, Ruby, HTML, and Scala. | [Overview](https://docs.sonarqube.org/latest/) |
 | **Fortify on Demand** | A tool that identifies vulnerabilities without the need for external infrastructure or resources. | [Overview & Free Trial](https://www.microfocus.com/en-us/cyberres/application-security/fortify-on-demand) |  
-| **Fortify WebInspect** | Dynamic Application Security Testing (DAST) tool that identifies vulnerabilities in web applications and APIs while they are running in production. | [Overview & Free Trial](https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview) |  
-|**Fortify SCA** | Static Application Security Testing (SAST) tool that identifies security vulnerabilities in software source code. Developers find and fix security defects in real-time during the coding process, with integrations to IDEs. | [Overview](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview) |  
+| ![FOD](./images/fod.png) | A tool that identifies vulnerabilities without the need for external infrastructure or resources. | [Overview & Free Trial](https://www.microfocus.com/en-us/cyberres/application-security/fortify-on-demand) |  
+
 
 <!--
 ## User Roles and Permissions

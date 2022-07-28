@@ -12,8 +12,7 @@ The following section contains the new features, enhancements, and changes relea
 
 | Change/Feature |Description|
 |---|---|
-|Quota Consumed|You can now view if a user is consuming quota from the current subscription or is consuming quota from a different subscription. If user is not consuming quota of the subscription, a tag **free user**, appears beside the name. When you hover over the tag, you can view the billing subscription under which the quota is being consumed. For more information, refer to the [View users](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-users?id=view-users), [Generate a User Report](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-users?id=generate-a-user-report), and [Remove users](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-users?id=remove-users) documentation. 
-|Email Address Display|If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear as the First and Last Name. For more information, refer to the [Create new projects](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-projects?id=create-new-projects) and [Add project admins](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-projects?id=add-project-admins) documentation.|
+|Feature|Description| 
 |Security Patching and Update|<ul><li>Bitbucket</li><li>Nexus Repo</li></ul>|  
 |Version Upgrade|Refer to the [Supported Tools and Versions](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview?id=supported-tools-and-versions) section for latest supported version of various tools.
 

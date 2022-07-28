@@ -30,6 +30,17 @@ The following image shows tools journey in SHIP-HATS:
 
 ![Tools journey in SHIP-HATS](./images/tools-journey.png)
 
+## Additional Resources
+
+- [GitLab Ticketing]()
+- [GitLab VSM]()
+- [GitLab Git]()
+- [GitLab SAST](https://docs.gitlab.com/ee/user/application_security/sast/)
+- [GitLab SCA]()
+- [GitLab]()
+- [GitLab DAST]()
+
+
 
 <!--
 The following table provides a list of tools integrated with SHIP-HATS and the supported version:

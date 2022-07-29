@@ -1,3 +1,0 @@
-# CD Pipeline
-
-Coming Soon!!!

@@ -6,7 +6,9 @@ SonarQube is an automatic code review tool to detect bugs, vulnerabilities, and 
 
 By default, SonarQube Community edition is available with all the tier subscription (except for Starter tier). 
 
-If you need the Developer edition, you must buy the [add-on of additional languages](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/subscription.html).  With the additional languages add-on purchased, as the Subscription Administrator (SA) or Project Administrator (PA), you will have the flexibility to create SonarQube applications from both the Community and Developer editions. SA and PA must have logged in to SonarQube at least once before proceeding to create applications in SonarQube. Though only SA and PA can create applications in SonarQube, we recommend all users to log in to SonarQube at least once to ease the process if a user role is changed to a PA role in the future.
+If you need the Developer edition, you must buy the [add-on of additional languages](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/subscription). With the additional languages add-on purchased, as the Subscription Administrator (SA) or Project Administrator (PA), you will have the flexibility to create SonarQube applications from both the Community and Developer editions. 
+
+?> SA and PA must have logged in to SonarQube at least once before proceeding to create applications in SonarQube. Though only SA and PA can create applications in SonarQube, we recommend all users to log in to SonarQube at least once to ease the process if a user role is changed to a PA role in the future.
 
 |**Subscription Package**|**Add-ons**|**SonarQube Instance**|
 |---|---|---|  

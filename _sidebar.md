@@ -7,11 +7,10 @@
 **Onboard to SHIP-HATS**  
   - [Onboarding](onboarding-to-ship-hats)  
 **CI/CD Pipeline**
-- [CI Pipeline](ci-pipeline)  
-- [CD Pipeline](cd-pipeline)  
+- [CI Pipeline](ci-cd-pipeline)  
 **Training**
   - [Training](training)
-  - [Templates](templates)
+  - [Templates](pipeline-templates)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)

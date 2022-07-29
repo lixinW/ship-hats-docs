@@ -1,14 +1,14 @@
 # Terms and Policies
 
 **Topics**
-- [Announcements](#announcements)
+- [Policies](#policies)
 - [Service level agreement](#service-level-agreement)
 - [Third party schedule](#third-party-schedule)
 - [Plugin review process](#plugin-review-process)
 
-## Announcements
+## Policies
 
-The policies and annoucements below have been emailed out to SHIP-HATS users. It is cross posted here for ease of use.
+The policies listed below have been emailed out to SHIP-HATS users. These are cross posted here for ease of use.
 
 ### Latest (25 Oct 2021)
 
@@ -53,17 +53,16 @@ All applicable terms and conditions relating to the following:
 |Tool/Service|Link|
 |---|---|
 |Atlassian Service & Data Center Products| https://www.atlassian.com/legal/privacy-policy/product-family 
-|OpenVPN |https://openvpn.net/terms <br><br> https://openvpn.net/license 
 |SonarQube|https://www.gnu.org/licenses/lgpl-3.0.en.html <br><br>https://www.sonarsource.com/docs/sonarsource_terms_and_conditions.pdf
 
 
 ## Plugin review process
 
->**Important:** The information provided in this document is for reference only. To request for a plugin review, you must [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11). The information contained herein is subject to change and the plugins can be rejected at the discretion of SHIP-HATS team.  
+!> The information provided in this document is for reference only. To request for a plugin review, you must [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11). The information contained herein is subject to change and the plugins can be rejected at the discretion of SHIP-HATS team.  
 
 ### Minimum requirement for a plugin request
 
-Following are the minimum requirements for a plugin request:
+The minimum requirements for a plugin request are provided below:
 - Data center approved
 - Cloud Supported
 - Atlassian endorsed as Trusted Partners

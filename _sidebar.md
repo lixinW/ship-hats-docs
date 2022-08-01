@@ -10,12 +10,15 @@
 - [CI/CD Pipeline](ci-cd-pipeline)  
 **Training**
   - [Training](training)
-  - [Templates](pipeline-templates)
+  - [Pipeline Templates](pipeline-templates)
+  - [Tutorial](web-app-tutorial.md)
+  - [List of Templates](ship-hats-templates)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
   - [General FAQs](general-faqs)
-  - [TechPass FAQs](techpass-faqs)
+  - [TechPass FAQs](techpass-faqs)    
+  - [SEED FAQs](seed-faqs)
   - [Contact us](contact-us) 
 
 &nbsp;

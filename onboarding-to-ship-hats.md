@@ -49,6 +49,9 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 - [Complete the set up in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/onboarding-to-portal)
 - [Invite Users via the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users) 
 
+### Related Topics
+- [User roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/user-roles-and-permissions)
+
 <!--
 
 1. Use gov.sg email to send a request to [enquiries_ENP@tech.gov.sg](mailto:enquiries_ENP@tech.gov.sg) with the email address of your Primary Subscription Admin (SA).  

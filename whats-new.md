@@ -4,7 +4,6 @@ This section contains feature information for the SHIP-HATS platform releases.
 
 **Topics**
 - [3.16.15 and 3.16.16](#31615-and-31616)
-- [3.15.14 and 3.15.15](#31514-and-31515)
 
 ## 3.16.15 and 3.16.16
 
@@ -16,6 +15,7 @@ The following section contains the new features, enhancements, and changes relea
 |Security Patching and Update|<ul><li>Bitbucket</li><li>Nexus Repo</li></ul>|  
 |Version Upgrade|Refer to the [Supported Tools and Versions](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview?id=supported-tools-and-versions) section for latest supported version of various tools.
 
+<!--
 ## 3.15.14 and 3.15.15
 
 The following section contains the new features, enhancements, and changes released on April 22, 2022:
@@ -28,3 +28,4 @@ The following section contains the new features, enhancements, and changes relea
 |Release Tools Discontinued | The Release tools (Digital.ai Release and Digital.ai Deploy) that were included earlier in the SHIP-HATS platform have been discontinued. Existing Release tools users can continue to use these tools until migrated to new tools.<br> For more information, refer to the latest [Architecture Diagram](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/architecture-diagram) topic in the documentation.
 |Security Patching and Update|<ul><li>Bamboo</li><li>Crowd</li><li>Jira/GDSJira</li><li>Nexus IQ</li></ul>|  
 |Version Upgrade|Refer to the [Supported Tools and Versions](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview?id=supported-tools-and-versions) section for latest supported version of various tools.
+-->

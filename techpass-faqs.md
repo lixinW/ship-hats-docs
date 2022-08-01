@@ -32,8 +32,10 @@ You can use TechPass to access SHIP-HATS services seamlessly on GSIB and GMD dev
 </details>
 <br>
 
+
 ### Related Topics
 
 - [General FAQs](general-faqs)
+- [SEED FAQs](seed-faqs)
 - [Support FAQs](support)
 - [Subscription FAQs](subscription)

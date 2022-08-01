@@ -137,4 +137,4 @@ No. Subscription Admin (SA) accounts do not consume quota.
 
 
 ### Related Topics
-- [Users and Permissions]()
+- [User roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/user-roles-and-permissions)

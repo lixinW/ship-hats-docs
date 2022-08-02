@@ -1,6 +1,6 @@
-## Supported Features
+## Latest features
 
-The following section lists the latest supported Confluence features:
+The following section lists the latest Confluence features that are supported with SHIP-HATS:
 
 - Feature 1
 - Feature 2

@@ -1,6 +1,5 @@
 - **Confluence**
   - [Overview](confluence/confluence-overview)
-  - [Latest Features](confluence/confluence-features)
   -	[User Journey](confluence/confluence-user-journey)
   -	[Roles and Permissions](confluence/confluence-roles-and-permissions)
   - [Provision](confluence/confluence-provision)

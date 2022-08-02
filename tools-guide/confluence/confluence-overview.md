@@ -4,7 +4,8 @@ Confluence provides a shared space for collaboration to view, access, and manage
 
 For more information, refer to https://www.atlassian.com/software/confluence.
 
-talk to jeya - for new features, they should check `get link from jeya`.
+[Supported Features](confluence-features.md ':include')
+
 
 <!--
 **Topics**  

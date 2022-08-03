@@ -11,10 +11,12 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |---|---|
 |[Review users and permissions](sonarqube/sonarqube-users-and-permissions)|SA|
 |[Provision SonarQube in the SHIP-HATS portal](sonarqube/sonarqube-provision)|SA|
-[Assign user groups or users](sonarqube/sonarqube-manage-users)|
-[Retrieve app key and token ID]()|PA|
-[Configure GitLab for Sonar scan]()|
-[Run pipeline]()|
-[Create quality gates and profiles (optional)]()|  
+[Assign user groups or users](sonarqube/sonarqube-add)|
+[Retrieve app key and token ID](sonarqube/sonarqube-retrieve)|PA
+[Configure Community Edition](sonarqube/sonarqube-set-up-community-edition)|
+[Configure Developer Edition](sonarqube/sonarqube-set-up-developer-edition)|
+[Configure GitLab for Sonar scan](sonarqube/sonarqube-configure-gitlab)|
+[Run pipeline](sonarqube/sonarqube-run-pipeline)|
+[Create quality gates and profiles (optional)](sonarqube/sonarqube-quality-gates-and-profiles)|  
 [Log in to SonarQube](sonarqube/sonarqube-log-in)|  
-[Configure settings](sonarqube/sonarqube-configure-settings)  |
+[Configure settings](sonarqube/sonarqube-configure-settings)|

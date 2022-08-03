@@ -7,21 +7,21 @@ Java, JavaScript, C#, TypeScript, Kotlin, Ruby, Go, Scala, Flex, Python, PHP, HT
 Do take note that there is no restriction of lines of code and number of applications.
 
   </details>
-
+<br>
  <details>
   <summary><b>Based on SonarQube’s add-ons, what are the 7 others supported languages?</b></summary><br>
 
 C, C++, Obj-C, Swift, ABAP, T-SQL, PL/SQL are supported. Public officers can refer to the <a href="https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx">pricing</a> for the add-ons.
 
   </details>
-
+<br>
  <details>
   <summary><b>Are COTS (commercial off-the-shelf) products supported on SonarQube?</b></summary><br>
 
 Yes. SonarQube can scan for any customisation that the COTS product supports.
 Example: Configuration files in XML or Javascript/ Java or plugins written in Java or Python.
   </details>
-
+<br>
 
 <br>
 Refer to this section if you have previously been assigned permissions in SonarQube via groups and have lost your access.  
@@ -40,7 +40,7 @@ Refer to this section if you have previously been assigned permissions in SonarQ
 - Raise a [service request on JIRA](https://jira.ship.gov.sg) and let us know about this issue.  
 We will manually find your master LDAP group and create or rename your existing SonarQube group if any. After this is done, user will be automatically be reassigned to the SonarQube projects that they had access to previously.
 </details>
-
+<br>
 
 <details>
 <summary><b>How do we manage users in Sonarqube moving forward?</b>

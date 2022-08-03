@@ -17,7 +17,4 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 [Run pipeline]()|
 [Create quality gates and profiles (optional)]()|  
 [Log in to SonarQube](sonarqube/sonarqube-log-in)|  
-[Include versioning]()  |
-[Rename untagged analysis]()|
-[Configure code dettings]()|
-[Filter issues]()|
+[Configure settings](sonarqube/sonarqube-configure-settings)  |

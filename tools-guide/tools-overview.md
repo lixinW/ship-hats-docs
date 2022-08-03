@@ -10,6 +10,7 @@ SHIP-HATS provides following tools while adhering to security and compliance req
 The following table provides a list of tools integrated with SHIP-HATS and the supported version:
 
 
+
 |Tools | Purpose/Category| Supported Version | Endpoint (URL) |
 | --- | --- | --- | --- |
 |[Confluence](confluence/confluence-overview)|Documentation and Collaboration|7.14.1|https://confluence.ship.gov.sg/|

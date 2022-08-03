@@ -14,6 +14,7 @@ The following table provides a list of SHIP-HATS services and the version suppor
 | Software Composition Analysis (SCA) | Nexus IQ | 135 | https://nexus-iq.ship.gov.sg/assets/index.html |
 | Automated Testing| pCloudy | NA | https://hats.pcloudy.com/|
 | Automatic Code Review | SonarQube | Community edition 8.9 | https://sonar.hats.stack.gov.sg/sonar |
+|Application Security Testing as a Service (ASTaaS)|Fortify on Demand (FoD)|22.2|https://sgp.fortify.com/Applications|
 | Static Application Security Testing (SAST) | Fortify Static Code Analyzer (SCA) | 20.2.0.298 | https://ssc.hats.stack.gov.sg/ssc |
 | Dynamic Application Security Testing (DAST) | Fortify WebInspect Enterprise | 20.2.0.208 | https://wie.hats.stack.gov.sg/WIE/|
 | Container Scanner | Prisma Cloud earlier known as Twistlock | 21.04 | https://twistlock.apps.hats.stack.gov.sg/|

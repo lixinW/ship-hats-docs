@@ -25,7 +25,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 <!--![Onboarding](./images/onboarding-ship-hats.png)-->
 
 <p align="center">
-  <img src="./images/onboarding-ship-hats.png">
+  <img src="./images/subscribing-ship-hats.png">
 </p>
 
 |Step|Task|Owner|

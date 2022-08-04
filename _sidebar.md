@@ -4,8 +4,8 @@
   - [What's New](whats-new)
   - [Subscription](subscription)
   - [Roadmap](roadmap)
-**Onboard to SHIP-HATS**  
-  - [Onboarding](onboarding-to-ship-hats)  
+**Subscribe to SHIP-HATS**  
+  - [Subscribing](subscribing-to-ship-hats)  
 **CI/CD Pipeline**
 - [CI/CD Pipeline](ci-cd-pipeline)  
 **Training**

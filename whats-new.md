@@ -2,6 +2,7 @@
 
 This section contains feature information for the SHIP-HATS platform releases.
 
+<!--
 **Topics**
 - [3.16.15 and 3.16.16](#31615-and-31616)
 
@@ -15,7 +16,7 @@ The following section contains the new features, enhancements, and changes relea
 |**Fortify on Demand**|You can now provision the Fortify on Demand tool and apps to a project via the SHIP-HATS portal. You can also assign the Fortify on Demand roles via the portal. For more information refer to the [Manage Projects](manage-projects) documentation.|
 |Security Patching and Update|<ul><li>Bitbucket</li><li>Nexus Repo</li></ul>|  
 |Version Upgrade|Refer to the [Supported Tools and Versions](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview?id=supported-tools-and-versions) section for latest supported version of various tools.
-
+-->
 <!--
 ## 3.15.14 and 3.15.15
 

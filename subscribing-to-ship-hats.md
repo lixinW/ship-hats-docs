@@ -10,7 +10,7 @@
 - A session is active for 20 minutes. Therefore, we recommend having the following details before clicking the onboarding link that you receive in your email: 
     |Information|Particulars Required|Notes|
     |---|---|---|
-    |Details of the Primary and Secondary Subscription Admins|Name<br>Email<br>Mobile Number|For more information, refer to [User roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/user-roles-permissions?id=sa-permissions).|
+    |Details of the Primary and Secondary Subscription Admins|Name<br>Email<br>Mobile Number|For more information, refer to *User roles and permissions* content below.|
     |Details of the Billing contact|Name<br>Email<br>Contact Number<br>Address<br> Sub Business Unit code details|Sub Business Unit (SUB BU) is not your Department code. Please work with your finance team for the SUB BU code.|
     |Approval of the subscription by a MIC (Manager In-Charge).|The approver of the subscription has to be Deputy Director and above for signatory.|None|
     |Approver Details|Name<br>Email<br>Designation|None| 
@@ -40,18 +40,20 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |8|Send an email to SAs indicating that their account has been provisioned.|SHIP-HATS |
 |9|[Onboard to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines).|Agency|
 |10|[Onboard to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/).|Agency|
-|11|[Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/access-ship-hats-portal).| Subscription Admin (SA)|
+|11|Onboard to the SHIP-HATS Portal| Subscription Admin (SA)|
 
 
 [User roles and permissions](./portal-guide/user-roles-and-permissions.md ':include')
 
 
+<!--
 ### What's Next
-- [Complete the set up in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/onboarding-to-portal)
+- [Complete the setup in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/onboarding-to-portal)
 - [Invite Users via the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users) 
 
+
 ### Related Topics
-- [User roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/user-roles-and-permissions)
+- [User roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/user-roles-and-permissions)-->
 
 <!--
 

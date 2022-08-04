@@ -7,11 +7,6 @@
   - [Subscribing](subscribing-to-ship-hats)  
 **CI/CD Pipeline**
 - [CI/CD Pipeline](ci-cd-pipeline)  
-**Training**
-  - [Training](training)
-  - [Pipeline Templates](pipeline-templates)
-  - [Tutorial](web-app-tutorial.md)
-  - [List of Templates](ship-hats-templates)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)

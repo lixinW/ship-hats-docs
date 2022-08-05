@@ -2,7 +2,7 @@
 ## Testing redirect
 
   - [redirect example 1](test-example)
-  - [example-blog-post](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/test-example)
+  - [example-blog-post](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/test-example)
 
   This page is stuck now!
 

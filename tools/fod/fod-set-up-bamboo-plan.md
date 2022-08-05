@@ -16,7 +16,7 @@ The user must be at least a Project Admin (PA) in order to retrieve the decoded 
 ### To retrieve decoded token via SHIP HATS Self Help Portal
 When you create a new Fortify project, a service account is created for your projects to use. You can visit the [SHIP-HATS portal](https://www.ship.gov.sg) to retrieve the decoded token. If you are using this approach, you do not need to include username for the Fortify scan.
 
-For more details, refer to the [Get token for Fortify application](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-fortify-applications?id=get-token-for-fortify-application) section in the SHIP-HATS Portal guide. 
+For more details, refer to the [Get token for Fortify application](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-fortify-applications?id=get-token-for-fortify-application) section in the SHIP-HATS Portal documentation. 
 <!--
 1.	If you have created the Fortify App, proceed to step 5. 
 If you have not created the Fortify App, go to the [SHIP-HATS](https://www.ship.gov.sg) portal, and then log in with your SHIP credentials.

@@ -26,7 +26,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 
 ### What's Next
-- [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview).
+- [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview).
 
 <!--
 **Topics**

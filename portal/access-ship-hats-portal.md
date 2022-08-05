@@ -12,7 +12,7 @@
 
 ## Prerequisites
 
-- Make sure that you have been [invited and onboarded to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/onboarding-to-ship-hats?id=onboarding) by the SHIP-HATS team.
+- Make sure that you have been [invited and onboarded to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/onboarding-to-ship-hats?id=onboarding) by the SHIP-HATS team.
 - Make sure that you have set up SEED and TechPass.
 
 ## Log in

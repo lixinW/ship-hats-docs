@@ -12,7 +12,7 @@
 
 Subscription Admins can add Project Admins using the SHIP-HATS portal. When creating a project in an account, it is mandatory to specify at least one Project Admin. SAs can add any additional PAs anytime in the future.  
 
-> **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription) quota for which the agency has subscribed.
+> **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/subscription) quota for which the agency has subscribed.
 
 ### To add a project admin
 
@@ -55,7 +55,7 @@ To change or transfer the existing PA role to another user, one of the SAs can a
 
    <kbd>![Edit Project Admin](./images/project-admin-edit.png ':size=60%')</kbd>
 
-1. Click **+ Add another**. The number of PAs each project is entitled to is based on the [subscription tier](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription) quota the agency has subscribed to. 
+1. Click **+ Add another**. The number of PAs each project is entitled to is based on the [subscription tier](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/subscription) quota the agency has subscribed to. 
 
    <kbd>![Add Another](./images/add-pa-manage-admin.png ':size=60%')</kbd>
 

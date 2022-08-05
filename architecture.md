@@ -13,6 +13,7 @@ This documentation uses the following terminology:
 |GCP|Google Cloud Platform|
 | GSIB | Government Standard Image Build|
 | GCC | Government Commercial Cloud |
+|Runner  | Agents that run the CI/CD jobs that come from GitLab|
 | SOE | Standard ICT Operating Environment|
 | VPC | Virtual Private Cloud|
 | TGW | Transit GateWay|

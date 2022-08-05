@@ -24,12 +24,12 @@
 
 ---
 **Additional Resources**
-  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 
-  - [Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) 
+  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/) 
+  - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
 <!--
 - **Additional Resources**
-  - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/) 
-  - [Head Over to Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview) 
+  - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/) 
+  - [Head Over to Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
 - **Option 2**
   - [Overview](ship-hats-portal-overview)
   - [User Roles and Permissions](user-roles-and-permissions)

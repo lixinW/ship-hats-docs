@@ -22,5 +22,5 @@
 
 ---  
 **Additional Resources**
-  - [Getting Started Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
-  - [Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)
+  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/)
+  - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview)

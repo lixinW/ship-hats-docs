@@ -13,4 +13,4 @@ The following table lists the roles and permissions available on SonarQube with 
 
 ### Related topics
 
-- [SHIP-HATS user roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/user-roles-and-permissions)
+- [SHIP-HATS user roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/user-roles-and-permissions)

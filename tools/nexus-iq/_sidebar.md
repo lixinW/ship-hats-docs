@@ -15,9 +15,9 @@
   - [Troubleshooting](nexus-iq/nexus-iq-troubleshooting)
   - [Additional Resources](nexus-iq/nexus-iq-additional-resources)     
 - **Additional Resources**
-  - [Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
-  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
-  - [Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)  
+  - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview)
+  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/)
+  - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview)  
 
 <!--
   -	[Modify](nexus-iq/nexus-iq-modify)

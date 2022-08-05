@@ -33,8 +33,8 @@ If users have not subscribed with us, following technology stack is required to 
 
 <!--
 You can provision GitLab by:
-- [Adding GitLab tool to a project](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-tools)  
+- [Adding GitLab tool to a project](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-tools)  
   -or-
-- [Adding project tool with customised project key](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-tools?id=create-project-tool-with-customised-project-key)
+- [Adding project tool with customised project key](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-tools?id=create-project-tool-with-customised-project-key)
 
 -->

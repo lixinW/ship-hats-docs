@@ -17,6 +17,6 @@
   - [Troubleshooting](sonarqube/sonarqube-troubleshooting)
   - [Additional Resources](sonarqube/sonarqube-additional-resources)
 - **Additional Resources**
-  - [Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview)
-  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/)
-  - [Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/ship-hats-portal-overview)
+  - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview)
+  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/)
+  - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview)

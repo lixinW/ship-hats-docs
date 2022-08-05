@@ -8,9 +8,9 @@
 
 ## Add user groups
 
-[Add user groups within Thinking Hats](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-tools?id=manage-user-groups-within-a-project-tool)
+[Add user groups within Thinking Hats](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-tools?id=manage-user-groups-within-a-project-tool)
 
 ## Add users
 
-[Add users within Thinking Hats](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-tools?id=manage-users-within-a-project-tool)
+[Add users within Thinking Hats](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-tools?id=manage-users-within-a-project-tool)
 

@@ -17,7 +17,7 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 
 
 <!--
-For information on specific versions of Tools in SHIP-HATS, refer to the [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) guide. -->
+For information on specific versions of Tools in SHIP-HATS, refer to the [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) documentation. -->
 
 <!--
 ### Project Management Tools

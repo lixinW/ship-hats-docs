@@ -9,7 +9,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 |Task|Owner|
 |---|---|
-|Subscribe for pCloudy Device Farm (mobile device farm) as part of your [subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription)|SA/PA|
+|Subscribe for pCloudy Device Farm (mobile device farm) as part of your [subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/subscription)|SA/PA|
 |[Provision pCloudy in the SHIP-HATS portal](pcloudy/pcloudy-provision) |PA|
 |[Register your account in pCloudy](pcloudy/pcloudy-register)|Agency |
 |[Log in to pCloudy](pcloudy/pcloudy-manage)|SA/PA|

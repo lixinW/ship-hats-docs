@@ -8,8 +8,8 @@ Following additional documentation resources will be added soon:
 
 |Document|Audience|Description|
 |---|---|---|
-|**Portal**|Subscription Administrator (SA) <br><br> Project Administrator (PA)|Use this documentation to onboard to the SHIP-HATS portal, add projects, set Project Administrators, and manage users. <br> *Documentation Coming Soon*|
-|**Tools**|Tools Administrators and Developers at Agencies|Use this documentation to learn about tools integrated with SHIP-HATS <br> *Documentation Coming Soon*|
+|**Portal**|Subscription Administrator (SA) <br><br> Project Administrator (PA)|Use this documentation to onboard to the SHIP-HATS portal, add projects, set Project Administrators, and manage users. <br><br> *Documentation Coming Soon*|
+|**Tools**|Tools Administrators and Developers at Agencies|Use this documentation to learn about tools integrated with SHIP-HATS <br><br> *Documentation Coming Soon*|
 
 <!--
 
@@ -17,6 +17,6 @@ Following additional documentation resources are available:
 
 |Document|Audience|Description|
 |---|---|---|
-|**[Portal Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/)**|Subscription Administrator (SA) <br><br> Project Administrator (PA)|Use this guide to onboard to the SHIP-HATS portal, add projects, set Project Administrators, and manage users. |
-|**[Tools Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/)**|Tools Administrators and Developers at Agencies|Use this guide to learn about tools integrated with SHIP-HATS|
+|**[Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/)**|Subscription Administrator (SA) <br><br> Project Administrator (PA)|Use this documentation to onboard to the SHIP-HATS portal, add projects, set Project Administrators, and manage users. |
+|**[Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/)**|Tools Administrators and Developers at Agencies|Use this documentation to learn about tools integrated with SHIP-HATS|
 -->

@@ -11,6 +11,8 @@ This documentation uses the following terminology:
 
 | **Term** | **Description** |
 | --- | --- |
+|CC|Commercial Cloud|
+|GCP|Google Cloud Platform|
 | GSIB | Government Standard Image Build|
 | GCC | Government Commercial Cloud |
 | SOE | Standard ICT Operating Environment|

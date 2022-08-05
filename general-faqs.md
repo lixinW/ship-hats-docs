@@ -12,37 +12,25 @@ A named user refers to licenses that is bound to a specific user. Each named use
 Yes. Subscription Admin (SA) and Service Accounts are considered as a named user account.
 </details>
 <br>
-<details>
+<!--<details>
   <summary><b>How do I reset my password?</b></summary><br>
-Refer to the <a href="">text</a> documentation.
+Refer to the [Reset password](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/users-self-help) section in the [SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/) documentation.
 </details>
-<br>
-<details>
+<br>-->
+<!--<details>
   <summary><b>How do I reset my 2FA?</b></summary><br>
-Refer to the <a href="https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/portal-guide/manage-account?id=reset-2fa">reset 2FA</a> documentation.
+Refer to the [reset 2FA](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/users-self-help) section in the [SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/) documentation.
 </details>
-<br>
-<details>
+<br>-->
+<!--<details>
   <summary><b>What if I have lost my mobile device?</b></summary><br>
-Refer to the <a href="https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/portal-guide/manage-account"> manage accounts</a> documentation to reset your account.
+Refer to the [manage accounts](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-account) section to reset your account.
 </details>
-<br>
+<br>-->
 <details>
   <summary><b><b>Can I access SHIP-HATS tools via GSIB device?</b></b></summary><br>
-Yes. You can access SHIP-HATS tools such as Confluence, Jira, Bamboo, Nexus Repo, Nexus IQ and SHIP-HATS Service Desk via GSIB.
 
-  
-#### To access SHIP-HATS tools on GSIB
-  1. Go to the SHIP-HATS tools you intend to use. For example, <a href="http://confluence.ship.gov.sg"> Confluence</a>
-  1. You will be directed to **TechPass**
-  
-    ![techpass](tpselectnew.png)
-  
-  1. Sign in and approve via the **Microsoft Authenticator** app
- 
-    ![tpapprove](tpapprovenew.png)
-  
-  1. You can sign in with your **SHIP-HATS** user id or with TechPass.
+Yes. You can access SHIP-HATS tools such as Confluence, Jira, Bamboo, Nexus Repo, Nexus IQ, and SHIP-HATS Service Desk via GSIB.
 
 </details>
 <br>

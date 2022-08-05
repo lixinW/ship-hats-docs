@@ -43,13 +43,13 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |11|Onboard to the SHIP-HATS Portal| Subscription Admin (SA)|
 
 
-[User roles and permissions](./portal-guide/user-roles-and-permissions.md ':include')
+[User roles and permissions](./portal/user-roles-and-permissions.md ':include')
 
 
 <!--
 ### What's Next
-- [Complete the setup in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/onboarding-to-portal)
-- [Invite Users via the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-guide/#/manage-users?id=invite-users) 
+- [Complete the setup in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/onboarding-to-portal)
+- [Invite Users via the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-users?id=invite-users) 
 
 
 ### Related Topics

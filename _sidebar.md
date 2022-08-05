@@ -1,12 +1,14 @@
 **Overview**
   - [Audience](audience)
   - [Overview](ship-hats-overview)
-  - [What's New](whats-new)
+  - [Architecture](architecture)
+  - [Integrated tools](integrated-tools)
   - [Subscription](subscription)
 **Subscribe to SHIP-HATS**  
   - [Subscribing](subscribing-to-ship-hats)  
 **CI/CD Pipeline**
 - [CI/CD Pipeline](ci-cd-pipeline)  
+- [Pipeline Templates](pipeline-templates)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)

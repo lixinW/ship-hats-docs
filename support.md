@@ -24,6 +24,8 @@
 
 ## FAQs
 
+>**Tip:** Click the triangle to view the answer.
+
 <details>
   <summary><b> What is basic support?</b></summary><br>
 Basic support is the support provided by SHIP-HATS team as per on the service agreement.

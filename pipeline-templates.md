@@ -1,6 +1,6 @@
 # Pipeline Templates
 
-SHIP-HATS Pipeline templates are reusable configuration files that developers can use to configure CICD pipeline instead of building from the scratch. The templates help agencies to incorporate best practices for security compliance and performance metrics.  
+SHIP-HATS Pipeline templates are reusable configuration files that developers can use to configure CI/CD pipeline instead of building from the scratch. The templates help agencies to incorporate best practices for security compliance and performance metrics.  
 
 **Topics**
 - [Types of Templates](#types)

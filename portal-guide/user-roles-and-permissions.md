@@ -9,10 +9,10 @@
 | **User** | User is the default role for all the users from the Agency and vendors. | Refer to [User permissions](#user-permissions) for detailed permissions. For tool-specific permissions, refer to [Tools permissions](#tools-permissions).|  
 
 ## SA permissions
-- Manage a subscription including upgrading or downgrading to a different tier from [SHIP-HATS portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription).
+- Manage a subscription including upgrading or downgrading to a different tier from [SHIP-HATS portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/subscription).
 - Add users to a subscription and manage their roles.
 - Create and manage projects. While creating a project, it is mandatory to assign at least one Project Administrator (PA). 
-- Request or remove additional resources for a subscription. For more information refer to the [SHIP-HATS portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started-guide/#/subscription).
+- Request or remove additional resources for a subscription. For more information refer to the [SHIP-HATS portal](https://www.ship.gov.sg/). For more information, refer to the [Subscription FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/subscription).
 
 ## PA permissions
 - Manage project from [SHIP-HATS portal](https://www.ship.gov.sg/).
@@ -24,5 +24,9 @@
 - Perform assigned functional roles and responsibilities within the associated tool(s).
 
 ## Tools permissions  
+- For user roles and permissions related to tools, refer to the **Users and Permissions** section in the SHIP-HATS Tools documentation. 
 
-For user roles and permissions related to tools, refer to the **Users and Permissions** section in the [SHIP-HATS Tools guide](https://docs.developer.tech.gov.sg/docs/ship-hats-tools-guide/#/tools-overview). 
+<!--
+
+- For user roles and permissions related to tools, refer to the **Users and Permissions** section in the [SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) documentation. 
+-->

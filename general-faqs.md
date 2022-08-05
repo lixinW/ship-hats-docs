@@ -1,4 +1,5 @@
 # General FAQs
+
 >**Tip:** Click the triangle to view the answer.
 
 <details>

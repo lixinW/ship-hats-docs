@@ -2,8 +2,6 @@
 
 **Commercially Off the Shelf (COTS)** tools are available on SHIP-HATS with the right security and compliance settings. The following diagram shows how they work together to provide a seamless platform. 
 
-For information on tools, refer to the [Tools in SHIP-HATS](#tools-in-ship-hats) section.
-
 ![Architecture](./images/architecture.png)
 
 ## Terminology

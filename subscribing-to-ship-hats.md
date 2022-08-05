@@ -1,9 +1,9 @@
 # Subscribing to SHIP-HATS
 
-**Topics**
+<!--**Topics**
 - [Prerequisites](#prerequisites)
 - [Subscribing](#subscribing)
-
+-->
 ## Prerequisites
 
 - Make sure that you have the required [Subscription](subscription).

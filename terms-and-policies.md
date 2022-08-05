@@ -1,11 +1,11 @@
 # Terms and Policies
 
-**Topics**
-<!--- [Policies](#policies)-->
+<!--**Topics**
+- [Policies](#policies)
 - [Service level agreement](#service-level-agreement)
 - [Third party schedule](#third-party-schedule)
 - [Plugin review process](#plugin-review-process)
-
+-->
 <!--## Policies
 
 The policies listed below have been emailed out to SHIP-HATS users. These are cross posted here for ease of use.

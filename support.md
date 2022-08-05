@@ -1,10 +1,10 @@
 # Support
 
-**Topics**
+<!--**Topics**
 - [Raise a service request](#raise-a-service-request)
 - [Maintenance schedule](#maintenance-schedule)
 - [FAQs](#faqs)
-
+-->
 
 
 ## Raise a service request

@@ -1,10 +1,10 @@
 # Subscription
-
+<!--
 **Topics**
 - [Overview](#overview)
 - [Understanding SHIP-HATS Subscription](#understanding-ship-hats-subscriptionhttpswwwyoutubecomembedksuenr78m4wshowinfo0)
 - [FAQs](#faqs)
-
+-->
 ## Overview 
 
 SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe to SHIP-HATS. However, agencies can extend subscriptions to non-agency users, such as vendors. Following image shows the 4 subscription tiers (Starter, Squad, Team, and Tribe) and available add-ons for each service under SHIP-HATS.
@@ -13,6 +13,8 @@ SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe
 
 Public officers can visit the [Intranet website for pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx). For further queries on pricing, please drop us an email at <enquiries_ENP@tech.gov.sg>.
 
+
+<!--
 ## [Understanding SHIP-HATS Subscription](https://www.youtube.com/embed/ksUEnR78m4w?showinfo=0)
 
 <ifigure> 
@@ -138,5 +140,5 @@ No. Subscription Admin (SA) accounts do not consume quota.
 
 ### Related Topics
 - [User roles and permissions](./portal-guide/user-roles-and-permissions)
-<!--- [User roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/user-roles-and-permissions)
+- [User roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/user-roles-and-permissions)
 -->

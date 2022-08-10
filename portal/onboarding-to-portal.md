@@ -15,8 +15,8 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |3|[Invite a user](onboarding-users)|SA|
 |4|[Register an account as a Public Officer or a Vendor](onboarding-users)|Public Officer or Vendor|
 |5|[Approve a new user](onboarding-users)|SA|
-|6|[Onboard the user to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/)|User|
-|7|[Onboard the devices to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)|User|
+|6|[Onboard the user to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)|User|
+|7|[Onboard the devices to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/)|User|
 |8|[Create a project](manage-projects)|SA|
 |9|[Add a project admin](manage-admins)|SA|  
 |10|[Add a project tool](manage-tools)|SA or Project Admin (PA)|
@@ -26,7 +26,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 
 
 ### What's Next
-- [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview).
+- [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/tools-overview).
 
 <!--
 **Topics**

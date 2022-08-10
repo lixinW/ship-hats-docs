@@ -27,6 +27,5 @@
 - For user roles and permissions related to tools, refer to the **Users and Permissions** section in the SHIP-HATS Tools documentation. 
 
 <!--
-
 - For user roles and permissions related to tools, refer to the **Users and Permissions** section in the [SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) documentation. 
 -->

@@ -24,6 +24,7 @@
 
 ---
 **Additional Resources**
+  - [SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)
   - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/) 
   - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
 <!--

@@ -11,6 +11,8 @@
 - [Pipeline Templates](pipeline-templates)
 **Trainings**
 - [Training](training)
+- [Self-paced trainings](self-paced-trainings)
+- [Live trainings](live-trainings)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)

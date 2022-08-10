@@ -18,6 +18,7 @@ To ensure we support at scale, anyone can access Self-Paced trainings.
 |Products 101|- CI/CD with GitLab [Coming in September]<br>- Should we list tutorials of non GitLab tools??
 |SHIP-HATS 101|- [Architecture Overview](architecture)<br>- [Templates Overview](templates)<br>- [Tools Overview]()
 
+<!--
 ---
 Option 2
 
@@ -27,7 +28,7 @@ Option 2
 
 - [Read the recommended best practices in the DevSecOps playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)
 - [Learn the CI/CD basics]()
-
+-->
 <!--
 |Pre-requisites||
 |---|---|
@@ -35,10 +36,12 @@ Option 2
 CI/CD basics|Self-learn
 -->
 
+<!--
 ### Products 101
 - CI/CD with GitLab [Coming in September]
     - Video Playlist
 - Should we list tutorials of non GitLab tools??|
+-->
 
 <!--
 |Products 101||
@@ -47,11 +50,13 @@ CI/CD with GitLab [Coming in September]|Video Playlist
 Should we list tutorials of non GitLab tools??|
 -->
  
-
+<!--
 ### Onboarding SHIP-HATS
 
 - [Pricing & Subscription Overview [Coming in October]]()
 - [Subscription Process](subscription) 
+
+-->
 
 <!--
 |Onboarding SHIP-HATS||
@@ -59,18 +64,18 @@ Should we list tutorials of non GitLab tools??|
 Pricing & Subscription Overview [Coming in October]|Video
 Subscription Process |Tech Doc
 -->
-
+<!--
 ### SHIP-HATS 101
 
 - [Project management using SHIP-HATS Portal]()
-
+-->
 <!--
 |SHIP-HATS 101||
 |---|---|
 Project management using SHIP-HATS Portal|Tech Doc
 -->
 
-
+<!--
 ## For Developers
 
 ### Prerequisites
@@ -90,7 +95,7 @@ Project management using SHIP-HATS Portal|Tech Doc
 - [Architecture Overview](architecture)
 - [Templates Overview](templates)
 - [Tools Overview]()
-
+-->
 
 <!--
 |Topic|Resources|

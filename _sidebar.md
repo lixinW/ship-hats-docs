@@ -20,3 +20,9 @@
   - [TechPass FAQs](techpass-faqs)    
   - [SEED FAQs](seed-faqs)
   - [Contact us](contact-us) 
+
+&nbsp;
+
+---
+**Additional Resources**
+  - [SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  

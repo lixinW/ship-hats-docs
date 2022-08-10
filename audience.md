@@ -4,6 +4,12 @@ This documentation is intended for the **Subscription Administrator (SA) to subs
 
 This documentation is also intended for new users to understand how SHIP-HATS helps you set up your CI/CD pipeline and train on using SHIP-HATS. 
 
+Following additional documentation resources are available:
+
+|Document|Audience|Description|
+|---|---|---|
+|**[SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)**|Existing users|Use this documentation to plan migration of your systems from SHIP-HATS 1.0 to SHIP-HATS 2.0.|
+
 Following additional documentation resources will be added soon:
 
 |Document|Audience|Description|

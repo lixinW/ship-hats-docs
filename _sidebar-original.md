@@ -11,7 +11,7 @@
 **Training**
   - [Training](training)
   - [Pipeline Templates](pipeline-templates)
-  - [Tutorial](web-app-tutorial.md)
+  - [Tutorial](web-app-tutorial)
   - [List of Templates](ship-hats-templates)
 **Support**
   - [Terms & Policies](terms-and-policies)

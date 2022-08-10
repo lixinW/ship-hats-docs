@@ -1,55 +1,115 @@
 # Training
 
-Following training resources are available:
-- [Documentation resources](#documentation-resources)
-- [Video library](#video-library)
-- [Webinars](#webinars)
-- [Workshops](#workshops)
-- [Book a session](#book-a-session)
-- [Request a trial](#request-a-trial)
-- [Request training](#request-training)
+SHIP-HATS 2.0 Training  
 
-## Documentation resources
+We are rolling out trainings for Developers and Project Managers to help them learn and leverage the features for SHIP-HATS 2.0 to practice DevSecOps best practices.
 
-- [DevSecOps Playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/#/)
+## Scope  
 
-## Video library 
+The training that GovTech builds is specific to SHIP-HATS and how to leverage the templates that we offer. We encourage the Agencies and Vendors to leverage on standard trainings to understand the base concepts related to DevSecOps and CI/CD to maximise the learnings from SHIP-HATS trainings.
 
-### [Preparing your team for DevOps](https://www.youtube.com/watch?v=wgW-8vvK5sMte) 
+## Format
+We are building Self-Paced (Videos and Documentation) and Live (Virtual and Classroom-based) training modules for developers and project managers.
 
-<ifigure> 
-<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/wgW-8vvK5sM?t=260showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</ifigure>
+## Audience
+The trainings are curated for technical (developers, software engineers etc.) and non-technical (project managers, business analysts).
 
-### [SHIP-HATS Architectural Approach](https://www.youtube.com/watch?v=yiD4--KSdTI)
+ 
 
-<ifigure> 
-<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/yiD4--KSdTI?t=260showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</ifigure>
+||Public Officers|Vendors
+|---|---|---|
+**Self-Paced**|Available|Available
+**Live**|By invitation|- Existing SHIP-HATS users – By invitation <br>- Not on SHIP-HATS  –  Submit your training request for review.
 
-### [Security Testing 101](https://www.youtube.com/watch?v=SVomPCqKGM4)
+## Self-Paced Trainings
 
-<ifigure> 
-<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/SVomPCqKGM4?t=260showinfo=0" height="500" width="790" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</ifigure>
+To ensure we support at scale, anyone can access Self-Paced trainings. 
 
-## Webinars
+### For Project Manager & Business Analysts
+
+#### Pre-requisites
+
+|Pre-requisites||
+|---|---|
+DevSecOps – read the recommended best practices in the playbook|Tech Doc
+CI/CD basics|Self-learn
+
+#### Products 101
+|Products 101||
+|---|---|
+CI/CD with GitLab [Coming in September]|Video Playlist
+Should we list tutorials of non GitLab tools??|
+
+ 
+
+#### Onboarding SHIP-HATS
+|Onboarding SHIP-HATS||
+|---|---|
+Pricing & Subscription Overview [Coming in October]|Video
+Subscription Process |Tech Doc
+
+#### SHIP-HATS 101
+
+|SHIP-HATS 101||
+|---|---|
+Project management using SHIP-HATS Portal|Tech Doc
+
+### For Developers
+
+Pre-requisites
+
+DevSecOps – read the recommended best practices in the playbook
+
+Tech Doc
+
+CI/CD basics
+
+Self-learn
+
+Products 101
+
+ 
+
+CI/CD with GitLab [Coming in September]
+
+Video Playlist
+
+Should we list tutorials of non GitLab tools??
+
+ 
+
+SHIP-HATS 101
+
+ 
+
+Architecture Overview
+
+Tech Doc
+
+Templates Overview
+
+Tech Doc
+
+Tools Overview
+
+Tech Doc
 
 
-## Workshops
 
+## Live Trainings
+To ensure we support specific teams with their migrations and new onboarding, Live trainings are by invitation. If you are interested in a training that you are not invited, submit your request for review.
 
-## Book a session
+### Upcoming events
 
-Agencies can now request for a one-hour session for the CIO or Business or IT leaders to build the CI/CD strategy. The session will include an overview of Singapore Government Tech Stack (SGTS) and SHIP-HATS roadmap.
+#### Briefings
+|Briefings|||||  
+|---|---|---|---|---|
+Topic|Date|Format|Audience|Sign up
+SHIP-HATS 2.0 Announcement Briefing|19 Aug 22|Virtual|Project Managers & Developers|Existing users - Contact your Subscription Admin
+SHIP-HATS 2.0 Migration Briefing|13 Sep 2022|Virtual|Project Managers & Developers|Coming soon
 
-[Submit a request](https://form.gov.sg/#!/6086619c7be16c0012b35281) on our enquiry form to schedule. After you submit the form, we will reach out in five business days to schedule a session depending on availability of the leaders from the agency and GovTech.
+#### Classroom
 
-## Request a trial
-
-We offer a 1-month trial account subject to availability. Agencies can write to <enquiries_ENP@tech.gov.sg> to request for a trial account.
-
-## Request training
-
-If you need a specific training, please [submit your feedback](https://form.gov.sg/#!/6086619c7be16c0012b35281) and we will include it in our prioritisation. 
-
+|Classroom|||||  
+|---|---|---|---|---|
+SHIP-HATS 2.0 Workshop<br>Pre-requisite: Basic understanding of CI/CD is essential.|Coming soon|Classroom|	Developers (20 pax)|By invitation based on migration and onboarding schedules

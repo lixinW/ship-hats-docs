@@ -6,17 +6,17 @@ To ensure we support at scale, anyone can access Self-Paced trainings.
 
 |Category|Topics|
 |---|---|
-|Prerequisites|- [Read the recommended best practices in the DevSecOps playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)<br>- [Learn the CI/CD basics]()|
-|Products 101|- CI/CD with GitLab [Coming in September]<br>- Should we list tutorials of non GitLab tools??
-|Onboarding to SHIP-HATS|- [Pricing & Subscription Overview [Coming in October]]()<br>- [Subscription Process](subscription) 
+|Prerequisites|- [Read the recommended best practices in the DevSecOps playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)<br>- Learn the CI/CD basics|
+|Products 101|- CI/CD with GitLab (Coming in September)<br>- Should we list tutorials of non GitLab tools??
+|Onboarding to SHIP-HATS|- Pricing & Subscription Overview (Coming in October)<br>- [Subscription Process](subscription) 
 
 ## For Developers
 
 |Category|Topics|
 |---|---|
-|Prerequisites|- [Read the recommended best practices in the DevSecOps playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)<br>- [Learn the CI/CD basics]()|
-|Products 101|- CI/CD with GitLab [Coming in September]<br>- Should we list tutorials of non GitLab tools??
-|SHIP-HATS 101|- [Architecture Overview](architecture)<br>- [Templates Overview](templates)<br>- [Tools Overview]()
+|Prerequisites|- [Read the recommended best practices in the DevSecOps playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)<br>- Learn the CI/CD basics|
+|Products 101|- CI/CD with GitLab (Coming in September)<br>- Should we list tutorials of non GitLab tools??
+|SHIP-HATS 101|- [Architecture Overview](architecture)<br>- [Templates Overview](templates)<br>- Tools Overview
 
 <!--
 ---

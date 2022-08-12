@@ -24,6 +24,9 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 |Deployment & Release|Deploy|GitLab Package Registry <br>-or-<br>Nexus Repository Pro
 |Operations & Monitoring|Monitoring|StackOps|
 
+[Tooling Strategy](./migration/tooling-strategy.md ':include')
+
+
 <!--
 |DevSecOps Stage|DevSecOps Capability|Tools in 1.0|Tools in 2.0|
 |---|---|---|---|

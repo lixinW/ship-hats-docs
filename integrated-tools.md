@@ -5,17 +5,46 @@
 
 The following section provides list of tools for each stage in CI/CD pipeline offered under **SHIP-HATS**. 
 
-
-|Stage|Tools in 1.0|Tools in 2.0|
+|DevSecOps Stage|DevSecOps Capability|Tools in 2.0|
 |---|---|---|
-|Planning|||
-|Development (Code)|||
-|Building and Packaging|||
-|Pre-release Testing|||
-|Deployment & Release|||
-|Operations & Monitoring|||
+|Planning|Dashboard - Value Stream|Gitlab Value Stream Measurement|
+|Planning|Dashboard - Security|Gitlab Security Dashboard<br>-or-<br>Thinking HATS	
+|Planning|Ticketing|Gitlab Issues<br>-or-<br>Jira (Cloud)|
+|Planning|Documentation|Confluence|GitLab Wiki<br>-or-<br>Confluence (Cloud)|
+|Development (Code)|Source Code Repository|GitLab|
+|Building and Packaging|Build|GitLab|
+|Building and Packaging|Static application security testing (SAST)|GitLab SAST<br>-or-<br>Fortify On Demand (FOD) SAST|
+|Building and Packaging|Static application security testing (SAST)|GitLab Code Quality <br>-or-<br>SonarQube Community/Developer Edition|
+|Building and Packaging|Static application security testing (SAST)|Software Composition Analysis (SCA)| GitLab Dependency Scanning<br>-or-<br>Nexus IQ Server
+|Building and Packaging|Static application security testing (SAST)|GitLab Container Scanning<br>-or-<br>Prisma Cloud|
+|Pre-release Testing|Dynamic Application Security Testing (DAST) |GitLab DAST<br>-or-<br>Fortify On Demand (FOD) DAST|
+|Pre-release Testing|Restricted Device farm for Automated Functional Testing|pCloudy with support for the following Test framework|
+|Pre-release Testing|Automated Accessibility Testing (Check App 's Accessibility to persons with disabilities)|GitLab (Pa11y)<br>-or-<br>Purple HATS
+|Deployment & Release|Deploy|GitLab|
+|Deployment & Release|Deploy|GitLab Package Registry <br>-or-<br>Nexus Repository Pro
+|Operations & Monitoring|Monitoring|StackOps|
 
+<!--
+|DevSecOps Stage|DevSecOps Capability|Tools in 1.0|Tools in 2.0|
+|---|---|---|---|
+|Planning|Dashboard - Value Stream|None|Gitlab Value Stream Measurement|
+-|Dashboard - Security|Thinking HATS|Gitlab Security Dashboard<br>-or-<br>Thinking HATS	
+-|Ticketing|Jira|Gitlab Issues<br>-or-<br>Jira (Cloud)|
+-|Documentation|Confluence|GitLab Wiki<br>-or-<br>Confluence (Cloud)|
+|Development (Code)|Source Code Repository|Bitbucket|GitLab|
+|Building and Packaging|Build|Bamboo|GitLab|
+-|Static application security testing (SAST)|Fortify Static Code Analyzer|GitLab SAST<br>-or-<br>Fortify On Demand (FOD) SAST|
+-|-|SonarQube Community/Developer Edition|GitLab Code Quality <br>-or-<br>SonarQube Community/Developer Edition|
+-|-|Software Composition Analysis (SCA)|Nexus IQ Server| GitLab Dependency Scanning<br>-or-<br>Nexus IQ Server
+-|-|Container image scanning|Prisma Cloud|GitLab Container Scanning<br>-or-<br>Prisma Cloud|
+|Pre-release Testing|Dynamic Application Security Testing (DAST) |Fortify WebInspect Enterprise|GitLab DAST<br>-or-<br>Fortify On Demand (FOD) DAST|
+-|Restricted Device farm for Automated Functional Testing|pCloudy with support for the following Test framework <ul>|pCloudy with support for the following Test framework|
+-|Automated Accessibility Testing (Check App 's Accessibility to persons with disabilities)|Purple HATS|GitLab (Pa11y)<br>-or-<br>Purple HATS
+|Deployment & Release|Deploy|Digital.ai|GitLab|
+-|-|Nexus Repository Pro|GitLab Package Registry <br>-or-<br>Nexus Repository Pro
+|Operations & Monitoring|Monitoring|NA|StackOps|
 
+-->
 <!--
 For information on specific versions of Tools in SHIP-HATS, refer to the [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) documentation. -->
 

@@ -14,16 +14,27 @@
 ### To access your profile
 
 1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
-    On the **Profile** page, you can view the following information:
-    - Your subscription information, such as number of fortify and sonarqube applications tied to the subscription.
+    On the **Profile** page, you can view the following types of information:
+    
+    - **Personal Information**
+        - First Name
+        - Last Name
+        - Username
+        - Company Email Address
+    - **Subscriptions**
 
-    <kbd>![Plan Details](./images/plan-details.png ':size=100%')</kbd>
-    - Click the applications to view tokens and the expiry date. You can also download the information as CSV.
+        Your subscription information, such as Subscription Admin, number of fortify and sonarqube applications tied to the subscription. 
 
-    <kbd>![Token Info](./images/view-users-token.png ':size=100%')</kbd>
-    - View the user groups to which you belong.
+        <!--<kbd>![Plan Details](./images/plan-details.png ':size=100%')</kbd>-->
 
-    <kbd>![User Group](./images/user-group-profile.png ':size=100%')</kbd>
+        You can click the applications to view tokens and the expiry date. You can also download the information as CSV.
+
+        <!--<kbd>![Token Info](./images/view-users-token.png ':size=100%')</kbd>-->
+    - **User Groups**
+    
+        View the user groups to which you belong.
+
+    <!--<kbd>![User Group](./images/user-group-profile.png ':size=100%')</kbd>-->
 
 
 
@@ -34,11 +45,11 @@
 
 1. Click **edit profile**.
 
-    <kbd>![edit-profile-normal-users-](./images/editprofilegsib.png ':size=75%')</kbd>
+    <!--<kbd>![edit-profile-normal-users-](./images/editprofilegsib.png ':size=75%')</kbd>-->
 
 2. Modify the details as needed, and then click **Save**. 
 
-    <kbd>![save-normal-user-profile-updates](./images/editprofilegsib2.png ':size=75%')</kbd>
+    <!--<kbd>![save-normal-user-profile-updates](./images/editprofilegsib2.png ':size=75%')</kbd>-->
 
 Alternatively, hover over your profile icon at the upper-right corner. To view and update user profile, click **View Profile**.
 
@@ -51,17 +62,17 @@ If you have forgotten your SHIP-HATS username, you may retrieve it anytime follo
 1. Disconnect from your **OpenVPN Connect** client.
 2. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
 
-    <kbd>![Reset Password Login](./images/reset-pwd-login-page-1.png ':size=75%')</kbd>
+    <!--<kbd>![Reset Password Login](./images/reset-pwd-login-page-1.png ':size=75%')</kbd>-->
 
 3. Click the link indicated in the above image to reset your password. You will be directed to the **Self-help Requests** page.
 
-    <kbd>![Retrieve Username Self Help](./images/retrieve-username-self-help-page.png ':size=75%')</kbd>
+    <!--<kbd>![Retrieve Username Self Help](./images/retrieve-username-self-help-page.png ':size=75%')</kbd>-->
 
 4. Click **Retrieve Username**.
 5. Enter **Email Address** used for registering with SHIP-HATS.
 6. Select the checkbox to confirm that you are not a robot and click **Submit**.
 
-    <kbd>![Retrieve Username Success.png](./images/retrieve-username-request-success-1.png ':size=75%')</kbd>
+    <!--<kbd>![Retrieve Username Success.png](./images/retrieve-username-request-success-1.png ':size=75%')</kbd>-->
 
 
 
@@ -73,11 +84,11 @@ You can reset your 2FA for SHIP-HATS anytime by following the below steps.
 1. Disconnect from your **OpenVPN Connect** client.
 2. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
 
-    <kbd>![reset-pwd-login-page-1](./images/reset-pwd-login-page-1.png ':size=75%')</kbd>
+    <!--<kbd>![reset-pwd-login-page-1](./images/reset-pwd-login-page-1.png ':size=75%')</kbd>-->
 
 3. Click the link indicated in the above image to reset your password. You will be directed to the **Self-help Requests** page.
 
-    <kbd>![reset-2fa-self-help-page](./images/reset-2fa-self-help-page.png ':size=75%')</kbd>
+    <!--<kbd>![reset-2fa-self-help-page](./images/reset-2fa-self-help-page.png ':size=75%')</kbd>-->
 
 4. Click **Reset 2FA**.
 5. Enter your **Username** used for registering with SHIP-HATS.

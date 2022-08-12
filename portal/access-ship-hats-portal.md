@@ -92,7 +92,7 @@ The **Overview** page of the subscription account provides the dashboard view 
 
     <!--<kbd>![Idle Time Prompt After 5 Mins](./images/idle-time-prompt-after-5-mins.png ':size=100%')</kbd>-->
 
-- If you are inactive for 10 minutes on the portal, the system prompts you with the following message:
+- If you are inactive for 10 minutes on the portal, the system prompts you to log in again with a **Session time out!** message.
 
     <!--<kbd>![Session Timed Out](./images/session-timed-out.png ':size=100%')</kbd>-->
 

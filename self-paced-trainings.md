@@ -1,8 +1,8 @@
-# Self-Paced Trainings
+## Self-Paced Trainings
 
 To ensure we support at scale, anyone can access Self-Paced trainings. 
 
-## For Project Manager & Business Analysts
+### For Project Manager & Business Analysts
 
 |Category|Topics|
 |---|---|
@@ -10,7 +10,7 @@ To ensure we support at scale, anyone can access Self-Paced trainings.
 |Products 101|- CI/CD with GitLab (Coming in September)
 |Onboarding to SHIP-HATS|- Pricing & Subscription Overview (Coming in October)<br>- [Subscription Process](subscription) 
 
-## For Developers
+### For Developers
 
 |Category|Topics|
 |---|---|

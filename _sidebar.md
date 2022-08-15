@@ -10,9 +10,7 @@
 - [CI/CD Pipeline](ci-cd-pipeline)  
 - [Pipeline Templates](pipeline-templates)
 **Trainings**
-- [Training](./migration/training)
-- [Self-paced trainings](self-paced-trainings)
-- [Live trainings](live-trainings)
+- [Training](training)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)

@@ -1,6 +1,6 @@
 ## Self-Paced Trainings
 
-To ensure we support at scale, anyone can access Self-Paced trainings. 
+To ensure we support at scale, anyone can access Self-paced trainings. 
 
 ### For Project Manager & Business Analysts
 

@@ -64,13 +64,13 @@ If you have forgotten your SHIP-HATS username, you may retrieve it anytime follo
 
     <!--<kbd>![Reset Password Login](./images/reset-pwd-login-page-1.png ':size=75%')</kbd>-->
 
-3. Click the link indicated in the above image to reset your password. You will be directed to the **Self-help Requests** page.
+3. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
 
     <!--<kbd>![Retrieve Username Self Help](./images/retrieve-username-self-help-page.png ':size=75%')</kbd>-->
 
 4. Click **Retrieve Username**.
 5. Enter **Email Address** used for registering with SHIP-HATS.
-6. Select the checkbox to confirm that you are not a robot and click **Submit**.
+6. Select the checkbox to confirm that you are not a robot, and then click **Submit**.
 
     <!--<kbd>![Retrieve Username Success.png](./images/retrieve-username-request-success-1.png ':size=75%')</kbd>-->
 
@@ -86,7 +86,7 @@ You can reset your 2FA for SHIP-HATS anytime by following the below steps.
 
     <!--<kbd>![reset-pwd-login-page-1](./images/reset-pwd-login-page-1.png ':size=75%')</kbd>-->
 
-3. Click the link indicated in the above image to reset your password. You will be directed to the **Self-help Requests** page.
+3. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
 
     <!--<kbd>![reset-2fa-self-help-page](./images/reset-2fa-self-help-page.png ':size=75%')</kbd>-->
 
@@ -96,7 +96,7 @@ You can reset your 2FA for SHIP-HATS anytime by following the below steps.
 
     <kbd>![2fa-reset-request-success](./images/2fa-reset-request-success.png ':size=75%')</kbd>
 
-You will receive a notification stating that your SHIP-HATS 2FA has been reset and with instructions to be followed by you.
+You will receive a notification stating that your SHIP-HATS 2FA has been reset, along with next set of  instructions for you.
 
 
 
@@ -105,17 +105,9 @@ As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at l
 
 ### To change password
 
-1. Hover over your profile icon at the upper-right corner.
-2. Choose **Change Password.**
-
-    <kbd>![Change Password](./images/change-password-user.png ':size=75%')</kbd>
-
-    The **Change Password** page is displayed.
-
-    <kbd>![Change Password](./images/change-pwd.png ':size=75%')</kbd>
-
-3. Enter **Current password**.
-4. Enter values in **New Password**, **Confirm new password**, and then click **Update password**.
+1. In the upper-right corner, hover over your profile icon/name.
+1. Enter **Current password**.
+1. Enter values in **New Password**, **Confirm new password**, and then click **Update password**.
 
 ## Reset password
 If you have forgotten your SHIP-HATS password, you may reset it anytime following the below steps.
@@ -125,16 +117,16 @@ If you have forgotten your SHIP-HATS password, you may reset it anytime followin
 1. Disconnect from your **OpenVPN Connect** client.
 2. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
 
-    <kbd>![Reset Password Login](./images/reset-pwd-login-page-1.png ':size=75%')</kbd>
+    <!--<kbd>![Reset Password Login](./images/reset-pwd-login-page-1.png ':size=75%')</kbd>-->
 
-3. Click the link indicated in the above image to reset your password. You will be directed to the **Self-help Requests** page.
+3. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
 
-    <kbd>![Reset Password Self Help](./images/reset-pwd-self-help-page.png ':size=75%')</kbd>
+    <!--<kbd>![Reset Password Self Help](./images/reset-pwd-self-help-page.png ':size=75%')</kbd>-->
 
 1. Click **Reset Password**.
 2. Enter your **Username** or **Email Address** used for registering with SHIP-HATS.
-3. Select the checkbox to confirm that you are not a robot and click **Submit**.
+3. Select the checkbox to confirm that you are not a robot, and then click **Submit**.
 
-    <kbd>![Reset Password Request Access](./images/reset-pwd-link-request-success.png ':size=75%')</kbd>
+    <!--<kbd>![Reset Password Request Access](./images/reset-pwd-link-request-success.png ':size=75%')</kbd>-->
 
 An email will be sent with the reset password link to the respective email address.

@@ -9,7 +9,8 @@
 **CI/CD Pipeline**
 - [CI/CD Pipeline](ci-cd-pipeline)  
 - [Pipeline Templates](pipeline-templates)
-**Trainings**
+**Training**
+- [Events](events)
 - [Training](training)
 **Support**
   - [Terms & Policies](terms-and-policies)

@@ -1,6 +1,6 @@
 # Training
 
-[Training](trainings.md ':include')
+[Overview](trainings.md ':include')
 
 [Self-paced](self-paced-trainings.md ':include')
 

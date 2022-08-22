@@ -4,6 +4,7 @@
 
 ![Architecture](./images/architecture.png)
 
+
 ## Terminology
 This documentation uses the following terminology:
 

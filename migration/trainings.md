@@ -1,4 +1,4 @@
-## SHIP-HATS 2.0 Training  
+## Overview  
 
 We are rolling out trainings for Developers and Project Managers to help them learn and leverage the features for SHIP-HATS 2.0 to practice DevSecOps best practices.
 

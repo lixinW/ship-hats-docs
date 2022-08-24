@@ -5,6 +5,18 @@
 
 The following section provides list of tools for each stage in CI/CD pipeline offered under **SHIP-HATS**. 
 
+|Stage|GitLab Native|Alternative Tool|
+|---|---|---|
+|Access|TechPass & SEED|TechPass & SEED|
+|Planning|GitLab Issues/Wiki|Jira Cloud, Confluence Cloud (new!)
+|Build|GitLab CI/CD<br><br>GitLab Package Registry|NA<br><br>Nexus Repo|
+|Build Testing|GitLab SAST|Fortify-on-Demand (new!)
+|Other Tests|GitLab Code Quality Scanning Tool <br><br>GitLab DAST<br><br>GitLab Container Scanning|SonarQube Developer Edition (On-Prem)<br><br>Fortify-on-demand (new!)<br><br>NA
+|Deploy & Release|GitLab CI/CD|NA|
+
+
+<!--
+
 |DevSecOps Stage|DevSecOps Capability|Tools in 2.0|
 |---|---|---|
 |Planning|Dashboard - Value Stream|Gitlab Value Stream Measurement|
@@ -24,6 +36,7 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 |Deployment & Release|Deploy|GitLab Package Registry <br>-or-<br>Nexus Repository Pro
 |Operations & Monitoring|Monitoring|StackOps|
 
+-->
 
 <!--
 ## Tooling Strategy

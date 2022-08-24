@@ -2,11 +2,9 @@
 
 **Commercially Off the Shelf (COTS)** tools are available on SHIP-HATS with the right security and compliance settings. The following diagram shows how they work together to provide a seamless platform. 
 
-## Architecture
-
 ![Architecture](./images/architecture.png)
 
-
+<!--
 The above image provides a high level architecture overview for our new SHIP-HATS2.0 platform.
 
 - The left side of the diagram shows the user accessibility to the services we are offering 
@@ -24,7 +22,7 @@ The above image provides a high level architecture overview for our new SHIP-HAT
     - The deployment section on the right side of the diagram indicates that the agencies can leverage on SHIP deployment runners or agent offered as a common service to the tenant hosting environments. We support GCC1 and 2, both Internet & intranet/Gen compartments. 
 - Agency with on-prem resources are able to configure remote runners in their DC and can establish a connection to SHIP-HATS via IPSec Tunnel to consume our services and to perform automated deployment. 
 
-
+-->
 
 
 ## Terminology
@@ -53,8 +51,5 @@ Users with internet devices must onboard to SEED by installing MDM applications 
 ![](./images/tp-seed.png)
 
 
-- SEED is an MDM application to be installed on user devices, which is a mandatory requirement to access to SGTS services. 
-- TechPass is a single sign-on IAM solution to allow users to gain authentication and authorization to different services in SHIP-HATS as well as other SGTS subscriptions. 
-- To know more, scan the QR code. 
-
-![](./images/tp-seed-more.png)
+- [SEED is an MDM application](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) to be installed on user devices, which is a mandatory requirement to access to SGTS services. 
+- [TechPass is a single sign-on IAM solution](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/) to allow users to gain authentication and authorization to different services in SHIP-HATS as well as other SGTS subscriptions. 

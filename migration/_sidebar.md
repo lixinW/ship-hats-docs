@@ -7,8 +7,6 @@
   - [Annex](ship-hats-migration-annex)
 **Training**
   - [Overview](training)
-  - [Learning events](learning-events)
-  - [Self-paced trainings](self-paced-trainings)
   - [Pipeline Templates](pipeline-templates) 
 &nbsp;
 

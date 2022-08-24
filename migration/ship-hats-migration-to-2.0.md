@@ -1,5 +1,7 @@
 # SHIP-HATS Migration to 2.0
 
+This documentation is intended for the existing users (product managers and developers) to plan migration of your systems from SHIP-HATS 1.0 to SHIP-HATS 2.0. 
+
 SHIP-HATS 2.0 provides you with the following documentation resources to assist you in migrating to 2.0, onboarding to SHIP-HATS, and get started with your CI/CD pipeline:  
 
 |Document|Audience|Description|

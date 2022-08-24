@@ -2,13 +2,14 @@
 
 We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a more seamless experience for Agencies to implement an end-to-end SaaS-based CI/CD solution.
 
+<!--
 **Topics**
 - [Timelines](#timelines)
 - [Pricing](#pricing)
 - [Tools available on Portal](#tools-available-on-portal)
 - [Staggered Migration](#staggered-migration)
 - [Tooling Strategy](#tooling-strategy)
-
+-->
 
 ## Timelines
 
@@ -19,11 +20,6 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 | <br>Q2' FY22 | <ul><li>SHIP-HATS 2.0 Announcement</li><li>Test with pilots (by invitation only)</li><li>Launch SHIP-HATS 2.0 Training</li><li>Open Migration Booking slots</li></ul>| <br>To be started |  
 
 ?> Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
-
-## Key Tool Decommission Dates
-
-[Key Tool Decommission Dates](key-tool-decommission-dates.md ':include')
-
 
 
 ## Pricing

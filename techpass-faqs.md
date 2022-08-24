@@ -16,6 +16,7 @@ TechPass for SHIP-HATS accounts is being rolled out in phases. You will receive 
 <br>
 <details>
   <summary><b>How do I ensure that I have successfully onboarded TechPass for my SHIP-HATS login? </b></summary><br>
+
 <b>On GMD device:</b> Login to TechPass, and then access the <a href="http://www.ship.gov.sg/">SHIP-HATS portal</a>. You have successfully onboarded if you are able to access the <a href="http://www.ship.gov.sg/">SHIP-HATS portal</a>. 
 
 <br>

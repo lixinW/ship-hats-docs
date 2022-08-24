@@ -12,7 +12,6 @@
 **Training**
 - [Overview](training)
 - [Learning events](learning-events)
-- [Self-paced trainings](self-paced-trainings)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
@@ -26,3 +25,8 @@
 ---
 **Additional Resources**
   - [SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
+
+<!--
+- [Self-paced trainings](self-paced-trainings)
+
+-->  

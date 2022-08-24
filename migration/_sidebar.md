@@ -2,11 +2,14 @@
   - [Audience](ship-hats-migration-to-2.0)
   - [Overview](ship-hats-migration-overview)
   - [What to Expect](ship-hats-migration-what-to-expect)
-  - [Pipeline Templates](pipeline-templates)  
   - [Migration Approach](ship-hats-migration)
   - [Change Management](ship-hats-migration-change-management)
   - [Annex](ship-hats-migration-annex)
-
+**Training**
+  - [Overview](training)
+  - [Learning events](learning-events)
+  - [Self-paced trainings](self-paced-trainings)
+  - [Pipeline Templates](pipeline-templates) 
 &nbsp;
 
 ---

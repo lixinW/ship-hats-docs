@@ -34,19 +34,19 @@ Basic support is the support provided by SHIP-HATS team as per on the service ag
 <details>
   <summary><b> How do I submit my requests for any support required? </b></summary><br>
 
-Send an email to enquiries_enp@ship.gov.sg or submit a ticket on the [SHIP service desk (SSD) portal](https://jira.ship.gov.sg/servicedesk/customer/portal/11)</a>.
+For technical support, send an email to enquiries_ship@tech.gov.sg or submit a ticket on the [SHIP service desk (SSD) portal](https://jira.ship.gov.sg/servicedesk/customer/portal/11)</a>. If you have a subscription or billing related query, please send an email to enquiries_enp@tech.gov.sg
 
 </details>
 <br>
 <details>
   <summary><b>What are the operating hours for basic support? </b></summary><br>
-SHIP-HATS basic support to all users is offered from Monday to Friday, 9.00 AM to 5.30 PM.
+SHIP-HATS basic support to all users is offered from Monday to Friday, 9.00 AM to 5.30 PM (excluding Public Holidays).
 Agencies can subscribe to the extended support hours as an add-on if required.
 </details>
 <br>
 <details>
   <summary><b>What are the operating hours for extended support? </b></summary><br>
-SHIP-HATS extended support is offered from Monday to Friday, 9.00 AM to 10.00 PM.
+SHIP-HATS extended support is offered from Monday to Friday, 9.00 AM to 10.00 PM (excluding Public Holidays).
 </details>
 <br>
 <details>
@@ -76,5 +76,5 @@ Email enquiries_enp@tech.gov.sg to cancel extended support.
 <br>
 <details>
   <summary><b>Can I view the history of my support requests? </b></summary><br>
-Users can refer to their requests on the <a href="https://jira.ship.gov.sg/servicedesk/customer/portal/11">SSD portal</a>.
+Users can refer to their requests on the <a href="https://jira.ship.gov.sg/servicedesk/customer/user/requests?status=open&reporter=all">SSD portal</a>.
 </details>

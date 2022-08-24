@@ -16,16 +16,20 @@ TechPass for SHIP-HATS accounts is being rolled out in phases. You will receive 
 <br>
 <details>
   <summary><b>How do I ensure that I have successfully onboarded TechPass for my SHIP-HATS login? </b></summary><br>
-On GMD device: login to TechPass and access the <a href="http://www.ship.gov.sg/">SHIP-HATS portal</a>. You have successfully onboarded if you are able to access the <a href="http://www.ship.gov.sg/">SHIP-HATS portal</a>. 
-On GSIB devices: login to TechPass and access any of the SHIP-HATS tools. You have successfully onboarded if you are able to access them. For more details, read <a href="https://confluence.ship.gov.sg/display/SHIP/SHIP+TechPass+Enablement+-+User+Guide">Use TechPass to log in to SHIP-HATS and integrated services</a>.
+<b>On GMD device:</b> Login to TechPass, and then access the <a href="http://www.ship.gov.sg/">SHIP-HATS portal</a>. You have successfully onboarded if you are able to access the <a href="http://www.ship.gov.sg/">SHIP-HATS portal</a>. 
+
+<br>
+
+<b>On GSIB devices:</b> Login to TechPass, and then access any of the SHIP-HATS tools. You have successfully onboarded if you are able to access them. For more details, read <a href="https://confluence.ship.gov.sg/display/SHIP/SHIP+TechPass+Enablement+-+User+Guide">Use TechPass to log in to SHIP-HATS and integrated services</a>.
 </details>
 <br>
+<!--
 <details>
   <summary><b>What happens to my current LDAP account once I onboard to TechPass?  </b></summary><br>
 <p>For existing users, your LDAP accounts will be deleted. There will not be any impact on existing user permissions on each SHIP-HATS tool. New users onboarding to SHIP-HATS will be given a TechPass account upon successful onboard.</p>
 <p><b> Note:</b> After you have onboarded using TechPass, you will be able to log in to HATS services via TechPass only.</p>
 </details>
-<br>
+<br> -->
 <details>
   <summary><b>What is the benefit of enabling TechPass for my SHIP-HATS account? </b></summary><br>
 You can use TechPass to access SHIP-HATS services seamlessly on GSIB and GMD devices without logging in to individual tools and in the future have a single sign on for all SGTS products.

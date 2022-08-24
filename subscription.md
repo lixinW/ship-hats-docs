@@ -10,6 +10,20 @@
 SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe to SHIP-HATS. However, agencies can extend subscriptions to non-agency users, such as vendors. 
 
 Please refer to [1.0 Subscription](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/subscription) for details. We will provide SHIP-HATS 2.0 subscription details soon. 
+
+## Pricing
+
+- Aiming for a comparable pricing SHIP-HATS 1.0. 
+- More details by end of Q2 FY22. 
+
+?> You can send your pricing questions and we will answer them after the Pricing Review is complete.
+
+## Process needs
+
+- Existing subscriber will need to sign a new Subscription Agreement.
+
+
+
 <!--
 ?> Though subscription for SHIP-HATS 2.0 has been realigned, pricing for SHIP-HATS 2.0 will be less than the pricing for SHIP-HATS 1.0. 
 -->

@@ -1,16 +1,8 @@
 ## Past events
 
-### Briefings
+|Date|Topic|Recording|Presentation|
+|---|---|---|---|
+Briefing, 19 Aug 22|SHIP-HATS 2.0 Announcement Briefing|[Vision]() - 10 min<br><br>[SHIP-HATS 2.0]() - 20 min <br><br>[Technical Architecture]() - 20 min<br><br>[Migration Overview]() - 20 min|[Download the SHIP-HATS 2.0 Announcement Briefing PDF](./files/2.0_Announcement_Briefing_19_Aug.pdf)|
 
-|Topic|Date|Format|Audience|Videos/Webinars|
-|---|---|---|---|---|
-SHIP-HATS 2.0 Announcement Briefing|19 Aug 22|Virtual|Project Managers & Developers|[Complete YouTube playlist]()<br><br>[Vision]()<br><br>[Strategy & Updates]()<br><br>[Technical Architecture]()<br><br>[Migration Approach]()|
 
-<!--SHIP-HATS 2.0 Migration Briefing|13 Sep 2022|Virtual|Project Managers & Developers|Coming soon!-->
-
-<!--### Classroom
-
-|Topic|Date|Format|Audience|Sign up|
-|---|---|---|---|---|
-SHIP-HATS 2.0 Workshop<br><br>**Pre-requisite:** Basic understanding of CI/CD is essential.|Coming soon!|Classroom|	Developers (20 pax)|By invitation based on migration and onboarding schedules
--->
+[Download the SHIP-HATS 2.0 Announcement Briefing PDF](./files/2.0_Announcement_Briefing_19_Aug.pdf)

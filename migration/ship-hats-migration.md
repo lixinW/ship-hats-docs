@@ -7,6 +7,8 @@ Following table and image provide high-level migration phases and key activities
 | Details | Prepare target environment<br>Configure pipeline in Sandbox| Migrate Source Code Repository<br>Configure piepline in actual environment|
 | Duration Choice | Choose from 4, 6, or 12 weeks option| Choose from 2, 4, or 6 weeks option |  
 
+<br>
+
 ![Migration Approach](migration-approach.png)
 
 **Topics**
@@ -85,3 +87,11 @@ We are developing documentation and training material to:
 The content will be tailored for Project Managers, Business Analysts, and will provide a deeper technical training for Developers. The training will be open for both public officers and vendors. 
 
 Training format will include self-paced materials, monthly webinars, and hands-on workshop. We will announce training schedule in Q2' FY22. 
+
+
+[Training](trainings.md ':include')
+
+[Self-paced](self-paced-trainings.md ':include')
+
+[Live](live-trainings.md ':include')
+

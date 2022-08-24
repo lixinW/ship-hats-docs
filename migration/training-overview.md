@@ -18,5 +18,5 @@ The trainings are curated for technical (developers, software engineers etc.) an
 
 ||Public Officers|Vendors
 |---|---|---|
-**Learning Events**|By invitation|- Existing SHIP-HATS users - By invitation  <br>- Not on SHIP-HATS - [Submit your training request for review](https://go.gov.sg/she)
-**Self-Paced**|Available|Available
+**Learning events**|By invitation|- Existing SHIP-HATS users - By invitation  <br>- Not on SHIP-HATS - [Submit your training request for review](https://go.gov.sg/she)
+**Self-paced trainings**|Available|Available

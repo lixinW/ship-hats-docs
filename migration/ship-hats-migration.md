@@ -87,11 +87,3 @@ We are developing documentation and training material to:
 The content will be tailored for Project Managers, Business Analysts, and will provide a deeper technical training for Developers. The training will be open for both public officers and vendors. 
 
 Training format will include self-paced materials, monthly webinars, and hands-on workshop. We will announce training schedule in Q2' FY22. 
-
-
-[Training](trainings.md ':include')
-
-[Self-paced](self-paced-trainings.md ':include')
-
-[Live](live-trainings.md ':include')
-

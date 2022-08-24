@@ -2,9 +2,11 @@
 
 We will guide you through the internal processes such as estimating migration effort, seeking pricing approvals, and planning migration with your vendors (if applicable).
 
+<!--
 **Topics**
 - [What you can do now](#what-you-can-do-now)
 - [Upcoming Migration Updates](#upcoming-migration-updates)
+-->
 
 ## What you can do now
 

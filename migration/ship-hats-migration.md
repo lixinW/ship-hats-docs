@@ -11,11 +11,12 @@ Following table and image provide high-level migration phases and key activities
 
 ![Migration Approach](migration-approach.png)
 
-**Topics**
+<!--**Topics**
 - [Prerequisites](#prerequisites)
 - [Sandbox Testing](#sandbox-testing)
 - [Migration](#migration)
 - [Training](#training)
+-->
 
 ## Prerequisites
 

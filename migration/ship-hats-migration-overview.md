@@ -1,12 +1,12 @@
 # SHIP-HATS Migration Overview
 
 We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, offering a seamless experience for Agencies to implement an end-to-end SaaS-based CI/CD solution.
-
+<!--
 **Topics**
 - [Change Summary](#change-summary)
 - [Why this Change is Essential](#why-this-change-is-essential)
 - [Key Benefits](#key-benefits)
-
+-->
 ## Change Summary
 
 <!--![Tools](tools.png)-->

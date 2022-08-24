@@ -1,4 +1,3 @@
 # Pipeline Templates
 
-[Pipeline Template](pipeline-template.md ':include')
-
+[Pipeline Template](./snippets/pipeline-template.md ':include')

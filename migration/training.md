@@ -1,4 +1,4 @@
 # Overview
 
-[Overview](training-overview.md ':include')
+[Overview](./snippets/training-overview.md ':include')
 

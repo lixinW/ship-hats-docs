@@ -1,4 +1,4 @@
-# CI/CD Pipeline
+# CI/CD pipeline
 
 
 As per the DevSecOps policies in IM8, you must plan for the following stages to set up your CI/CD pipeline:

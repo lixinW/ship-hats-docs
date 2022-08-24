@@ -7,8 +7,8 @@
 **Subscribe to SHIP-HATS**  
   - [Subscribing](subscribing-to-ship-hats)  
 **CI/CD Pipeline**
-- [CI/CD Pipeline](ci-cd-pipeline)  
-- [Pipeline Templates](pipeline-templates)
+- [CI/CD pipeline](ci-cd-pipeline)  
+- [Pipeline templates](pipeline-templates)
 **Training**
 - [Overview](training)
 - [Learning events](learning-events)

@@ -1,3 +1,4 @@
+## Key tool decommission dates
 
 |Current Tool|Decommission Date|Replacement Tool|
 |---|---|---|
@@ -5,5 +6,3 @@
 |Fortify Webinspect (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
 |Fortify SCA (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
 |Digital.ai|31 May 2023|GitLab|
-
-

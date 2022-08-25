@@ -1,4 +1,4 @@
-# Integrated tools
+# Tools
 
 
 <!--![Tools in SHIP-HATS](./images/tools.png)-->

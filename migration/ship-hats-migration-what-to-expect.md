@@ -13,6 +13,17 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 
 ## Timelines
 
+
+|Users|Key Dates|
+|---|---|
+|All new users|Onboarding from November 2022|
+|Existing subscriber<br><br>**Without** Fortify SCA or Webinspect|**Migration Start date:** November 2022<br><br>**Migration End date:** 1 year from the date of GA|
+|Existing subscriber<br><br> **With** Fortify SCA or Webinspect|**Migration Start date:** November 2022<br><br>**Migration End date:** 31 July 2023|
+
+?> Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
+
+
+<!--
 | **Timeline** | **Key Milestone** | **Status** |
 | --- | --- | --- |
 | <br>Q4' FY21 | <ul><li>SaaS CI/CD tool evaluation completed</li><li>High-level [migration approach](ship-hats-migration#migration) ready</li><li>[Training approach](ship-hats-migration#training) ready</li><li>Migration documentation launched</li></ul> | <br>**Completed**|
@@ -20,6 +31,18 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 | <br>Q2' FY22 | <ul><li>SHIP-HATS 2.0 Announcement</li><li>Test with pilots (by invitation only)</li><li>Launch SHIP-HATS 2.0 Training</li><li>Open Migration Booking slots</li></ul>| <br>To be started |  
 
 ?> Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
+
+-->
+
+
+## Key tool decommission dates
+
+|Current Tool|Decommission Date|Replacement Tool|
+|---|---|---|
+|OpenVPN|31 December 2022|TechPass/Seed|
+|Fortify Webinspect (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
+|Fortify SCA (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
+|Digital.ai|31 May 2023|GitLab|
 
 
 ## Pricing

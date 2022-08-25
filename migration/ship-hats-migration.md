@@ -78,6 +78,10 @@ We will test this flow during our 2.0 migration pilots and iteratively improve o
 For more information, refer to [Annex: Migration Flow Details](ship-hats-migration-annex#migration-flow-details).
 
 ## Training
+
+Refer to the [Training](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/training) section in the [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) documentation.
+<!--
+
 We will roll out multi-format training to ensure the teams are skilled for the migration and adoption of best practices. 
 
 ### Content
@@ -88,3 +92,4 @@ We are developing documentation and training material to:
 The content will be tailored for Project Managers, Business Analysts, and will provide a deeper technical training for Developers. The training will be open for both public officers and vendors. 
 
 Training format will include self-paced materials, monthly webinars, and hands-on workshop. We will announce training schedule in Q2' FY22. 
+-->

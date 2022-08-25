@@ -10,17 +10,18 @@ We will guide you through the internal processes such as estimating migration ef
 
 ## What you can do now
 
+### Start your training journey!
+
+- **SHIP-HATS Learning Events:** We have lined up 7 webinars from September-December. Please [sign up on our Training page](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/training). We are curating the hands-on workshop and we will invite participants based on your Agency’s migration or onboarding plans. 
+- **Self-learn:** [SHIP-HATS 2.0 documentation](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) is live. We will be rolling out new documentation and learning videos in phases.
+<!--
 1.	**Identify 1st system to migrate Plan:** Evaluate your systems on SHIP-HATS and identify a system based on [System for Early Migration](ship-hats-migration-annex#systems-for-early-migration) recommendations.
 2.	**Plan timeline:** Based on the high-level [migration approach](ship-hats-migration), identify the best suited time for migration.
 3.	**Heads up stakeholders:** Prepare your stakeholders on the upcoming migration and possible budget approvals to support the effort. 
 4.	**Let us know:** If you have dependencies that are time sensitive, [log a ticket](http://go.gov.sg/she) with description of the systems, the time constraints, and information that you require. We will engage on a case-by-case basis for urgent requirements. 
-
+-->
 ## Upcoming Migration Updates
 
-### Start you training journey!
-
-- **SHIP-HATS Learning Events:** We have lined up 7 webinars from September-December. Please [sign up on our Training page](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/training). We are curating the hands-on workshop and we will invite participants based on your Agency’s migration or onboarding plans. 
-- **Self-learn:** [SHIP-HATS 2.0 documentation](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) is live. We will be rolling out new documentation and learning videos in phases.
 
 ### Stay tuned for
 

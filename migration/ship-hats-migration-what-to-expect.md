@@ -14,11 +14,11 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 ## Timelines
 
 
-|Users|Key Dates|
-|---|---|
+|Users|Migration Start date|Migration End date|
+|---|---|---|
 |All new users|Onboarding from November 2022|
-|Existing subscriber<br><br>**Without** Fortify SCA or Webinspect|**Migration Start date:** November 2022<br><br>**Migration End date:** 1 year from the date of GA|
-|Existing subscriber<br><br> **With** Fortify SCA or Webinspect|**Migration Start date:** November 2022<br><br>**Migration End date:** 31 July 2023|
+|Existing subscriber<br><br>**Without** Fortify SCA or Webinspect| November 2022| 1 year from the date of GA|
+|Existing subscriber<br><br> **With** Fortify SCA or Webinspect| November 2022| 31 July 2023|
 
 ?> Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
 
@@ -46,7 +46,7 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 
 
 ## Pricing
-For all planning purposes, you can refer to current [Standard Pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx) (can be accessed by Public Officers on the Intranet). We will announce the details on the new subscription prices by end of Q2’ FY22. We will help Agencies migrate the current subscription to SHIP-HATS 2.0 subscription model including signing of an updated Service Agreements. 
+For more information, refer to the [Pricing](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscription?id=pricing) section in the [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) documentation for SHIP-HATS 2.0.
 
 ## Tools available on Portal
 

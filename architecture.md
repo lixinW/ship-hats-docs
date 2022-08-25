@@ -24,6 +24,25 @@ The above image provides a high level architecture overview for our new SHIP-HAT
 
 -->
 
+## Access 
+
+To start using SHIP-HATS 2.0 services, you must onboard to SEED and TechPass. 
+SHIP-HATS Users can either access from from GSIB or GMD to authenticate yourself via TechPass login. 
+Users with internet devices must onboard to SEED by installing MDM applications before they are allowed to authenticate via TechPass to consume SGTS services, including SHIP-HATS. 
+
+![](./images/tp-seed.png)
+
+
+- [SEED is an MDM application](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) to be installed on user devices, which is a mandatory requirement to access to SGTS services. 
+- [TechPass is a single sign-on IAM solution](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/) to allow users to gain authentication and authorization to different services in SHIP-HATS as well as other SGTS subscriptions. 
+
+<!-- 
+
+## Runners
+
+## User Grouping
+
+-->
 
 ## Terminology
 This documentation uses the following terminology:
@@ -42,14 +61,3 @@ This documentation uses the following terminology:
 | VPC | Virtual Private Cloud|
 | TGW | Transit GateWay|
 
-## TechPass and SEED 
-
-To start using SHIP-HATS 2.0 services, you must onboard to SEED and TechPass. 
-SHIP-HATS Users can either access from from GSIB or GMD to authenticate yourself via TechPass login. 
-Users with internet devices must onboard to SEED by installing MDM applications before they are allowed to authenticate via TechPass to consume SGTS services, including SHIP-HATS. 
-
-![](./images/tp-seed.png)
-
-
-- [SEED is an MDM application](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) to be installed on user devices, which is a mandatory requirement to access to SGTS services. 
-- [TechPass is a single sign-on IAM solution](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/) to allow users to gain authentication and authorization to different services in SHIP-HATS as well as other SGTS subscriptions. 

@@ -11,6 +11,8 @@
 
 - [Create a Service Request](https://jira.ship.gov.sg/servicedesk/customer/portal/11)
 
+> **Note:** For additional options to contact us, refer to the [Contact Us](contact-us) section. 
+
 ## Maintenance schedule
 
 

@@ -2,9 +2,6 @@
 
 SHIP-HATS Pipeline templates are reusable configuration files that developers can use to configure instead of building from the scratch. The templates help agencies to incorporate best practices for security compliance and performance metrics.  
 
-**Topics**
-- [Types of Templates](#types)
-- [List of Templates](#list-of-templates)
 
 ## Types
 
@@ -43,7 +40,7 @@ Azure Command Line Interface 	|A modular template to invoke Azure CLI commands. 
 Depcheck for NPM Projects 	|A modular template to perform depcheck for NPM projects to identify unused dependencies. |Other Modular templates 
 AWS identity federation 	|A modular template to assume an AWS IAM role in AWS account of the user. |Other Modular templates 
 
-?> The End-to-End Reference templates are derived from the Bamboo plan templates provided by Govtech SVC Clusters & Technology Management Office (CTMO) in SHIP-HATS 1.0.  
+?> The End-to-End Reference templates are derived from the Bamboo plan templates provided by GovTech SVC Clusters & Technology Management Office (CTMO) in SHIP-HATS 1.0.  
 
 
 <!--

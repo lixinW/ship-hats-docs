@@ -4,11 +4,13 @@
 
 <details>
   <summary><b>What is a named user?</b></summary><br>
-A named user refers to licenses that is bound to a specific user. Each named user uses a licence in the subscription quota.
+
+A named user refers to the license that is bound to a specific user. Each named user uses a licence in the subscription quota.
 </details>
 <br>
 <details>
   <summary><b>Are admin accounts such as Subscription Admin (SA) and Service Accounts considered as a named user account? </b></summary><br>
+
 Yes. Subscription Admin (SA) and Service Accounts are considered as a named user account.
 </details>
 <br>
@@ -30,7 +32,7 @@ Refer to the [manage accounts](https://docs.developer.tech.gov.sg/docs/ship-hats
 <details>
   <summary><b><b>Can I access SHIP-HATS tools via GSIB device?</b></b></summary><br>
 
-Yes. You can access SHIP-HATS tools such as Confluence, Jira, Bamboo, Nexus Repo, Nexus IQ, and SHIP-HATS Service Desk via GSIB.
+Yes. You can access SHIP-HATS tools such as Confluence, Jira, Nexus Repo, Nexus IQ, and SHIP-HATS Service Desk via GSIB.
 
 </details>
 <br>

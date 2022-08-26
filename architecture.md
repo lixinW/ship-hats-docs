@@ -27,7 +27,7 @@ The above image provides a high level architecture overview for our new SHIP-HAT
 ## Access 
 
 To start using SHIP-HATS 2.0 services, you must onboard to SEED and TechPass. 
-SHIP-HATS Users can either access from from GSIB or GMD to authenticate yourself via TechPass login. 
+SHIP-HATS Users can either access from GSIB or GMD to authenticate yourself via TechPass login. 
 Users with internet devices must onboard to SEED by installing MDM applications before they are allowed to authenticate via TechPass to consume SGTS services, including SHIP-HATS. 
 
 ![](./images/tp-seed.png)
@@ -56,7 +56,7 @@ This documentation uses the following terminology:
 |Runner  | Agents that run the CI/CD jobs that come from GitLab|
 |SaaS | Whitelisted services & resources in the Commercial cloud
 |SEED|Security Suite for Engineering Endpoint Devices
-|Self-Hosted |  Services & resources hostesd in ship-hats GCC enviroment
+|Self-Hosted |  Services & resources hosted in ship-hats GCC environment
 | SOE | Standard ICT Operating Environment|
 | VPC | Virtual Private Cloud|
 | TGW | Transit GateWay|

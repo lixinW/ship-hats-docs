@@ -9,7 +9,7 @@ The training that GovTech builds is specific to SHIP-HATS and how to leverage th
 
 ## Format
 
-We are building **Self-Paced** (Videos and Documentation) modules and **Learning Events** (Webinars and Workshops)  for developers and project managers.
+We are rolling out **Learning Events** (Webinars and Workshops) and building **Self-Paced** (Videos and Documentation) modules  for developers and project managers.
 
 
 ## Audience

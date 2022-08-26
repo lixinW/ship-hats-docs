@@ -29,44 +29,46 @@ Getting ready for SHIP-HATS 2.0? Take a short [DevSecOps Basic quiz](https://for
 
 ## Learning resources
 
-<!-- tabs:start -->
 
-### **Non Technical**
+### Non Technical
 
-|Level|Sub-levl|Category|Courses|
+|Level|Sub-level|Category|Courses|
 |---|---|---|---|
-Level 100|101| SHIP-HATS 2.0 |Overview Liyana video link, 2.0 Doc<br><br>Technical Architecture - Video & Doc<br><br>Subscription  - Coming soon<br><br>Using SHIP-HATS Portal Doc 
-||102| Tools|GitLab 
+Level 100|101| SHIP-HATS 2.0 | [Overview video](https://youtu.be/dRfI_zXgiHs) & [Getting Started documentation](ship-hats-overview)
+||||[Technical Architecture Video](https://youtu.be/aMARb5xd1qI) & [Technical Architecture Doc](architecture)
+||||Subscription  - Coming soon
+||||[Using SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)
+||102| Tools|[GitLab]() 
 Level 200|201 |Automation| Basic CI/CD - Covers the basics of how to set up a pipeline to build, test, and deploy your code
-||202 Measurements |DevOps Metrics with GitLab 
-|||Dashboards
+||202 |Measurements |DevOps Metrics with GitLab 
+||||Dashboards
+
+### Technical
+
+|Level|Sub-level|Category|Courses|
+|---|---|---|---|
+Level 100|101 |Overview| Liyana video link, 2.0 Doc
+||| Architecture| - Video & Doc
+||| Access| - TechPass & SEED
+||T101 |Automation|
+||||Understanding Runners
+||||Basic CI/CD - the basics of how to set up a pipeline to build, test, and deploy your code
+||||Pipeline templates overview
+||T102 |Management & Measurements | GitLab as a PM tool 
+||||Issue, labels, and boards
+||||DevOps Metrics with GitLab 
+||||Dashboards
+Level 200|T201 |Automation|Advance CI/CD  - advanced topics such as includes/extends templates, rules, child pipelines , compliance pipelines
+||T203 |Security|GitLab Security, Compliance
+||T204 |Cloud Ops|GitOps with GitLab 
+||T205 |Innersourcing|WOG public repos setup
+||||MR/PR best practices
+
+</details>
+<br>
 
 
-### **Technical** 
-
-
-|Level|Category|Courses|
-|---|---|---|
-Level 100|101 |Overview Liyana video link, 2.0 Doc
-|||Technical Architecture - Video & Doc
-|||Understanding Access - TechPass & SEED
-||T101 Automation|
-|||Understanding Runners
-|||Basic CI/CD - the basics of how to set up a pipeline to build, test, and deploy your code
-|||Pipeline templates overview
-||T102 |Management & Measurements  
-|||GitLab as a PM tool 
-|||Issue, labels, and boards
-|||DevOps Metrics with GitLab 
-|||Dashboards
-Level 200|T201 Automation|Advance CI/CD  - advanced topics such as includes/extends templates, rules, child pipelines , compliance pipelines
-||T203 Security|GitLab Security, Compliance
-||T204 Cloud Ops|GitOps with GitLab 
-||T205 Innersourcing|WOG public repos setup
-|||MR/PR best practices
-
-<!-- tabs:end -->
-
+<!--
 
 ## For Project Manager & Business Analysts
 
@@ -83,6 +85,7 @@ Level 200|T201 Automation|Advance CI/CD  - advanced topics such as includes/exte
 |Prerequisites|- [Read the recommended best practices in the DevSecOps playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)<br>- [Learn the CI/CD basics](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/devsecops-playbook?id=elements-of-devsecops-continuous-integration-amp-continuous-delivery)|
 |Products 101|- CI/CD with GitLab (Coming in September)
 |SHIP-HATS 101|- [Architecture Overview](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture)<br>- Tools Overview (coming soon)
+-->
 
 <!--
 ---

@@ -16,7 +16,7 @@ Please refer to [1.0 Subscription](https://www.developer.tech.gov.sg/products/ca
 - Aiming for a comparable pricing as SHIP-HATS 1.0. 
 - More details by end of Q2 FY22. 
 
-?> You can send your pricing questions and we will answer them after the Pricing Review is complete.
+?> You can [send your pricing questions](http://go.gov.sg/she) and we will answer them after the Pricing Review is complete.
 
 ## Process needs
 

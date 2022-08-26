@@ -47,18 +47,17 @@ Level 200|201 |Automation| Basic CI/CD - Covers the basics of how to set up a pi
 
 |Level|Sub-level|Category|Courses|
 |---|---|---|---|
-Level 100|101 |Overview| Liyana video link, 2.0 Doc
-||| Architecture| - Video & Doc
-||| Access| - TechPass & SEED
-||T101 |Automation|
-||||Understanding Runners
+Level 100|101 |Overview| [Overview video](https://youtu.be/dRfI_zXgiHs) & [Getting Started documentation](ship-hats-overview)
+||| Architecture| [Technical Architecture Video](https://youtu.be/aMARb5xd1qI) & [Technical Architecture Doc](architecture)
+||| Access| [TechPass](https://docs.developer.tech.gov.sg/docs?product=TechPass) & [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/)
+||T101 |Automation|Understanding Runners
 ||||Basic CI/CD - the basics of how to set up a pipeline to build, test, and deploy your code
-||||Pipeline templates overview
+||||[Pipeline templates overview](pipeline-templates)
 ||T102 |Management & Measurements | GitLab as a PM tool 
-||||Issue, labels, and boards
+||||Issues, labels, and boards
 ||||DevOps Metrics with GitLab 
 ||||Dashboards
-Level 200|T201 |Automation|Advance CI/CD  - advanced topics such as includes/extends templates, rules, child pipelines , compliance pipelines
+Level 200|T201 |Automation|Advanced CI/CD  - advanced topics such as includes/extends templates, rules, child pipelines , compliance pipelines
 ||T203 |Security|GitLab Security, Compliance
 ||T204 |Cloud Ops|GitOps with GitLab 
 ||T205 |Innersourcing|WOG public repos setup

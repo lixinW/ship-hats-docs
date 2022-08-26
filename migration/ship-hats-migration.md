@@ -4,7 +4,7 @@ Following table and image provide high-level migration phases and key activities
 
 | **Phase** | **Sandbox Testing** | **Migration** |
 | --- | --- | --- |
-| Details | Prepare target environment<br>Configure pipeline in Sandbox| Migrate Source Code Repository<br>Configure piepline in actual environment|
+| Details | Prepare target environment<br>Configure pipeline in Sandbox| Migrate Source Code Repository<br>Configure pipeline in actual environment|
 | Duration Choice | Choose from 4, 6, or 12 weeks option| Choose from 2, 4, or 6 weeks option |  
 
 <br>

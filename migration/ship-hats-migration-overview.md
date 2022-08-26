@@ -43,7 +43,7 @@ CI/CD pipeline in SHIP-HATS 2.0 uses [YAML](https://en.wikipedia.org/wiki/YAML) 
 ## Why this Change is Essential
 Atlassian is sunsetting the support for self-hosted Bitbucket and Bamboo. Therefore, we must replace these tools.  
 
-We are taking the opportunity to move to a SaaS model that enables you to enjoy the benefits of a more progressive CI/CD product with value-added features. Moving from self-hosted COTS to SaaS also enables us to focus our engineering efforts on supporting you with more comprehensive CI/CD templates and other resources to help you get started faster.
+We are taking the opportunity to move to GitLab (a SaaS model) that enables you to enjoy the benefits of a more progressive CI/CD product with value-added features. Moving from self-hosted COTS to GitLab also enables us to focus our engineering efforts on supporting you with more comprehensive CI/CD templates and other resources to help you get started faster.
 
 ## Key Benefits
 

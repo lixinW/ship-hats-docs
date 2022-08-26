@@ -17,8 +17,8 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 |Users|Migration Start date|Migration End date|
 |---|---|---|
 |All new users|Onboarding from November 2022|
-|Existing subscriber<br><br>**Without** Fortify SCA or Webinspect| November 2022| 1 year from the date of GA|
-|Existing subscriber<br><br> **With** Fortify SCA or Webinspect| November 2022| 31 July 2023|
+|Existing subscriber<br><br>**Without** Fortify SCA or WebInspect| November 2022| 1 year from the date of GA|
+|Existing subscriber<br><br> **With** Fortify SCA or WebInspect| November 2022| 31 July 2023|
 
 ?> Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
 
@@ -40,7 +40,7 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 |Current Tool|Decommission Date|Replacement Tool|
 |---|---|---|
 |OpenVPN|31 December 2022|TechPass/Seed|
-|Fortify Webinspect (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
+|Fortify WebInspect (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
 |Fortify SCA (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
 |Digital.ai|31 May 2023|GitLab|
 

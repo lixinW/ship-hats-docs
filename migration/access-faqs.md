@@ -5,7 +5,7 @@
 <details>
   <summary><b>How can I access SHIP-HATS 2.0?</b></summary><br>
 
-SHIP-HATS 2.0 tools including Portal can be accessed using GSIB or SEED-enabled developer device authenticated using TechPass. For more inforamtion, refer to the [Architecture > User Access](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture?id=user-accessibility) documentation in the [SHIP-HATS Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) documentation.
+SHIP-HATS 2.0 tools including Portal can be accessed using GSIB or SEED-enabled developer device authenticated using TechPass. For more inforamtion, refer to the [Architecture > Access](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture?id=access) documentation in the [SHIP-HATS Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) documentation.
 
 </details>
 <br>

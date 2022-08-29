@@ -33,7 +33,7 @@ Yes. All SHIP-HATS users have been invited to onboard to TechPass. By 31 Decembe
 <br>
 
 <details>
-  <summary><b> Can SHIP-HATS 2.0 tools like Gitlab and Fortify-on-demand can be private network. For example  via VPC endpoints? </b></summary><br>
+  <summary><b> Can SHIP-HATS 2.0 tools like Gitlab and Fortify-on-demand be available on private network. For example via VPC endpoints? </b></summary><br>
 
 Yes
 </details>

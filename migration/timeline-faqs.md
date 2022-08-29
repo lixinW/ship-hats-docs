@@ -28,7 +28,7 @@ Please refer to the [Key tool decommission dates](https://docs.developer.tech.go
 <br>
 
 <details>
-  <summary><b> When is the planned migration of Self-hosted Jira and Confluence to Cloud? </b></summary><br>
+  <summary><b> When is the migration planned for Self-hosted Jira and Confluence to Cloud? </b></summary><br>
 
 We will provide more details by Q3 FY22.
 </details>

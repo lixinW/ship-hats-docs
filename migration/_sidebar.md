@@ -6,6 +6,7 @@
   - [Pipeline Templates](pipeline-templates) 
   - [Change Management](ship-hats-migration-change-management)
   - [Annex](ship-hats-migration-annex)
+  - [FAQs](faqs)
 
 &nbsp;
 

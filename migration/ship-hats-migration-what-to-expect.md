@@ -23,18 +23,6 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 ?> Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
 
 
-<!--
-| **Timeline** | **Key Milestone** | **Status** |
-| --- | --- | --- |
-| <br>Q4' FY21 | <ul><li>SaaS CI/CD tool evaluation completed</li><li>High-level [migration approach](ship-hats-migration#migration) ready</li><li>[Training approach](ship-hats-migration#training) ready</li><li>Migration documentation launched</li></ul> | <br>**Completed**|
-| <br>Q1' FY22 | <ul><li>Complete tool procurement</li></ul> | <br>**Completed** |  
-| <br>Q2' FY22 | <ul><li>SHIP-HATS 2.0 Announcement</li><li>Test with pilots (by invitation only)</li><li>Launch SHIP-HATS 2.0 Training</li><li>Open Migration Booking slots</li></ul>| <br>To be started |  
-
-?> Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
-
--->
-
-
 ## Key tool decommission dates
 
 |Current Tool|Decommission Date|Replacement Tool|
@@ -43,6 +31,8 @@ We are upgrading to SHIP-HATS 2.0, which will be running on GitLab, offering a m
 |Fortify WebInspect (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
 |Fortify SCA (OnPrem)|31 July 2023|GitLab SAST/DAST or Fortify On Demand|
 |Digital.ai|31 May 2023|GitLab|
+|Bitbucket|1 year from SHIP-HATS 2.0 GA date|GitLab|
+|Bamboo|1 year from SHIP-HATS 2.0 GA date|GitLab|
 
 
 ## Pricing

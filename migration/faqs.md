@@ -4,8 +4,9 @@ This section provides answers to frequently asked questions.
 
 [Timelines](timeline-faqs.md ':include')
 
-[Availability](availability-faqs.md ':include')
+[Access](access-faqs.md ':include')
 
+<!--
 [Tools](tools-faqs.md ':include')
 
 [Migration](migration-faqs.md ':include')
@@ -15,3 +16,5 @@ This section provides answers to frequently asked questions.
 [Training](training-faqs.md ':include')
 
 [Pricing](pricing-faqs.md ':include')
+
+-->

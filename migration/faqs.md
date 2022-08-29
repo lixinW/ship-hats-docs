@@ -20,7 +20,7 @@ New subscribers can onboard SHIP-HATS 2.0 from November 2022. For more informati
 Existing subscribers can migrate to SHIP-HATS 2.0 from November 2022. The specific date of GA will be announced closer to the date. 
 
 - Users with Fortify SCA & WebInspect must complete migration by 31 July 2023. If you are Fortify user and if this migration timelines does not work, please log a ticket at [go.gov.sg/she](http://go.gov.sg/she) with details of your project needs.
-- Users without Fortify SCA & WebsInpect must complete migration within 1 year from the dates of SHIP-HATS 2.0 GA.
+- Users without Fortify SCA & WebInspect must complete migration within 1 year from the dates of SHIP-HATS 2.0 GA.
 </details>
 <br>
 
@@ -45,7 +45,7 @@ We will provide more details by Q3 FY22.
 <details>
   <summary><b>How can I access SHIP-HATS 2.0?</b></summary><br>
 
-SHIP-HATS 2.0 tools including Portal can be accessed using GSIB or SEED-enabled developer device authenticated using TechPass. For more inforamtion, refer to the [Architecture > User Access](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture?id=user-accessibility) documentation in the [SHIP-HATS Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) documentation.
+SHIP-HATS 2.0 tools including Portal can be accessed using GSIB or SEED-enabled developer device authenticated using TechPass. For more information, refer to the [Architecture > User Access](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture?id=user-accessibility) documentation in the [SHIP-HATS Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) documentation.
 
 </details>
 <br>

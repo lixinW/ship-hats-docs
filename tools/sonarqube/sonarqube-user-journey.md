@@ -4,7 +4,7 @@ The following image and table outlines the steps that you must complete to get s
 
 These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted. 
 
-![User Journey](./images/user-journey-sonarqube.png)
+<!--![User Journey](./images/user-journey-sonarqube.png)-->
 
 
 |Task|Owner|

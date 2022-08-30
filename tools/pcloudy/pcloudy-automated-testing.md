@@ -16,9 +16,10 @@ We strongly encourage you to use Robot Framework i.e. `robot` command, where the
 pCloudy CLI is a Command Line Interface(CLI) tool to be used as part of the Bamboo pipeline to help book and release devices on pCloudy.
 
 ## Prerequisites
-- The user must be a Project Admin (PA) in order to retrieve the pCloudy token from the SHIP-HATS Self Help Portal.
-- Make sure that your bamboo plan has an elastic image configuration of the HATS security agent dedicated to it (check with the HATS team)
+- The user must be a Project Admin (PA) to retrieve the pCloudy token from the SHIP-HATS Portal.
+- Make sure that your bamboo plan has an elastic image configuration of the HATS security agent dedicated to it (check with the HATS team).
 
+<!--
 ## Retrieve PCloudy token
 
 To use the pCloudy CLI in bamboo, you would need to retrieve your pCloudy token from your pCloudy application from the SHIP-HATS Self Help portal.
@@ -41,14 +42,15 @@ To use the pCloudy CLI in bamboo, you would need to retrieve your pCloudy token 
 
     <kbd>![All Projects](./images/pcloudy-copy-token.png)
 
-
+-->
+<!--
 ## Set up Bamboo Plan
 
 ### To set up your Bamboo plan
 After you have your pCloudy token, you can use the pCloudy CLI in your bamboo plans, to book and release devices on pCloudy.
 
 You can also use the pCloudy CLI to upload files to pCloudy.
-
+-->
 ## Upload files
 
 This is an optional step. This is mainly used to upload your application to pCloudy for testing.

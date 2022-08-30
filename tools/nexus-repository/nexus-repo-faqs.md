@@ -1,5 +1,11 @@
 # FAQs
 
+The following section provides frequently asked questions related to nexus Repository Pro.
+
+
+>**Tip:** Click on a question to view the answer.
+
+
 <details>
   <summary><b>I want to use Nexus Repository in my project to publish custom libraries for the developers in my team to use. Is it possible?</b></summary><br>
 

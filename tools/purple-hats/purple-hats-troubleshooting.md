@@ -15,6 +15,7 @@ const URL_NO_COMMAS_REGEX = RegExp('https?://(www\\.)?[\\p{L}0-9][-\\p{L}0-9@:%.
 SyntaxError: Invalid regular expression: /https?://(www\.)?[\p{L}0-9][-\p{L}0-9@:%\._\+~#=]{0,254}[\p{L}0-9]\.[a-z]{2,63}(:\d{1,5})?(/[-\p{L}0-9@:%_\+.~#?&//=\(\)]*)?/: Invalid escape
 ```
 </details>
+<br>
 
 <details>
   <summary><b>Compiled against a different Node.js version</b></summary><br>
@@ -38,7 +39,7 @@ the module (for instance, using `npm rebuild` or `npm install`).
 
 
 </details>
-
+<br>
 
 <details>
   <summary><b>dyld Error</b></summary><br>

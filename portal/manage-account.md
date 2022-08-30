@@ -1,5 +1,6 @@
 # Manage Account
 
+
 **Topics**
 - [Switch account](#switch-account)
 - [View plan details](#view-plan-details)
@@ -8,12 +9,18 @@
 - [Update admin profile](#update-admin-profile)
 - [Off-board an account](#off-board-an-account)
 
+
 ## Switch account
 If you are a SA or PA for more than one subscription account in SHIP-HATS, you may need to switch between these accounts to Manage users, Manage Projects, Viewing Plan Details and Viewing Billing Info.
 
 ### To switch account
 
-1. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page and choose **Switch account**.
+1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
+1. Under your name, click the drop-down, and then select **Switch account**. 
+1. On the **Select billing account** screen, select the required billing account.
+    Dashboard for the selected billing account appears.
+
+<!--
 
     <kbd>![switch-account](./images/switch-account.png ':size=100%')</kbd>
 
@@ -21,7 +28,7 @@ If you are a SA or PA for more than one subscription account in SHIP-HATS, you m
 
     <kbd>![switch-account](./images/switch-account-choose-account.png ':size=100%')</kbd>
 
-
+-->
 
 ## View plan details
 
@@ -29,19 +36,31 @@ SA and PA can view the plan details of their subscription account(s) from the da
 
 ### To view plan details of a subscription
 
-1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
+1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+    
+    Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
-    <kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>
+    <!--<kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>-->
 
-1. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page and choose **Plan Details**.
+1. Under your name, click the drop-down, and then select **Billing Account**. 
 
-    <kbd>![plan-details](./images/plan-details-1.png ':size=50%')</kbd>
+    > **Note:** Alternatively, from the **Dashboard**, you can click **Plan details**.
 
-    Alternatively, click **Plan details** from **Overview** as shown below.
+    The **Plan Details** screen appears, displaying the following plan details:
+    - Billing Account Name
+    - Billing Account Number
+    - Plan subscribed
+    - Show add-ons: You can click this option to view the add-ons taken with the subscription.
 
-    >**Note:** SHIP-HATS users other than SA and PA can view their associated subscription account details, such as **Billing Account Name** and **Billing Account Number**, from their **Profile** page as shown below. Refer to [Access user profile](#view-user-profile) and [Update user profile](users-self-help) for additional information.
-    >
-    ><kbd>![View Subscription Details](./images/view-subscription-details-for-other-users.png ':size=75%')</kbd>
+<!--
+<kbd>![plan-details](./images/plan-details-1.png ':size=50%')</kbd>
+
+Alternatively, click **Plan details** from **Overview** as shown below.
+
+>**Note:** SHIP-HATS users other than SA and PA can view their associated subscription account details, such as **Billing Account Name** and **Billing Account Number**, from their **Profile** page as shown below. Refer to [Access user profile](#view-user-profile) and [Update user profile](users-self-help) for additional information.
+>
+><kbd>![View Subscription Details](./images/view-subscription-details-for-other-users.png ':size=75%')</kbd>
+-->
 
 ## View billing information
 
@@ -49,67 +68,83 @@ If you are a Subscription Admin, you will be able to view the billing informatio
 
 ### To view the billing information
 
-1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
-2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
 
-    <kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>
+1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+    
+    Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
-    You can view information in the following three sections: Billing Information, Approver Information, and Signed Service Sheets (SS).
+    <!--<kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>-->
+
+1. Under your name, click the drop-down, and then select **Billing Info**. 
+
+    <!--<kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>-->
+
+    You can view information in the following sections: Billing Information, Approver Information, Service Sheet (SS), and Subscription Pricing Calculator.
 
     - **Billing Information**
 
-        <kbd>![billing-information](./images/billing-information.png ':size=75%')</kbd>
+        - SA can modify the information if required.
+        - GL Account is applicable for GovTech agencies and Sub-Business Unit is applicable for non-GovTech agencies.
 
-        >**Note:** GL Account is applicable for GovTech agencies and Sub-Business Unit is applicable for non-GovTech agencies.
+        ![billing-information](./images/billing-information.png ':size=75%')
 
     - **Approver Information**
 
-        You can find the approver details for this account.
+        - You can find the approver details for this account.
 
-        <kbd>![approver-information](./images/approver-information.png ':size=75%')</kbd>
+        ![approver-information](./images/approver-information.png ':size=75%')
 
     - **Signed Service Sheets(SS)**
 
-        You can find the signed service sheets for this account.
+        - You can find the signed service sheets for this account.
 
-        <kbd>![signed-service-sheet](./images/signed-ss.png ':size=75%')</kbd>
+        ![signed-service-sheet](./images/signed-ss.png ':size=75%')
+
+    - **Subscription Pricing Calculator**
+
+        - This information is accessible via SOE/GSIB laptop only.
+        - As an SA, you can send calculator link to your email ID by clicking **Email link to me**. 
+
+        ![Subscription Pricing Calculator](./images/subscription-pricing-calculator.png ':size=40%')
+
+    
 
 ## Modify billing information
 If you are a Subscription Admin, you will be able to modify the billing information of their subscription account(s).
 
-### To view the billing information
+### To modify the billing information
 
-1. Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
-2. From the **[Overview](access-ship-hats-portal)** page, hover over **Billing Account** at the upper-right area of the page, and then choose **Billing Info**.
+1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+    
+    Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
-    <kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>
+    <!--<kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>-->
 
-    You can view information in the following three sections: Billing Information, Approver Information, and Signed Service Sheets (SS).
+1. Under your name, click the drop-down, and then select **Billing Info**. 
 
-    - **Billing Information**
+    <!--<kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>-->
 
-        <kbd>![billing-information](./images/billing-information.png ':size=75%')</kbd>
+    You can view information in the following sections: Billing Information, Approver Information, Service Sheet (SS), and Subscription Pricing Calculator.
+1. In the **Billing Information** section, click the pencil icon to modify one or more of the following details:
+    - Billing Contact Person
+    - Billing Email
+    - Billing Contact Number
+    - Billing Agency: You cannot modify this information.
+    - Billing Address
+    - WBS / Cost Center
+    - GL Account: This is applicable for GovTech agencies only.
+    - Sub-business Unit: This is applicable for non-GovTech agencies only.
 
-        SA can edit all the details in this section except **Billing Agency**.
-
-        >**Note:** GL Account is applicable for Govtech agencies and Sub-Business Unit is applicable for non-Govtech agencies.
-
-    - **Approver Information**
-
-        You can find the approver details for this account.
-
-        <kbd>![approver-information](./images/approver-information.png ':size=75%')</kbd>
-
-    - **Signed Service Sheets(SS)**
-
-        You can find the signed service sheets for this account.
-
-        <kbd>![signed-service-sheet](./images/signed-ss.png ':size=75%')</kbd>
 
 ## Update admin profile
-SA and PA can update their profile from the **[Overview](access-ship-hats-portal)** page.
+SA and PA can update their profile from the **[Dashboard](access-ship-hats-portal)** section.
 
-### To view and update profile as SA and PA
+To view and update profile as SA and PA, refer to the **[Users > Users self help > Update user profile](users-self-help)** section in this documentation.
+
+<!--
+1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
+1. Under your name, click the drop-down, and then select **View profile**. 
+1. To update your **Personal Information**, click the edit icon.
 
 1. From the **[Overview](access-ship-hats-portal)** page, hover over your profile icon at the upper-right corner. Your user name and user role for this account are displayed. In the below example, the logged in user is a **Subscription Admin** for this account.
 
@@ -119,6 +154,8 @@ SA and PA can update their profile from the **[Overview](access-ship-hats-porta
 1. To update your **Personal Information**, click the edit icon.
 
     <kbd>![edit-profile-details-blurred](./images/edit-profile-details-blurred.png ':size=75%')</kbd>
+
+-->
 
 
 ## Off-board an Account
@@ -153,9 +190,9 @@ If you are a Subscription Admin (SA), you can off-board your subscription accoun
 
     You will receive an email confirmation with further details. 
 
-**After you have raised the service request for off-boarding:**
+**After you have raised the service request for off-boarding, note the following behavior:**
 - When SA or PA logs in to the SHIP-HATS portal, in the **Alerts** section, you will see a termination message.
 - Tools cannot be added
-- Changing the PA function is disabled. 
-- User invitations are disabled. 
-- After the termination date, SA or PA will not be able to view the subscription details for the off-boarded account. However, if SA or PA have other subscription accounts, theu will continue to view details for these additional subscriptions accounts.
+- Changing the PA function is disabled 
+- User invitations are disabled 
+- After the termination date, SA or PA will not be able to view the subscription details for the off-boarded account. However, if SA or PA have other subscription accounts, they will continue to view details for these additional subscriptions accounts.

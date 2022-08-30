@@ -10,7 +10,9 @@ This section describes the following:
 
 
 ## Invite users
-Subscription Admin (SA) and Project Admin (PA) can invite and add users to the subscription. Note that only SA can add a user as PA to their SHIP-HATS projects.
+Subscription Admin (SA) and Project Admin (PA) can invite and add users to the subscription. 
+
+> **Important:** Only SA can add a user as PA to their SHIP-HATS projects.
 
 ### To invite users
 
@@ -114,8 +116,8 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
    
    |Field|Description|
    |---|---|
-   |**CI tools**| Select this option if the user is required to have access to JIRA, Confluence, pCloudy, SonarQube, Fortify, and Prisma Cloud services.
-   |**SonaType tools**| Select this option if the user is required to have access to Nexus Repository and Nexus IQ scan services.  
+   |**CI tools**| Select this option if the user is required to have access to Jira, Confluence, Bitbucket, Bamboo, pCloudy, SonarQube, Fortify SCA & WebInspect, Fortify on Demand, and Prisma Cloud services.
+   |**SonaType tools**| Select this option if the user is required to have access to Nexus IQ and Nexus Repo scan services.  
 
 1. Click **Confirm**.  
 This user is now approved as SHIP-HATS user under this account.

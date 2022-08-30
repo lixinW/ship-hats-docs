@@ -12,6 +12,37 @@
   - [Users self help](users-self-help)  
 **Projects**
   - [Manage projects](manage-projects)
+**Project Tools & Applications**
+  - [Manage tools & apps](manage-tools)  
+**Accounts**  
+  - [Manage accounts](manage-account)  
+**DGP Systems**
+  - [Declare DGP systems](declare-dgp-systems)  
+
+&nbsp;
+
+---
+**Additional Resources**
+  - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-overview)
+  - [SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)
+  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/) 
+
+
+<!--
+**Overview**
+  - [Audience](audience)
+  - [Overview](ship-hats-portal-overview)
+  - [User roles and permissions](user-roles-and-permissions)  
+**Portal**  
+  - [Onboard to portal](onboarding-to-portal)
+  - [Access portal](access-ship-hats-portal)  
+**Users**  
+  - [Onboard users](onboarding-users)
+  - [Manage users](manage-users)
+  - [Manage user groups](manage-user-groups)
+  - [Users self help](users-self-help)  
+**Projects**
+  - [Manage projects](manage-projects)
   - [Manage admins](manage-admins)  
 **Project Tools & Applications**
   - [Manage tools & apps](manage-tools)  
@@ -27,6 +58,9 @@
   - [SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)
   - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/) 
   - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
+
+-->
+
 <!--
 - **Additional Resources**
   - [Back to Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/) 

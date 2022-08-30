@@ -70,7 +70,7 @@ You have successfully linked your TechPass to SHIP-HATS. You can directly log in
 The **Overview** page of the subscription account provides the dashboard view of the subscription account. Only Subscription Admin (SA) and Project Admin (PA) can access this dashboard to view the following details:
 
 - Subscription tier for the Billing Account. By default, you view the subscription details of the first account to which you were added as SA or PA. You can [switch account](manage-account), as needed.
-- [Plan details](manage-accounts)
+- [Plan details](manage-account)
 - Number of projects hosted on this account
 - Number of users added to this account
 - Projects using shared Bamboo agents and their usage quota 

@@ -1,5 +1,5 @@
 # Manage tools and applications
-
+<!--
 **Topics**
 - [Add project tools](#add-project-tools)
 - [Create project tool with customized project key](#create-project-tool-with-customised-project-key)
@@ -11,33 +11,36 @@
 - [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)
 - [Remove project tools](#remove-project-tools)
 - [Remove applications from a project tool](#remove-applications-from-a-project-tool)
-
+-->
 ## Add project tools
 
-SA or PA can add the required project tools as explained below. You can add tools for **Development**, **Build**, **QA &amp; Security**, and **Release** phases as per the tools quota allotted for your subscription type. 
+SA or PA can add the required project tools as explained below. You can add tools under the **Subscribed Tools** section based on the tools quota allotted for your subscription type. 
 
 
 ### To add project tools
 
 1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
-1. Locate the project to which you want to add a tool, and then click **Manage**.
-1. Go to the required tab, and then click **Add tool**. Follow the steps in table for the tool that you want to add.
+1. Locate the project to which you want to add a tool, and then click the project.
+    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+1. Locate the tool that you want to add, click **Create** > **Add**. Follow the steps in table for the tool that you want to add.
 
-    |Tab|Available Tools|Steps|
-    |---|---|---|
-    |Development|Jira|<ol><li>Click the **Select Tool** drop-down list, and select **Jira**.</li><ol>|
-    |Development|Confluence|<ol><li>Click the **Select Tool** drop-down list, and select **Confluence**.</li><ol>|
-    |Development|Bitbucket|<ol><li>Click the **Select Tool** drop-down list, and select **Bitbucket**.</li><ol>
-    |Build|Bamboo|<ol><li>Click the **Select Tool** drop-down list, and select **Bamboo**.</li><ol>
-    |Build|Nexus IQ|<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** and **App ID** fields.</li><ol>|
-    |Build|Nexus Repo|<ol><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.</li><ol>|
-    |QA &amp; Security|pCloudy Device Farm & HATS Browser Farm|<ol><li>Click the **Select Tool** drop-down list, and select **pCloudy Device Farm & HATS Browser Farm**.</li><ol>|
-    |QA &amp; Security|SonarQube - Community Edition|Make sure that you have logged in to [SonarQube](https://sonar.hats.stack.gov.sg/sonar) at least once.<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** and **App ID** fields.</li><ol>|
-    |QA &amp; Security|SonarQube - Developer Edition|Make sure that you have logged in to [SonarQube](https://sonar1.hats.stack.gov.sg/sonar) at least once.<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** and **App ID** fields.</li><ol>|
-    |QA &amp; Security|Fortify SCA & WebInspect|<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** field.</li><ol>|
-    |QA &amp; Security|Fortify on Demand| <ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** field.</li><ol>|
-    |QA &amp; Security|Container Image Scanner|<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **Scanner Type** and **App Name** fields.</li><ol>|
-    |Release|NA|<ol><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add the tools.</li><ol>.|
+    |Available Tools|Steps|
+    |---|---|
+    |GitLab|<ol><li>Click the **Select Tool** drop-down list, and select **GitLab**.</li><ol>|
+    |Jira|<ol><li>Click the **Select Tool** drop-down list, and select **Jira**.</li><ol>|
+    |Confluence|<ol><li>Click the **Select Tool** drop-down list, and select **Confluence**.</li><ol>|
+    |Bitbucket|<ol><li>Click the **Select Tool** drop-down list, and select **Bitbucket**.</li><ol>
+    |Bamboo|<ol><li>Click the **Select Tool** drop-down list, and select **Bamboo**.</li><ol>
+    |Nexus IQ|<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** and **App ID** fields.</li><ol>|
+    |Nexus Repo|<ol><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.</li><ol>|
+    |pCloudy Device Farm & HATS Browser Farm|<ol><li>Click the **Select Tool** drop-down list, and select **pCloudy Device Farm & HATS Browser Farm**.</li><ol>|
+    |SonarQube - Community Edition|Make sure that you have logged in to [SonarQube](https://sonar.hats.stack.gov.sg/sonar) at least once.<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** and **App ID** fields.</li><ol>|
+    |SonarQube - Developer Edition|Make sure that you have logged in to [SonarQube](https://sonar1.hats.stack.gov.sg/sonar) at least once.<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** and **App ID** fields.</li><ol>|
+    |Fortify on Demand| <ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** field.</li><ol>|
+    |Fortify On-Prem|<ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** field.</li><ol>|
+
+    
+    <!--|Release|NA|<ol><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add the tools.</li><ol>.|-->
     
     >**Note:** After you reach the quota, the respective tool name(s) will be disabled in the **Select Tool** drop-down list. If you still want to add these tools, send an email to enquiries_ENP@tech.gov.sg.    
 1. Click **Add**.   
@@ -51,8 +54,11 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 ### To customise project key 
 
 1. Go to **Projects** > **All Projects**.
-1. Identify your project and click **Manage**. 
-1. Under the **Development** tab, click **Add tool**.
+1. Identify your project, and then click the project.
+    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+
+1. Locate the tool that you want to add, click **Create** > **Add** > **Customise Project Key**. 
+<!--
 1. Choose the required tool.
 
     ![Add new Development tool](./images/add-new-dev-tool.png)
@@ -60,17 +66,19 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 1.  Select **Customise Project Key**.
 
     ![customise](./images/customise.png)
+-->
 
-1. Enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
+1. In the **Project Key** field, enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
 
-    ![add](./images/addnewkey.png)
-
+<!--    ![add](./images/addnewkey.png)-->
+1. Click **Add**. 
 
 ## Add applications to a project tool
 
 By default, when you add a project tool, an application is added. However, you can add additional applications to the following tools:
 - Container Image Scanner
-- Fortify SCA & WebInspect
+- Fortify On-Prem
+- Fortify on Demand
 - Nexus IQ
 - SonarQube - Community Edition
 - SonarQube - Developer Edition
@@ -144,12 +152,12 @@ As a Subscription Admin or a Project Admin, you can manage users within a projec
 
     Follow the steps in table for the tool that you want to add.
 
-    |Tab|Available Tools|Steps|
-    |---|---|---|
-    |Development|Jira|<ol><li>Click the **Manage/add user** drop-down list, and follow the on-screen instructions.</li><ol>|
-    |Development|Confluence|<ol><li>Click the **Manage/add user** drop-down list, and follow the on-screen instructions.</li><ol>|
-    |Build|Nexus IQ|<ol><li>Click the **Manage/add user** drop-down list.</li><li>Select the **User** drop-down list, and select a user.</li><li>Select the role that you want to assign to the user.</li><li>Click **Update**.</li><ol>|
-    |QA &amp; Security|SonarQube|<ol><li>Click the **Manage/add user** drop-down list, and follow the on-screen instructions.</li><ol>|
+    |Available Tools|Steps|
+    |---|---|
+    |Jira|<ol><li>Click the **Manage/add user** drop-down list, and follow the on-screen instructions.</li><ol>|
+    |Confluence|<ol><li>Click the **Manage/add user** drop-down list, and follow the on-screen instructions.</li><ol>|
+    |Nexus IQ|<ol><li>Click the **Manage/add user** drop-down list.</li><li>Select the **User** drop-down list, and select a user.</li><li>Select the role that you want to assign to the user.</li><li>Click **Update**.</li><ol>|
+    |SonarQube|<ol><li>Click the **Manage/add user** drop-down list, and follow the on-screen instructions.</li><ol>|
 
     >**Note:** For the Atlassian apps (Confluence and JIRA), in the **Manage Tool** window, the link to tool or app server, includes the project key that you selected. This enables you to get to the project in the tool or app server directly. 
     >

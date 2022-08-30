@@ -11,27 +11,29 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 
 ### To create a new project
 
-1. From the side menu, click **Projects** > **Create New**.  
+1. From the side menu, click **Projects** > **Create Project**.  
 
     >**Tip:** Alternatively, if you are viewing **All Projects**, click **Create Project**.  
 
-    <kbd>![Create New Project](./images/create-new-project.png ':size=100%')</kbd>
+    <!--<kbd>![Create New Project](./images/create-new-project.png ':size=100%')</kbd>-->
 
 1. Provide information in the following fields:
 
     |Field|Description|
     |---|---|
-    |**Project Name**| Specify name of the project. 
+    |**Project Name**| Specify name of the project. Your agency name is prefixed to the project name automatically. 
     |**Project Description**| Specify details of the project. 
-    |**Project Admin 1**| Select Project Admin from the drop-down list. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list.
+    |**System**|Select the system from the drop-down list. 
+    |**Project Admin 1**| Select Project Admin from the drop-down list. If you want to invite new users, click 
+    **Invite here**. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list.
     |**Project Admin 2**| This is an optional field. Select a second Project Admin from the drop-down list. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list. 
 1. Click **Create Project**.  
     
-    The created project details are displayed as shown below.
+    The created project appears with **Subscribed Tools** and **Not Subscribed Tools** sections based on your subscription.
 
-    <kbd>![Newly Created Project](./images/newly-created-project.png ':size=100%')</kbd>
+    <!--<kbd>![Newly Created Project](./images/newly-created-project.png ':size=100%')</kbd>-->
 
-    SA or PA can add tools and additional PAs. 
+    SA or PA can add/create tools and additional PAs. 
     
     > **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/subscription) quota for which the agency has subscribed.
 
@@ -46,9 +48,9 @@ SA and PAs of a subscription account can view all the projects of the subscripti
 
 1. From the side menu, click **Projects** > **All Projects**.
 
-    Tile view of all the projects in this subscription account is displayed. If needed, refer to [Switch account](manage-account).
+    Tile view of all the projects in this subscription account appears. If needed, refer to [Switch account](manage-account).
 
-    <kbd>![View All Projects](./images/view-all-projects-tile-view.png ':size=100%')</kbd>
+    <!--<kbd>![View All Projects](./images/view-all-projects-tile-view.png ':size=100%')</kbd>-->
 
 1. Click **Manage** to view tools that are currently added to the project.
 
@@ -59,11 +61,16 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 ### To remove a project
 
 1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
-1. Locate the project, and then click **Manage**. You will see ![Remove Project Icon](./images/remove-project-icon.png) next to the project name as shown below.
+1. Locate the project, and then click three dots for more options, and then click **Delete Project**. 
+    A **Delete project** pop up appears. 
+1. If you are sure that you want to delete the project, click **I acknowledge that I have done all the necessary backup for the project**, and then click **Delete**.
 
-    <kbd>![Remove Projects](./images/remove-project.png ':size=100%')</kbd>
+    The project is deleted.
 
-1. Click the three dots, and then choose **Remove project**.
+<!--You will see ![Remove Project Icon](./images/remove-project-icon.png) next to the project name as shown below.
+
+<kbd>![Remove Projects](./images/remove-project.png ':size=100%')</kbd>-->
+
 
 ### Related Topics
 - [Manage Admins](manage-admins)

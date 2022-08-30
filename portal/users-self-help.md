@@ -1,4 +1,4 @@
-# Users Self Help
+# Users self help
 
 **Topics**
 - [Access user profile](#access-user-profile)
@@ -14,7 +14,8 @@
 ### To access your profile
 
 1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
-    On the **Profile** page, you can view the following types of information:
+1. Under your name, click the drop-down, and then select **View profile**. 
+    On the **Profile** page, you can view the following information:
     
     - **Personal Information**
         - First Name
@@ -23,11 +24,15 @@
         - Company Email Address
     - **Subscriptions**
 
-        Your subscription information, such as Subscription Admin, number of fortify and sonarqube applications tied to the subscription. 
+        - Your subscription information, such as:
+            - Subscription Admin for the subscription
+            - Number of Fortify applications tied to the subscription
+            - Number of SonarQube applications tied to the subscription
 
-        <!--<kbd>![Plan Details](./images/plan-details.png ':size=100%')</kbd>-->
+            <!--<kbd>![Plan Details](./images/plan-details.png ':size=100%')</kbd>-->
 
-        You can click the applications to view tokens and the expiry date. You can also download the information as CSV.
+        - You can click the applications to view tokens and the expiry date. 
+        - You can also download the information as CSV.
 
         <!--<kbd>![Token Info](./images/view-users-token.png ':size=100%')</kbd>-->
     - **User Groups**
@@ -43,6 +48,11 @@
 ### To modify user profile
 1. Go to the [TechPass Portal](https://portal.techpass.gov.sg/secure/account/profile).
 
+    > **Note:** Alternately, you can follow these steps: 
+    > 1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
+    > 1. Under your name, click the drop-down, and then select **View profile**. 
+        On the **Profile** page, click the pencil icon.
+
 1. Click **edit profile**.
 
     <!--<kbd>![edit-profile-normal-users-](./images/editprofilegsib.png ':size=75%')</kbd>-->
@@ -50,8 +60,6 @@
 2. Modify the details as needed, and then click **Save**. 
 
     <!--<kbd>![save-normal-user-profile-updates](./images/editprofilegsib2.png ':size=75%')</kbd>-->
-
-Alternatively, hover over your profile icon at the upper-right corner. To view and update user profile, click **View Profile**.
 
 
 ## Retrieve username
@@ -106,8 +114,12 @@ As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at l
 ### To change password
 
 1. In the upper-right corner, hover over your profile icon/name.
-1. Enter **Current password**.
-1. Enter values in **New Password**, **Confirm new password**, and then click **Update password**.
+1. Click **Change password**. 
+1. On the **Change Password** screen, enter values in the following fields:
+    - **Current password**
+    - **New password**
+    - **Confirm new password**
+1. Click **Update password**.
 
 ## Reset password
 If you have forgotten your SHIP-HATS password, you may reset it anytime following the below steps.

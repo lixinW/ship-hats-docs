@@ -89,8 +89,8 @@ You can generate a report to view all details for the active and removed users.
 1. Search for the user whose access you want to manage. 
 1. From the **Action** column, click ![3 dots](./images/3_dot.png) corresponding to the user.  
 1. Select **Manage Access**, and then select the tools that you want to enable for the user. Following options are available: 
-   - **CI tools:** Select this option if the user is required to have access to JIRA, Confluence, Bitbucket, Bamboo, pCloudy, SonarQube, Fortify SCA & WebInspect, and Prisma Cloud services.
-   - **SonaType tools:** Select this option if the user is required to have access to Nexus Repository and Nexus IQ Scan services.
+   - **CI tools:** Select this option if the user is required to have access to Jira, Confluence, Bitbucket, Bamboo, pCloudy, SonarQube, Fortify SCA & WebInspect, Fortify on Demand, and Prisma Cloud services.
+   - **SonaType tools:** Select this option if the user is required to have access to Nexus IQ and Nexus Repo Scan services.
 
    <kbd>![manage-access](./images/manage-access.png ':size=100%')</kbd>
 

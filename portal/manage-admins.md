@@ -10,16 +10,16 @@
 
 ## Add project admins
 
-Subscription Admins can add Project Admins using the SHIP-HATS portal. When creating a project in an account, it is mandatory to specify at least one Project Admin. SAs can add any additional PAs anytime in the future.  
+Subscription Admins can add Project Admins using the SHIP-HATS portal. When creating a project in an account, it is mandatory to specify at least one Project Admin. SAs can add additional PAs anytime in the future.  
 
 > **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/subscription) quota for which the agency has subscribed.
 
 ### To add a project admin
 
 1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
-1. Locate the project and click **Manage**.
-
-    <kbd>![Add Project Admin](./images/add-project-admin.png ':size=100%')</kbd>
+1. Locate the project, and then click three dots for more options, and then click **Manage Admins**. 
+    
+   <!--<kbd>![Add Project Admin](./images/add-project-admin.png ':size=100%')</kbd>-->
 
 1. Click the edit icon.  
    The **Manage Admin** panel appears.

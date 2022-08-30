@@ -9,12 +9,16 @@ Agencies are required to indicate any systems associated with Digital Government
 1. From the side menu, click **Systems**.
 1. Clear the **This system is not associated with any system** check box. 
 
-    <kbd>![dgp](./images/nosys.png ':size=100%')</kbd>
+    <!--<kbd>![dgp](./images/nosys.png ':size=100%')</kbd>-->
 1. Click **Add system**. 
 
-    >**Note:** You can add more than 1 system.
-1. Scroll through the drop-down, and then select your system. 
+    The **Add System** window appears.
 
-    <kbd>![add sys](./images/addsys.png ':size=100%')</kbd>
+    
+1. In the **System Name** drop-down field, select your system. 
+
+    <!--<kbd>![add sys](./images/addsys.png ':size=100%')</kbd>-->
 1. Click **Add**.  
     You have successfully added your DGP associated system into the portal. 
+    
+    >**Note:** You can add more than 1 system.

@@ -1,4 +1,4 @@
-# Nexus repository
+# Nexus Repository Pro
 
 Nexus repository provides artifact management across environments. 
 

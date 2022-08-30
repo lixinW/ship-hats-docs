@@ -51,7 +51,7 @@ nexus-docker-publish.ship.gov.sg/<repo-name>
     docker pull  nexus-docker.ship.gov.sg/alpine:latest
     ```
 
-### Troubleshooting
+## Troubleshooting
 
 [Troubleshooting](./snippets/troubleshooting.md ':include')
 

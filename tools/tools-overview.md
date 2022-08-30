@@ -25,6 +25,7 @@ The following table provides a list of tools integrated with SHIP-HATS and the s
 |  [SonarQube](sonarqube/sonarqube-overview) | Automatic Code Review |Community edition 8.9 | https://sonar.hats.stack.gov.sg/sonar |
 |  [Thinking HATS](thinking-hats/thinking-hats-overview) | Consolidated Quality Dashboard |2.8.0 | https://thinking.hats.stack.gov.sg/ |
 
+<!--
 ## Tools journey in SHIP-HATS
 
 The following image shows tools journey in SHIP-HATS:
@@ -41,7 +42,7 @@ The following image shows tools journey in SHIP-HATS:
 - [GitLab]()
 - [GitLab DAST]()
 
-
+-->
 
 <!--
 The following table provides a list of tools integrated with SHIP-HATS and the supported version:

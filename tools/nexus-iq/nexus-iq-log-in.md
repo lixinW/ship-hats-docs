@@ -1,4 +1,4 @@
-# Log in
+# Log in to Nexus IQ
 
 >**Note:** The steps may vary based on the validity of the different authenticator tokens.  
 

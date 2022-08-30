@@ -1,9 +1,10 @@
 # Roles and Permissions
 
-You can use Jira for bug tracking, issue tracking and project management. [SHIP-HATS Project Admin (PA)]() can add Atlassian Jira to the SHIP-HATS project.
+You can use Jira for bug tracking, issue tracking and project management. [SHIP-HATS Project Admin (PA)](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/user-roles-and-permissions) can add Atlassian Jira to the SHIP-HATS project.
 
 Now that you have added Jira as your project tool, let us look at the project roles recommended for all users.
 
+<!--
 **Topics**
 - [Jira project roles](#jira-project-roles)
 - [SHIP-HATS - Jira role mapping](#ship-hats---jira-role-mapping)
@@ -14,8 +15,9 @@ Now that you have added Jira as your project tool, let us look at the project ro
 - [Jira custom permissions](#jira-custom-permissions)
 - [Jira custom-roles](#jira-custom-roles)
 - [Additional Resources](#additional-resources)
+-->
 
-### Jira project roles
+## Jira project roles
 
 There are three types of user roles for a SHIP-HATS Jira project. All these roles and permissions assigned are at Jira project level. Users can be assigned to more than one project role.
 
@@ -26,7 +28,7 @@ There are three types of user roles for a SHIP-HATS Jira project. All these role
 | Developer | Administrator adds required developers to the Jira project. Person with Developer role can work on issues in the Jira project. |
 
 
-### SHIP-HATS - Jira role mapping
+## SHIP-HATS - Jira role mapping
  
 | SHIP-HATS Users | Jira Users |Description|
 | --- | --- |---|
@@ -34,16 +36,16 @@ There are three types of user roles for a SHIP-HATS Jira project. All these role
 | User | SHIP-HATS users | These users can be assigned as Administrator, Users, and Developer in the Jira project. |
 
 
-### Permissions for subscription tiers
+## Permissions for subscription tiers
 
 Jira is available in all subscription tiers.
 
-### Permissions for built-in roles
+## Permissions for built-in roles
 
 The permissions applicable to project roles depend on the permission scheme assigned for your project.
 
 
-### To view permissions applicable for all user roles:
+### To view permissions applicable for all user roles
 
 1. In [SHIP Jira](https://gccprod-my.sharepoint.com/personal/ramakrishnan_sowmya_tech_gov_sg/Documents/SHIP-HATS/Documentation%20&%20Training/jira.ship.gov.sg), go to **Projects** to choose your project.
 
@@ -96,24 +98,24 @@ The following table is an example of the Jira project roles and applicable permi
 | Edit Own Worklogs | ✓ | ✓ | ✓ |
 | Work On Issues | ✓ |   | ✓ |
 
-### Jira user groups
+## Jira user groups
 
 Groups are an easier and efficient way to manage user access for multiple users. Users can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) with the required group name and user details such as name and email address. Crowd administrator from the SHIP-HATS team then evaluates the request and approves it accordingly.
 
 
 If approved, the group is created with the agency name prefixed to it. For example, *govtech-codex-documentation*. If a group is already created for managing users in any one of the Atlassian products added to your project on SHIP-HATS, you will be able to see that in all the integrated Atlassian products. Note that user groups are created at a global level and are visible to all SHIP-HATS users. Jira project administrators can manage user groups for the project.
 
-### Jira custom permissions
+## Jira custom permissions
 
 Administrator can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to change project permissions for an existing user role.
 
-### Jira custom-roles
+## Jira custom-roles
 
 Although we highly encourage you to use Jira project roles, if it is critical for your project to have custom project roles, the Administrator can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to the Jira administrator in the SHIP-HATS team.
 
 Jira administrator from the SHIP-HATS team evaluates the requests on a case-by-case basis. Note that such custom project roles are created at a global level and they are visible to all SHIP-HATS users.
 
-### Additional Resources
+## Additional Resources
 
 - [Jira Project Permissions](https://confluence.atlassian.com/adminjiraserver0816/managing-project-permissions-1063164378.html) 
 

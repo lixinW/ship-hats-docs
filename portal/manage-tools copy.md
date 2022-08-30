@@ -70,7 +70,6 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 1. Click **Add**. 
 
 
-
 ## Add applications to a project tool
 
 By default, when you add a project tool, an application is added. However, you can add additional applications to the following tools:

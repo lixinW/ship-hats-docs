@@ -56,18 +56,6 @@ nexus-docker-publish.ship.gov.sg/<repo-name>
 [Troubleshooting](./snippets/troubleshooting.md ':include')
 
 
-<!--In the pipeline, if you receive a `403` error or are **unable to update docker**, add the following commands before `docker login nexus-docker-publish.ship.gov.sg`
-
-```
-rm -f ~/.docker/config.json
-```
-
-```
-docker logout
-```
-
-This is because the login points to the docker hub and needs to be refreshed using the above commands.-->
-
 ### Related Topics
 
 - [Cleanup Policy](nexus-repository/nexus-repo-clean-up-policy)

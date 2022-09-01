@@ -15,7 +15,6 @@
 **Project Tools & Applications**
   - [Manage tools](manage-tools)
   - [Manage applications](manage-applications)
-  - [Manage user groups & users](manage-user-groups-and-users)
   - [Manage tokens](manage-tokens) 
 **Accounts**  
   - [Manage accounts](manage-account)  

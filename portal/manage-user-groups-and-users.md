@@ -65,7 +65,7 @@ You can manage users for the following tools:
     The **Manage Tool** window appears. 
 
 
-    Follow the steps in table for a specific tool.
+    Follow the steps in table for your tool.
 
     |Available Tools|Steps|
     |---|---|

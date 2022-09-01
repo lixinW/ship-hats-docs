@@ -20,7 +20,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |8|[Create a project](manage-projects)|SA|
 |9|[Add a project admin](manage-admins)|SA|  
 |10|[Add a project tool](manage-tools)|SA or Project Admin (PA)|
-|11|[Add user or a user group to a project](manage-tools)|SA or PA|
+|11|[Add user or a user group to a project](manage-user-groups-and-users)|SA or PA|
 |12|[Add an application to a project tool](manage-applications)|PA|
 |13|[Declare DGP systems](declare-dgp-systems)|Agency<br>This is an optional step.|    
 

@@ -12,9 +12,11 @@
   - [Users self help](users-self-help)  
 **Projects**
   - [Manage projects](manage-projects)
+  - [Manage admins](manage-admins)  
 **Project Tools & Applications**
   - [Manage tools](manage-tools)
   - [Manage applications](manage-applications)
+  - [Manage user groups & users](manage-user-groups-and-users)
   - [Manage tokens](manage-tokens) 
 **Accounts**  
   - [Manage accounts](manage-account)  
@@ -26,7 +28,7 @@
 ---
 **Additional Resources**
   - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal-overview)
-  - [SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)
+  - [Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)
   - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/) 
 
 

@@ -1,8 +1,5 @@
 # Manage Admins
 
-Coming soon!
-
-<!--
 **Topics**
 - [Add project admins](#add-project-admins)
 - [View existing project admins](#view-existing-project-admins)
@@ -21,9 +18,9 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 
 1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
 1. Locate the project, and then click three dots for more options, and then click **Manage Admins**. 
--->    
+    
    <!--<kbd>![Add Project Admin](./images/add-project-admin.png ':size=100%')</kbd>-->
-<!--
+
 1. Click the edit icon.  
    The **Manage Admin** panel appears.
 
@@ -94,4 +91,3 @@ To change or transfer the existing SA role to another user, one of the SAs can r
 ### Related Topics
 
 
--->

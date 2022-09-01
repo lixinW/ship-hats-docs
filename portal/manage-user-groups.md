@@ -90,4 +90,4 @@ A pop-up appears indicating that the selected user will lose all the permissions
 
 ### Related Topics
 - [Manage users](manage-users)
-- [Manage tools & apps](manage-tools)  
+- [Manage user groups & users](manage-user-groups-and-users)

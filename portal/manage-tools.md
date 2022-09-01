@@ -21,15 +21,15 @@ SA or PA can add the required project tools as explained below. You can add tool
 
     |Available Tools|Steps|
     |---|---|
+    |Confluence|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **Confluence**.</li><ol>|
     |Fortify on Demand| <ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** field.</li><ol>|    
     |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>Click the **Tool Type** > **Select Tool** drop-down list, and select **GitLab**.</li><li>In the **GitLab Group Name**, enter the group name.</li> <ol> |
     |Jira|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **Jira**.</li><ol>|
-    |Confluence|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **Confluence**.</li><ol>|
     |Nexus IQ|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list.</li><li> Enter values in the **Application Name** and **Application ID** fields.</li><ol>|
     |Nexus Repo|<ol><li>Click **Add**.</li><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.</li><ol>|
     |pCloudy|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **pCloudy Device Farm & HATS Browser Farm**.</li><ol>|
     |Prisma Cloud|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and then select **Container Image Scanner**.</li><li>In the **Scanner type** field, select **Prisma Cloud**</li><li>In the **App Name** field, enter the required value. </li><ol>|
-    |SonarQube - Community Edition|Make sure that you have logged in to [SonarQube Community Edition](https://sonar.hats.stack.gov.sg/sonar) or [SonarQube Developer Edition](https://sonar1.hats.stack.gov.sg/sonar) at least once.<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list.</li><li>In the **App Name** field, enter the required value.</li><ol>|
+    |SonarQube|Make sure that you have logged in to [SonarQube Community Edition](https://sonar.hats.stack.gov.sg/sonar) or [SonarQube Developer Edition](https://sonar1.hats.stack.gov.sg/sonar) at least once.<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list.</li><li>In the **App Name** field, enter the required value.</li><ol>|
 
     >**Note:** After you reach the quota, the respective tool name(s) will be disabled in the **Select Tool** drop-down list. If you still want to add these tools, send an email to [enquiries_ENP@tech.gov.sg](enquiries_ENP@tech.gov.sg).    
 1. Click **Add**.   

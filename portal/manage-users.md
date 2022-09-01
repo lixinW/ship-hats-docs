@@ -92,7 +92,7 @@ You can generate a report to view all details for the active and removed users.
    - **CI tools:** Select this option if the user is required to have access to Jira, Confluence, Bitbucket, Bamboo, pCloudy, SonarQube, Fortify SCA & WebInspect, Fortify on Demand, and Prisma Cloud services.
    - **SonaType tools:** Select this option if the user is required to have access to Nexus IQ and Nexus Repo Scan services.
 
-   <kbd>![manage-access](./images/manage-access.png ':size=100%')</kbd>
+      ![manage-access](./images/manage-access.png ':size=80%')
 
 1. Click **Proceed**.  
    A confirmation message appears, indicating that the user will receive an email regarding the change. 
@@ -159,4 +159,4 @@ Make sure that you are in the required account. If needed, refer to [Switch acco
 
 ### Related Topics
 - [Manage user groups](manage-user-groups)
-- [Manage tools & apps](manage-tools)  
+- [Manage user groups & users](manage-user-groups-and-users) 

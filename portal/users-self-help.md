@@ -16,7 +16,7 @@
 1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
 1. Under your name, click the drop-down, and then select **View profile**. 
     On the **Profile** page, you can view the following information:
-    
+
     - **Personal Information**
         - First Name
         - Last Name

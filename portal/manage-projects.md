@@ -74,5 +74,8 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 
 
 ### Related Topics
-<!--- [Manage Admins](manage-admins)-->
+- [Manage Admins](manage-admins)
 - [Manage Tools](manage-tools)
+- [Manage applications](manage-applications)
+- [Manage user groups & users within projects](manage-user-groups-and-users)
+- [Manage tokens](manage-tokens) 

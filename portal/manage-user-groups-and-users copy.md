@@ -1,8 +1,5 @@
 # Manage user groups & users
 
-Coming soon!
-
-<!--
 **Topics**
 
 - [Manage user groups within a project tool](#manage-user-groups-within-a-project-tool)
@@ -108,4 +105,3 @@ As a Subscription Admin or a Project Admin, you can remove permissions and roles
 The permissions or roles are updated.
 
 
--->

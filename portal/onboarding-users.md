@@ -27,8 +27,6 @@ Subscription Admin (SA) and Project Admin (PA) can invite and add users to the s
    
    In the example below, SA invites a new user to SHIP-HATS. As the invite was created 2 days earlier, the link is valid for the next 12 days.
 
-   ![Invite Users](./images/invite-users.png ':size=60%')
-
 1. Click **Email me** to send this link with the expiry date to your SHIP-HATS registered email address, and then forward it to the intended users so that they can provide required information in the **Invitation Form**.  
 
    Alternatively, click the copy icon to copy and share the invite link with intended users. Make sure to inform the users about the expiry date of this link.
@@ -56,15 +54,12 @@ Access the link via the onboarding email and perform the following steps based o
    |**Public Service Email Address**| Enter official email address of the user.
    |**Require SEED Account**| Select this checkbox if the user requires a SEED account. This account is required only for a user who is actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.     
 
-   ![Create Account](./images/create-account.png ':size=50%')
-
 ### **Vendor**
 
 ### To register an account for a vendor
 
 1. In the Invitation form, select the role as **Vendor**.  
 
-   ![Create Vendor Account](./images/new-account-vendor.png ':size=60%')
 1. Enter the following details, and then click **Submit**.  
 
    |Field|Description|
@@ -77,7 +72,6 @@ Access the link via the onboarding email and perform the following steps based o
    | **Department** |Enter department name of the user.
    | **Require SEED Account**| Select this checkbox if the user require a SEED account. This account is required only for users who are actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.  
    
-   ![Create Account](./images/create-vendor-account.png ':size=50%')
 
 <!-- tabs:end -->
 

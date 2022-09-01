@@ -94,14 +94,13 @@ As a Subscription Admin or a Project Admin, you can remove permissions and roles
 
 ### To remove user groups for your project tool or app
 
-1. Go to **Projects** > **All Projects**.
 
-    <kbd>![All Projects](./images/portal-projects-all-projects.png)</kbd>
-
-1. Navigate to your project, and then click **Manage** on the project tool for which you want to manage/add user groups. 
+1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
+1. Click the required project.
+    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+1. Click the tool for which you want to remove user groups, and then click **Manage**.
+    The **Manage Tool** window appears. 
 1. In the **Manage Tool** window that appears, from the dropdown, select **Manage/add user group**. 
 1. In the **App Name** and **User Group** fields, select the App and user group for which you want to update permissions or roles.  
 1. Next to the permissions or roles that you want to remove, clear the check box, and then click **Update**. 
 The permissions or roles are updated.
-
-

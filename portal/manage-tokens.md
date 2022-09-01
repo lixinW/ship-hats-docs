@@ -10,7 +10,6 @@
 
 You can retrieve token for the following project tools:  
 
-<!--- Fortify on Demand -->
 
 - Nexus IQ
 - pCloudy Device Farm & HATS Browser Farm
@@ -28,7 +27,6 @@ You can retrieve token for the following project tools:
 
 1. Go to **Projects** > **All Projects**.
 
-    <!--<kbd>![All Projects](./images/portal-projects-all-projects.png)</kbd>-->
 
 1. Navigate to your project, and then click **Manage** on the project tool for which you want to retrieve the token. 
 1. In the **Manage Tool** window that appears, from the dropdown, select **Token & Key for bamboo pipeline**. 
@@ -55,11 +53,4 @@ You can renew token for the following tools:
 
 1. Click **Renew Token**.
 1. Refresh the page to get the new token. 
-
-<!--
-    <kbd>![Renew Token](./images/renew-token.png ':size=75%')</kbd>
-    A message appears, indicating that the token renewal is in progress. 
-
-    <kbd>![Renew Token In Progress](./images/renew-token-inprogress.png ':size=75%')</kbd>
--->
 

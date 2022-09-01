@@ -5,10 +5,6 @@
 - [Add project tools](#add-project-tools)
 - [Add project tool with customised project key](#add-project-tool-with-customised-project-key)
 
-
-
-<!--- [Remove project tools](#remove-project-tools)-->
-
 ## Add project tools
 
 SA or PA can add the required project tools as explained below. You can add tools under the **Subscribed Tools** section based on the tools quota allotted for your subscription type. 
@@ -54,24 +50,19 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 1. In the **Select Tool** dropdown list, select the required tool. 
 1. Select the **Customise Project Key** checkbox.  
     The **Project Key** field appears.
-<!--
-1. Choose the required tool.
 
-    ![Add new Development tool](./images/add-new-dev-tool.png)
-
-1.  Select **Customise Project Key**.
-
-    ![customise](./images/customise.png)
--->
 
 1. In the **Project Key** field, enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
-<!--    ![add](./images/addnewkey.png)-->
 
 1. Click **Add**.  
     The project tool with customised project key is added. 
 
 
 <!--
+
+- [Remove project tools](#remove-project-tools)
+
+
 ## Remove project tools
 
 As a Subscription Admin or a Project Admin, you can remove a tool or an app when it is not required. You can remove the following tools: 

@@ -15,8 +15,6 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 
     >**Tip:** Alternatively, if you are viewing **All Projects**, click **Create Project**.  
 
-    <!--<kbd>![Create New Project](./images/create-new-project.png ':size=100%')</kbd>-->
-
 1. Provide information in the following fields:
 
     |Field|Description|
@@ -30,16 +28,14 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
     
     The created project appears with **Subscribed Tools** and **Not Subscribed Tools** sections based on your subscription.
 
-    <!--<kbd>![Newly Created Project](./images/newly-created-project.png ':size=100%')</kbd>-->
-
     SA or PA can add/create tools and additional PAs. 
     
     > **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/subscription) quota for which the agency has subscribed.
 
-<!--
+
 ### What's Next 
 - [Add a Project Admin](manage-admins)
--->
+
 
 ## View projects
 
@@ -51,7 +47,6 @@ SA and PAs of a subscription account can view all the projects of the subscripti
 
     Tile view of all the projects in this subscription account appears. If needed, refer to [Switch account](manage-account).
 
-    <!--<kbd>![View All Projects](./images/view-all-projects-tile-view.png ':size=100%')</kbd>-->
 
 1. Click **Manage** to view tools that are currently added to the project.
 
@@ -67,11 +62,6 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 1. If you are sure that you want to delete the project, click **I acknowledge that I have done all the necessary backup for the project**, and then click **Delete**.
 
     The project is deleted.
-
-<!--You will see ![Remove Project Icon](./images/remove-project-icon.png) next to the project name as shown below.
-
-<kbd>![Remove Projects](./images/remove-project.png ':size=100%')</kbd>-->
-
 
 ### Related Topics
 - [Manage Admins](manage-admins)

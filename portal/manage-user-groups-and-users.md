@@ -90,3 +90,8 @@ As a Subscription Admin or a Project Admin, you can remove permissions and roles
 1. In the **App Name** and **User Group** fields, select the App and user group for which you want to update permissions or roles.  
 1. Next to the permissions or roles that you want to remove, clear the check box, and then click **Update**. 
 The permissions or roles are updated.
+
+### Related topics
+
+- [Manage users](manage-users)
+- [Manage user groups](manage-user-groups)

@@ -15,7 +15,7 @@ By default, when you add a project tool, an application is added. However, you c
 - Nexus IQ
 - Prisma Cloud
 - SonarQube (Community/Developer Edition)
-<!--- Fortify On-Prem-->
+
 
 
 ### To add an application to a project tool
@@ -54,14 +54,11 @@ You can remove app from the following project tools:
 1. From the dropdown, select **Remove App**.  
     **Select App to Remove:** appears, displaying a list of apps. 
 
-    <!--![removetool](./images/removetool.png)-->
 
 1. Next to the app that you want to remove, click **Remove**.  
     The **Remove** window appears, indicating that this action is irreversible.
 
-    <!--![remove](./images/confirmremove.png)-->
 1. Enter the requested information, and then click **Proceed**.  
     The selected app is removed.  
     If this the last app for the tool, the project tool is also removed. 
 
-    <!--![proceed](./images/proceed.png)-->

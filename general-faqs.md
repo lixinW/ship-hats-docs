@@ -5,7 +5,7 @@
 <details>
   <summary><b>What is a named user?</b></summary><br>
 
-A named user refers to the license that is bound to a specific user. Each named user uses a licence in the subscription quota.
+A named user refers to the license that is bound to a specific user. Each named user uses a license in the subscription quota.
 </details>
 <br>
 <details>

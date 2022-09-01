@@ -2,7 +2,7 @@
   - [Audience](audience)
   - [Overview](ship-hats-overview)
   - [Architecture](architecture)
-  - [Tools](tools)
+  - [Tools](ship-hats-tools)
   - [Subscription](subscription)
 **Subscribe to SHIP-HATS**  
   - [Subscribing](subscribing-to-ship-hats)  

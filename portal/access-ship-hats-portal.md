@@ -61,7 +61,7 @@
 You have successfully linked your TechPass to SHIP-HATS. You can directly log in using TechPass for future access.  
 <!--<span style="color:red">Is there any step missing here?</span>--> 
 - If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
-- If you are a regular user, the **Profile** page appears. For more details, refer to the [View user profile](#view-user-profile) section.
+- If you are a regular user, the **Profile** page appears. For more details, refer to the [Users self help > Access user profile](users-self-help) section.
 
 <!-- tabs:end -->
 

@@ -102,7 +102,7 @@ You can reset your 2FA for SHIP-HATS anytime by following the below steps.
 5. Enter your **Username** used for registering with SHIP-HATS.
 6. Select the checkbox to confirm that you are not a robot and click **Submit**.
 
-    <kbd>![2fa-reset-request-success](./images/2fa-reset-request-success.png ':size=75%')</kbd>
+    ![2fa-reset-request-success](./images/2fa-reset-request-success.png ':size=75%')
 
 You will receive a notification stating that your SHIP-HATS 2FA has been reset, along with next set of  instructions for you.
 

@@ -1,17 +1,36 @@
 # Manage tools and applications
-<!--
+
+# Manage tools
+
 **Topics**
+
 - [Add project tools](#add-project-tools)
-- [Create project tool with customized project key](#create-project-tool-with-customised-project-key)
+- [Create project tool with customised project key](#create-project-tool-with-customised-project-key)
+- [Remove project tools](#remove-project-tools)
+
+# Manage applications
+
+**Topics**
+
 - [Add applications to a project tool](#add-applications-to-a-project-tool)
+- [Remove applications from a project tool](#remove-applications-from-a-project-tool)
+
+# Manage user groups & users
+
+**Topics**
+
 - [Manage user groups within a project tool](#manage-user-groups-within-a-project-tool)
 - [Manage user within a project tool](#manage-users-within-a-project-tool)
+- [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)
+
+# Manage tokens
+
+**Topics**
+
 - [Retrieve token](#retrieve-token)
 - [Renew token](#renew-token)
-- [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)
-- [Remove project tools](#remove-project-tools)
-- [Remove applications from a project tool](#remove-applications-from-a-project-tool)
--->
+
+
 ## Add project tools
 
 SA or PA can add the required project tools as explained below. You can add tools under the **Subscribed Tools** section based on the tools quota allotted for your subscription type. 

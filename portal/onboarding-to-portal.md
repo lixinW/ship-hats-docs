@@ -24,10 +24,10 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |12|[Add an application to a project tool](manage-applications)|PA|
 |13|[Declare DGP systems](declare-dgp-systems)|Agency<br>This is an optional step.|    
 
-
+<!--
 ### What's Next
 - [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/tools-overview).
-
+-->
 <!--
 **Topics**
 

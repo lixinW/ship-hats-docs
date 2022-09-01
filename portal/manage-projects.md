@@ -24,8 +24,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
     |**Project Name**| Specify name of the project. Your agency name is prefixed to the project name automatically. 
     |**Project Description**| Specify details of the project. 
     |**System**|Select the system from the drop-down list. 
-    |**Project Admin 1**| Select Project Admin from the drop-down list. If you want to invite new users, click 
-    **Invite here**. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list.
+    |**Project Admin 1**| Select Project Admin from the drop-down list. If you want to invite new users, click **Invite here**. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list.
     |**Project Admin 2**| This is an optional field. Select a second Project Admin from the drop-down list. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list. 
 1. Click **Create Project**.  
     

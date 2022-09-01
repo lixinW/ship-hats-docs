@@ -13,7 +13,10 @@
 **Projects**
   - [Manage projects](manage-projects)
 **Project Tools & Applications**
-  - [Manage tools & apps](manage-tools)  
+  - [Manage tools](manage-tools)
+  - [Manage applications](manage-applications)
+  - [Manage user groups & users](manage-user-groups-and-users)
+  - [Manage tokens](manage-tokens) 
 **Accounts**  
   - [Manage accounts](manage-account)  
 **DGP Systems**
@@ -45,7 +48,10 @@
   - [Manage projects](manage-projects)
   - [Manage admins](manage-admins)  
 **Project Tools & Applications**
-  - [Manage tools & apps](manage-tools)  
+  - [Manage tools](manage-tools)
+  - [Manage applications](manage-applications)
+  - [Manage user groups & users](manage-user-groups-and-users)
+  - [Manage tokens](manage-tokens)
 **Accounts**  
   - [Manage accounts](manage-account)  
 **DGP Systems**

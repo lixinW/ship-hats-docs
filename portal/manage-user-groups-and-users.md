@@ -1,7 +1,5 @@
 # Manage user groups & users
 
-# Manage user groups & users
-
 **Topics**
 
 - [Manage user groups within a project tool](#manage-user-groups-within-a-project-tool)

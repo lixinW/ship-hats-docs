@@ -21,7 +21,6 @@ Subscription Admin (SA) and Project Admin (PA) can invite and add users to the s
 
 1. From the side menu, click **Users > Invite Users**.  
    
-   <!--An invitation link is automatically generated.-->  
 1. Click **Generate new link**. 
 
    By default, a new invitation link has a 14 days expiry date.  Whenever you invite new users, the same link will be displayed with the remaining expiry date until it expires. 
@@ -57,7 +56,7 @@ Access the link via the onboarding email and perform the following steps based o
    |**Public Service Email Address**| Enter official email address of the user.
    |**Require SEED Account**| Select this checkbox if the user requires a SEED account. This account is required only for a user who is actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.     
 
-![Create Account](./images/create-account.png ':size=50%')
+   ![Create Account](./images/create-account.png ':size=50%')
 
 ### **Vendor**
 
@@ -90,8 +89,6 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
 1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
-   <!--<kbd>![Pending User Approval Notification](./images/pending_user_approval_notification.png ':size=100%')</kbd>-->
-
    If there is a pending user approval task for you, it will be displayed in the **ALERTS** section.  
 
 1. Click **View** corresponding to that alert. You will be directed to the **Pending Approval** section.
@@ -99,16 +96,10 @@ After a user submits the completed SHIP-HATS **Invitation Form**, Subscription A
    >**Tip:** Alternatively, from the side menu, click **Users** > **All Users**. 
    
    If there is a pending user approval task, the **Pending** section will display the number of users pending approval. Here, you can view the users that are pending your approval along with their email address.  
-
-   <!--<kbd>![Add User](./images/tp-add-user.png ':size=100%')</kbd> -->  
     
    Only email addresses that are included in our approved list will be approved. If the user provides an email address that is not included in our approved list, in the SHIP-HATS portal when approving the user, you will see a message indicating that this domain will require to be included in TechPass. As necessary, you may select the **Proceed to whitelist domain** option to raise a service request. 
    
-   <!--<kbd>![Unapproved Domain](./images/vendor-unapproved-user-domain.png ':size=100%')</kbd>-->
-
 1. Click **Approve** corresponding to the user.
-
-   <!--<kbd>![Approve](./images/tp-approve-user.png ':size=100%')</kbd>-->
 
 1. In **Grant user access for:**, you can choose tools for which you want to provide access. Following options are available:
    

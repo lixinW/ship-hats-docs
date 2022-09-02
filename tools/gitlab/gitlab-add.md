@@ -1,16 +1,6 @@
 # Add
 
-**Topics**
-
-- [Add user groups]()
-- [Add users]()
-
-
-## Add user groups
-
-[Add user groups within GitLab](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-tools?id=manage-user-groups-within-a-project-tool)
-
-## Add users
-
-[Add users within GitLab](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-tools?id=manage-users-within-a-project-tool)
+- [Add GitLab to a project](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools)
+- [Add user groups within GitLab](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-user-groups-and-users)
+- [Add users within GitLab](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-user-groups-and-users)
 

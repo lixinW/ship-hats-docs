@@ -1,4 +1,4 @@
-# Access
+# Log in
 >**Note:** The steps may vary based on the validity of the different authenticator tokens.  
 
 
@@ -8,7 +8,7 @@
     You will be directed to Cloudflare.
 1. Select **Azure AD**.  
     
-    ![cloudflare](cloudflare.png)
+    <!--![cloudflare](cloudflare.png)-->
     
     If you have not logged into your TechPass, you will be prompted to sign in. For more details, refer to the [TechPass user guide](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/) if you are logging in to TechPass for the first time.
 

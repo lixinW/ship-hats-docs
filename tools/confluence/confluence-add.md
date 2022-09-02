@@ -1,16 +1,5 @@
 # Add
 
-**Topics**
-
-- [Add user groups]()
-- [Add users]()
-
-
-## Add user groups
-
-[Add user groups within Confluence](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-tools?id=manage-user-groups-within-a-project-tool)
-
-## Add users
-
-[Add users within](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/manage-tools?id=manage-users-within-a-project-tool)
-
+- [Add Confluence to a project](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools)
+- [Add user groups within Confluence](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-user-groups-and-users)
+- [Add users within Confluence](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-user-groups-and-users)

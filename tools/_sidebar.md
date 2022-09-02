@@ -6,6 +6,7 @@
   - [Confluence](confluence/confluence-overview)
   - [Fortify Static Code Analyzer (SCA)](fortify-sca)
   - [Fortify WebInspect Enterprise](fortify-webinspect)
+  - [Gitlab](gitlab/gitlab-overview)  
   - [Jira](jira/jira-overview) 
   - [Nexus IQ](nexus-iq/nexus-iq-overview)
   - [Nexus Repository Pro](nexus-repository/nexus-repo-overview) 

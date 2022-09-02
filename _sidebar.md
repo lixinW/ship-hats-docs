@@ -25,6 +25,7 @@
 ---
 **Additional Resources**
   - [SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
+  - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview) 
 
 <!--
 - [Self-paced trainings](self-paced-trainings)

@@ -13,6 +13,7 @@
 ---
 **Additional Resources**
   - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/)
+  - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview) 
 
 
 <!--  

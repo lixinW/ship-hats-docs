@@ -1,6 +1,8 @@
 # GitLab
 
-SHIp-HATS provides GitLab software-as-a-service offering. With this service offering, you only need to sign up and start using GitLab.
+SHIP-HATS provides GitLab software-as-a-service offering. With this service offering, you only need to sign up and start using GitLab.
+
+Before you begin, familiarize yourself with GitLab using the following resources:
 
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)

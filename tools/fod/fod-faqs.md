@@ -1,5 +1,7 @@
 # FAQs
 
+> **Note:** Click the question to view the answer.
+
  <details>
   <summary><b> How are applications counted within Fortify and Webinspect?</b></summary><br>
 Applications are counted based on the number of components.

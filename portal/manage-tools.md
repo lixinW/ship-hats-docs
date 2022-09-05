@@ -4,6 +4,8 @@
 
 - [Add project tools](#add-project-tools)
 - [Add project tool with customised project key](#add-project-tool-with-customised-project-key)
+- [Remove project tools](#remove-project-tools)
+
 
 ## Add project tools
 
@@ -20,8 +22,8 @@ SA or PA can add the required project tools as explained below. You can add tool
     |Available Tools|Steps|
     |---|---|
     |Confluence|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **Confluence**.</li><ol>|
-    |Fortify on Demand| <ol><li>Click the **Select Tool** drop-down list.</li><li> Provide values in the **App Name** field.</li><ol>|    
-    |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>Click the **Tool Type** > **Select Tool** drop-down list, and select **GitLab**.</li><li>In the **GitLab Group Name**, enter the group name.</li> <ol> |
+    |Fortify on Demand| <ol><li>Click the **Select Tool** drop-down list.</li><li> Provide value in the **App Name** field.</li><ol>|    
+    |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>In the **GitLab Group Name**, enter the group name.</li> <ol> |
     |Jira|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **Jira**.</li><ol>|
     |Nexus IQ|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list.</li><li> Enter values in the **Application Name** and **Application ID** fields.</li><ol>|
     |Nexus Repo|<ol><li>Click **Add**.</li><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.</li><ol>|
@@ -58,14 +60,13 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
     The project tool with customised project key is added. 
 
 
-<!--
 
-- [Remove project tools](#remove-project-tools)
+
 
 
 ## Remove project tools
 
-As a Subscription Admin or a Project Admin, you can remove a tool or an app when it is not required. You can remove the following tools: 
+As a Subscription Admin or a Project Admin, you can **remove a tool or an app** when it is not required. You can remove the following tools: 
 - Confluence
 - Fortify on Demand
 - GitLab
@@ -81,24 +82,15 @@ As a Subscription Admin or a Project Admin, you can remove a tool or an app when
 1. Identify your project, and then click the project.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
 
-1. Locate the tool that you want to remove, click **Create** > **Add** > **Customise Project Key**. 
-
-1. Go to **Projects** > **All Projects**.
-1. Navigate to the project whose tool you want to remove, and then click **Manage**.
 1. On the tool that want to remove, click **Manage**.  
     The **Manage Tool** window appears.
 1. From the dropdown, select **Remove App**. 
     **Select App to Remove:** appears, displaying a list of apps. 
 
-    ![removetool](./images/removetool.png)
-
 1. Next to the app that want to remove, click **Remove**.  
     The **Remove** window appears.
 
-    ![remove](./images/confirmremove.png)
 1. Enter the requested information, and then click **Proceed**.  
 
-    ![proceed](./images/proceed.png)
     The selected app is removed. If this the last app for the tool, the project tool is also removed. 
 
--->

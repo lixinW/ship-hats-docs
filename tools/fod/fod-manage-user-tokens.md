@@ -41,3 +41,8 @@ fortifyclient -url https://ssc.hats.stack.gov.sg/ssc token -gettoken UnifiedLogi
 ```
 fortifyclient -url https://ssc.hats.stack.gov.sg/ssc invalidatetoken -invalidate $token -user $USER -password $PASSWORD
 ```
+
+### Related Topics
+
+- [Retrieve Token](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tokens?id=retrieve-token)
+- [Renew Token](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tokens?id=renew-token)

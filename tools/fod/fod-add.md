@@ -1,12 +1,5 @@
 # Add
 
-
-
-- [Add users to Fortify App on SSC](fod/fod-add-users)
-
-- https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-fortify-applications?id=add-users-to-fortify-applications
-
-- https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-fortify-applications?id=manage-user-role-in-fortify-applications
-
-- https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/manage-fortify-applications?id=remove-users-from-fortify-applications
-
+- [Add Fortify on Demand to a project](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools)
+- [Add user groups within Fortify on Demand](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-user-groups-and-users)
+- [Add users within Fortify on Demand](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-user-groups-and-users)

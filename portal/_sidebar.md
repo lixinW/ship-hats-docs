@@ -12,7 +12,7 @@
   - [Users self help](users-self-help)  
 **Projects**
   - [Manage projects](manage-projects)
-  - [Manage admins](manage-admins)  
+  - [Manage admins](manage-admins) 
 **Project Tools & Applications**
   - [Manage tools](manage-tools)
   - [Manage applications](manage-applications)

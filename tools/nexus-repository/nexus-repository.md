@@ -60,7 +60,6 @@ This eases the configuration for the users and at the same time allows the admin
 The order of repositories or other groups in a group can be used to influence the effective metadata that will be retrieved from a repository group.   
 
 
-**Best Practices**
+### Related topics
 
-- Place hosted repositories higher in the list than proxy repositories within the list. For proxy repositories, the repository manager needs to periodically check remote for updates, which will incur more overhead than a hosted repository lookup.  
-- Place repositories with a higher probability of matching the majority of components higher in this list. If most of your components will be retrieved from the Central Repository, putting Central higher in this list than a smaller, more focused repository will improve the performance because the repository manager will not search the smaller remote repository for as many missing components.  
+- [Best Practices](nexus-repo-best-practices)

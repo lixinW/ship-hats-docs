@@ -28,3 +28,6 @@ All Artifacts will be deleted 180 days from the date of creation.
   </details>
 <br>  
 
+### Related topics
+
+- [Cleanup policy FAQs](nexus-repository/nexus-repo-clean-up-policy)

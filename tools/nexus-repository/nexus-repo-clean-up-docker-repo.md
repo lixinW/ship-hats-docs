@@ -51,11 +51,8 @@ nexus-docker-publish.ship.gov.sg/<repo-name>
     docker pull  nexus-docker.ship.gov.sg/alpine:latest
     ```
 
-## Troubleshooting
 
-[Troubleshooting](./snippets/troubleshooting.md ':include')
-
-
-### Related Topics
+### Related topics
 
 - [Cleanup Policy](nexus-repository/nexus-repo-clean-up-policy)
+- [Troubleshooting](nexus-repository/nexus-repo-troubleshooting)

@@ -6,7 +6,6 @@
   -	[Add](gitlab/gitlab-add)
   -	[Remove](gitlab/gitlab-remove)
   - [Best Practices](gitlab/gitlab-best-practices)
-  - [FAQs](gitlab/gitlab-faqs)
   - [Troubleshooting](gitlab/gitlab-troubleshooting)
   - [Additional Resources](gitlab/gitlab-additional-resources)        
 - **Additional Resources**

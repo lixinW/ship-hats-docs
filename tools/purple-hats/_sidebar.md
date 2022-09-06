@@ -1,8 +1,8 @@
 - **Purple Hats**
   - [Overview](purple-hats/purple-hats-overview)
   - [Provision](purple-hats/purple-hats-provision)
-  -	[Add](purple-hats/purple-hats-add)
-  - [Map](purple-hats/purple-hats-map-axe-to-wcag)
+  -	[Run](purple-hats/purple-hats-run)
+  - [Map AXE to WCAG](purple-hats/purple-hats-map-axe-to-wcag)
   - [Scan types](purple-hats/purple-hats-scan)
   - [FAQs](purple-hats/purple-hats-faqs)
   - [Troubleshooting](purple-hats/purple-hats-troubleshooting)

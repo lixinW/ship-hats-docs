@@ -2,8 +2,6 @@
 
 ## Prerequisites
 
-
-
 Ensure the following requirements are met:
 - **Node.js version to be version 15.10.0 and above.**
 - If you do not have node, or if there is a need to manage your node versions, you can consider using [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm).
@@ -18,6 +16,8 @@ nvm install <nodejs_version_greater_than_15>
 # For subsequent use, you will need to run the command below as time you open a new terminal
 nvm use <nodejs_version_greater_than_15>
 ```
+
+## Provision
 
 ### To provision Purple Hats, onboard and dedicate HATS Linux Elastic Agent
 

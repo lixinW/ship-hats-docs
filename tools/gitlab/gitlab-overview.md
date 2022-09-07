@@ -4,6 +4,8 @@ SHIP-HATS provides GitLab software-as-a-service offering. With this service offe
 
 Before you begin, familiarize yourself with GitLab using the following resources:
 
+- [GitLab in Action demo](https://about.gitlab.com/demo)
+- [GitLab for GitOps](https://about.gitlab.com/solutions/gitops) 
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
 - [CI/CD concepts](https://docs.gitlab.com/ee/ci/introduction/)

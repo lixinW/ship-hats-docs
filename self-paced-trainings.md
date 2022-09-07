@@ -10,19 +10,19 @@ To ensure we support at scale, anyone can access Self-paced trainings.
 ### Overview
 
 - [Vision for DevSecOps with SHIP-HATS](https://youtu.be/CeZs3nAK5gY)
-- [What is CI/CD?]() 
-- [DevSecOps Playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)
+- [Importance of CI/CD?](https://youtu.be/RlZCyexsJBc?t=260) 
+- [DevSecOps policies](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)
 
 ### Know your tools
 
 |Tools|Documentation learning resources|Video tutorials|
 |---|---|---|
-**GitLab**| [GitLab documentation](https://docs.gitlab.com/) | [Learn with GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/?_gl=1*p30fv0*_ga*MTM3MDkzNjg2MC4xNjU5MzM4MDUx*_ga_ENFH3X7M5Y*MTY2MTI0NjMxNi4xMC4xLjE2NjEyNDg3NTkuMC4wLjA.)
-**Jira**| [Overview](https://www.atlassian.com/software/jira/guides/getting-started/overview) | [Tutorials](https://www.atlassian.com/software/jira/guides/getting-started/basics#step-2-pick-a-template)
-**Confluence** |[Overview](https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview#hosting-options) | [Tutorials](https://www.atlassian.com/software/confluence/guides/get-started/set-up)
-**Fortify on Demand**| |
-**Nexus IQ** |[Overview](https://www.sonatype.com/nexus-iq-server)|
-**Sonarqube**| [Overview](https://docs.sonarqube.org/latest/)|
+**GitLab**| [GitLab documentation](https://docs.gitlab.com/) | [Learn with GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/)
+**Jira**| [Jira documentation](https://www.atlassian.com/software/jira/guides/getting-started/overview) | [Learn with Jira Tutorials](https://www.youtube.com/watch?v=bvU1Plc31WQ)
+**Confluence** |[Confluence documentation](https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview) | [Learn with Confluence Tutorials](https://www.youtube.com/watch?v=EVgeukYoHZ4)
+**Fortify on Demand**| [FOD documentation](https://sgp.fortify.com/Docs/en/index.htm)|[Learn with FOD Tutorials](https://www.youtube.com/watch?v=3pqc-vSr0Yo)
+**Nexus IQ** |[Nexus IQ documentation](https://www.sonatype.com/nexus-iq-server)|[Learn with Nexus IQ Tutorials](https://www.youtube.com/watch?v=jYgZcs1TwQ8)
+**SonarQube**| [SoanrQube documentation](https://docs.sonarqube.org/latest/)|[Learn with SonarQube Tutorials](https://www.sonarqube.org/sonarqube-9-5/)
 
 
 ## DevSecOps Basic Quiz
@@ -34,36 +34,37 @@ Getting ready for SHIP-HATS 2.0? Take a short [DevSecOps Basic quiz](https://for
 
 ### Non Technical
 
-|Level|Sub-level|Category|Courses|
-|---|---|---|---|
-Level 100|101| SHIP-HATS 2.0 | [Overview video](https://youtu.be/dRfI_zXgiHs) & [Getting Started documentation](ship-hats-overview)
-||||[Technical Architecture Video](https://youtu.be/aMARb5xd1qI) & [Technical Architecture Doc](architecture)
-||||Subscription  - Coming soon
-||||[Using SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)
-||102| Tools|[GitLab]() 
-Level 200|201 |Automation| Basic CI/CD - Covers the basics of how to set up a pipeline to build, test, and deploy your code
-||202 |Measurements |DevOps Metrics with GitLab 
-||||Dashboards
+|Level|Category|Courses|
+|---|---|---|
+100| SHIP-HATS 2.0 | [SHIP-HATS 2.0 Strategy & Updates](https://youtu.be/dRfI_zXgiHs) 
+100| SHIP-HATS 2.0|[Technical Architecture Video](https://youtu.be/aMARb5xd1qI) <br><br> [Technical Architecture Doc](architecture)
+100| SHIP-HATS 2.0|Subscription  - Coming soon
+100| SHIP-HATS 2.0 | [Subscribing to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscribing-to-ship-hats) 
+100| SHIP-HATS 2.0|[Using SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)
+|100| Tools|[GitLab](https://docs.gitlab.com/ee/tutorials/) 
+ 200 |Automation| Basics of CI/CD - Covers the basics of how to set up a pipeline to build, test, and deploy your code
+|200 |Measurements |DevOps Metrics with GitLab 
+|200|Measurements|Dashboards
 
 ### Technical
 
-|Level|Sub-level|Category|Courses|
-|---|---|---|---|
-Level 100|101 |Overview| [Overview video](https://youtu.be/dRfI_zXgiHs) & [Getting Started documentation](ship-hats-overview)
-||| Architecture| [Technical Architecture Video](https://youtu.be/aMARb5xd1qI) & [Technical Architecture Doc](architecture)
-||| Access| [TechPass](https://docs.developer.tech.gov.sg/docs?product=TechPass) & [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/)
-||T101 |Automation|Understanding Runners
-||||Basic CI/CD - the basics of how to set up a pipeline to build, test, and deploy your code
-||||[Pipeline templates overview](pipeline-templates)
-||T102 |Management & Measurements | GitLab as a PM tool 
-||||Issues, labels, and boards
-||||DevOps Metrics with GitLab 
-||||Dashboards
-Level 200|T201 |Automation|Advanced CI/CD  - advanced topics such as includes/extends templates, rules, child pipelines , compliance pipelines
-||T203 |Security|GitLab Security, Compliance
-||T204 |Cloud Ops|GitOps with GitLab 
-||T205 |Innersourcing|WOG public repos setup
-||||MR/PR best practices
+|Level|Category|Courses|
+|---|---|---|
+ 100 |Overview| [Overview video](https://youtu.be/dRfI_zXgiHs) & [Getting Started documentation](ship-hats-overview)
+|100 | Architecture| [Technical Architecture Video](https://youtu.be/aMARb5xd1qI) & [Technical Architecture Doc](architecture)
+|100 | Access| [TechPass](https://docs.developer.tech.gov.sg/docs?product=TechPass) & [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/)
+|100 |Automation|Understanding Runners
+|100 ||Basic CI/CD - the basics of how to set up a pipeline to build, test, and deploy your code
+|100 ||[Pipeline templates overview](pipeline-templates)
+|100  |Management & Measurements | GitLab as a PM tool 
+|100 ||Issues, labels, and boards
+|100 ||DevOps Metrics with GitLab 
+|100 ||Dashboards
+ 200 |Automation|Advanced CI/CD  - advanced topics such as includes/extends templates, rules, child pipelines , compliance pipelines
+| 200|Security|GitLab Security, Compliance
+|200 |Cloud Ops|GitOps with GitLab 
+|200|Innersourcing|WOG public repos setup
+|200||MR/PR best practices
 
 </details>
 <br>

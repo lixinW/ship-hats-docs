@@ -1,6 +1,11 @@
 # Self-paced trainings
 
-To ensure we support at scale, anyone can access Self-paced trainings. 
+To ensure we support at scale, anyone can access Self-paced trainings.
+
+- Pre-requisites cover basic concepts that are required to understand the product.
+- Level 100 covers introductory topics. In the first phase of training roll out, we will be focusing on this level. 
+- Level 200 covers topics for practitioners who have hands-on experience of the introductory topics
+- Level 300 covers topics for intermediate to expert practitioners. 
 
 ![](./images/training-levels.png)
 
@@ -22,7 +27,7 @@ To ensure we support at scale, anyone can access Self-paced trainings.
 **Confluence** |[Confluence documentation](https://www.atlassian.com/software/confluence/guides/get-started/confluence-overview) | [Learn with Confluence Tutorials](https://www.youtube.com/watch?v=EVgeukYoHZ4)
 **Fortify on Demand**| [FOD documentation](https://sgp.fortify.com/Docs/en/index.htm)|[Learn with FOD Tutorials](https://www.youtube.com/watch?v=3pqc-vSr0Yo)
 **Nexus IQ** |[Nexus IQ documentation](https://www.sonatype.com/nexus-iq-server)|[Learn with Nexus IQ Tutorials](https://www.youtube.com/watch?v=jYgZcs1TwQ8)
-**SonarQube**| [SoanrQube documentation](https://docs.sonarqube.org/latest/)|[Learn with SonarQube Tutorials](https://www.sonarqube.org/sonarqube-9-5/)
+**SonarQube**| [SonarQube documentation](https://docs.sonarqube.org/latest/)|[Learn with SonarQube Tutorials](https://www.sonarqube.org/sonarqube-9-5/)
 
 
 ## DevSecOps Basic Quiz
@@ -31,6 +36,7 @@ Getting ready for SHIP-HATS 2.0? Take a short [DevSecOps Basic quiz](https://for
 
 ## Learning resources
 
+For webinar series, refer to the [Learning events > Past events](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/learning-events?id=past-events) section in this documentation. 
 
 ### Non Technical
 

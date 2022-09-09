@@ -9,9 +9,11 @@
 **CI/CD Pipeline**
 - [CI/CD pipeline](ci-cd-pipeline)  
 - [Pipeline templates](pipeline-templates)
+- [Sample pipeline](sample-pipeline)
 **Training**
 - [Overview](training)
 - [Learning events](learning-events)
+- [Self-paced trainings](self-paced-trainings)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
@@ -28,6 +30,7 @@
   - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview) 
 
 <!--
-- [Self-paced trainings](self-paced-trainings)
+
+- [Sample pipeline](sample-pipeline)
 
 -->  

@@ -9,7 +9,8 @@ This section provides answers to frequently asked questions.
 <details>
   <summary><b> When can new subscribers onboard to SHIP-HATS 2.0? </b></summary><br>
 
-New subscribers can onboard SHIP-HATS 2.0 from November 2022. For more information, refer to the [Timelines](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=timelines) documentation. If your project timelines require you to start earlier, please log a ticket at [go.gov.sg/she](http://go.gov.sg/she) with details of your project needs and teams. SHIP-HATS team will work with you to plan the way forward.
+New subscribers can onboard SHIP-HATS 2.0 from November 2022. For more information, refer to the [Timelines](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=timelines) documentation.  
+If your project timelines require you to start earlier, please log a ticket at [go.gov.sg/she](http://go.gov.sg/she) with details of your project needs and teams. SHIP-HATS team will work with you to plan the way forward.
 
 </details>
 <br>
@@ -19,8 +20,8 @@ New subscribers can onboard SHIP-HATS 2.0 from November 2022. For more informati
 
 Existing subscribers can migrate to SHIP-HATS 2.0 from November 2022. The specific date of GA will be announced closer to the date. 
 
-- Users with Fortify SCA & WebInspect must complete migration by 31 July 2023. If you are Fortify user and if this migration timelines does not work, please log a ticket at [go.gov.sg/she](http://go.gov.sg/she) with details of your project needs.
-- Users without Fortify SCA & WebInspect must complete migration within 1 year from the dates of SHIP-HATS 2.0 GA.
+- Users with Fortify SCA & WebInspect must complete migration by 31 July 2023. If you are a Fortify user and if this migration timelines does not work, please log a ticket at [go.gov.sg/she](http://go.gov.sg/she) with details of your project needs.
+- Users without Fortify SCA & WebInspect must complete migration within 1 year from the date of SHIP-HATS 2.0 GA.
 </details>
 <br>
 
@@ -53,7 +54,7 @@ SHIP-HATS 2.0 tools including Portal can be accessed using GSIB or SEED-enabled 
 <details>
   <summary><b> When will OpenVPN be decommissioned? </b></summary><br>
 
-OpenVPN will be decommissioned by 31 December 2022. From 1 January 2023, user must use TechPass to login to SHIP HATS 1.0 or 2.0. For more information, refer to the [Key tool decommission dates](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=key-tool-decommission-dates) documentation. 
+OpenVPN will be decommissioned by 31 December 2022. From 1 January 2023, user must use TechPass to log in to SHIP HATS 1.0 or 2.0. For more information, refer to the [Key tool decommission dates](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=key-tool-decommission-dates) documentation. 
 
 </details>
 <br>
@@ -73,9 +74,170 @@ Yes. All SHIP-HATS users have been invited to onboard to TechPass. By 31 Decembe
 <br>
 
 <details>
-  <summary><b> Can SHIP-HATS 2.0 tools like Gitlab and Fortify-on-demand can be private network. For example  via VPC endpoints? </b></summary><br>
+  <summary><b> Can SHIP-HATS 2.0 tools like Gitlab and Fortify-on-demand be on a private network. For example via VPC endpoints? </b></summary><br>
 
-Yes
+Yes.
 </details>
 <br>
 
+
+## Product FAQs
+
+
+### Selection
+
+>**Tip:** Click the triangle to view the answer.
+
+<details>
+  <summary><b> Why did we pick GitLab for SHIP-HATS 2.0? 
+ </b></summary><br>
+
+We selected GitLab based on following:
+
+- Proof of concepts and extensive testing by our developers 
+- Timely availability of a managed dedicated SaaS in Singapore
+- Progressive product roadmap and more integrated CI/CD features in the platform
+- TRA clearance with CSG and IDSC acceptance of residual risks 
+</details>
+<br>
+
+<details>
+  <summary><b>  What is the data classification of the systems that can be onboarded to SHIP-HATS 2.0?
+</b></summary><br>
+
+We are currently supporting systems that are classified as Restricted and below.  
+If you have a need to support systems that are above this classification, please log a ticket at [go.gov.sg/she](http://go.gov.sg/she). The demand estimation can help us to present the case to the leadership.
+
+</details>
+<br>
+
+### Architecture - Runners
+
+>**Tip:** Click the triangle to view the answer.
+
+
+<details>
+  <summary><b> What are the types of runners available on SHIP-HATS 2.0?
+ </b></summary><br>
+
+
+There are 3 types of runners available for our subscribers:
+
+- SHIP-HATS Shared Runners are self-hosted runners in a scalable environment.
+- GitLab Shared Runners are SaaS based shared runners. 
+- Agency-hosted Remote Runners are dedicated runners set up in the agency environment. 
+
+</details>
+<br>
+
+<details>
+  <summary><b> Will the subscribers be able to host their our own GitLab runners?
+ </b></summary><br>
+
+Yes, the subscribers can host remote runners in their own environment. 
+
+</details>
+<br>
+
+<details>
+  <summary><b> What are the agents that we use for deployment? </b></summary><br>
+
+Runners (Shared or Dedicated) are used for deployment in SHIP-HATS.
+
+</details>
+<br>
+
+
+<details>
+  <summary><b> Can the shared runner access our servers in GCC or OnPrem? </b></summary><br>
+
+For GCC, the users can use SHIP-HATS Shared Runner and for OnPrem, users need an Agency-hosted Remote Runner. 
+
+</details>
+<br>
+
+
+
+
+<details>
+  <summary><b>Can SHIP-HATS integrate with other SaaS such as Salesforce? </b></summary><br>
+
+Every SaaS has different integration capability. Therefore, it depends on the product.
+
+</details>
+<br>
+
+
+
+<details>
+  <summary><b> Can the GitLab Shared Runner download packages from the internet?
+ </b></summary><br>
+
+All the packages from the internet have to proxy through Nexus on SHIP-HATS for security reasons. 
+
+</details>
+<br>
+
+
+
+### Pipeline and Usecases
+
+
+
+>**Tip:** Click the triangle to view the answer.
+
+
+<details>
+  <summary><b> Can Agencies use SHIP-HATS 2.0 to run Infrastructure-as-Code such as Terraform or Ansible to build the infra on GCC?
+ </b></summary><br>
+
+Yes.
+</details>
+<br>
+
+<details>
+  <summary><b>  How can I understand more about CD and deployment?</b></summary><br>
+
+Watch out for [documentation](https://go.gov.sg/ship-hats-docs) and [training](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/training) in early Q3 FY22. 
+
+</details>
+<br>
+
+<details>
+  <summary><b> Can the CI/CD pipeline on SHIP-HATS 2.0 integrate with a webhook in the Internet? </b></summary><br>
+
+If GitLab supports the webhook, it can be integrated.
+</details>
+<br>
+ 
+
+
+### 1.0 to 2.0 Migration
+
+>**Tip:** Click the triangle to view the answer.
+
+
+<details>
+  <summary><b> How are the permissions and rules set in Bitbucket migrated to GitLab? </b></summary><br>
+
+Repo Permissions (such as branch permissions and merge strategy) have to be reset in GitLab.  User permission have to be mapped to the equivalent in user roles in GitLab.
+
+</details>
+<br>
+
+
+<details>
+  <summary><b> When will Gitlab and JIRA integration be available? </b></summary><br>
+
+All users will have Jira in the SHIP-HATS 2.0 tools when we go GA in November 2022.
+
+</details>
+<br>
+
+
+<details>
+  <summary><b> Can I volunteer for migration pilot? </b></summary><br>
+
+Currently, we have closed invitations for Pilots. If you have a business urgency, please log a ticket at [go.gov.sg/she](http://go.gov.sg/she).
+</details>
+<br>

@@ -33,10 +33,14 @@ Briefing<br><br> 19 Aug, 22|SHIP-HATS 2.0 Announcement Briefing|[Vision for DevS
 |Webinar<br><br> 8 Sep, 2022 <br><br>11:00 AM -12:00 PM|**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) - 1 hour|[Download the CI/CD Basics with GitLab PDF](./files/CI-CD-Basics.pdf)|
 Webinar<br><br> 9 Sep, 2022 <br><br>11:00 AM -12:00 PM|**Developer Journey - Idea to Production**<br><br>Covers a typical workflow for a developer from getting assigned an issue to work on through creating the merge request, making changes and reviewing the pipeline results, and participating in code reviews|Coming soon|[Developer Journey - Idea to Production](./files/Developer-Journey-Idea-to-Production.pdf)|
 
+<!--
+Briefing<br><br>13 Sep, 2022 <br><br>10:00 AM - 12:00 PM|**SHIP-HATS 2.0 Migration Briefing**<br><br>Deep dive into migration planning, activities, and support.|[Deep dive into migration]()|[Download the Deep dive into migration PDF]()|
+
+-->
 
 
 <!--
 |Webinar<br><br> 8 Sep, 2022 <br><br>11:00 AM -12:00 PM|**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|Tech & Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Webinar<br><br> 9 Sep, 2022 <br><br>11:00 AM -12:00 PM|**Developer Journey - Idea to Production**<br><br>Covers a typical workflow for a developer from getting assigned an issue to work on through creating the merge request, making changes and reviewing the pipeline results, and participating in code reviews|Tech<br><br>SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
-
+Briefing<br><br>13 Sep, 2022 <br><br>10:00 AM - 12:00 PM|**SHIP-HATS 2.0 Migration Briefing**<br><br>Deep dive into migration planning, activities, and support.|Tech & Non Tech<br><br>SHIP-HATS users|100|Please contact your SHIP-HATS Subscription / Project Admins after 30th Aug.|
 -->

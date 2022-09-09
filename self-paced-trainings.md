@@ -1,19 +1,23 @@
 # Self-paced trainings
 
-To ensure we support at scale, anyone can access Self-paced trainings.
+To ensure we support at scale, anyone can access Self-paced trainings. 
+<!--
+The training journey has been divided into various sections and has been categorized into different levels based on different experience levels. The [Prerequisites](#prerequisites) section covers basic concepts that are required to understand the product. After you have familiarized yourself with basic concepts, take a [DevSecOps Basic Quiz](#devsecops-basic-quiz) to review your fundamentals. The [Learning Resources](#learning-resources) provides you various resources in the form of [Webinars](#webinar-series) has been divided into three sections to 
 
-- Pre-requisites cover basic concepts that are required to understand the product.
-- Level 100 covers introductory topics. In the first phase of training roll out, we will be focusing on this level. 
-- Level 200 covers topics for practitioners who have hands-on experience of the introductory topics
-- Level 300 covers topics for intermediate to expert practitioners. 
+The Level 100 trainings cover introductory topics. In the first phase of training roll out, we will be focusing on this level. While the Level 200 trainings cover topics for practitioners who have hands-on experience of the introductory topics, the Level 300 trainings focus on topics for intermediate to expert practitioners.
+
+To begin your learning journey, we recommend that you complete the [prerequisites](#prerequisites) section before you deep dive into the level-based [technical](#technical) and [non-technical](#non-technical) training resources.
 
 ![](./images/training-levels.png)
 
-## Pre-requisites
+-->
+
+## Prerequisites
 
 
 ### Overview
 
+- [Singapore Government Tech Stack](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html)
 - [Vision for DevSecOps with SHIP-HATS](https://youtu.be/CeZs3nAK5gY)
 - [Importance of CI/CD?](https://youtu.be/RlZCyexsJBc?t=260) 
 - [DevSecOps policies](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)
@@ -36,41 +40,40 @@ Getting ready for SHIP-HATS 2.0? Take a short [DevSecOps Basic quiz](https://for
 
 ## Learning resources
 
+### Webinar Series
+
 For webinar series, refer to the [Learning events > Past events](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/learning-events?id=past-events) section in this documentation. 
 
-### Non Technical
+### Non Tech
 
 |Level|Category|Courses|
 |---|---|---|
-100| SHIP-HATS 2.0 | [SHIP-HATS 2.0 Strategy & Updates](https://youtu.be/dRfI_zXgiHs) 
-100| SHIP-HATS 2.0|[Technical Architecture Video](https://youtu.be/aMARb5xd1qI) <br><br> [Technical Architecture Doc](architecture)
-100| SHIP-HATS 2.0|Subscription  - Coming soon
-100| SHIP-HATS 2.0 | [Subscribing to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscribing-to-ship-hats) 
-100| SHIP-HATS 2.0|[Using SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)
-|100| Tools|[GitLab](https://docs.gitlab.com/ee/tutorials/) 
- 200 |Automation| Basics of CI/CD - Covers the basics of how to set up a pipeline to build, test, and deploy your code
-|200 |Measurements |DevOps Metrics with GitLab 
-|200|Measurements|Dashboards
+100| Overview | [SHIP-HATS 2.0 Strategy & Updates](https://youtu.be/dRfI_zXgiHs) 
+100| Overview|[Technical Architecture Video](https://youtu.be/aMARb5xd1qI) <br><br> [Technical Architecture Doc](architecture)|
+100| Process|Subscription (Coming soon!)
+100| Process | [Subscribing to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscribing-to-ship-hats) |
+100| Tools|[Using SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)|
+|100| Tools|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) | 
+|100| Tools|Developer Journey (Coming soon!) | 
+100|Management|	GitLab as PM Tool (Coming soon!)
+100	|Management	|What are the [DORA metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)?
+|100 |Management |DevOps Metrics with GitLab (Coming soon!)|
+|200|Tools|[Understanding Templates](pipeline-templates) |
+|200|Process|[Understanding Compliance Framework](https://youtu.be/jCCN_d0fCPM)|
 
-### Technical
+### Tech Path
 
 |Level|Category|Courses|
 |---|---|---|
- 100 |Overview| [Overview video](https://youtu.be/dRfI_zXgiHs) & [Getting Started documentation](ship-hats-overview)
-|100 | Architecture| [Technical Architecture Video](https://youtu.be/aMARb5xd1qI) & [Technical Architecture Doc](architecture)
-|100 | Access| [TechPass](https://docs.developer.tech.gov.sg/docs?product=TechPass) & [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/)
-|100 |Automation|Understanding Runners
-|100 ||Basic CI/CD - the basics of how to set up a pipeline to build, test, and deploy your code
-|100 ||[Pipeline templates overview](pipeline-templates)
-|100  |Management & Measurements | GitLab as a PM tool 
-|100 ||Issues, labels, and boards
-|100 ||DevOps Metrics with GitLab 
-|100 ||Dashboards
- 200 |Automation|Advanced CI/CD  - advanced topics such as includes/extends templates, rules, child pipelines , compliance pipelines
-| 200|Security|GitLab Security, Compliance
-|200 |Cloud Ops|GitOps with GitLab 
-|200|Innersourcing|WOG public repos setup
-|200||MR/PR best practices
+ 100 |Overview| [Overview](https://youtu.be/dRfI_zXgiHs) <br><br> [Getting Started documentation](ship-hats-overview)
+|100 | Overview| [Technical Architecture Video](https://youtu.be/aMARb5xd1qI) <br><br> [Technical Architecture Doc](architecture)
+|100| Tools|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) | 
+|100| Tools|Developer Journey (Coming soon!) | 
+100	|Tools|Understand Pipeline Template Overview (Coming soon!) <br><br>[Pipeline templates overview](pipeline-templates)<br><br> Sample (Coming soon!)
+|200 | Access| Access to SGTS: [TechPass for Developers](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) <br><br> Access to SGTS: [SEED for Developer Devices](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/)
+|200|Tools|Review End to End Pipelines (For SHIP-HATS Users) (Coming soon!)
+|200|Tools|Review Modular Pipeline (For SHIP-HATS Users) (Coming soon!)
+|200|Tools|Apply Compliance Framework (Coming soon!)
 
 </details>
 <br>

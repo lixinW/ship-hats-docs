@@ -6,8 +6,6 @@
 
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
-|Webinar<br><br> 8 Sep, 2022 <br><br>11:00 AM -12:00 PM|**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|Tech & Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
-Webinar<br><br> 9 Sep, 2022 <br><br>11:00 AM -12:00 PM|**Developer Journey - Idea to Production**<br><br>Covers a typical workflow for a developer from getting assigned an issue to work on through creating the merge request, making changes and reviewing the pipeline results, and participating in code reviews|Tech<br><br>SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Briefing<br><br>13 Sep, 2022 <br><br>10:00 AM - 12:00 PM|**SHIP-HATS 2.0 Migration Briefing**<br><br>Deep dive into migration planning, activities, and support.|Tech & Non Tech<br><br>SHIP-HATS users|100|Please contact your SHIP-HATS Subscription / Project Admins after 30th Aug.|
 Hands on Workshop|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration 
 Webinar<br><br> 4 Oct, 2022<br><br>10:00 AM- 11:00 AM |**GitLab Security & SHIP-HATS Compliance Pipelines**<br><br>Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard. PMs who are keen to learn can join too!|Tech <br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)
@@ -32,3 +30,13 @@ Webinar<br><br> 6 Dec, 2022 <br><br>10:00 AM - 11:00 AM|**Advanced CI/CD & SHIP-
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
 Briefing<br><br> 19 Aug, 22|SHIP-HATS 2.0 Announcement Briefing|[Vision for DevSecOps with SHIP-HATS](https://youtu.be/CeZs3nAK5gY) - 15 min<br><br>[SHIP-HATS 2.0 Strategy & Updates](https://youtu.be/dRfI_zXgiHs) - 20 min <br><br>[SHIP-HATS 2.0 Technical Overview and Architecture](https://youtu.be/aMARb5xd1qI) - 15 min<br><br>[SHIP-HATS 2.0 Migration Planning, Training, and Support](https://youtu.be/jCCN_d0fCPM) - 8 min|[Download the SHIP-HATS 2.0 Announcement Briefing PDF](./files/2.0_Announcement_Briefing_19_Aug.pdf)|
+|Webinar<br><br> 8 Sep, 2022 <br><br>11:00 AM -12:00 PM|**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) - 1 hour|[Download the CI/CD Basics with GitLab PDF](./files/CI_CD%20Basics.pdf)|
+Webinar<br><br> 9 Sep, 2022 <br><br>11:00 AM -12:00 PM|**Developer Journey - Idea to Production**<br><br>Covers a typical workflow for a developer from getting assigned an issue to work on through creating the merge request, making changes and reviewing the pipeline results, and participating in code reviews|Coming soon|Coming soon|
+
+
+
+<!--
+|Webinar<br><br> 8 Sep, 2022 <br><br>11:00 AM -12:00 PM|**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|Tech & Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+Webinar<br><br> 9 Sep, 2022 <br><br>11:00 AM -12:00 PM|**Developer Journey - Idea to Production**<br><br>Covers a typical workflow for a developer from getting assigned an issue to work on through creating the merge request, making changes and reviewing the pipeline results, and participating in code reviews|Tech<br><br>SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+
+-->

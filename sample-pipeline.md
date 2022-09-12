@@ -22,7 +22,8 @@ Every E2E template includes:
 To get started with the Webapp E2E template, refer to the flow diagram.
 
 ### CI/CD Flow Diagram
-Coming soon!
+
+![CI/CD Flow Diagram](./images/ci-cd-flow-diagram.png)
 
 ### To get started with the Webapp E2E template, complete the following steps:
 

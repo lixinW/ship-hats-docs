@@ -2,6 +2,9 @@
 
 SHIP-HATS Pipeline templates are reusable configuration files that developers can use to configure instead of building from the scratch. The templates help agencies to incorporate best practices for security compliance and performance metrics.  
 
+SHIP-HATS Templates aims to help users construct their CI/CD pipelines efficiently by providing blackbox building blocks for users to include in their pipelines. It favours "write once, use anywhere", and is open for [InnerSourcing](https://about.gitlab.com/topics/version-control/what-is-innersource/). 
+
+
 <!--
 **Topics**
 - [Types of Templates](#types)
@@ -22,7 +25,9 @@ Following types of templates will be provided:
 
 This section provides a high level of overview of templates to expect for migrating to SHIP-HATS 2.0 to help the agencies plan the migration.
 
-We will update the link to templates after SHIP-HATS 2.0 is ready. You can bookmark this page as we will update details on existing and upcoming templates regularly.  
+> **Note:** After you have onboarded to SHIP-HATS 2.0, you can [log in to GitLab](https://sgts.gitlab-dedicated.com/) to refer to complete list of [SHIP-HATS Templates](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/ship-hats-templates).
+
+<!-- We will update the link to templates after SHIP-HATS 2.0 is ready. You can bookmark this page as we will update details on existing and upcoming templates regularly. --> 
 
 |Templates|Description|Template Type|  
 |---|---|---|  
@@ -46,7 +51,7 @@ Azure Command Line Interface 	|A modular template to invoke Azure CLI commands. 
 Depcheck for NPM Projects 	|A modular template to perform depcheck for NPM projects to identify unused dependencies. |Other Modular templates 
 AWS identity federation 	|A modular template to assume an AWS IAM role in AWS account of the user. |Other Modular templates 
 
-?> The End-to-End Reference templates are derived from the Bamboo plan templates provided by GovTech SVC Clusters & Technology Management Office (CTMO) in SHIP-HATS 1.0.  
+> **Note:** The End-to-End Reference templates are derived from the Bamboo plan templates provided by GovTech SVC Clusters & Technology Management Office (CTMO) in SHIP-HATS 1.0.  
 
 
 <!--

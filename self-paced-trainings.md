@@ -50,7 +50,7 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 |---|---|---|
 100| Overview | [SHIP-HATS 2.0 Strategy & Updates](https://youtu.be/dRfI_zXgiHs) 
 100| Overview|[Technical Architecture Video](https://youtu.be/aMARb5xd1qI) <br><br> [Technical Architecture Doc](architecture)|
-100| Process|Subscription (Coming soon!)
+100| Process|[Subscription](subscription) 
 100| Process | [Subscribing to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscribing-to-ship-hats) |
 100| Tools|[Using SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)|
 |100| Tools|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) | 
@@ -69,11 +69,11 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 |100 | Overview| [Technical Architecture Video](https://youtu.be/aMARb5xd1qI) <br><br> [Technical Architecture Doc](architecture)
 |100| Tools|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) | 
 |100| Tools|Developer Journey (Coming soon!) | 
-100	|Tools|Understand Pipeline Template Overview (Coming soon!) <br><br>[Pipeline templates overview](pipeline-templates)<br><br> Sample (Coming soon!)
+100	|Tools|[Understand Pipeline Template Overview](pipeline-templates)<br><br> [Sample Pipeline](sample-pipeline)
 |200 | Access| Access to SGTS: [TechPass for Developers](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) <br><br> Access to SGTS: [SEED for Developer Devices](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/)
-|200|Tools|Review End to End Pipelines (For SHIP-HATS Users) (Coming soon!)
+|200|Tools|[Review End to End Pipelines (For SHIP-HATS Users)](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/ship-hats-templates) <br><br>Accessible after onboarding to SHIP-HATS 2.0.
 |200|Tools|Review Modular Pipeline (For SHIP-HATS Users) (Coming soon!)
-|200|Tools|Apply Compliance Framework (Coming soon!)
+|200|Tools|[Apply Compliance Framework](https://sgts.gitlab-dedicated.com/WOG/ship-hats-compliance) <br><br> Accessible after onboarding to SHIP-HATS 2.0.
 
 </details>
 <br>

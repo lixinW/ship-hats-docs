@@ -17,37 +17,38 @@ Every E2E template includes:
 - A compliant pipeline that ensures auto inclusion of checks, scan jobs, and reporting for you. You can apply the template to the compliant pipeline under **Project** > **Settings** > **Compliance framework**. 
 - The skeleton abstracts that enables the devops engineers to focus only on how to build, test, and deploy the application while taking care of other considerations during usage.
 
-## Getting started
+## CI/CD Flow Diagram
 
 To get started with the Webapp E2E template, refer to the flow diagram.
 
-### CI/CD Flow Diagram
 
 ![CI/CD Flow Diagram](./images/ci-cd-flow-diagram.png)
 
-### To get started with the Webapp E2E template, complete the following steps:
+## Steps
 
-1. Add your webapp code in the repository to build and deploy your webapp
-1. Fill in `BUILD.gitlab-ci.yml`. 
+To get started with the Webapp E2E template, complete the following steps:
+
+1. **Add your webapp code** in the repository to build and deploy your webapp.
+1. **Fill in `BUILD.gitlab-ci.yml`**
 
   Provide the relevant build job(s) to build your webapp, producing an artefact.  
   Expected format: `$OUTPUT_ARTEFACT`
-1. Fill in `TEST.gitlab-ci.yml`. 
+1. **Fill in `TEST.gitlab-ci.yml`** 
   
   Provide the relevant test job(s) to test your webapp code. <!--Some examples provided are like unit testing, linting, dependency checks.--> This step is required because some testing (e.g., unit testing) is highly dependent on language or tools. 
   
   You can use the reporting feature of GitLab within the job. For more information, refer to the [GitLab reports](https://docs.gitlab.com/ee/ci/yaml/artifacts_reports.html) documentation. 
-1. Fill in `DEPLOY.gitlab-ci.yml`. 
+1. **Fill in `DEPLOY.gitlab-ci.yml`** 
   
   Provide the relevant deploy job(s) to deploy your webapp code. In the example, `deploy-testing-job` points to a testing environment while `deploy-final-job` points to a production environment.
   
   You can use `deploy-final-job` to test the deployment to final environment. The job is also referenced by the relative compliance pipeline. Therefore, you must not change the name of this job. This ensures that certain safeguarding measures are present before deploying to any high stake environment.
-1. Fill in variables in `.gitlab-ci.yml`
+1. **Fill in variables in `.gitlab-ci.yml`**
   
   Provide values for variables for the pipeline to pass. The relative compliance pipeline that runs alongside with the main pipeline requires most of them. 
   
   If the compliance job fails, your overall pipeline will continue to pass. However, this may impact the quality or security aspects of your webapp.
-1. Provide sensitive variables
+1. **Provide sensitive variables**
     
   The sensitive variables provided below are required for the compliance to pass for your pipeline. You may consider adding them in your project's CI/CD variables.
 
@@ -73,15 +74,18 @@ To get started with the Webapp E2E template, refer to the flow diagram.
         - NEXUS_REPO_USERNAME
         - NEXUS_REPO_PASSWORD
 
-1. Apply compliance framework
+1. **Apply compliance framework**
   
   From your project, select **Settings** > **General** > **Compliance framework** > **ship-hats-webapp-compliance**.
-  <!--For more information, refer to the [ship-hats-webapp-compliance](https://sgts.gitlab-dedicated.com/WOG/ship-hats-compliance#template-webapp-compliance) documentation.--> 
+  
+  For more information, refer to the [ship-hats-webapp-compliance](https://sgts.gitlab-dedicated.com/WOG/ship-hats-compliance#template-webapp-compliance) documentation. These are accessible after onboarding to SHIP-HATS 2.0.
 
-  When using this end-to-end template:
-    - Do **not** change the stages as it might impact the working of its relative compliance pipeline.
-    - You may add or remove the jobs in `BUILD/TEST/DEPLOY.gitlab-ci.yml` with `# do not change the name of this job without making updates to .gitlab-ci.yml` to suit requirements for your webapp. However, you must update the change to `.gitlab-ci.yml` accordingly as it makes references to these jobs.
-    - The development of this template might not fit all use cases. If you have a use case that this template is unable to accommodate, you can either raise an issue with us to consider or you may consider raising a merge request to share your use case template as this is an open source project.
+## Considerations
+
+When using this end-to-end template:
+  - Do **not** change the stages as it might impact the working of its relative compliance pipeline.
+  - You may add or remove the jobs in `BUILD/TEST/DEPLOY.gitlab-ci.yml` with `# do not change the name of this job without making updates to .gitlab-ci.yml` to suit requirements for your webapp. However, you must update the change to `.gitlab-ci.yml` accordingly as it makes references to these jobs.
+  - The development of this template might not fit all use cases. If you have a use case that this template is unable to accommodate, you can either raise an issue with us to consider or you may consider raising a merge request to share your use case template as this is an open source project.
 
 <!--
 ## Working examples 

@@ -1,14 +1,29 @@
 # Dashboards
 
-In SHIP-HATS 2.0., we are leveraging the [GitLab dashboards]() available within the [GitLab Ultimate Tier](). These dashboards will be able to showcase the following key metrics:  
+In SHIP-HATS 2.0., we are leveraging the *GitLab dashboards* available within the *GitLab Ultimate Tier*. These dashboards will be able to showcase the following key metrics for GitLab native tools:  
 
-- **DevOps Adoption:** Whether a project is utilizing end-to-end CI/CD components à only shows GitLab-Native Adoption
-- **DORA Metrics:** Industry benchmarks on DevOps Process Efficiency
+- **DevOps Adoption:** View how a project is utilizing end-to-end CI/CD components. <!--This dashboard will show GitLab native adoption only.-->
+- **DORA Metrics:** View Industry benchmarks on DevOps process efficiency. You can measure the following four DORA metrics:
     - Deployment Freq
     - Lead time for Changes
     - Time to Restore Service
     - Change Failure Rate
-- **Security Dashboard:** monitor security findings and patterns à does not show SonarQube and Nexus IQ
-- **Value Stream Analytics:** triage hygiene, issues / bugs created, time to merge and many more enable you to identify and fix inefficiencies in your development process à does not show Jira/Confluence issues
+- **Security Dashboard:** Monitor security findings and patterns across GitLab native tools. <!--This dashboard does not show data for SonarQube and Nexus IQ-->
+- **Value Stream Analytics:** Triage hygiene, issues/bugs created, time to merge, etc. This dashboard enables you to identify and fix inefficiencies in your development process. <!--This dashboard does not show data for Jira/Confluence issues-->
 
-The above listed data and metrics can only be pulled out from the use of GitLab-native Tools. Therefore, to utilize the benefits of these Dashboards, agencies must adopt as many GitLab-native tools as possible.
+The above listed data and metrics can only be retrieved from the use of GitLab native tools. Therefore, to utilize the benefits of these Dashboards, agencies must adopt as many GitLab native tools as possible.
+
+### Related topics
+For more information, refer to the following GitLab resources:
+
+|Dashboard|Topic|Link|
+|---|---|---|
+|DevOps Adoption|Group DevOps Adoption|https://docs.gitlab.com/ee/user/group/devops_adoption/
+|DevOps Adoption|Understand how your teams adopt DevOps with DevOps reports|https://about.gitlab.com/blog/2021/12/15/devops-adoption/|
+|DORA Metrics| Getting Started with Agile/DevOps Metrics|https://about.gitlab.com/handbook/marketing/strategic-marketing/devops-metrics/|
+|DORA Metrics|How the DORA metrics can help DevOps team performance|https://about.gitlab.com/blog/2022/04/20/how-the-dora-metrics-can-help-devops-team-performance/|
+|Security Dashboard|GitLab Security Dashboards and Security Center|https://docs.gitlab.com/ee/user/application_security/security_dashboard/|
+|Security Dashboard|Secure your application|https://docs.gitlab.com/ee/user/application_security/|
+|Value Stream Analytics|Introducing GitLab Value Stream Analytics|https://about.gitlab.com/stages-devops-lifecycle/value-stream-analytics/|
+|Value Stream Analytics|Value stream analytics for groups|https://docs.gitlab.com/ee/user/group/value_stream_analytics/|
+|Value Stream Analytics|The role of Value Stream Analytics in GitLab's DevOps Platform|https://about.gitlab.com/blog/2022/01/24/gitlab-value-stream-analytics/|

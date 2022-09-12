@@ -54,8 +54,8 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 100| Process | [Subscribing to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscribing-to-ship-hats) |
 100| Tools|[Using SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)|
 |100| Tools|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) | 
-|100| Tools|Developer Journey (Coming soon!) | 
-100|Management|	GitLab as PM Tool (Coming soon!)
+|100| Tools|[Developer Journey - Idea to Production](https://www.youtube.com/watch?v=4aGvMxRe9go)| 
+100|Management|	GitLab as a PM Tool (Coming soon!)
 100	|Management	|What are the [DORA metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)?
 |100 |Management |DevOps Metrics with GitLab (Coming soon!)|
 |200|Tools|[Understanding Templates](pipeline-templates) |

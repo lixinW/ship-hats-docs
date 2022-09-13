@@ -5,7 +5,6 @@
   - [Migration Approach](ship-hats-migration)
   - [Pipeline Templates](pipeline-templates) 
   - [Change Management](ship-hats-migration-change-management)
-  - [Annex](ship-hats-migration-annex)
   - [FAQs](faqs)
 
 &nbsp;
@@ -20,6 +19,8 @@
   - [FAQs](faqs)
   - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview) 
   - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
+  - [Annex](ship-hats-migration-annex)
+
 
 **Training**
   - [Overview](training)

@@ -4,6 +4,7 @@ In SHIP-HATS 2.0., we are leveraging Gitlab [Compliance Framework](https://docs.
 
 Using this feature, you can automate the [DevSecOps practices](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/) that we encourage all agencies to adopt based on industry pipeline security as well as IM8 DevSecOps standards. 
 
+
 The following list provides few of the DevSecOps practices supported by the Compliance Framework: 
 
 - SCA including Dependency scanning 

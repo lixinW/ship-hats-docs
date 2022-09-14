@@ -1,6 +1,8 @@
 **Overview**
   - [Audience](audience)
   - [Overview](ship-hats-overview)
+  - [Compliance Framework](compliance-framework)
+  - [Dashboards](dashboards)
   - [Architecture](architecture)
   - [Tools](ship-hats-tools)
   - [Subscription](subscription)
@@ -31,6 +33,6 @@
 
 <!--
 
-- [Sample pipeline](sample-pipeline)
-
+  - [Tooling Strategy](tooling-strategy)
+  - [Roadmap](roadmap)
 -->  

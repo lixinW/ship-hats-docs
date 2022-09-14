@@ -1,5 +1,11 @@
 # Migration Approach
 
+
+
+
+
+
+
 ## Migration Phases
 
 Following table provides high-level migration phases and key activities. 
@@ -37,3 +43,33 @@ The following images shows activities to ensure business as usual during migrati
 Following table shows two support options available during migration:
 
 ![Migration Support](./images/migration-support.png ':size=80%')
+
+## Estimate Effort
+
+### To estimate effort, complete the following steps:
+
+1. Understand Migration activities
+    - Tech prep
+    - Source Code Repo Migration
+    - Pipeline set up using templates
+1. Review current pipeline
+1. Identify any project requires refactoring
+1. Identify if your project requires CD setup in advance and agency environment setup
+
+## Book Migration Slots
+
+### What is a Migration slot?
+
+These are 6, 9, or 12-week long windows available for Agency to complete their migration.
+
+### How it works
+1. Each subscriber book one slot based on when they want to migrate by 31 December 2022. We recommend moving all projects in the same slot.
+1. Choose a support option:
+    
+    |Migration Support|Link to book slot|
+    |---|---|
+    |Guided Migration Slots|[https://go.gov.sg/shiphats2-booking-guided](https://go.gov.sg/shiphats2-booking-guided)
+    Self Lead/Managed Migration Slots|[https://go.gov.sg/shiphats2-booking-self](https://go.gov.sg/shiphats2-booking-self)
+1. A SHIP-HATS consultant is assigned per subscriber for guidance during this period
+1. Agency completes migration by the end of the slot
+

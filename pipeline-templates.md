@@ -2,7 +2,7 @@
 
 SHIP-HATS Pipeline templates are reusable configuration files that developers can use to configure instead of building from the scratch. The templates help agencies to incorporate best practices for security compliance and performance metrics.  
 
-SHIP-HATS Templates aims to help users construct their CI/CD pipelines efficiently by providing blackbox building blocks for users to include in their pipelines. It favours "write once, use anywhere", and is open for [InnerSourcing](https://about.gitlab.com/topics/version-control/what-is-innersource/). 
+SHIP-HATS Templates aim to help users construct their CI/CD pipelines efficiently by providing blackbox building blocks to include in their pipelines. It favours "write once, use anywhere", and is open for [InnerSourcing](https://about.gitlab.com/topics/version-control/what-is-innersource/). 
 
 ## Types
 

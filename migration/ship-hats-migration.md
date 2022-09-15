@@ -69,7 +69,7 @@ These are 6, 9, or 12-week long windows available for Agency to complete their m
     |Migration Support|Link to book slot|
     |---|---|
     |Guided Migration Slots|[https://go.gov.sg/shiphats2-booking-guided](https://go.gov.sg/shiphats2-booking-guided)
-    Self Lead/Managed Migration Slots|[https://go.gov.sg/shiphats2-booking-self](https://go.gov.sg/shiphats2-booking-self)
+    Self-led Migration Slots|[https://go.gov.sg/shiphats2-booking-self](https://go.gov.sg/shiphats2-booking-self)
 1. A SHIP-HATS consultant is assigned per subscriber for guidance during this period
 1. Agency completes migration by the end of the slot
 

@@ -6,9 +6,4 @@ SHIP-HATS 2.0 provides you with the following documents to assist you in onboard
 |---|---|---|
 |**[Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/)**|Subscription Administrator (SA)|Use this documentation to learn about SHIP-HATS 2.0, onboard to SHIP-HATS, set yourself as a Subscription |
 |**[Portal](ship-hats-portal-overview)**|Subscription Administrator (SA) <br><br> Project Administrator (PA)|Use this documentation to onboard to the SHIP-HATS 2.0 portal, add projects, set Project Administrators, and manage users. |
-|**Tools**|Tools Administrators and Developers at Agencies|Use this documentation to learn about tools integrated with SHIP-HATS 2.0<br><br>*Documentation coming soon*|
-
-
-<!--
 |**[Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/)**|Tools Administrators and Developers at Agencies|Use this documentation to learn about tools integrated with SHIP-HATS|
--->

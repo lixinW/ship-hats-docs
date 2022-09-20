@@ -8,6 +8,9 @@
   - [Subscription](subscription)
 **Subscribe to SHIP-HATS**  
   - [Subscribing](subscribing-to-ship-hats)  
+**Environment Connectivity**
+  - [AWS VPC Endpoint](aws-vpc-endpoint)
+  - [IPSec Tunnel](ipsec-tunnel)
 **CI/CD Pipeline**
 - [CI/CD pipeline](ci-cd-pipeline)  
 - [Pipeline templates](pipeline-templates)

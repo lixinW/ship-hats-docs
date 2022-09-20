@@ -16,14 +16,14 @@ The above listed data and metrics can only be retrieved from the use of GitLab n
 ### Related topics
 For more information, refer to the following GitLab resources:
 
-|Dashboard|Topic|Link|
-|---|---|---|
-|DevOps Adoption|Group DevOps Adoption|https://docs.gitlab.com/ee/user/group/devops_adoption/
-|DevOps Adoption|Understand how your teams adopt DevOps with DevOps reports|https://about.gitlab.com/blog/2021/12/15/devops-adoption/|
-|DORA Metrics| Getting Started with Agile/DevOps Metrics|https://about.gitlab.com/handbook/marketing/strategic-marketing/devops-metrics/|
-|DORA Metrics|How the DORA metrics can help DevOps team performance|https://about.gitlab.com/blog/2022/04/20/how-the-dora-metrics-can-help-devops-team-performance/|
-|Security Dashboard|GitLab Security Dashboards and Security Center|https://docs.gitlab.com/ee/user/application_security/security_dashboard/|
-|Security Dashboard|Secure your application|https://docs.gitlab.com/ee/user/application_security/|
-|Value Stream Analytics|Introducing GitLab Value Stream Analytics|https://about.gitlab.com/stages-devops-lifecycle/value-stream-analytics/|
-|Value Stream Analytics|Value stream analytics for groups|https://docs.gitlab.com/ee/user/group/value_stream_analytics/|
-|Value Stream Analytics|The role of Value Stream Analytics in GitLab's DevOps Platform|https://about.gitlab.com/blog/2022/01/24/gitlab-value-stream-analytics/|
+|Dashboard|GitLab Documentation|
+|---|---|
+|DevOps Adoption|[Group DevOps Adoption](https://docs.gitlab.com/ee/user/group/devops_adoption/)
+|DevOps Adoption|[Understand how your teams adopt DevOps with DevOps reports](https://about.gitlab.com/blog/2021/12/15/devops-adoption/)|
+|DORA Metrics| [Getting Started with Agile/DevOps Metrics](https://about.gitlab.com/handbook/marketing/strategic-marketing/devops-metrics)|
+|DORA Metrics|[How the DORA metrics can help DevOps team performance](https://about.gitlab.com/blog/2022/04/20/how-the-dora-metrics-can-help-devops-team-performance/)|
+|Security Dashboard|[GitLab Security Dashboards and Security Center](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)|
+|Security Dashboard|[Secure your application](https://docs.gitlab.com/ee/user/application_security/)|
+|Value Stream Analytics|[Introducing GitLab Value Stream Analytics](https://about.gitlab.com/stages-devops-lifecycle/value-stream-analytics/)|
+|Value Stream Analytics|[Value stream analytics for groups](https://docs.gitlab.com/ee/user/group/value_stream_analytics/)|
+|Value Stream Analytics|[The role of Value Stream Analytics in GitLab's DevOps Platform](https://about.gitlab.com/blog/2022/01/24/gitlab-value-stream-analytics/)|

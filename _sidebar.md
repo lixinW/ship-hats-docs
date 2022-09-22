@@ -10,7 +10,7 @@
   - [Subscribing](subscribing-to-ship-hats)  
 **Environment Connectivity**
   - [AWS VPC Endpoint](aws-vpc-endpoint)
-  - [IPSec Tunnel](ipsec-tunnel)
+  - [IPsec Tunnel](ipsec-tunnel)
 **CI/CD Pipeline**
 - [CI/CD pipeline](ci-cd-pipeline)  
 - [Pipeline templates](pipeline-templates)
@@ -31,7 +31,7 @@
 
 ---
 **Additional Resources**
-  - [SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
+  - [Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
   - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview) 
   - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
 

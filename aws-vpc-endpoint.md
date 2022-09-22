@@ -2,8 +2,8 @@
 
 You can connect to SHIP-HATS using one of the following methods based on your setup:
 
-- [VPC Endpoint](#prerequisites)
-- [AWS Azure Setup](ipsec-tunnel)
+- [AWS VPC Endpoint](#prerequisites)
+- [IPsec Tunnel](ipsec-tunnel)
 
 ## Prerequisites
 
@@ -75,7 +75,6 @@ The following table provides a list of SHIP-HATS VPC Endpoint Services:
 |---|---|---|---|---|
 |GitLab SAAS	|sgts.gitlab-dedicated.com|com.amazonaws.vpce.ap-southeast-1.vpce-svc-0c4c6c964095f9102	|443<br>22	|HTTPS<br>SSH|
 GitLab SAAS Registry	|registry.sgts.gitlab-dedicated.com|com.amazonaws.vpce.ap-southeast-1.vpce-svc-06682b483e966c6d9	|443	|HTTPS|
-Bitbucket|	bitbucket.ship.gov.sg|	com.amazonaws.vpce.ap-southeast-1.vpce-svc-0ba0571ca3b5831f7	|443|	HTTPS|
 Nexus|	nexus.ship.gov.sg|	com.amazonaws.vpce.ap-southeast-1.vpce-svc-03195a4fc17e6ad26	|443|	HTTPS|
 Nexus-IQ|nexus-iq.ship.gov.sg|	com.amazonaws.vpce.ap-southeast-1.vpce-svc-00943fbdd70eeddf9	|443|	HTTPS|
 Nexus-docker|	nexus-docker.ship.gov.sg|com.amazonaws.vpce.ap-southeast-1.vpce-svc-0713a3442f9c84cdf	|443|	HTTPS|
@@ -85,3 +84,15 @@ Sonar (Developer Edition)|sonar1.hats.stack.gov.sg|com.amazonaws.vpce.ap-southea
 Twistlock|twistlock.apps.hats.stack.gov.sg|com.amazonaws.vpce.ap-southeast-1.vpce-svc-021d94466d60feca2	|443|	HTTPS|
 Device Farm CLI|device-farm-cli-be.hats.stack.gov.sg|com.amazonaws.vpce.ap-southeast-1.vpce-svc-02e850b5422c1ea27	|443|	HTTPS|
 
+## FAQs
+
+
+
+>**Tip:** Click the question/triangle to view the answer.
+
+<details>
+  <summary><b>If I am reusing DevOps and VPC endpoints that I created for SHIP-HATS 1.0, can I continue to use the endpoints?</b></summary><br>
+
+- For tools that are being carried forward from SHIP-HATS 1.0 (e.g. Jira, Nexus, etc.), you can continue to use the same endpoints. 
+- For new tools in SHIP-HATS 2.0 (SaaA GitLab), you must create and use new endpoints.</details>
+<br>

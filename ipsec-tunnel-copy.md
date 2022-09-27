@@ -71,3 +71,6 @@ Attachment choose the attachment identified.
 1. Add Inbound rules to VPC endpoint sg for tenant's private CIDRs. 
 
 
+## What's Next
+
+- [Set up GitLab Runners](gitlab-runners)

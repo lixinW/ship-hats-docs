@@ -11,6 +11,7 @@
 **Environment Connectivity**
   - [AWS VPC Endpoint](aws-vpc-endpoint)
   - [IPsec Tunnel](ipsec-tunnel)
+  - [Set up GitLab Runners](gitlab-runners)
 **CI/CD Pipeline**
 - [CI/CD pipeline](ci-cd-pipeline)  
 - [Pipeline templates](pipeline-templates)

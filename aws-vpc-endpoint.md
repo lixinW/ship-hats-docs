@@ -7,7 +7,11 @@ You can connect to SHIP-HATS using one of the following methods based on your se
 
 ## Prerequisites
 
-1. [Log a ticket](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/404) with the SHIP-HATS Service Desk
+1. [Log a ticket](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/404) with the SHIP-HATS Service Desk with the following details:
+    - AWS Account ID (This account must be GCC Account)
+    - Service you would like to connect 
+    - Reason for connecting to the above service
+    - Is your account GCC Restricted
 1. Wait for the SHIP-HATS team to confirm that they have added you to the whitelist before continuing with the next step [Create a VPC Endpoint](#create-a-vpc-endpoint).
 
 ## Create a VPC Endpoint
@@ -84,6 +88,7 @@ Sonar (Developer Edition)|sonar1.hats.stack.gov.sg|com.amazonaws.vpce.ap-southea
 Twistlock|twistlock.apps.hats.stack.gov.sg|com.amazonaws.vpce.ap-southeast-1.vpce-svc-021d94466d60feca2	|443|	HTTPS|
 Device Farm CLI|device-farm-cli-be.hats.stack.gov.sg|com.amazonaws.vpce.ap-southeast-1.vpce-svc-02e850b5422c1ea27	|443|	HTTPS|
 
+
 ## FAQs
 
 
@@ -96,3 +101,7 @@ Device Farm CLI|device-farm-cli-be.hats.stack.gov.sg|com.amazonaws.vpce.ap-south
 - For tools that are being carried forward from SHIP-HATS 1.0 (e.g. Jira, Nexus, etc.), you can continue to use the same endpoints. 
 - For new tools in SHIP-HATS 2.0 (SaaA GitLab), you must create and use new endpoints.</details>
 <br>
+
+## What's Next
+
+- [Set up GitLab Runners](gitlab-runners)

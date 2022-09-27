@@ -118,3 +118,9 @@ This documentation uses the following terminology:
 | VPC | Virtual Private Cloud|
 | TGW | Transit GateWay|
 
+### Related topics
+
+- [AWS VPC Endpoint](aws-vpc-endpoint)
+- [IPsec Tunnel](ipsec-tunnel)
+- [Set up GitLab Runners](gitlab-runners)
+- [Pipeline templates](pipeline-templates)

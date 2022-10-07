@@ -17,9 +17,11 @@ SHIP-HATS Templates aims to help you construct their CI/CD pipelines efficiently
 
 Following types of templates will be provided:
 
-- **End-to-End Reference templates:** An end-to-end CI/CD workflow for a specific use case such as .Net application hosted in Azure App Service, Java application hosted in AWS EC2, etc.  
+- **End-to-End templates:** An end-to-end CI/CD workflow for a specific use case such as .Net application hosted in Azure App Service, Java application hosted in AWS EC2, etc.  
+
     ![End-to-End Reference template](./images/template-end-to-end.png)
 - **Modular templates:** A stand-alone basic template for invoking build, test, deploy tools, etc.   
+
     ![Modular template](./images/template-modular.png)
 
 ## List of Templates  
@@ -95,8 +97,6 @@ This section provides a high level of overview of templates to expect for migrat
 
 ### Reference pipelines
 
-
-
 You can access following examples of E2E CI pipeline using SHIP-HATS templates [here](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines): 
 
 - **javaap:** Example end to end CI pipeline for a sample 3-tier application hosted in AWS EC2
@@ -107,8 +107,6 @@ You can access following examples of E2E CI pipeline using SHIP-HATS templates [
 
 
 ### E2E templates
-
-https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates
 
 |Template|Description|Template Type|
 |---|---|---|

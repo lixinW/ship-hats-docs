@@ -8,8 +8,9 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 |---|---|---|
 |Access|TechPass & SEED|TechPass & SEED|
 |Planning|GitLab Issues/Wiki|Jira Cloud, Confluence Cloud (new!)
-|Build|GitLab CI/CD<br><br>GitLab Package Registry|NA<br><br>Nexus Repo|
+|Build|GitLab CI/CD<br><br>GitLab Package Registry<br><br>GitLab Dependency Scanning
+|NA<br><br>Nexus Repo<br><br>Nexus Intelligence|
 |Build Testing|GitLab SAST|Fortify-on-Demand (new!)
-|Other Tests|GitLab Code Quality Scanning Tool <br><br>GitLab DAST<br><br>GitLab Container Scanning|SonarQube Developer Edition (On-Prem)<br><br>Fortify-on-demand (new!)<br><br>NA
+|Other Tests|GitLab Code Quality Scanning Tool <br><br>GitLab DAST<br><br>GitLab Container Scanning|SonarQube Developer Edition (On-Prem)<br><br>Fortify-on-demand (new!)<br><br>NA<br><br>pCloudy Test Farm
 |Deploy & Release|GitLab CI/CD|NA|
 

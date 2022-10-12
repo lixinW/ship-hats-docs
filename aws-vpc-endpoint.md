@@ -37,15 +37,17 @@ You can connect to SHIP-HATS using one of the following methods based on your se
 
 1. After the Endpoint connection is approved, select the newly approved endpoint connection, and then copy the first DNS name of the endpoint connection, starting from `vpce` and ending in `https://aws.amazon.com/`. Exclude the text in brackets. This will be the DNS name to which you will point the full URL as specified in [VPC Endpoint Services](#vpc-endpoint-services).
     
-    In the example image below, the string to be copied will be `vpce-05856b9113ebb1f76-bq95ohr0.vpce-svc-08a46dd461766eed3.ap-southeast-1.vpce.amazonaws.com`. 
+    In the example image below, the string to be copied will be following:   
+    
+    ```vpce-05856b9113ebb1f76-bq95ohr0.vpce-svc-08a46dd461766eed3.ap-southeast-1.vpce.amazonaws.com``` 
 
-    ![](./images/dns-names.png)
+    ![DNS names](./images/dns-names.png)
 
 1. Click **Create Hosted Zone**, and then provide the following information:
 
     > **Note:** You must complete this step one time for each VPC. If you have completed this step for another endpoint connection, proceed to next step.
 
-    - In the **Domain Name** field, enter [ship.gov.sg](ship.gov.sg) for SHIP DNS or [hats.stack.gov.sg](hats.stack.gov.sg) for HATS DNS.
+    - In the **Domain Name** field, enter [ship.gov.sg](ship.gov.sg) for SHIP DNS or [hats.stack.gov.sg](hats.stack.gov.sg) for HATS DNS or [gitlab-dedicated.com](gitlab-dedicated.com) for GitLab SaaS DNS.
 
     - In the **Type** field, select **Private Hosted Zone for Amazon VPC**.
 
@@ -55,7 +57,7 @@ You can connect to SHIP-HATS using one of the following methods based on your se
 
 1. On your VPC, enable DNS hostnames and DNS Support.
 
-1. Click the [ship.gov.sg](ship.gov.sg) or [hats.stack.gov.sg](hats.stack.gov.sg) private hosted zone that you newly created, or created previously for your VPC. Make sure that it is the correct hosted zone for your VPC in which you just created the endpoints, as you may have created multiple hosted zones with the same domain for different VPCs.
+1. Click the [ship.gov.sg](ship.gov.sg), [hats.stack.gov.sg](hats.stack.gov.sg), or [gitlab-dedicated.com](gitlab-dedicated.com) private hosted zone that you newly created, or created previously for your VPC. Make sure that it is the correct hosted zone for your VPC in which you just created the endpoints, as you may have created multiple hosted zones with the same domain for different VPCs.
 
     ![](./images/hosted-zone.png)
 

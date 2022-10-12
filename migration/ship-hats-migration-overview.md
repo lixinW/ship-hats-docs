@@ -11,6 +11,25 @@ We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, 
 
 <!--![Tools](tools.png)-->
 
+|Stage|Tools in 1.0|Tools in 2.0 |Tools in 2.0|
+|---|---|---|---|
+|-|-|**GitLab Native**|**Alternative Tool**|
+|Access|OpenVPN|TechPass & SEED|TechPass & SEED|
+|Plan|Jira|GitLab Issues|Jira Cloud (new!)	
+|Plan|Confluence|GitLab Wiki| Confluence Cloud (new!)	
+|Plan|Thinking Hats|Gitlab Security Dashboard|Thinking HATS	
+|Develop|Bitbucket|GitLab CI/CD|NA|
+|Build|Bamboo|GitLab CI/CD|NA|
+|Build|Nexus Repository Pro|GitLab Package Registry|Nexus Repository Pro|
+|Build|Nexus Intelligence/Nexus IQ Server|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|
+|Build Testing|Fortify Static Code Analyzer	|GitLab SAST|Fortify-on-Demand SAST(new!)
+|Other Tests|SonarQube Community/Developer Edition|GitLab Code Quality Scanning Tool |SonarQube Community/Developer Edition
+|Other Tests|Fortify WebInspect Enterprise|GitLab DAST|Fortify-on-demand DAST (new!)
+|Other Tests|pCloudy Test Farm|GitLab Container Scanning|pCloudy Test Farm
+|Other Tests|Purple HATS|GitLab (Pa11y)|Purple HATS
+|Deploy & Release|Digital.ai|GitLab CI/CD|NA|
+
+<!--
 |Tools in 1.0|Tools in 2.0|
 |---|---|
 |Thinking HATS|Gitlab Security Dashboard<br>-or-<br>Thinking HATS	
@@ -27,7 +46,7 @@ We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, 
 |Purple HATS|GitLab (Pa11y)<br>-or-<br>Purple HATS
 |Digital.ai|GitLab|
 |Nexus Repository Pro|GitLab Package Registry <br>-or-<br>Nexus Repository Pro
-
+-->
 <!--
 | **Tools** | **Change** |
 | --- | --- |

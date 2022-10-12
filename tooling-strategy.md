@@ -1,6 +1,92 @@
 # Tooling Strategy
 
+>**Notes:**
+>- All tools (both GitLab-Native and the alternatives) enable compliance with [IM8 DevSecOps](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Security/Topics/Application-Development-Security.aspx) policy under Application Development Security 
+>- Using GitLab-Native only will result in a lower subscription cost; alternative tools will be available as add-ons in the pricing table
+>- The SHIP-HATS team has prepared pipeline templates for both GitLab-Native and alternative tooling options
+>- Dashboards within GitLab are most useful when most GitLab-Native components are in use
 
-|Native Tool|External Tool|Assessment|Use Case|
+
+## Assessment
+
+|Stage|GitLab Native|Alternative Tool|Assessment|
 |---|---|---|---|
-|
+|Access|TechPass & SEED|TechPass & SEED|NA
+|Plan|GitLab Issues|Jira Cloud (new!)|[Jira vs. GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/)|	
+|Plan|GitLab Wiki| Confluence Cloud (new!)|[GitLab Wiki vs Atlassian Confluence Cloud](#gitlab-wiki-vs-atlassian-confluence-cloud)|	
+|Plan|Gitlab Security Dashboard|Thinking HATS|[Gitlab Security Dashboard vs Thinking HATS](#gitlab-security-dashboard-vs-thinking-hats)|	
+|Develop|GitLab CI/CD|NA|NA|
+|Build|GitLab CI/CD|NA|NA|
+|Build|GitLab Package Registry|Nexus Repository Pro|[GitLab vs Nexus](#gitlab-vs-nexus)|
+|Build|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|[GitLab vs Nexus](#gitlab-vs-nexus)|
+|Build Testing|GitLab SAST|Fortify-on-Demand SAST(new!)|[GitLab vs FOD (SAST)](#gitlab-vs-fod-sast)|
+|Other Tests|GitLab Code Quality Scanning Tool |SonarQube Community/Developer Edition|[GitLab vs SonarQube](#gitlab-vs-sonarqube)|
+|Other Tests|GitLab DAST|Fortify-on-demand DAST (new!)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
+|Other Tests|GitLab Container Scanning|pCloudy Test Farm|[GitLab Container Scanning vs pCloudy Test Farm](#gitlab-container-scanning-vs-pcloudy-test-farm)|
+|Other Tests|GitLab (Pa11y)|Purple HATS|[GitLab (Pa11y) vs Purple HATS](#gitlab-pa11y-vs-purple-hats)|
+|Deploy & Release|GitLab CI/CD|NA|NA|
+
+<!--
+|Stage|GitLab Native|Alternative Tool|Assessment|
+|---|---|---|---|
+|Plan|GitLab Issues/Wiki|Jira Cloud, Confluence Cloud (new!)|Refer to [Jira vs. GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/) for a comparison|
+|Build|GitLab CI/CD<br><br>GitLab Package Registry<br><br>GitLab Dependency Scanning|NA<br><br>Nexus Repo<br><br>Nexus Intelligence|Refer to the [Build](#build) section for details. <br><br> [GitLab vs Nexus](#gitlab-vs-nexus)|
+|Build Testing|GitLab SAST|Fortify-on-Demand (new!)|Refer to the [Test](#test) section for details.<br><br> [GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)
+|Other Tests|GitLab Code Quality Scanning Tool <br><br>GitLab DAST<br><br>GitLab Container Scanning<br><br>NA|SonarQube Developer Edition (On-Prem)<br><br>Fortify-on-demand (new!)<br><br>NA<br><br>pCloudy Test Farm| [GitLab vs SonarQube](#gitlab-vs-sonarqube)<br><br><br> [GitLab vs FOD (SAST)](#gitlab-vs-fod-sast)<br><br> 
+|Deploy & Release|GitLab CI/CD|NA|
+-->
+
+## GitLab Issues vs Atlassian Jira Cloud
+
+Refer to [Jira vs. GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/) for a comparison.
+
+## GitLab Wiki vs Atlassian Confluence Cloud 
+
+Coming soon!
+
+## Gitlab Security Dashboard vs Thinking HATS
+
+Coming soon!
+
+## GitLab vs Nexus 
+
+|Feature|GitLab|Nexus Repo & Nexus Intelligence|
+|---|---|---|
+|Packages Supported|Check packages supported by GitLab [here](https://docs.gitlab.com/ee/user/packages/package_registry/?_gl=1*1l2qds1*_ga*MTQzMDQ0ODE5NS4xNjUzOTYxMTM2*_ga_ENFH3X7M5Y*MTY2NTUwMTY2OS4yNC4xLjE2NjU1MDIxNDUuMC4wLjA.#supported-package-managers) |Supports more package types. Check packages supported by Nexus Repo [here](https://www.sonatype.com/products/nexus-repository?topnav=true) |
+|Scanning Capabilities|Dependency Scanning is frequently bundled together with Container Scanning and License Compliance to provide an overall Software Composition Analysis (SCA) solution within the Application Security Testing (AST) market. GitLab was recently named as a [Challenger in the 2021 Magic Quadrant for Application Security Testing](https://about.gitlab.com/analysts/gartner-ast21/).<br><br>Refer to [Category Direction - Dependency Scanning](https://about.gitlab.com/direction/secure/composition-analysis/dependency-scanning/) for more details.|SCA scanning can be automated to scan and remediate the artifacts in the repository once to produce components that the entire organization can use|
+|Repo Sharing|Repo are tied to projects|Central repo sharing across projects, and with nexus IQ, does scheduled background scanning (SCA) of binaries and repos|
+
+For more information, refer to [Sonatype Nexus Repository vs. GitLab](https://about.staging.gitlab.com/devops-tools/sonatype-nexus-repo-vs-gitlab.html) documentation.
+
+
+## GitLab vs SonarQube
+
+|Feature|GitLab|SonarQube|
+|---|---|---|
+|Languages Supported|Review languages supported here: [SonarQube vs. GitLab](https://about.staging.gitlab.com/devops-tools/sonarqube-vs-gitlab.html)|Community Edition* supports static code analysis for 17 languages: Java, C#, JavaScript, TypeScript, CloudFormation, Terraform, Kotlin, Ruby, Go, Scala, Flex, Python, PHP, HTML, CSS, XML and VB.NET <br><br>Developer Edition supports static code analysis for 7 more languages: C, C++, Obj-C, Swift, ABAP, T-SQL, PL/SQL<br><br>*SHIP-HATS provides a self-hosted (in-country) version of Sonarqube Community and Developer Editions|
+|Gating|-|Sonarqube supports gating that can be configured via its UI. Without this gating capability, the alternative will be to script the gates into the pipeline (i.e. more effort and should be templated)|
+|Security Reports	|GitLab Ultimate automatically includes broad security scanning with every code commit including Static and Dynamic Application Security Testing, along with dependency scanning, container scanning, and license management.|	Sonaqube is a lot more detailed than Gitlab's SCA report. It contains info on code smell, portfolio, reliability, maintainability, etc that are more developer centric than security centric.<br><br> SonarQube can report on unit tests, code coverage and complexity. 
+
+## GitLab vs FOD (SAST)
+
+Coming soon!
+
+## GitLab vs Fortify-on-Demand 
+
+If you are **new to application security testing**, we recommend GitLab SAST/DAST as it will be a lot simpler to integrate with in comparison with Fortify-on-Demand’s extensive product offering that could be overwhelming for a new user.
+
+|Feature|GitLab|Fortify-on-Demand|
+|---|---|---|
+|Languages Supported|.Net, Java, Javascript, Python, Typescript, C, C++, React, RubyonRails,Go,Kotlin,Elixir, Kubernetes|ABAP/BSP, ActionScript, Apex, ASP.NET, C# (.NET), C/C++, Classic, ASP (with VBScript), COBOL, ColdFusion CFML, Go, HTML, Java (including Android), JavaScript/ AJAX, JSP, Kotlin, MXML (Flex), Objective C/C++, PHP, PL/SQL, Python, Ruby, Swift, T-SQL, VB.NET, VBScript, Visual Basic, XML, JSON/YAML and Docker (Dockerfile)<br><br> If  you are using a language that is not supported by GitLab Package DAST/SAST , please use Fortify-Demand|
+|Data Sources |GitLab’s data is mostly open-sourced. <br><br><br><br>Compatible with industry standards.| Fortify-on-Demand has verified data sources. <br>Please use Fortify-on-Demand if you require verified data sources. <br><br>Compatible with industry standards. |
+|Remediation|Basic services | Fortify provides remediation advice which is more detailed than GitLab native |
+
+
+## GitLab Container Scanning vs pCloudy Test Farm
+
+Coming soon!
+
+
+## GitLab (Pa11y) vs Purple HATS
+
+Coming soon!

@@ -16,7 +16,7 @@ Subscription Admin (SA) and Project Admin (PA) can invite and add users to the s
 
 ### To invite users
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
 1. From the side menu, click **Users > Invite Users**.  
@@ -80,7 +80,7 @@ Access the link via the onboarding email and perform the following steps based o
 After a user submits the completed SHIP-HATS **Invitation Form**, Subscription Admin (SA) and Project Admin (PA) will be notified by an email to approve the user registration.
 
 ### To approve new user registration
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
    If there is a pending user approval task for you, it will be displayed in the **ALERTS** section.  

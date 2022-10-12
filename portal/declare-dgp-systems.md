@@ -3,7 +3,7 @@
 Agencies are required to indicate any systems associated with Digital Government Platform (DGP). 
 
 ### To declare systems  
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
 
     Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 1. From the side menu, click **Systems**.

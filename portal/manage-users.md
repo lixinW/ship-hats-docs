@@ -15,7 +15,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 
 ### To view users
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
 1. From the side menu, click **Users > All Users**.  
@@ -27,7 +27,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
    **Quota consumed**|Indicates whether the user is consuming quota from the current subscription. <ul><li>If user is not consuming quota of the subscription, a tag **free user**, appears beside the name. When you hover over the tag, you can view the billing subscription under which the quota is being consumed.</li></ul>   
    **CI**| Indicates whether the user is consuming the CI tools quota from the current subscription. 
    **Sonatype**|Indicates whether the user is consuming Sonatype tools quota from the current subscription.
-   **Last Login**|Indicates the date and time when the user logged in the last time.
+   **Last Login**|Indicates the date and time when the user logged in the last time. The time indicated is based on data captured until the daily scheduled job runs.
    **Action**|Enables you to [Manage access](#manage-access) and [Remove User](#remove-users).
 
    <!--<kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>-->
@@ -49,7 +49,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 You can generate a report to view all details for the active and removed users.
 
 ### To generate a user report
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 1. From the side menu, click **Users > All Users**.
 
@@ -79,7 +79,7 @@ You can generate a report to view all details for the active and removed users.
 
 ### To manage access for a user
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
 1. From the side menu, click **Users > All Users**.
@@ -121,7 +121,7 @@ If you are **a TechPass user**, the SA can raise a service request using the [Te
 
 If you are **not a TechPass user**, the SA or PA can complete the following steps to reactivate a user:
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).  
 1.  From the side menu, click **Users > All Users**.  
 1. Search for the user to be reactivated and from the **Action** column, click ![3_dot](./images/3_dot.png) corresponding to the user.  
@@ -147,7 +147,7 @@ We recommend Subscription Admin (SA) and Project Admin (PA) to periodically revi
 
 ### To remove a user
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).   
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
 Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 1. From the side menu, click **Users > All Users**.
 1. Search for the user to be removed and from the **Action** column, click ![3_dot](./images/3_dot.png) corresponding to the user.

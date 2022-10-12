@@ -23,7 +23,7 @@
 
 **To log in to the SHIP-HATS portal**
 
-1. Go to the [SHIP-HATS portal](https://www.ship.gov.sg/).
+1. Go to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
 1. Click **LOGIN**.
 1. Enter your **Username**, **Password**, and then click **Login**.
     - If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
@@ -34,7 +34,7 @@
 
 **To log in to the SHIP-HATS portal using TechPass**
 
-1. Go to the [SHIP-HATS portal](https://www.ship.gov.sg/).
+1. Go to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
 1. Click **Login with TechPass**.
 
 1. Enter your **Enter your TechPass details**, and then click **Next**.

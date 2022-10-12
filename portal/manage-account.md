@@ -15,7 +15,7 @@ If you are a SA or PA for more than one subscription account in SHIP-HATS, you m
 
 ### To switch account
 
-1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
+1. Log in to the [SHIP-HATS](https://portal.ship.gov.sg/) portal.
 1. Under your name, click the drop-down, and then select **Switch account**. 
 1. On the **Select billing account** screen, select the required billing account.
     Dashboard for the selected billing account appears.
@@ -36,7 +36,7 @@ SA and PA can view the plan details of their subscription account(s) from the da
 
 ### To view plan details of a subscription
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
     
     Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
@@ -69,7 +69,7 @@ If you are a Subscription Admin, you will be able to view the billing informatio
 ### To view the billing information
 
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
     
     Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
@@ -114,7 +114,7 @@ If you are a Subscription Admin, you will be able to modify the billing informat
 
 ### To modify the billing information
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/).  
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
     
     Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
@@ -142,7 +142,7 @@ SA and PA can update their profile from the **[Dashboard](access-ship-hats-port
 To view and update profile as SA and PA, refer to the **[Users > Users self help > Update user profile](users-self-help)** section in this documentation.
 
 <!--
-1. Log in to the [SHIP-HATS](https://www.ship.gov.sg/) portal.
+1. Log in to the [SHIP-HATS](https://portal.ship.gov.sg/) portal.
 1. Under your name, click the drop-down, and then select **View profile**. 
 1. To update your **Personal Information**, click the edit icon.
 
@@ -170,7 +170,7 @@ If you are a Subscription Admin (SA), you can off-board your subscription accoun
 
 ### To off-board an account
 
-1. Log in to the [SHIP-HATS portal](https://www.ship.gov.sg/). 
+1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/). 
 1. Select an expected date to off-board. 
 
     - For a subscribed account, there is a minimum commitment of 6 months stated in the service sheet. Therefore, you will be allowed to select a date after fulfilling the 6 month period only.

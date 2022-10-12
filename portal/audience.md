@@ -1,6 +1,6 @@
 # Audience
 
-The **Portal** documentation is intended for the **Subscription Administrator (SA)** & **Project Administrator (PA)** to onboard to the [SHIP-HATS 2.0 portal](https://www.ship.gov.sg/), add projects, set Project Administrators, and manage users.
+The **Portal** documentation is intended for the **Subscription Administrator (SA)** & **Project Administrator (PA)** to onboard to the [SHIP-HATS 2.0 portal](https://portal.ship.gov.sg/), add projects, set Project Administrators, and manage users.
 
 Following additional documentation resources are available:
 

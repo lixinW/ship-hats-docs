@@ -96,13 +96,12 @@ This section provides a high level of overview of templates to expect for migrat
 ### Reference pipelines
 
 
-
 You can access following examples of E2E CI pipeline using SHIP-HATS templates [here](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines): 
 
 - **javaap:** Example end to end CI pipeline for a sample 3-tier application hosted in AWS EC2
-- **javadockerapp:** Reference Pipeline for Containerized Java Application
-- **netapp:** Reference Pipeline for Containerized .NET Core Application
-- **netdocker:** Reference Pipeline for Containerized .NET Core Application
+- **javadockerapp:** Example end to end CI pipeline for sample containerized Java application hosted in AWS EKS
+- **netapp:** Example end to end CI pipeline for sample containerized .NET applications hosted in Azure App Service
+- **netdocker:** Example end to end CI pipeline for sample containerized .NET Core application hosted in AWS Fargate
 - **nodetsapp:** Example end to end CI pipeline for sample Node.js typescript application hosted in Azure App Service
 
 

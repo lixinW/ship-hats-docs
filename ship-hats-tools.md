@@ -7,7 +7,7 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 |Access|TechPass & SEED|TechPass & SEED|
 |Plan|GitLab Issues|Jira Cloud (new!)	
 |Plan|GitLab Wiki| Confluence Cloud (new!)	
-|Plan|Gitlab Security Dashboard|Thinking HATS	
+|Plan|Gitlab Security Dashboard|NA|	
 |Develop|GitLab CI/CD|NA|
 |Build|GitLab CI/CD|NA|
 |Build|GitLab Package Registry|Nexus Repository Pro|
@@ -15,7 +15,8 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 |Build Testing|GitLab SAST|Fortify-on-Demand SAST(new!)
 |Other Tests|GitLab Code Quality Scanning Tool |SonarQube Community/Developer Edition
 |Other Tests|GitLab DAST|Fortify-on-demand DAST (new!)
-|Other Tests|GitLab Container Scanning|pCloudy Test Farm
+|Other Tests|GitLab Container Scanning|NA
+|Other Tests|NA|pCloudy Test Farm
 |Other Tests|GitLab (Pa11y)|Purple HATS
 |Deploy & Release|GitLab CI/CD|NA|
 

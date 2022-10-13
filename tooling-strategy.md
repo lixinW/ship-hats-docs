@@ -15,15 +15,16 @@ Following section provides tooling assessment and strategy to make the most of S
 |Access|TechPass & SEED|TechPass & SEED|NA
 |Plan|GitLab Issues|Jira Cloud (new!)|[Jira vs. GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/)|	
 |Plan|GitLab Wiki| Confluence Cloud (new!)|[GitLab Wiki vs Atlassian Confluence Cloud](#gitlab-wiki-vs-atlassian-confluence-cloud)|	
-|Plan|Gitlab Security Dashboard|Thinking HATS|[Gitlab Security Dashboard vs Thinking HATS](#gitlab-security-dashboard-vs-thinking-hats)|	
+|Plan|Gitlab Security Dashboard|NA|NA	
 |Develop|GitLab CI/CD|NA|NA|
 |Build|GitLab CI/CD|NA|NA|
 |Build|GitLab Package Registry|Nexus Repository Pro|[GitLab vs Nexus](#gitlab-vs-nexus)|
 |Build|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|[GitLab vs Nexus](#gitlab-vs-nexus)|
-|Build Testing|GitLab SAST|Fortify-on-Demand SAST(new!)|[GitLab vs FOD (SAST)](#gitlab-vs-fod-sast)|
+|Build Testing|GitLab SAST|Fortify-on-Demand SAST(new!)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
 |Other Tests|GitLab Code Quality Scanning Tool |SonarQube Community/Developer Edition|[GitLab vs SonarQube](#gitlab-vs-sonarqube)|
 |Other Tests|GitLab DAST|Fortify-on-demand DAST (new!)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
-|Other Tests|GitLab Container Scanning|pCloudy Test Farm|[GitLab Container Scanning vs pCloudy Test Farm](#gitlab-container-scanning-vs-pcloudy-test-farm)|
+|Other Tests|GitLab Container Scanning|NA|NA|
+|Other Tests|NA|pCloudy Test Farm|NA|
 |Other Tests|GitLab (Pa11y)|Purple HATS|[GitLab (Pa11y) vs Purple HATS](#gitlab-pa11y-vs-purple-hats)|
 |Deploy & Release|GitLab CI/CD|NA|NA|
 
@@ -36,9 +37,6 @@ Refer to [Jira vs GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/)
 
 Coming soon!
 
-## Gitlab Security Dashboard vs Thinking HATS
-
-Coming soon!
 
 ## GitLab vs Nexus 
 
@@ -59,9 +57,8 @@ For more information, refer to the GitLab [Sonatype Nexus Repository vs. GitLab]
 |Gating|-|SonarQube supports gating that can be configured via its UI. Without this gating capability, the alternative will be to script the gates into the pipeline. This would require additional effort and should be templated.|
 |Security Reports	|GitLab Ultimate automatically includes broad security scanning with every code commit including Static and Dynamic Application Security Testing, along with dependency scanning, container scanning, and license management.|	SonaQube provides a more detailed report than GitLab's SCA report. It contains information on code smell, portfolio, reliability, maintainability, etc. that are more developer-centric than security-centric.<br><br> SonarQube can report on unit tests, code coverage, and complexity. 
 
-## GitLab vs FOD (SAST)
 
-Coming soon!
+
 
 ## GitLab vs Fortify-on-Demand 
 
@@ -73,10 +70,37 @@ If you are **new to application security testing**, we recommend GitLab SAST/DAS
 |Data Sources |GitLab’s data is mostly open-sourced. <br><br><br><br>Compatible with industry standards.| Fortify-on-Demand has verified data sources. <br>Please use Fortify-on-Demand if you require verified data sources. <br><br>Compatible with industry standards. |
 |Remediation|Basic services | Fortify provides remediation advice, which is more detailed than GitLab native. |
 
+### SAST
 
-## GitLab Container Scanning vs pCloudy Test Farm
+- Semgrep is the highly potential tool and supports Java, javascript, TypeScript, React, Python and Go.
+- For `GO` and `Elixir`, GitLab is recommended whereas FOD supports many other language stack. 
+- For full stack framework such as `node.js`, `react`, and `ruby`, GitLab tool stack is helpful in scanning respective languages. 
+- For other veteran languages, both FOD and Gitlab are recommended. 
+- FOD offers better security. 
 
-Coming soon!
+The following table lists supporting languages and its respective SAST tool set under GitLab offering: 
+
+|Language|GitLab SAST Tool|Assessment|
+|---|---|---|
+|.Net core, .Net Framework	|Security Code Scan
+Java	|Semgrep, SpotBugs
+Javascript|	Semgrep, ESlint Security Plugin
+TypeScript	|Semgrep, ESlint Security Plugin
+Node.js	|NodeJsScan 
+React	|Semgrep, ESlint React Plugin
+Python	|Semgrep, Bandit (pip)
+Ruby on Rails|	Brakeman
+Go	|GoSec, Semgrep
+Kubernetes Manifests|	Kubesec
+Kotlin	|MobSF, SpotBugs with FindSec plugin
+Elixir	|SoBelow
+
+
+### DAST
+
+- In [GitLab recommended ZAP](https://docs.gitlab.com/ee/user/application_security/dast/), the number of vulnerabilities and number of false positives are less. 
+- In WebInspect, the scan coverage is vast and number of vulnerabilities are far higher when compare to Gitlab DAST.
+- ZAP have less number of security checks whereas FOD have complex security engine, which will conduct lot of security checks. Therefore, the scan is extensive in FOD compared to ZAP. 
 
 
 ## GitLab (Pa11y) vs Purple HATS

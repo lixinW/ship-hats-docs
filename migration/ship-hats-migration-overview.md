@@ -17,7 +17,7 @@ We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, 
 |Access|OpenVPN|TechPass & SEED|TechPass & SEED|
 |Plan|Jira|GitLab Issues|Jira Cloud (new!)	
 |Plan|Confluence|GitLab Wiki| Confluence Cloud (new!)	
-|Plan|Thinking Hats|Gitlab Security Dashboard|Thinking HATS	
+|Plan|Thinking Hats|Gitlab Security Dashboard|NA	
 |Develop|Bitbucket|GitLab CI/CD|NA|
 |Build|Bamboo|GitLab CI/CD|NA|
 |Build|Nexus Repository Pro|GitLab Package Registry|Nexus Repository Pro|
@@ -25,36 +25,12 @@ We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, 
 |Build Testing|Fortify Static Code Analyzer	|GitLab SAST|Fortify-on-Demand SAST(new!)
 |Other Tests|SonarQube Community/Developer Edition|GitLab Code Quality Scanning Tool |SonarQube Community/Developer Edition
 |Other Tests|Fortify WebInspect Enterprise|GitLab DAST|Fortify-on-demand DAST (new!)
-|Other Tests|pCloudy Test Farm|GitLab Container Scanning|pCloudy Test Farm
+|Other Tests|NA|GitLab Container Scanning|NA
+|Other Tests|pCloudy Test Farm|NA|pCloudy Test Farm
 |Other Tests|Purple HATS|GitLab (Pa11y)|Purple HATS
 |Deploy & Release|Digital.ai|GitLab CI/CD|NA|
 
-<!--
-|Tools in 1.0|Tools in 2.0|
-|---|---|
-|Thinking HATS|Gitlab Security Dashboard<br>-or-<br>Thinking HATS	
-|Jira|Gitlab Issues<br>-or-<br>Jira (Cloud)|
-|Confluence|GitLab Wiki<br>-or-<br>Confluence (Cloud)|
-|Bitbucket|GitLab|
-|Bamboo|GitLab|
-|Fortify Static Code Analyzer|GitLab SAST<br>-or-<br>Fortify On Demand (FOD) SAST|
-|SonarQube Community/Developer Edition|GitLab Code Quality <br>-or-<br>SonarQube Community/Developer Edition|
-|Nexus IQ Server| GitLab Dependency Scanning<br>-or-<br>Nexus IQ Server
-|Prisma Cloud|GitLab Container Scanning<br>-or-<br>Prisma Cloud|
-|Fortify WebInspect Enterprise|GitLab DAST<br>-or-<br>Fortify On Demand (FOD) DAST|
-|pCloudy |pCloudy |
-|Purple HATS|GitLab (Pa11y)<br>-or-<br>Purple HATS
-|Digital.ai|GitLab|
-|Nexus Repository Pro|GitLab Package Registry <br>-or-<br>Nexus Repository Pro
--->
-<!--
-| **Tools** | **Change** |
-| --- | --- |
-| <ul><li>Bitbucket</li><li>Bamboo</li><li>Digital.ai</li></ul> | <br><br><br>GitLab |  
-| <ul><li>Fortify SCA</li><li>WebInspect</li></ul> | <br><br>SaaS-based Fortify on-demand |  
-|<ul><li>Jira </li><li>Confluence </li></ul>|<br><br>SaaS-based Jira & Confluence|
-| <ul><li>Nexus IQ </li><li>Nexus Repository Pro </li><li>pCloudy Test Farm </li><li>SonarQube </li><li>Prisma Cloud </li></ul> | <br><br><br><br><br>No change |  
--->
+
 ### Pipeline Definition Format
 
 CI/CD pipeline in SHIP-HATS 2.0 uses [YAML](https://en.wikipedia.org/wiki/YAML) for configuration. 
@@ -72,15 +48,3 @@ We are taking the opportunity to move to GitLab (a SaaS model) that enables you 
 - **Ease of access:** Secure and VPN-less access to the SHIP-HATS 2.0 platform  
 
 ?> **Note:** The benefits will be rolled out in phases.
-
-<!--
-## Features
-
-- Saas with in-country hosting
-- Progressive and timely product roadmap and support
-- Ease of compliance
-- Dashboarding Capabilities for DORA Metrics and Security Findings
-- One-time migration
-
-
--->

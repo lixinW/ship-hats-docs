@@ -16,7 +16,6 @@ Following section provides tooling assessment and strategy to make the most of S
 |Plan|GitLab Issues|Jira Cloud (new!)|[Jira vs. GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/)|	
 |Plan|GitLab Wiki| Confluence Cloud (new!)|[GitLab Wiki vs Atlassian Confluence Cloud](#gitlab-wiki-vs-atlassian-confluence-cloud)|	
 |Plan|Gitlab Security Dashboard|NA|NA	
-|Develop|GitLab CI/CD|NA|NA|
 |Build|GitLab CI/CD|NA|NA|
 |Build|GitLab Package Registry|Nexus Repository Pro|[GitLab vs Nexus](#gitlab-vs-nexus)|
 |Build|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|[GitLab vs Nexus](#gitlab-vs-nexus)|

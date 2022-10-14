@@ -15,11 +15,10 @@ We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, 
 |---|---|---|---|
 |-|-|**GitLab Native**|**Alternative Tool**|
 |Access|OpenVPN|TechPass & SEED|TechPass & SEED|
-|Plan|Jira|GitLab Issues|Jira Cloud (new!)	
-|Plan|Confluence|GitLab Wiki| Confluence Cloud (new!)	
+|Plan|Atlassian Jira on-prem|GitLab Issues|Jira Cloud (new!)	
+|Plan|Atlassian Confluence on-prem|GitLab Wiki| Confluence Cloud (new!)	
 |Plan|Thinking Hats|Gitlab Security Dashboard|NA	
-|Develop|Bitbucket|GitLab CI/CD|NA|
-|Build|Bamboo|GitLab CI/CD|NA|
+|Build|Atlassian Bitbucket|GitLab CI/CD|NA|
 |Build|Nexus Repository Pro|GitLab Package Registry|Nexus Repository Pro|
 |Build|Nexus Intelligence/Nexus IQ Server|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|
 |Build Testing|Fortify Static Code Analyzer	|GitLab SAST|Fortify-on-Demand SAST(new!)
@@ -29,6 +28,7 @@ We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, 
 |Other Tests|pCloudy Test Farm|NA|pCloudy Test Farm
 |Other Tests|Purple HATS|GitLab (Pa11y)|Purple HATS
 |Deploy & Release|Digital.ai|GitLab CI/CD|NA|
+|Deploy & Release|Atlassian Bamboo|GitLab CI/CD|NA|
 
 
 ### Pipeline Definition Format

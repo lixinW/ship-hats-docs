@@ -25,7 +25,7 @@ We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, 
 |Build Testing|Fortify Static Code Analyzer	|GitLab SAST|Fortify-on-Demand SAST(new!)
 |Other Tests|SonarQube Community/Developer Edition|GitLab Code Quality Scanning Tool |SonarQube Community/Developer Edition
 |Other Tests|Fortify WebInspect Enterprise|GitLab DAST|Fortify-on-demand DAST (new!)
-|Other Tests|NA|GitLab Container Scanning|NA
+|Other Tests|Prisma Cloud|GitLab Container Scanning|NA
 |Other Tests|pCloudy Test Farm|NA|pCloudy Test Farm
 |Other Tests|Purple HATS|GitLab (Pa11y)|Purple HATS
 |Deploy & Release|Digital.ai|GitLab CI/CD|NA|

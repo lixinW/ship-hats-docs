@@ -4,7 +4,7 @@ This section provides answers to frequently asked questions.
 
 ## Timeline FAQs
 
->**Tip:** Click the triangle to view the answer.
+>**Tip:** Click the triangle or question to view the answer.
 
 <details>
   <summary><b> When can new subscribers onboard to SHIP-HATS 2.0? </b></summary><br>
@@ -62,7 +62,7 @@ Yes. Refer to the [What to Expect > Timelines](ship-hats-migration-what-to-expec
 
 ## Access FAQs
 
->**Tip:** Click the triangle to view the answer.
+>**Tip:** Click the triangle or question to view the answer.
 
 <details>
   <summary><b>How can I access SHIP-HATS 2.0?</b></summary><br>
@@ -107,7 +107,7 @@ Yes.
 
 ### Selection
 
->**Tip:** Click the triangle to view the answer.
+>**Tip:** Click the triangle or question to view the answer.
 
 <details>
   <summary><b> Why did we pick GitLab for SHIP-HATS 2.0? 
@@ -134,6 +134,8 @@ If you have a need to support systems that are above this classification, please
 
 ### Tools
 
+>**Tip:** Click the triangle or question to view the answer.
+
 <details>
   <summary><b>  How are Alternatives Tools linked in the CI pipeline on GitLab?
 </b></summary><br>
@@ -154,8 +156,6 @@ Refer to our [tooling strategy documentation](https://docs.developer.tech.gov.sg
 
 <details>
   <summary><b>  Will the pull request history be migrated from Bitbucket to GitLab repo?
-
-
 </b></summary><br>
 
 Yes, the pull request history will be able to be migrated from Bitbucket to GitLab repo.
@@ -168,13 +168,11 @@ Yes, the pull request history will be able to be migrated from Bitbucket to GitL
 
 For Jira issues, the comments will not be migrated. These will be resolved to strings instead of readings. If Jira is integrated with GitLab, the Jira links in the comments will be resolved.  
 
-
 </details>
 <br>
 
 <details>
   <summary><b>  We are currently relying on Fortify in SHIP-HATS 1.0. If we select Fortify on Demand in SHIP-HATS 2.0, will the audit from SHIP-HATS 1.0 be migrated to 2.0 as well?
-
 </b></summary><br>
 
 Yes. All the audit findings and issue suppression will be migrated to Fortify on Demand. These will include all the attributes that have been set up in your application.
@@ -194,13 +192,11 @@ Yes. All the audit findings and issue suppression will be migrated to Fortify on
 
 <details>
   <summary><b>  Can we set up our own compliance template?	
-
 </b></summary><br>
 
-Yes, you can create your own compliance template. We do recommend that you build it on top of SHIP-HATS 2.0 templates provided. However, it must be contributed to the project before it can be applied to the project.
+Yes, you can create your own compliance template. We do recommend that you build it on top of SHIP-HATS 2.0 templates provided. However, it must be contributed to the project before it can be applied to the project.  
 
 For more information, refer to following documentation:
-
 - [Pipeline templates](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates)
 - [sample pipeline](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/sample-pipeline)
 - [GitLab innersourcing](https://about.gitlab.com/solutions/innersource/)
@@ -209,11 +205,9 @@ For more information, refer to following documentation:
 
 <details>
   <summary><b>  Can I use a combination of GitLab Native and Alternative Tools?
-
 </b></summary><br>
 
 Yes. For detailed information, refer to the assessment in the [tooling strategy](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/ship-hats-tools?id=tooling-strategy) documentation.
-
 </details>
 <br>
 
@@ -228,13 +222,9 @@ No. For more information, refer to [Dashboards](https://docs.developer.tech.gov.
 
 <details>
   <summary><b>  What do I do, if I don't find a SHIP-HATS template that I need?  
-
-
 </b></summary><br>
 
 If you don't find a E2E or modular template you are looking for, raise a request [http://go.gov.sg/she](http://go.gov.sg/she). Based on the demand we will create. If you've created a template and please contribute back in GitLab.
-
-
 </details>
 <br>
 
@@ -252,7 +242,7 @@ Team will revert with more information.
 
 ### Architecture - Runners
 
->**Tip:** Click the triangle to view the answer.
+>**Tip:** Click the triangle or question to view the answer.
 
 
 <details>
@@ -323,7 +313,7 @@ All the packages from the internet have to proxy through Nexus on SHIP-HATS for 
 
 
 
->**Tip:** Click the triangle to view the answer.
+>**Tip:** Click the triangle or question to view the answer.
 
 
 <details>
@@ -353,7 +343,7 @@ If GitLab supports the webhook, it can be integrated.
 
 ### 1.0 to 2.0 Migration
 
->**Tip:** Click the triangle to view the answer.
+>**Tip:** Click the triangle or question to view the answer.
 
 
 <details>
@@ -391,15 +381,15 @@ SHIP-HATS team is supporting through free trainings - webinars and hands-on work
 </details>
 <br>
 
-## Training
+## Training FAQs
+
+>**Tip:** Click the triangle or question to view the answer.
 
 <details>
   <summary><b>  Any GitLab courses for BAs managing CI/CD to up-skill so we can manage DevOps better?	
-
 </b></summary><br>
 
 Refer to the following resources:
-
 - [Learning Events](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/learning-events) for our upcoming webinars and trainings.
 - [Self-paced trainings](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/self-paced-trainings) for self-paced trainings and GitLab content.
 
@@ -408,11 +398,8 @@ Refer to the following resources:
 
 <details>
   <summary><b>  Any cost difference between guided and self-led support Migration?
-
-
 </b></summary><br>
 
 Both support options are free. We offer two options to provide flexibility for agencies to choose the option that suits their setup better and manage their migration. 
-
 </details>
 <br>

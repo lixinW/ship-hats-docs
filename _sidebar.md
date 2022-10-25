@@ -1,6 +1,7 @@
 **Overview**
   - [Audience](audience)
   - [Overview](ship-hats-overview)
+  - [What's New](what-s-new)
   - [Compliance Framework](compliance-framework)
   - [Dashboards](dashboards)
   - [Architecture](architecture)

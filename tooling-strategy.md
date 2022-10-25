@@ -13,8 +13,8 @@ Following section provides tooling assessment and strategy to make the most of S
 |Stage|GitLab Native|Alternative Tool|Assessment|
 |---|---|---|---|
 |Access|TechPass & SEED|TechPass & SEED|NA
-|Plan|GitLab Issues|Jira Cloud (new!)|[Jira vs. GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/)|	
-|Plan|GitLab Wiki| Confluence Cloud (new!)|[GitLab Wiki vs Atlassian Confluence Cloud](#gitlab-wiki-vs-atlassian-confluence-cloud)|	
+|Plan|GitLab Issues|Jira |[GitLab Wiki vs Atlassian Jira](#gitlab-issues-vs-atlassian-jira)|	
+|Plan|GitLab Wiki| Confluence |[GitLab Wiki vs Atlassian Confluence](#gitlab-wiki-vs-atlassian-confluence)|	
 |Plan|Gitlab Security Dashboard|NA|NA	
 |Build|GitLab CI/CD|NA|NA|
 |Build|GitLab Package Registry|Nexus Repository Pro|[GitLab vs Nexus](#gitlab-vs-nexus)|
@@ -28,11 +28,11 @@ Following section provides tooling assessment and strategy to make the most of S
 |Deploy & Release|GitLab CI/CD|NA|NA|
 
 
-## GitLab Issues vs Atlassian Jira Cloud
+## GitLab Issues vs Atlassian Jira
 
 Refer to [Jira vs GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/) for a comparison.
 
-## GitLab Wiki vs Atlassian Confluence Cloud 
+## GitLab Wiki vs Atlassian Confluence 
 
 Coming soon!
 

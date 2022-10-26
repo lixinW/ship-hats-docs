@@ -43,7 +43,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |11|[Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal).| Subscription Admin (SA)|
 
 
-[User roles and permissions](./portal/user-roles-and-permissions.md ':include')
+[User roles and permissions](user-roles-permissions.md ':include')
 
 
 <!--

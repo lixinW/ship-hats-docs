@@ -1,5 +1,6 @@
 This is a hands-on tutorial that provides an introduction to the use of templates and compliance developed by SHIP-HATS.
 
+<!--
 **Topics**
 - [How to use this tutorial](#how-to-use-this-tutorial)
 - [Prerequisites](#prerequisites)
@@ -16,57 +17,61 @@ This is a hands-on tutorial that provides an introduction to the use of template
 - [Links and documentation](#links-and-documentation)
 - [Call for contribution / innersourcing](#call-for-contribution--innersourcing)
 
-
+-->
 
 # How to use this tutorial
 
-The tutorial comprises of a list of checkpoints to guide users to build and deploy a simple Python web application while adhering to the DevSecOps practices and being as compliant as possible.
+The tutorial contains of a list of checkpoints to guide you to build and deploy a simple Python web application while adhering to the DevSecOps practices and being as compliant as possible.
 
-In each checkpoint, users will complete some step-by-step development work that will help the users learn to use the templates and their design rationale.  
-
-Branches numbered in sequence have been provided in this repository. These branches contain the code that should be `<used/included?>` at each checkpoint.  
-
-Users can also use them to skip ahead by merging the relevant checkpoint to their branches. For example, for skipping to checkpoint 4, users can run `git merge` for checkpoint 4.
+- In each checkpoint, you will complete some step-by-step development work that will help the you learn to use the templates and their design rationale.  
+- Branches numbered in sequence have been provided in this repository. These branches contain the code that should be used at each checkpoint.  
+- You can also use them (`what does them mean here`) to skip ahead by merging the relevant checkpoint to their branches. For example, for skipping to checkpoint 4, you can run `git merge` for checkpoint 4.
 
 # Prerequisites
 
-* TP User account 
-* BYO SEED/DEEP-enabled device
-* Deployment target
-* Nexus Repo test account
-* Nexus IQ test account
-* FOD DAST/SAST test account
+- Make sure that you have the following:
+    - SEED/DEEP-enabled device
+    - Deployment target
+
+- Raise a request at `she` to get the following information:
+
+    - Trainee number `#`
+    - TP User account 
+    - Nexus Repo test account
+    - Nexus IQ test account
+    - FOD DAST/SAST test account
 
 # Fork this tutorial
 
-Let us begin with an example Python web app that you need to build and deploy. Complete the following steps:
+Let us begin with an example Python web app that you need to build and deploy. Complete the following steps to fork this tutorial:
 
-1. Fork this tutorial by accessing [this URL](https://gts.gitlab-dedicated.systems/compliance/govtech/workshop/tutorial/web-app-tutorial) 
-    1. In the top-right of the page, select **Fork**
-    1. Enter values in the available fields. Make sure that **Project URL** is set to *compliance/govtech/Workshop/Exercise*. 
+1. Access [this URL](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/workshop/web-app-tutorial). 
+1. In the top-right of the page, select **Fork**.
+1. Enter values in the available fields. 
+1. Make sure that **Project URL** is set to **WOG/GVT/ship/workshop-attendees/sgts-trainee-`#`**, where `#` is trainee number provided to you.
 
-        >**Note:** The requirement to sign commits using GPG signature is disabled only for the purpose of this workshop. In your live development, make sure to follow the global setting and set up your machines to sign commits as a best practice. For more information, refer to https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/ 
+    >**Note:** The requirement to sign commits using GPG signature is disabled only for the purpose of this workshop. In your live development, make sure to follow the global setting and set up your machines to sign commits as a best practice. For more information, refer to https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/ 
 
-2. Clone from your newly forked project and run using the following line of code:
+1. Clone from your newly forked project, and then run the following line of code:
 
     ```
     git checkout master
 
     ```
 
-3. Validate and make sure that there is no file named **.gitlab-ci.yml**. This filename is reserved for the default pipeline definition in Gitlab. Running a pipeline to build and deploy the web app would require this file to be defined.
+1. Observe that there is no file named **.gitlab-ci.yml**. This filename is reserved for the default pipeline definition in GitLab. Running a pipeline to build and deploy the web app would [require this file to be defined](#checkpoint-1---configure-e2e-template). 
 
 
 # Checkpoint 1 - Configure E2E template
 
-To configure E2E template, you require a `.gitlab-ci.yml` file that you can build from scratch or you can try to find a match in use-case defined within the [SHIP-HATS E2E Templates](https://gts.gitlab-dedicated.systems/compliance/e2e-templates). For our example, we will use the relevant webapp E2E template provided in the [SHIP-HATS E2E](https://gts.gitlab-dedicated.systems/compliance/e2e-templates/webapp-e2e) templates. The instructions for usage are provided in its `README`.
+To configure E2E template, you require a `.gitlab-ci.yml` file that you can build from scratch or you can try to find a match in use-case defined within the [SHIP-HATS E2E Templates](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/e2e-templates). For our example, we will use the relevant webapp E2E template provided in the [SHIP-HATS E2E](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/e2e-templates/ship-hats-webapp-e2e-templates) templates. The instructions for usage are provided in its `README`.
 
 To put the Python webapp source codebase alongside the E2E template, you can use one of the following options:
 
-* Create a repository clone from the E2E template, and then copy the Python webapp files in the newly cloned repository.
-* Clone E2E template repo locally, and then push its files to the Python webapp repository.
-* Fork from E2E template repo.
-* Create a `.gitlab-ci.yml` file and include the E2E template's `.gitlab-ci.yml` by adding the following lines of code:
+- Create a repository clone from the E2E template, and then copy the Python webapp files in the newly cloned repository.
+- Clone E2E template repo locally, and then push its files to the Python webapp repository.
+- Fork from E2E template repo.
+- Create a `.gitlab-ci.yml` file and include the E2E template's `.gitlab-ci.yml` by adding the following lines of code:
 
   ```
   include:
@@ -80,39 +85,41 @@ To put the Python webapp source codebase alongside the E2E template, you can use
 
   ```
 
->**Note:** Each of the above options has its own pros and cons. 
+> **Note:** Each of the above options has its own pros and cons. 
 > - The copy/fork method would require more manual maintenance  
 > - The inclusion method would mean that if the E2E template pipeline changes, your pipeline could be affected without prior knowledge or notice.  
->There is ongoing development of release management plans of the templates and compliance.
+> - There is ongoing development of release management plans of the templates and compliance.
 
 1. Run the following lines of code:
 
     ``` 
-    git checkout master
+    git checkout master  
 
     git merge origin/checkpoint-1/configure-e2e-template
     ```
 
-3. Observe that: 
-    * The E2E template files has been placed alongside with the Python webapp by whichever method specified, except for the inclusion method.
-    * `.gitlab-ci.yml` has standard stages defined to build and deploy a web application. The stages are important for compliance to be applied later on. **Do not rename or change them. You can, however, customise the definition of the jobs within as and when needed.** 
-    * Any customisation, such as app-specific or language-dependent steps, are to be placed inside of the files `BUILD/TEST/DEPLOY.gitlab-ci.yml` as the E2E templates are designed to be language-agnostic. You will also be required for fill up the variables section (All of the required details are covered either in E2E templates documentation or later on in this tutorial).
-    * Observe the usage of modular templates in `.gitlab-ci.yml`. The wait for service to be up first before integration testing is leveraging [wait-for-app-and-assert-text](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-check-app-readinessyml) from SHIP-HATS templates. The use of it takes away the complexity of bash development. You may find other templates useful as they are built to be modular and reusable with great care also given to security aspects.
+3. Observe the following: 
+    - The E2E template files has been placed alongside with the Python webapp by whichever method specified, except for the inclusion method.
+    - `.gitlab-ci.yml` has standard stages defined to build and deploy a web application. These stages are important for compliance to be applied later on. **Do not rename or change them. You can, however, customise the definition of the jobs within as and when needed.** 
+    - Any customisation, such as app-specific or language-dependent steps, is to be placed inside the file `BUILD/TEST/DEPLOY.gitlab-ci.yml` as the E2E templates are designed to be language-agnostic. You will also be required for fill the variables section.  
+
+    `All of the required details are covered either in E2E templates documentation or later on in this tutorial`.
+    - Observe the usage of modular templates in `.gitlab-ci.yml`. The wait for service to be up first before integration testing is leveraging **[wait-for-app-and-assert-text](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-check-app-readinessyml)** from SHIP-HATS templates. Using this takes away the complexity of bash development. You may find [other templates](pipeline-templates) useful as they are built to be modular and reusable while ensuring security.
 
 # Checkpoint 2 - Configure build
 
-We need to define the app-specific details such as how to build the webapp, which can be done in BUILD.gitlab-ci.yml file. 
+1. Define the app-specific details, such as how to build the webapp. This can be done in the `BUILD.gitlab-ci.yml` file. 
 
-1. Run: 
+1. Run the following lines of code: 
     ``` 
     git checkout master
 
     git merge origin/checkpoint-2/configure-build
     ```
 
-2. Observe BUILD.gitlab-ci.yml. `build-job` has been defined to build this Python webapp. If you are building a Ruby or Java application, the customised scripts can go in here. You may find some examples [here](https://gts.gitlab-dedicated.systems/compliance/e2e-templates/e2e-examples). 
+2. Observe `BUILD.gitlab-ci.yml`. `build-job` has been defined to build this Python webapp. If you are building a Ruby or Java application, the customised scripts can be added here. You may find some examples [here](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/e2e-templates/examples). 
 
-3. Observe .gitlab-ci.yml. `WORKING_DIR=pythonapp` and `OUTPUT_ARTEFACT=$WORKING_DIR/pythonapp.zip` has been defined. WORKING_DIR is referenced by BUILD.gitlab-ci.yml as it will run the build command in the directory to produce an OUTPUT_ARTEFACT. OUTPUT_ARTEFACT should be the path to the file of the binary or zipped folder that is to be eventually deployed. It is also used by compliance later for scanning and signing as well as for verification of checksum.
+3. Observe `.gitlab-ci.yml`. Note that `WORKING_DIR=pythonapp` and `OUTPUT_ARTEFACT=$WORKING_DIR/pythonapp.zip` have been defined. `WORKING_DIR` is referenced by `BUILD.gitlab-ci.yml` as it will run the build command in the directory to produce an `OUTPUT_ARTEFACT`. `poi` should be the path to the file of the binary or zipped folder that is to be eventually deployed. It is also used by compliance later for scanning and signing as well as for verification of checksum.
 
 # Checkpoint 3 - Configure test
 
@@ -141,7 +148,7 @@ We need to define the app-specific way of testing the webapp, which can be done 
     git push origin master # trigger pipeline to run
     ```
 
-5. Observe the pipeline status. This can be done through the **Pipeline** section under **CI/CD** in the navigation bar. Click on the pipeline under the status column accordingly. The various jobs and stages defined in .gitlab-ci.yml can now be seen. To view the output of each job, click on the individual job.
+5. Observe the pipeline status. This can be done through the **Pipeline*- section under **CI/CD*- in the navigation bar. Click on the pipeline under the status column accordingly. The various jobs and stages defined in .gitlab-ci.yml can now be seen. To view the output of each job, click on the individual job.
 
 6. Verify that the pipeline passes the `static-test` stage but fails at the `deploy-to-testing-env` stage
 
@@ -160,7 +167,7 @@ We need to define the infrastructure-specific way of deploying the webapp, which
 
 3. Define `PORT=<user_port>` in .gitlab-ci.yml. For classroom-conducted trainings, please check with the trainer for your specific port number.
 
-4. Define `UNZIPPED_DIR=<user_app_dir>` in DEPLOY.gitlab-ci.yml. **<user_app_dir>** should not have any whitespaces. For classroom-conducted trainings, please check with the trainer for your specific directory name.
+4. Define `UNZIPPED_DIR=<user_app_dir>` in DEPLOY.gitlab-ci.yml. **<user_app_dir>*- should not have any whitespaces. For classroom-conducted trainings, please check with the trainer for your specific directory name.
 
 5. Push changes to master branch:
     ```
@@ -172,7 +179,7 @@ We need to define the infrastructure-specific way of deploying the webapp, which
 
 6. Observe DEPLOY.gitlab-ci.yml. The steps are used for deployment to staging environment for running E2E tests against and also later on reused for final deployment to production environment. This consistency is important to omit any possibilities of the webapp being deployed wrongly. 
 
-7. Observe the usage of modular templates. In DEPLOY.gitlab-ci.yml, fetching of the SSH key from AWS Secrets Manager is leveraging [**invoke-awssecretretrieval**](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-awsyml) from SHIP-HATS Templates. The use of it takes away the complexity of role assumption and more importantly, it uses a method that requires no storage of secrets like AWS_SECRET_ACCESS_KEY and AWS_ACCESS_KEY_ID. The templates are building blocks developed by the platform team to help users fix up pipelines quicker and safer and the project is open for innersourcing welcoming contributors from users. See [CONTRIBUTING.md](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates/-/blob/main/CONTRIBUTING.md).
+7. Observe the usage of modular templates. In DEPLOY.gitlab-ci.yml, fetching of the SSH key from AWS Secrets Manager is leveraging [**invoke-awssecretretrieval**](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-awsyml) from SHIP-HATS Templates. The use of it takes away the complexity of role assumption and more importantly, it uses a method that requires no storage of secrets like AWS_SECRET_ACCESS_KEY and AWS_ACCESS_KEY_ID. The templates are building blocks developed by the platform team to help you fix up pipelines quicker and safer and the project is open for innersourcing welcoming contributors from you. See [CONTRIBUTING.md](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates/-/blob/main/CONTRIBUTING.md).
 
 8. Verify that the pipeline fails due to missing variables in the `runtime-test` stage.
 
@@ -196,7 +203,7 @@ We need to define the infrastructure-specific way of deploying the webapp, which
 
 3. Verify that the pipeline is now passing runtime-test stage.
 
-4. A point to emphasise is that such tests may vary based on different frameworks/languages used in development. It is okay to override the job's implementation; the use of RobotFramework may not be for everyone, it is included in the E2E template as a starter/guide and a reminder for users the importance of having E2E tests for compliance.
+4. A point to emphasise is that such tests may vary based on different frameworks/languages used in development. It is okay to override the job's implementation; the use of RobotFramework may not be for everyone, it is included in the E2E template as a starter/guide and a reminder for you the importance of having E2E tests for compliance.
 
 # Checkpoint 6 - Configure publish To Nexus
 
@@ -216,7 +223,7 @@ We need to define the infrastructure-specific way of deploying the webapp, which
     |NEXUSREPO_REPO_GROUP_ID|workshop-python|Variable for `publish-maven-artefact` template|
     |ARTEFACT_PACKAGE|zip|Variable for `publish-maven-artefact` template|
 
-3. Define `ARTEFACT_ID=<artefact_name>` in .gitlab-ci.yml. **<artefact_name>** should not have any whitespaces. This is the name of the artefact that will be pushed to the Nexus Repo. For classroom-conducted trainings, please check with the trainer for your specific artefact name.
+3. Define `ARTEFACT_ID=<artefact_name>` in .gitlab-ci.yml. **<artefact_name>*- should not have any whitespaces. This is the name of the artefact that will be pushed to the Nexus Repo. For classroom-conducted trainings, please check with the trainer for your specific artefact name.
 
 4. Verify that the pipeline passes the publish stage and the pipeline runs successfully.
 
@@ -233,9 +240,9 @@ We need to define the infrastructure-specific way of deploying the webapp, which
 7. As the `deploy-final-job` to deploy to production environment is configured to be triggered manually, in the navigation bar, select the job through "CI/CD" > "Pipelines" > select the most recent pipeline > trigger the `deploy-final-job` by clicking the "play" button.
 
 8. Observe the pipeline jobs and dependencies. Using E2E template helps in:
-    * Ensuring the required pieces of a CI/CD pipeline is present with the definition of sequence of events. 
-    * Users' pipeline uses an artefactory in between build/test and deploy.
-    * Segregation of responsibilities between build/test and deploy.
+    - Ensuring the required pieces of a CI/CD pipeline is present with the definition of sequence of events. 
+    - you' pipeline uses an artefactory in between build/test and deploy.
+    - Segregation of responsibilities between build/test and deploy.
 
 9. Finally, observe "Deployments" > "Environments" in the navigation bar again. A "production" environment is up and running and added on top of the previous "testing" environment. `deploy-final-job` with  "environment:name" set to "production" in DEPLOY.gitlab-ci.yml automatically enables this. You can select the "production" environment then "View Deployment" to see the actual webapp through your browser to verify it is up. You may have different environment values (staging) set for different branches. Possible names for environments: https://docs.gitlab.com/ee/ci/yaml/index.html#environmentdeployment_tier. You may protect your environment as per: https://docs.gitlab.com/ee/ci/environments/protected_environments.html.
 
@@ -256,10 +263,10 @@ Now that the pipeline is complete, the Python webapp pipeline is able to build a
 3. Trigger pipeline by selecting in the navigation bar "CI/CD" > "Pipelines" > "Run pipeline" > Select "master" under "Run for branch name or tag" > "Run pipeline".
 
 4. Run the pipeline and observe the additional compliance jobs. Using the webapp compliance framework helps in:
-    * Ensuring the checksum/signature verification in between pushing the artefact to the repository and pulling it for deployment.
-    * Static scans including secret detection scans are in place.
-    * DAST is in place.
-    * Reports are generated as part of provenance and visibility.
+    - Ensuring the checksum/signature verification in between pushing the artefact to the repository and pulling it for deployment.
+    - Static scans including secret detection scans are in place.
+    - DAST is in place.
+    - Reports are generated as part of provenance and visibility.
 
 5. Upon completion of the run, observe "Security & Compliance" > "Security dashboard" in the navigation bar.
 
@@ -283,28 +290,29 @@ Now that the pipeline is complete, the Python webapp pipeline is able to build a
 
 # Achievements through tutorial
 
-* Ease of CI/CD development - templates, E2E templates
-* Leverage on Gitlab's OTS security tools
-* Leverage on Gitlab's reporting and scorecards
-* Can be on future leaderboard scoring for QD. (Unconfirmed)
-* Be more **compliant**, as per CNCF white paper 
-  * Pipeline as code with commit history
-  * Sign and verify artefacts
-  * SAST and SCA
-  * Prioritizing trusted package managers and repositories by the fetching of libraries and images via Nexus Repo 
-  * Standardization of pipelines across projects 
-  * Uploading of artefacts (even as images) to artifactory in this case, Nexus Repo
+- Ease of CI/CD development - templates, E2E templates
+- Leverage on Gitlab's OTS security tools
+- Leverage on Gitlab's reporting and scorecards
+- Can be on future leaderboard scoring for QD. (Unconfirmed)
+- Be more **compliant**, as per CNCF white paper 
+  - Pipeline as code with commit history
+  - Sign and verify artefacts
+  - SAST and SCA
+  - Prioritizing trusted package managers and repositories by the fetching of libraries and images via Nexus Repo 
+  - Standardization of pipelines across projects 
+  - Uploading of artefacts (even as images) to artifactory in this case, Nexus Repo
 
 TODO:
 - Amend compliance to be able to switch toolchain (https://gts.gitlab-dedicated.systems/compliance/ship-hats-compliance/-/issues/32
 )
 
 # Links and documentation
-* [Modular templates](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates)
-* [End-to-end templates](https://gts.gitlab-dedicated.systems/compliance/e2e-templates) and [examples](https://gts.gitlab-dedicated.systems/compliance/e2e-templates/e2e-examples)
+- [Modular templates](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates)
+- [End-to-end templates](https://gts.gitlab-dedicated.systems/compliance/e2e-templates) 
+- [Examples](https://gts.gitlab-dedicated.systems/compliance/e2e-templates/e2e-examples)
 
 
 # Call for contribution / innersourcing
-* [Modular templates](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates)
-* [End-to-end templates](https://gts.gitlab-dedicated.systems/compliance/e2e-templates) and [examples](https://gts.gitlab-dedicated.systems/compliance/e2e-templates/e2e-examples)
-* Compliance
+- [Modular templates](https://gts.gitlab-dedicated.systems/templates/ship-hats-templates)
+- [End-to-end templates](https://gts.gitlab-dedicated.systems/compliance/e2e-templates) and [examples](https://gts.gitlab-dedicated.systems/compliance/e2e-templates/e2e-examples)
+- Compliance

@@ -1,30 +1,41 @@
 # Terms and Policies
 
-<!--**Topics**
-- [Policies](#policies)
-- [Service level agreement](#service-level-agreement)
-- [Third party schedule](#third-party-schedule)
-- [Plugin review process](#plugin-review-process)
--->
-<!--## Policies
+## Confluence Global Retention Rules
 
-The policies listed below have been emailed out to SHIP-HATS users. These are cross posted here for ease of use.
+In the view of improving our service capability and operation efficiency, SHIP-HATS Confluence Global Retention Rules will be configured as follows:
 
-### Latest (25 Oct 2021)
+|Global Retention Rule|Rule criteria|
+|---|---|
+|**Attachment versions**|Keep by Number: **5 versions**<br><br>Keep the 5 most recent versions, and automatically delete any earlier versions.  
+|**Page versions**|Keep by Age: **6 months**<br><br>Pages will automatically delete any version older than 6 months.<br><br>**Note:** Current version will not be affected. 
+|**Trash**|Keep by Number: **1 month**<br><br>Purge any item deleted more than 1 month ago.
 
-<span style="color:red">Add Content for latest announcement here</span>
+The SHIP-HATS Confluence Global Retention Rules will take effect on **30th November 2022**.
+
+Agencies are reminded NOT to override the default SHIP-HATS Confluence retention configuration of your spaces.
 
 ### FAQs
 
-<span style="color:red">Add Related FAQs here</span>
--->
-<!--
+>**Tip:** Click the question to view the answer.
+
 
 <details>
- <summary> OLD  </summary><br>
+  <summary><b>What if I want to keep one or few of older versions/attachments for our future reference?</b></summary><br>
+  We strongly recommend you to backup and store the pages/attachments in your own local storage services if needed.
+</details>
+<br>
+<details>
+  <summary><b>Will there be any notification send to agency what are the pages/attachments were deleted?</b></summary><br>
+  No notification will be sent to the agency. Please work with your project admin and do necessary housekeeping actions.
+</details>
+<br>
+<details>
+  <summary><b>What if my latest version itself is not updated for more than 6 months? Will it get deleted as well?</b></summary><br>
+  No, the current page version itself will not be affected.
+</details>
+<br>
 
-  </details>
--->
+
 
 ## Service level agreement
 This Service Level Agreement (SLA) is between Government

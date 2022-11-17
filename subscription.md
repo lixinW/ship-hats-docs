@@ -22,7 +22,61 @@ Please refer to [1.0 Subscription](https://www.developer.tech.gov.sg/products/ca
 
 - Existing subscriber will need to sign a new Subscription Agreement.
 
+<!--
 
+## Subscription Plans
+
+
+- Subscription plan has been developed to promote GitLab-Native, where all integrated tools are available as add-ons.  
+- Agencies pay for a Base sub fee and choose the number of users and add-ons.
+- Ancillary Products are currently not cost recoverable from agencies. However, SEED/TechPass, is charged to GCC and SHIP-HATS. The others are self-funded.
+- TechBiz will be chargeable after December. 
+
+
+### Base Plan
+
+|Component|What's Included|Remarks|
+|---|---|---|
+Base Bundle <br><br> (Up to 50 GitLab licenses per bundle)|3 x GitLab Ultimate User License <br><br>Basic Support|Can add-on up to 47 more GitLab licenses<br><br>Fair Usage Policy – 1 GitLab license is entitled to up to 10 Gb
+
+
+<br><br>
+
+### Add-ons
+
+|Component|What's Included|Remarks|
+|---|---|---|
+Jira/Confluence|1 x Jira/Confluence License|Agencies to determine # of users that require this license
+GitLab Ultimate|1 x GitLab Ultimate User License|Agencies to determine # of users that require this license
+Sonatype Nexus IQ & Nexus Repo|1 x Nexus IQ <br><br>1 x Nexus Repo User License|Agencies to determine # of users that require this license
+pCloudy Testing Farm|1 x pCloudy (shared mobile tests)|(20% of users are using the shared mobile tests today)|
+||1 x pCloudy ios Device (dedicated)<br><br>1 x pCloudy Android Device (dedicated)|1 device can be used concurrently across multiple GitLab Projects, and tests can be run in parallel
+|SonarQube|1 x SonarQube Community Edition App|1 app can be used for 1 sub
+||1 x SonarQube Dev Edition App|1 app can be used for 1 GitLab Project each
+Fortify-on-Demand|1 x FOD App|1 app can be shared across multiple GitLab Projects, but tests cannot be run in parallel
+
+## Subscription Pricing Plan
+Proposed monthly charge in SHIP-HATS 2.0 per subscription. Each subscription will include:
+
+1. 10GB of data for GitLab
+1. pCloudy (shared mobile tests)
+1. Basic Support
+1. 3 x GitLab licenses (capped at 50 licenses per subscription)
+
+>**Notes:** 
+>- Above items are related to fixed costs that cannot be allocated out. 
+>- Item (4) Variable license provided for agencies to promote use of new SaaS.
+>- Capping related to GitLab license is done through system. >- Agencies will need to sign up a new subscription if they need more than 50 licenses. 
+
+**For pricing details, please log in to your TechBiz account.**
+
+## Recommendations
+
+1. Review actual usage – some agencies are purchasing more than they are using
+1. Consider GitLab-Native, where possible
+1. Share Fortify on Demand across applications if concurrent testing is not necessary
+
+-->
 
 <!--
 ?> Though subscription for SHIP-HATS 2.0 has been realigned, pricing for SHIP-HATS 2.0 will be less than the pricing for SHIP-HATS 1.0. 
@@ -160,6 +214,7 @@ No. Subscription Admin (SA) accounts do not consume quota.
 
 
 ### Related Topics
-- [User roles and permissions](./portal/user-roles-and-permissions)
+
 - [User roles and permissions](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/user-roles-and-permissions)
+
 -->

@@ -14,13 +14,13 @@
   - [IPsec Tunnel](ipsec-tunnel)
   - [Set up GitLab Runners](gitlab-runners)
 **CI/CD Pipeline**
-- [CI/CD pipeline](ci-cd-pipeline)  
-- [Pipeline templates](pipeline-templates)
-- [Sample pipeline](sample-pipeline)
+  - [CI/CD pipeline](ci-cd-pipeline)  
+  - [Pipeline templates](pipeline-templates)
+  - [Sample pipeline](sample-pipeline)
 **Training**
-- [Overview](training)
-- [Learning events](learning-events)
-- [Self-paced trainings](self-paced-trainings)
+  - [Overview](training)
+  - [Learning events](learning-events)
+  - [Self-paced trainings](self-paced-trainings)
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
@@ -42,4 +42,10 @@
 
   - [Tooling Strategy](tooling-strategy)
   - [Roadmap](roadmap)
+
+**Web App Tutorial**
+  - [Overview](web-app-tutorial)
+  - [Configure CI/CD Pipeline](configure-ci-cd-pipeline)
+  - [Additional resources](additional-resources)
+
 -->  

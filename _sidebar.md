@@ -7,8 +7,8 @@
   - [Architecture](architecture)
   - [Tools](ship-hats-tools)
   - [Subscription](subscription)
-**Subscribe to SHIP-HATS**  
-  - [Subscribing](subscribing-to-ship-hats)  
+**Onboard to SHIP-HATS**  
+  - [Onboarding](onboard-to-ship-hats)  
 **Environment Connectivity**
   - [AWS VPC Endpoint](aws-vpc-endpoint)
   - [IPsec Tunnel](ipsec-tunnel)

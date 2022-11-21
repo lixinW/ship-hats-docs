@@ -1,9 +1,24 @@
-# Subscribing to SHIP-HATS
+# Onboard to SHIP-HATS
+
+To subscribe to SHIP-HATS, the [Subscription Administrator (SA)](#user-roles-and-permissions) must use the [TechBiz service to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/). For more information, refer to the [TechBiz](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) documentation. 
+
+After you have subscribed to SHIP-HATS via the TechBiz service, SA can:
+
+- [Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal). 
+- If you are using an Internet device to onboard to the SHIP-HATS portal, your device must be [Onboarded to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) before SA can [Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal).
+
+
+## User roles and permissions
+
+[User roles and permissions](user-roles-permissions.md ':include')
+
 
 <!--**Topics**
 - [Prerequisites](#prerequisites)
 - [Subscribing](#subscribing)
 -->
+
+<!--
 ## Prerequisites
 
 - Make sure that you have the required [Subscription](subscription).
@@ -21,9 +36,9 @@
 The following image and table outlines the steps that you must complete to get started with SHIP-HATS. After you have completed these steps, you will need to perform additional steps to onboard to the SHIP-HATS portal and configure the tools that you want to use.  
 
 These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted.
-
+-->
 <!--![Onboarding](./images/onboarding-ship-hats.png)-->
-
+<!--
 <p align="center">
   <img src="./images/subscribing-ship-hats.png">
 </p>
@@ -42,8 +57,8 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |10|[Onboard to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/).|Agency|
 |11|[Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal).| Subscription Admin (SA)|
 
+-->
 
-[User roles and permissions](user-roles-permissions.md ':include')
 
 
 <!--

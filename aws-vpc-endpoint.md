@@ -21,7 +21,9 @@ You can connect to SHIP-HATS using one of the following methods based on your se
     ![VPC Endpoints](./images/vpc-endpoints.png)
 
 1. Click **Create Endpoint**. 
-1. Click **Find Service By Name**, and then provide the endpoint service name to which you want to connect. You can choose the endpoint service based on information included in [VPC Endpoint Services](#vpc-endpoint-services).
+1. Click **Find Service By Name/Other endpoint services**, and then provide the endpoint service name to which you want to connect. You can choose the endpoint service based on information included in [VPC Endpoint Services](#vpc-endpoint-services).
+
+    ![Create Endpoints](./images/create-endpoints-old.png)
 
     ![Create Endpoints](./images/create-endpoints.png)
 

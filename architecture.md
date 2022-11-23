@@ -13,6 +13,8 @@ The SHIP-HATS 2.0 Architecture can be described in the following sections:
 
 ![Architecture](./images/architecture.png)
 
+The above architecture diagram represents our vision. For information on our roadmap, refer to [Upcoming features](#upcoming-features). 
+
 ## Access
 
 SHIP-HATS 2.0 is accessible using [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/) & [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) as this is the unified approach to accessing any SGTS product. 
@@ -40,8 +42,8 @@ In SHIP-HATS 2.0 platform, there are 3 types of runners:
 
     |Runner Variant|Executor|Privileged|Cache Enabled|Run Untag|Notes|
     |---|---|---|---|---|---|
-    |Cstack Runner|kubernetes|FALSE|YES|YES|Run as non-root
-    |Docker Runner|docker+machine|TRUE|YES|NO|Supports docker-in-docker
+    |CStack Runner|kubernetes|FALSE|YES|YES|Run as non-root
+    |Docker Runner|docker+machine|FALSE|YES|NO|We have removed privileged access for SHIP-HATS shared runner. This affects build of systems that used the shared runners with docker-in-docker. Alternatively, you can use Kaniko.
     |Windows Runner|shell|N/A|YES|NO|- OS: MS Windows Server 2019 Base<br>- Git: 2.36.1<br>- Visual Studio 2022 version 17.0<br>- .Net framework 4.8 development tools
 
 - **Agency-hosted Remote Runner:** The agency-hosted remote runners are the dedicated machines that are set-up and managed by agencies. These runners can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS. 
@@ -89,7 +91,7 @@ Following image shows an example of production pipeline in Gitlab:
 
 ## Upcoming features
 
-|Items|GA (Nov’22)|Future Releases|
+|Items|GA (Jan’23)|Future Releases|
 |---|---|---|
 SaaS Applications|GitLab|JIRA, Confluence, Fortify on Demand, Sonatype
 Runners|SHIP-hosted runner<br><br>Agency hosted runner|Gitlab Shared runners

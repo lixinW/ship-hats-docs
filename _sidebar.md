@@ -2,17 +2,20 @@
   - [Audience](audience)
   - [Overview](ship-hats-overview)
   - [What's New](what-s-new)
-  - [Compliance Framework](compliance-framework)
-  - [Dashboards](dashboards)
   - [Architecture](architecture)
   - [Tools](ship-hats-tools)
+**Key Features**
+  - [Compliance Framework](compliance-framework)
+  - [Dashboards](dashboards)
+**Onboard to SHIP-HATS** 
   - [Subscription](subscription)
-**Onboard to SHIP-HATS**  
   - [Onboarding](onboard-to-ship-hats)  
 **Environment Connectivity**
   - [AWS VPC Endpoint](aws-vpc-endpoint)
   - [IPsec Tunnel](ipsec-tunnel)
   - [Set up GitLab Runners](gitlab-runners)
+  - [Sign commits with GPG](signing-commits-with-gpg)
+  - [Communicate using SSH keys](communicate-using-ssh-keys)  
 **CI/CD Pipeline**
   - [CI/CD pipeline](ci-cd-pipeline)  
   - [Pipeline templates](pipeline-templates)

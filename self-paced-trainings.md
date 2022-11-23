@@ -50,8 +50,8 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 |---|---|---|
 100| Overview | [SHIP-HATS 2.0 Strategy & Updates](https://youtu.be/dRfI_zXgiHs) 
 100| Overview|[Technical Architecture Video](https://youtu.be/aMARb5xd1qI) <br><br> [Technical Architecture Doc](architecture)|
-100| Process|[Subscription](subscription) 
-100| Process | [Subscribing to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscribing-to-ship-hats) |
+100| Process|[Subscription for SHIP-HATS](subscription) 
+100| Process | [Onboarding to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats) |
 100| Tools|[Using SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)|
 |100| Tools|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) | 
 |100| Tools|[Developer Journey - Idea to Production](https://www.youtube.com/watch?v=4aGvMxRe9go)| 

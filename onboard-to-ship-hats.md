@@ -1,12 +1,37 @@
 # Onboard to SHIP-HATS
 
-To subscribe to SHIP-HATS, the [Subscription Administrator (SA)](#user-roles-and-permissions) must use the [TechBiz service to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/). For more information, refer to the [TechBiz](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) documentation. 
+## Onboarding steps
 
-After you have subscribed to SHIP-HATS via the TechBiz service, SA can:
+To onboard or subscribe to SHIP-HATS, the [Subscription Administrator (SA)](#user-roles-and-permissions) must complete the following steps:
 
-- [Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal). 
-- If you are using an Internet device to onboard to the SHIP-HATS portal, your device must be [Onboarded to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) before SA can [Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal).
+|Step|Task|Owner|
+|---|---|---|
+|1| Review and decide the [Subscription](subscription) required.|[Subscription Administrator (SA)](#user-roles-and-permissions)
+|2 |Use the [TechBiz service to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to onboard to the SHIP-HATS product.|  SA
 
+## Post onboarding steps
+After you have onboarded or subscribed to the SHIP-HATS product via the TechBiz service, complete the following steps:
+
+|Step|Task|Owner|
+|---|---|---|
+|1|[Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal) <br><br>  If you are using an Internet device to onboard to the SHIP-HATS portal, your device must be [Onboarded to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) before SA can [Onboard to the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal).|SA
+|2|[Create a project](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-projects) |SA
+|3|[Invite a Project Administrator (PA)](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-admins)|SA  
+|4|[Provision GitLab](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools)|[Project Administrator (PA)](#user-roles-and-permissions)|
+|5|[Log in to GitLab on your SEED device](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/gitlab/gitlab-login)<br><br>SHIP-HATS 2.0 GitLab: https://sgts.gitlab-dedicated.com/ |PA|
+|6|Navigate to your GitLab group  `https://sgts.gitlab-dedicated.com/WOG/<agencyname>/<groupname>`|PA|
+|7|Verify GitLab Group created during TechBiz Subscription onboarding|PA|
+|8|[Add SSH Key to securely communicate with GitLab](communicate-using-ssh-keys)|PA
+|9|[Add a GPG (for signed commits) from your SEED Device](signing-commits-with-gpg)|PA
+|9|Set up Environment Connectivity via [AWS VPC Endpoint](aws-vpc-endpoint) or [IPsec Tunnel](ipsec-tunnel) <br><br> This is an optional step.|PA|
+|10|[Set up GitLab Runners](gitlab-runners) <br><br> This is an optional step.|PA
+
+## What's next 
+
+- [Onboard additional users in the SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-users)
+- [Create additional projects in the SHIP-HATS portal as needed](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-projects)
+- [Add project tools or SHIP-HATS services via SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools)
+- [Add applications/projects for project tools](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-applications)
 
 ## User roles and permissions
 

@@ -1,4 +1,4 @@
-# Compliance framework
+# Compliance Framework
 
 In SHIP-HATS 2.0., we are leveraging Gitlab [Compliance Framework](https://docs.gitlab.com/ee/administration/compliance.html) feature. 
 

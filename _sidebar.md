@@ -7,6 +7,8 @@
 **Key Features**
   - [Compliance Framework](compliance-framework)
   - [Dashboards](dashboards)
+  - [Pipeline templates](pipeline-templates)
+  - [Sample pipeline](sample-pipeline)  
 **Onboard to SHIP-HATS** 
   - [Subscription](subscription)
   - [Onboarding](onboard-to-ship-hats)  
@@ -16,10 +18,6 @@
   - [Set up GitLab Runners](gitlab-runners)
   - [Sign commits with GPG](signing-commits-with-gpg)
   - [Communicate using SSH keys](communicate-using-ssh-keys)  
-**CI/CD Pipeline**
-  - [CI/CD pipeline](ci-cd-pipeline)  
-  - [Pipeline templates](pipeline-templates)
-  - [Sample pipeline](sample-pipeline)
 **Training**
   - [Overview](training)
   - [Learning events](learning-events)
@@ -51,4 +49,8 @@
   - [Configure CI/CD Pipeline](configure-ci-cd-pipeline)
   - [Additional resources](additional-resources)
 
+**CI/CD Pipeline**
+  - [CI/CD pipeline](ci-cd-pipeline)  
+  - [Pipeline templates](pipeline-templates)
+  - [Sample pipeline](sample-pipeline)
 -->  

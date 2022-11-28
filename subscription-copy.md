@@ -2,7 +2,12 @@
 
 SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe to SHIP-HATS. However, agencies can extend subscriptions to non-agency users, such as vendors. 
 
+
+> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
+
+<!--
 > Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.
+-->
 
 
 ## Overview
@@ -24,21 +29,21 @@ These tools are provided by SHIP-HATS as they are the best in-the-market at this
 
 |Component|What's Included|Remarks|
 |---|---|---|
-Base Bundle<br><br> (Up to 50 GitLab licenses per bundle)|3 x GitLab Ultimate User License|Can add-on up to 47 more GitLab licenses<br><br> Fair Usage Policy – 1 GitLab license is entitled to up to 10 Gb
-||Basic support (8:30 AM to 6 PM)|
+Base Bundle<br><br> (Up to 50 GitLab licenses per bundle)|3 x GitLab Ultimate User License|For more users, add additional GitLab licenses at a per [month price](https://go.gov.sg/sh2indicative)<br><br> Fair Usage Policy – 1 GitLab license is entitled to up to 10 GB
+||Basic support (8:30 AM to 5 PM)|
 ||pCloudy shared|
 
-## Add-ons
+### Add-ons
 
 |Component|What's Included|Remarks|
 |---|---|---|
-Jira/Confluence|1 x Jira/Confluence License|Agencies to determine # of users that require this license
 GitLab Ultimate|1 x GitLab Ultimate User License|Agencies to determine # of users that require this license
+Jira/Confluence|1 x Jira/Confluence License|Agencies to determine # of users that require this license
 Sonatype Nexus IQ & Nexus Repo|1 x Nexus IQ <br><br>1 x Nexus Repo User License|Agencies to determine # of users that require this license
 pCloudy Testing Farm|1 x pCloudy ios Device (dedicated)<br><br> 1 x pCloudy Android Device (dedicated)|1 device can be used concurrently across multiple GitLab Projects, and tests can be run in parallel
 SonarQube|1 x SonarQube Community Edition App<br><br>1 x SonarQube Dev Edition App|1 app can be used for 1 subscription (i.e. shared across GitLab projects)<br><br>1 app can be used for 1 subscription (i.e. shared across GitLab projects)
 Fortify-on-Demand|1 x FOD App|1 app can be shared across multiple GitLab Projects, but tests cannot be run in parallel.
-Additional support|Per hour (after 6 PM)|Outside office hours|
+Additional support|Per hour (after 5:30 PM)|Outside office hours|
 
 
 ## Subscriptions vs User Accounts
@@ -59,7 +64,28 @@ Proposed monthly charge in SHIP-HATS 2.0 per subscription. Each subscription wil
   - per bundle
   - 1 sub can have more than one bundle
 
+> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
+
+<!--
 > Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.
+-->
+
+## Considerations for pricing
+<!--
+### Principles for WOG Cost Optimisation
+
+<ul><li><b>Cost-recovery</b> approach as required by MOF</li><li>Central platform efforts for tooling <b>optimisation and security</b></li><li>Quarterly & Annual Platform <b>Audits</b></li><li>Procurement <b>Time Savings</b></li><li><b>Bulk Prices</b> with Discounts</li></ul>
+
+
+
+### Customer-focussed pricing
+
+<ul><li><b>Flexibility:</b> to build your own package based on your agency's requirements</li><li><b>Lesser wastage:</b> Purchase only what you need and <b>scale when necessary</b> (E.g. when your requirements get more complex</li><li><b>Easier to get started with DevOps:</b> Base price supports lean teams with 3 licenses</li></ul>
+-->
+
+|Principles for WOG Cost Optimisation|Customer-focussed pricing|
+|---|---|
+|<ul><li><b>Cost-recovery</b> approach as required by MOF</li><li>Central platform efforts for tooling <b>optimisation and security</b></li><li>Quarterly & Annual Platform <b>Audits</b></li><li>Procurement <b>Time Savings</b></li><li><b>Bulk Prices</b> with Discounts</li></ul>|<ul><li><b>Flexibility:</b> to build your own package based on your agency's requirements</li><li><b>Lesser wastage:</b> Purchase only what you need and <b>scale when necessary</b> (E.g. when your requirements get more complex</li><li><b>Easier to get started with DevOps:</b> Base price supports lean teams with 3 licenses</li></ul>|
 
 ## Recommendations
 
@@ -80,6 +106,9 @@ Follow these recommendations to keep costs low:
 If you are migrating from 1.0 to 2.0, you will continue to pay 1.0 pricing until fully migrate to 2.0. After the complete migration, you will start paying as per 2.0 pricing. 
 
 If you complete migration in mid of a month, you will continue to pay as per 1.0 pricing for that month. The 2.0 will commence from next month onwards.
+
+> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
+
 
  </details>
 <br>
@@ -103,7 +132,10 @@ You can [subscribe to SHIP-HATS via the TechBiz portal](https://docs.developer.t
 <details>
  <summary><b>How much does it cost to subscribe to SHIP-HATS?  </b></summary><br>  
 
-Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details. 
+> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
+
+<!--
+Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details. -->
 
  </details>
 <br>
@@ -111,7 +143,13 @@ Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.develope
 <details>
  <summary><b>When does billing start for a subscription?  </b></summary><br>  
 
-Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. SA can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.
+Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
+
+> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
+
+
+
+<!--SA can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.-->
 </details>
 <br>
 
@@ -259,6 +297,27 @@ Agencies can allocate the user at GitLab level to ensure that additional quota i
 <br>
 
 
+
+<!--
+# Subscription
+
+
+SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe to SHIP-HATS. However, agencies can extend subscriptions to non-agency users, such as vendors. 
+
+Please refer to [1.0 Subscription](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/subscription) for details. We will provide SHIP-HATS 2.0 subscription details soon. 
+
+## Pricing
+
+- Aiming for a comparable pricing as SHIP-HATS 1.0. 
+- More details by end of Q2 FY22. 
+
+?> You can [send your pricing questions](http://go.gov.sg/she) and we will answer them after the Pricing Review is complete.
+
+## Process needs
+
+- Existing subscriber will need to sign a new Subscription Agreement.
+
+-->
 
 <!--
 **Topics**

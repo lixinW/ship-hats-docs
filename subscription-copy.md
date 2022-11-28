@@ -231,6 +231,13 @@ They can [request for an OTP to access TechBiz portal](https://docs.developer.te
 <br>
 
 <details>
+ <summary><b> Can SHIP-HATS portal be accessed with SE-GSIB device? </b></summary><br>  
+
+No, access to SHIP-HATS portal is currently not possible with SE-GSIB devices.
+</details>
+<br>
+
+<details>
  <summary><b> Can TechBiz portal be accessed with SE-GSIB device? </b></summary><br>  
 
 No, access to TechBiz portal is currently not possible with SE-GSIB devices.

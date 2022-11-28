@@ -124,7 +124,7 @@ After your new subscription is approved and created via TechBiz, your projects a
 <details>
  <summary><b> How does an agency subscribe to SHIP-HATS?	 </b></summary><br>  
 
-You can [subscribe to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats).
+You can [subscribe to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats) after GA in January 2023.
 
  </details>
 <br>

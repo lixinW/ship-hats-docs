@@ -1,98 +1,58 @@
 # Subscription
 
-SHIP-HATS manages its tenants through subscriptions. Only agencies can subscribe to SHIP-HATS. However, agencies can extend subscriptions to non-agency users, such as vendors. 
+SHIP-HATS Subscription can be initiated by public officers in Agencies. Once subscribed, the Subscription Admin can invite Project Admins and users who can be public officers or in the vendor teams. 
 
-
-> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
+?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
 <!--
 > Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.
 -->
 
+## Subscription Strategy
 
-## Overview
+We aligned the subscription strategy with our 1.0 user observations.
 
-SHIP-HATS 2.0. is based on GitLab, specifically the Ultimate Tier of GitLab Dedicated SaaS in Singapore. The Ultimate Tier is GitLab’s highest offering and includes all components (what we will term as “GitLab-Native”) required in CI/CD including tools for planning, security testing, integration, and deployment.
+- **Easier to get started with DevOps:** Many lean teams can benefit from the base price that offers the GitLab integrated platforms. 
+- **Flexibility:** Agencies can build your own subscription with GitLab Native and Alternative Tools based on their requirements
+- **Lesser wastage:** Purchase only what you need and scale when necessary, such as when your requirements get more complex.
 
-Using all GitLab-Native tools will enable a user to benefit the most from the integrated GitLab solution. However, there are still some scenarios where an agency may choose an alternative tool (instead of the GitLab-Native tool) provided by another provider.
+## Subscription Plan
 
-These tools are provided by SHIP-HATS as they are the best in-the-market at this point of time. For example, in Gartner’s Magic Quadrant for Application Security, Fortify-on-Demand is a clear leader while the GitLab-Native equivalent for SAST is still catching up. In this case, an agency that requires a more robust SAST tool may choose to use Fortify-on-Demand instead of the GitLab-Native offering. 
+- Any SHIP-HATS subscriber starts with a [Base plan](#base-plan). 
+- Based on needs subscribers, you can optionally choose any [Add-ons](#add-ons).
+- For all new subscriptions, there will be a **Minimum Commitment Period of six months** from the date of SHIP-HATS account provisioning. 
 
-
-## Subscription Plans
-
-- Subscription plan has been developed to promote GitLab-Native, where all integrated tools are available as add-ons.  
-- Agencies pay for a Base sub fee and choose the number of users and add-ons.
-- Ancillary Products are currently not cost recoverable from agencies. However, SEED/TechPass, is charged to GCC and SHIP-HATS.  Other tools are self-funded.
 
 ### Base plan
 
-|Component|What's Included|Remarks|
-|---|---|---|
-Base Bundle<br><br> (Up to 50 GitLab licenses per bundle)|3 x GitLab Ultimate User License|For more users, add additional GitLab licenses at a per [month price](https://go.gov.sg/sh2indicative)<br><br> Fair Usage Policy – 1 GitLab license is entitled to up to 10 GB
-||Basic support (8:30 AM to 5 PM)|
-||pCloudy shared|
+
+
+- 3 x GitLab Ultimate User License 
+  - Got more users? You can buy up to  47 additional GitLab Ultimate license as [Add-on](#add-ons). If you have more than 50 users (3 Base + 47 Add-ons), you will need to purchase additional Base plan. 
+  - One subscriber can have more than one Base plan
+  - Fair Usage Policy – 1 GitLab license is entitled to up to 10 GB
+- Standard support (8:30 AM to 5 PM)
+- pCloudy shared
+
 
 ### Add-ons
 
-|Component|What's Included|Remarks|
+|Component|What's Included|Notes|
 |---|---|---|
-GitLab Ultimate|1 x GitLab Ultimate User License|Agencies to determine # of users that require this license
-Jira/Confluence|1 x Jira/Confluence License|Agencies to determine # of users that require this license
-Sonatype Nexus IQ & Nexus Repo|1 x Nexus IQ <br><br>1 x Nexus Repo User License|Agencies to determine # of users that require this license
+GitLab Ultimate|1 x GitLab Ultimate User License|Based on the number of users
+Jira/Confluence|1 x Jira/Confluence License|Based on the number of users
+Sonatype Nexus IQ & Nexus Repo|1 x Nexus IQ <br><br>1 x Nexus Repo User License|Based on the number of users
 pCloudy Testing Farm|1 x pCloudy ios Device (dedicated)<br><br> 1 x pCloudy Android Device (dedicated)|1 device can be used concurrently across multiple GitLab Projects, and tests can be run in parallel
 SonarQube|1 x SonarQube Community Edition App<br><br>1 x SonarQube Dev Edition App|1 app can be used for 1 subscription (i.e. shared across GitLab projects)<br><br>1 app can be used for 1 subscription (i.e. shared across GitLab projects)
 Fortify-on-Demand|1 x FOD App|1 app can be shared across multiple GitLab Projects, but tests cannot be run in parallel.
 Additional support|Per hour (after 5:30 PM)|Outside office hours|
 
 
-## Subscriptions vs User Accounts
+## Agencies with multiple Subscriptions
 
-- Agencies should tie individual users to one Subscription
-  - A vendor may cut across subscriptions as agencies won’t know if the user is already tied to a Subscription. In this case, unfortunately, the same vendor may be charged more than once if the vendor is added to multiple Subscriptions in TechBiz.
-- Users are only charged once in one Subscription account in TechBiz. However, within GitLab, they are free to allocate the user to various projects that cut across subscriptions
-- Agencies should not include a user in more than one Subscription account, else they risk being charged more than once
+- If a developer is working on projects spanning across multiple SHIP-HATS subscriptions account, we recommend to assign the developer to one subscription. You can then use GitLab to allocate the user to various projects that span across multiple subscriptions.
+- If you add the same user to more than one subscription through TechBiz, they will be charged more than once.  
 
-
-## Subscription Pricing Plan
-Proposed monthly charge in SHIP-HATS 2.0 per subscription. Each subscription will include:
-
-- 10GB of data for GitLab
-- pCloudy (shared mobile tests)
-- Basic Support
-- 3 x GitLab licenses (capped at 50 licenses per subscription)
-  - per bundle
-  - 1 sub can have more than one bundle
-
-> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
-
-<!--
-> Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.
--->
-
-## Considerations for pricing
-<!--
-### Principles for WOG Cost Optimisation
-
-<ul><li><b>Cost-recovery</b> approach as required by MOF</li><li>Central platform efforts for tooling <b>optimisation and security</b></li><li>Quarterly & Annual Platform <b>Audits</b></li><li>Procurement <b>Time Savings</b></li><li><b>Bulk Prices</b> with Discounts</li></ul>
-
-
-
-### Customer-focussed pricing
-
-<ul><li><b>Flexibility:</b> to build your own package based on your agency's requirements</li><li><b>Lesser wastage:</b> Purchase only what you need and <b>scale when necessary</b> (E.g. when your requirements get more complex</li><li><b>Easier to get started with DevOps:</b> Base price supports lean teams with 3 licenses</li></ul>
--->
-
-|Principles for WOG Cost Optimisation|Customer-focussed pricing|
-|---|---|
-|<ul><li><b>Cost-recovery</b> approach as required by MOF</li><li>Central platform efforts for tooling <b>optimisation and security</b></li><li>Quarterly & Annual Platform <b>Audits</b></li><li>Procurement <b>Time Savings</b></li><li><b>Bulk Prices</b> with Discounts</li></ul>|<ul><li><b>Flexibility:</b> to build your own package based on your agency's requirements</li><li><b>Lesser wastage:</b> Purchase only what you need and <b>scale when necessary</b> (E.g. when your requirements get more complex</li><li><b>Easier to get started with DevOps:</b> Base price supports lean teams with 3 licenses</li></ul>|
-
-## Recommendations
-
-Follow these recommendations to keep costs low: 
-- Review actual usage – some agencies are purchasing more than they are using
-- Consider GitLab-Native, where possible
-- Share Fortify on Demand across applications if concurrent testing is not necessary
 
 ## FAQs
 
@@ -107,8 +67,7 @@ If you are migrating from 1.0 to 2.0, you will continue to pay 1.0 pricing until
 
 If you complete migration in mid of a month, you will continue to pay as per 1.0 pricing for that month. The 2.0 will commence from next month onwards.
 
-> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
-
+?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
  </details>
 <br>
@@ -132,10 +91,8 @@ You can [subscribe to SHIP-HATS via the TechBiz portal](https://docs.developer.t
 <details>
  <summary><b>How much does it cost to subscribe to SHIP-HATS?  </b></summary><br>  
 
-> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
 
-<!--
-Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details. -->
+?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
  </details>
 <br>
@@ -145,7 +102,7 @@ Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.develope
 
 Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
 
-> Subscription Admin (SA) can **view pricing details on GSIB** via [https://go.gov.sg/sh2indicative](https://go.gov.sg/sh2indicative).
+?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
 
 
@@ -165,7 +122,14 @@ Yes. These users will be allocated a guest account.
 <details>
  <summary><b> Can I upgrade or downgrade to a different subscription plan and how do I do this? </b></summary><br>  
 
-Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement.  
+Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. While you may upgrade to additional users and add-on anytime. However, you can downgrade only after the <b>Minimum Commitment Period</b> (Six consecutive months from the date of account provisioning).
+</details>
+<br>
+
+<details>
+ <summary><b> What is the minimum commitment period before I can downgrade SHIP-HATS tools? </b></summary><br>  
+
+You can downgrade only after the <b>Minimum Commitment Period</b> of six consecutive months from the date of account provisioning.
 </details>
 <br>
 
@@ -296,7 +260,59 @@ Agencies can allocate the user at GitLab level to ensure that additional quota i
 </details>
 <br>
 
+<!--
 
+|Component|What's Included|Remarks|
+|---|---|---|
+Base Bundle<br><br> (Up to 50 GitLab licenses per bundle)|3 x GitLab Ultimate User License|- You can buy up to  47 additional GitLab Ultimate license as [Add-on](#add-ons). If you have more than 50 users (3 Base + 47 Add-ons), you will need to purchase additional Base plan.<br><br>- One subscriber can have more than one Base plan<br><br> - Fair Usage Policy – 1 GitLab license is entitled to up to 10 GB
+||Basic support (8:30 AM to 5 PM)|
+||pCloudy shared|
+
+
+- Agencies should tie individual users to one Subscription
+  - A vendor may cut across subscriptions as agencies won’t know if the user is already tied to a Subscription. In this case, unfortunately, the same vendor may be charged more than once if the vendor is added to multiple Subscriptions in TechBiz.
+- Users are only charged once in one Subscription account in TechBiz. However, within GitLab, they are free to allocate the user to various projects that cut across subscriptions
+- Agencies should not include a user in more than one Subscription account, else they risk being charged more than once
+
+
+## Subscription Pricing Plan
+Proposed monthly charge in SHIP-HATS 2.0 per subscription. Each subscription will include:
+
+- 10GB of data for GitLab
+- pCloudy (shared mobile tests)
+- Basic Support
+- 3 x GitLab licenses (capped at 50 licenses per subscription)
+  - per bundle
+  - 1 sub can have more than one bundle
+
+
+?> All Public Officers can [view pricing details on GSIB (via link hosted on intranet)](https://go.gov.sg/sh2indicative).
+
+> Subscription Admin (SA) can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.
+
+### Principles for WOG Cost Optimisation
+
+<ul><li><b>Cost-recovery</b> approach as required by MOF</li><li>Central platform efforts for tooling <b>optimisation and security</b></li><li>Quarterly & Annual Platform <b>Audits</b></li><li>Procurement <b>Time Savings</b></li><li><b>Bulk Prices</b> with Discounts</li></ul>
+
+
+
+### Customer-focussed pricing
+
+<ul><li><b>Flexibility:</b> to build your own package based on your agency's requirements</li><li><b>Lesser wastage:</b> Purchase only what you need and <b>scale when necessary</b> (E.g. when your requirements get more complex</li><li><b>Easier to get started with DevOps:</b> Base price supports lean teams with 3 licenses</li></ul>
+
+## Considerations for pricing
+
+|Principles for WOG Cost Optimisation|Customer-focussed pricing|
+|---|---|
+|<ul><li><b>Cost-recovery</b> approach as required by MOF</li><li>Central platform efforts for tooling <b>optimisation and security</b></li><li>Quarterly & Annual Platform <b>Audits</b></li><li>Procurement <b>Time Savings</b></li><li><b>Bulk Prices</b> with Discounts</li></ul>|<ul><li><b>Flexibility:</b> to build your own package based on your agency's requirements</li><li><b>Lesser wastage:</b> Purchase only what you need and <b>scale when necessary</b> (E.g. when your requirements get more complex</li><li><b>Easier to get started with DevOps:</b> Base price supports lean teams with 3 licenses</li></ul>|
+
+## Recommendations
+
+Follow these recommendations to keep costs low: 
+- Review actual usage – some agencies are purchasing more than they are using
+- Consider GitLab-Native, where possible
+- Share Fortify on Demand across applications if concurrent testing is not necessary
+-->
 
 <!--
 # Subscription
@@ -367,9 +383,9 @@ Base Bundle <br><br> (Up to 50 GitLab licenses per bundle)|3 x GitLab Ultimate U
 
 |Component|What's Included|Remarks|
 |---|---|---|
-Jira/Confluence|1 x Jira/Confluence License|Agencies to determine # of users that require this license
-GitLab Ultimate|1 x GitLab Ultimate User License|Agencies to determine # of users that require this license
-Sonatype Nexus IQ & Nexus Repo|1 x Nexus IQ <br><br>1 x Nexus Repo User License|Agencies to determine # of users that require this license
+Jira/Confluence|1 x Jira/Confluence License|Based on the number of users
+GitLab Ultimate|1 x GitLab Ultimate User License|Based on the number of users
+Sonatype Nexus IQ & Nexus Repo|1 x Nexus IQ <br><br>1 x Nexus Repo User License|Based on the number of users
 pCloudy Testing Farm|1 x pCloudy (shared mobile tests)|(20% of users are using the shared mobile tests today)|
 ||1 x pCloudy ios Device (dedicated)<br><br>1 x pCloudy Android Device (dedicated)|1 device can be used concurrently across multiple GitLab Projects, and tests can be run in parallel
 |SonarQube|1 x SonarQube Community Edition App|1 app can be used for 1 sub

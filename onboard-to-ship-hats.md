@@ -1,5 +1,7 @@
 # Onboard to SHIP-HATS
 
+The following topic provides details for **onboarding to SHIP-HATS after GA** in January 2023. 
+
 ## Onboarding steps
 
 To onboard or subscribe to SHIP-HATS, the [Subscription Administrator (SA)](#user-roles-and-permissions) must complete the following steps:
@@ -7,7 +9,7 @@ To onboard or subscribe to SHIP-HATS, the [Subscription Administrator (SA)](#use
 |Step|Task|Owner|
 |---|---|---|
 |1| Review and decide the [Subscription](subscription) required.|[Subscription Administrator (SA)](#user-roles-and-permissions)
-|2 |Use the [TechBiz service to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to onboard to the SHIP-HATS product.|  SA
+|2 |After GA in January, 2023, you can use the [TechBiz service to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to onboard to the SHIP-HATS product.|  SA
 
 ## Post onboarding steps
 After you have onboarded or subscribed to the SHIP-HATS product via the TechBiz service, complete the following steps:

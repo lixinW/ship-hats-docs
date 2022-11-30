@@ -13,7 +13,7 @@ The SHIP-HATS 2.0 Architecture can be described in the following sections:
 
 ![Architecture](./images/architecture.png)
 
-The above architecture diagram represents our vision. For information on our roadmap, refer to [Upcoming features](#upcoming-features). 
+?> The above architecture diagram represents our vision. For information on our roadmap, refer to [Upcoming features](#upcoming-features). 
 
 ## Access
 
@@ -93,15 +93,17 @@ Following image shows an example of production pipeline in Gitlab:
 
 |Items|GA (Jan’23)|Future Releases|
 |---|---|---|
-SaaS Applications|GitLab|JIRA, Confluence, Fortify on Demand, Sonatype
 Runners|SHIP-hosted runner<br><br>Agency hosted runner|Gitlab Shared runners
-Deployment (common service)|GCC* 1.0 (Internet/Intranet)<br><br>GCC* 2.0 (non-GEN/GEN)|Agency On-prem (DC)<br><br>Commercial Cloud (CC)<br><br>GCC 2.0 GCP|
-Automated Testing (Runtime)|Internet, non-GEN<br><br>Intranet, GEN||
+Deployment (common service)|GCC* 1.0 (Internet)<br><br> GCC* 1.0 (Intranet)<br><br>GCC* 2.0 (non-GEN/GEN)|Agency On-prem (DC)<br><br>Commercial Cloud (CC)<br><br>GCC 2.0 GCP|
+Automated Testing (Runtime)|Internet, non-GEN|Intranet, GEN|
 E2E Pipeline Template|Support common use cases|Mature with inner-sourcing contributions
 Compliance Pipeline|Limited coverage|Comprehensive, with SLSA framework, DevSecOps Policy
 DevOps Maturity Metrics|Preliminary|Continuous development on VSM
 
 *AWS & Azure
+
+<!-- SaaS Applications|GitLab|JIRA, Confluence, Fortify on Demand, Sonatype
+ -->
 
 ## Terminology
 This documentation uses the following terminology:

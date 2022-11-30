@@ -31,7 +31,7 @@ We aligned the subscription strategy with our 1.0 user observations.
   - Got more users? You can buy up to  47 additional GitLab Ultimate license as [Add-on](#add-ons). If you have more than 50 users (3 Base + 47 Add-ons), you will need to purchase additional Base plan. 
   - One subscriber can have more than one Base plan
   - Fair Usage Policy – 1 GitLab license is entitled to up to 10 GB
-- Standard support (8:30 AM to 5 PM)
+- Standard support (9:00 AM to 5:30 PM except public holidays)
 - pCloudy shared
 
 

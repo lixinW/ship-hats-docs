@@ -91,6 +91,9 @@ Following image shows an example of production pipeline in Gitlab:
 
 ## Upcoming features
 
+[Product Roadmap](./roadmap-features.md ':include')
+
+<!--
 |Items|GA (Jan’23)|Future Releases|
 |---|---|---|
 Runners|SHIP-hosted runner<br><br>Agency hosted runner|Gitlab Shared runners
@@ -101,7 +104,7 @@ Compliance Pipeline|Limited coverage|Comprehensive, with SLSA framework, DevSecO
 DevOps Maturity Metrics|Preliminary|Continuous development on VSM
 
 *AWS & Azure
-
+-->
 <!-- SaaS Applications|GitLab|JIRA, Confluence, Fortify on Demand, Sonatype
  -->
 

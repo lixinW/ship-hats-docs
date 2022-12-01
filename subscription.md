@@ -59,13 +59,23 @@ Additional support|Per hour (after 5:30 PM)|Outside office hours|
 >**TIP:** Click the triangle or the question to view the answer.
 
 
+<details>
+ <summary><b>What is the pricing for SHIP-HATS 2.0?  </b></summary><br>  
+
+
+All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
+
+- Any SHIP-HATS subscriber starts with a [Base plan](#base-plan). 
+- Based on needs subscribers, you can optionally choose any [Add-ons](#add-ons).
+- For all new subscriptions, there will be a **Minimum Commitment Period of six months** from the date of SHIP-HATS account provisioning. 
+
+ </details>
+<br>
 
 <details>
- <summary><b> I am migrating from 1.0 to 2.0. How will pricing work for me?	 </b></summary><br>  
+ <summary><b>When do I get the final pricing for SHIP-HATS 2.0?  </b></summary><br>  
 
-If you are migrating from 1.0 to 2.0, you will continue to pay 1.0 pricing until fully migrate to 2.0. After the complete migration, you will start paying as per 2.0 pricing. 
-
-If you complete migration in mid of a month, you will continue to pay as per 1.0 pricing for that month. The 2.0 will commence from next month onwards.
+We will announce final pricing in March 2023. The final pricing will be applicable from April, 2023 onwards. 
 
 ?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
@@ -73,34 +83,15 @@ If you complete migration in mid of a month, you will continue to pay as per 1.0
 <br>
 
 <details>
- <summary><b>After migration, what happens to my existing projects and tools setup?  </b></summary><br>  
-
-After your new subscription is approved and created via TechBiz, your projects and tools will be mapped to your new subscription.
-
- </details>
-<br>
-
-<details>
- <summary><b> How does an agency subscribe to SHIP-HATS?	 </b></summary><br>  
-
-You can [subscribe to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats) after GA in January 2023.
-
- </details>
-<br>
-
-<details>
- <summary><b>How much does it cost to subscribe to SHIP-HATS?  </b></summary><br>  
-
-
-?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
-
- </details>
-<br>
-
-<details>
- <summary><b>When does billing start for a subscription?  </b></summary><br>  
+ <summary><b>How will I charged until final pricing? </b></summary><br>  
 
 Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
+
+**The new pricing is applicable from April, 2023 onwards.**
+
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until April 2023.
+
+If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from April onwards. 
 
 ?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
@@ -111,18 +102,53 @@ Billing starts from the first of the following month as we offer free subscripti
 <br>
 
 <details>
- <summary><b> Can there be users who just have “read-only” access? </b></summary><br>  
+ <summary><b> How can we onboard to SHIP-HATS 2.0? </b></summary><br>  
 
-Yes. These users will be allocated a guest account. 
+You can [subscribe to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats) after GA in January 2023.
 
-</details>
+ </details>
+<br>
+
+<details>
+ <summary><b> I am migrating from 1.0 to 2.0. How will pricing work for me?	 </b></summary><br>  
+
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until April 2023.
+
+If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from April onwards. 
+
+?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
+
+
+**The new pricing is applicable from April, 2023 onwards.**
+
+ </details>
 <br>
 
 
 <details>
+ <summary><b>When does billing start for a subscription? </b></summary><br>  
+
+Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
+
+**The new pricing is applicable from April, 2023.**
+
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge for until April 2023.
+
+If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from April onwards. 
+
+?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
+
+<!--SA can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.-->
+</details>
+<br>
+
+<details>
  <summary><b> Can I upgrade or downgrade to a different subscription plan and how do I do this? </b></summary><br>  
 
-Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. While you may upgrade to additional users and add-on anytime. However, you can downgrade only after the <b>Minimum Commitment Period</b> (Six consecutive months from the date of account provisioning).
+Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. 
+
+- You may upgrade to additional users and add-on anytime.  
+- You can downgrade only after the <b>Minimum Commitment Period</b> (Six consecutive months from the date of account provisioning).
 </details>
 <br>
 
@@ -134,9 +160,9 @@ You can downgrade only after the <b>Minimum Commitment Period</b> of six consecu
 <br>
 
 <details>
- <summary><b> Can I add-on or scale-down tools or resources bundled along with my subscription? </b></summary><br>  
+ <summary><b> How can I add-on or scale-down tools or resources bundled along with my subscription? </b></summary><br>  
 
-Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement.  
+[Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement.  
 
 </details>
 <br>
@@ -145,7 +171,7 @@ Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/por
 <details>
  <summary><b> How do I cancel my subscription? </b></summary><br>  
 
-Yes, Subscription Administrator can [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) to cancel subscription with one month notice as per the service sheet. 
+Subscription Administrator can [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) to cancel subscription with one month notice as per the service sheet. 
 </details>
 <br>
 
@@ -155,9 +181,9 @@ Yes, Subscription Administrator can [raise a service request](https://jira.ship.
 Yes, as a Subscription Administrator or a Project Administrator, you can monitor resource utilisation from your SHIP-HATS account.
 
 
-Subscription Administrators can monitor Plan Details, Named Users, Projects at the subscription level while Project Administrators can monitor Named Users at the associated project level.
-
-For GitLab, you can view [GitLab dashboards](dashboards). 
+- Subscription Administrators can monitor Plan Details, Named Users, Projects at the subscription level.  
+- Project Administrators can monitor Named Users at the associated project level.
+- For GitLab, you can view [GitLab dashboards](dashboards). 
 </details>
 <br>
 
@@ -259,6 +285,26 @@ No.
 Agencies can allocate the user at GitLab level to ensure that additional quota is not consumed at the subscription level. Agencies should not allocate same user across multiple subscriptions.
 </details>
 <br>
+
+<details>
+ <summary><b>After migration, what happens to my existing projects and tools setup?  </b></summary><br>  
+
+After your new subscription is approved and created via TechBiz, your projects and tools will be mapped to your new subscription.
+
+Migration activity does not include migrating your pipelines. 
+
+ </details>
+<br>
+
+<details>
+ <summary><b> Can there be users who just have “read-only” access? </b></summary><br>  
+
+Yes. These users will be allocated a guest account. 
+
+</details>
+<br>
+
+
 
 <!--
 **Topics**

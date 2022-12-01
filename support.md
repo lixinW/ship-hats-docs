@@ -98,3 +98,4 @@ You can refer to your requests on the <a href="https://jira.ship.gov.sg/serviced
 - [General FAQs](general-faqs)
 - [TechPass FAQs](techpass-faqs)
 - [SEED FAQs](seed-faqs)
+- [Subscription FAQs](subscription?id=faqs)

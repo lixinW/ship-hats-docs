@@ -292,7 +292,7 @@ Migration activity does not include migrating your pipelines.
 <details>
  <summary><b> Can there be users who just have “read-only” access? </b></summary><br>  
 
-Yes. These users will be allocated a guest account. H
+You can allocate a guest account. However, it utilizes one user license as the user has access to artefacts. 
 
 </details>
 <br>

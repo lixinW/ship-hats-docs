@@ -39,8 +39,7 @@ Yes. You can access SHIP-HATS tools such as Confluence, Jira, Nexus Repo, Nexus 
 
 ### Related Topics
 
-- [Subscription FAQs](subscription)
+- [Subscription FAQs](subscription?id=faqs)
 - [Support FAQs](support)
 - [TechPass FAQs](techpass-faqs)
 - [SEED FAQs](seed-faqs)
-<!--- [Subscription FAQs](subscription)-->

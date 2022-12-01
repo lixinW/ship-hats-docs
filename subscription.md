@@ -217,6 +217,48 @@ SHIP-HATS supports applications and content that are **Confidential Cloud Eligib
 <br>
 
 <details>
+ <summary><b>  Can vendors be Subscription admins?</b></summary><br>  
+
+No. Subscription admins must be public officers. 
+</details>
+<br>
+
+<details>
+ <summary><b> Do I need to have TechPass/SEED account to access SHIP-HATS tools? </b></summary><br>  
+
+Yes, users need to have a [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) and/or [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) account to access SHIP-HATS tools on GSIB and Internet devices respectively. 
+</details>
+<br>
+
+<details>
+ <summary><b>  Does my approver need to have a TechPass account to access TechBiz to approve?</b></summary><br>  
+
+They can [request for an OTP to access TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/log-in-to-TechBiz-portal) to approve Service Agreements. 
+</details>
+<br>
+
+<details>
+ <summary><b> Can SHIP-HATS portal be accessed with SE-GSIB device? </b></summary><br>  
+
+No, access to SHIP-HATS portal is currently not possible with SE-GSIB devices.
+</details>
+<br>
+
+<details>
+ <summary><b> Can TechBiz portal be accessed with SE-GSIB device? </b></summary><br>  
+
+No, access to TechBiz portal is currently not possible with SE-GSIB devices.
+</details>
+<br>
+
+<details>
+ <summary><b> I have a user who needs to work on multiple subscriptions. Will the user consume quota for each subscription to which the user is added? </b></summary><br>  
+
+Refer to [Agencies with multiple subscriptions](#agencies-with-multiple-subscriptions) section for details.
+</details>
+<br>
+
+<details>
  <summary><b> Can I use an existing email address to add a new user account? </b></summary><br>  
 
 No. Each user account requires a unique email address. For each new user account, you must use a new email address.
@@ -238,55 +280,6 @@ Yes. You can add additional programming languages which extend your SonarQube Co
 <br>
 
 <details>
- <summary><b>  Can vendors be Subscription admins?</b></summary><br>  
-
-No. Subscription admins must be public officers. 
-</details>
-<br>
-
-<details>
- <summary><b> Do I need to have TechPass/SEED account in order to access SHIP-HATS tools? </b></summary><br>  
-
-Yes, users need to have a [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) and/or [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) account to access SHIP-HATS tools on GSIB and Internet devices respectively. 
-</details>
-<br>
-
-<details>
- <summary><b>  Does my approver need to have a TechPass account to access TechBiz in order to approve?</b></summary><br>  
-
-They can [request for an OTP to access TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/log-in-to-TechBiz-portal) to approve Service Agreements. 
-</details>
-<br>
-
-<details>
- <summary><b> Can SHIP-HATS portal be accessed with SE-GSIB device? </b></summary><br>  
-
-No, access to SHIP-HATS portal is currently not possible with SE-GSIB devices.
-</details>
-<br>
-
-<details>
- <summary><b> Can TechBiz portal be accessed with SE-GSIB device? </b></summary><br>  
-
-No, access to TechBiz portal is currently not possible with SE-GSIB devices.
-</details>
-<br>
-
-<details>
- <summary><b>  Are there additional charges for creating dedicated/group runners in GitLab?</b></summary><br>  
-
-No.
-</details>
-<br>
-
-<details>
- <summary><b> I have a user who needs to work on multiple subscriptions. Will the user consume quota for each subscription to which the user is added? </b></summary><br>  
-
-Agencies can allocate the user at GitLab level to ensure that additional quota is not consumed at the subscription level. Agencies should not allocate same user across multiple subscriptions.
-</details>
-<br>
-
-<details>
  <summary><b>After migration, what happens to my existing projects and tools setup?  </b></summary><br>  
 
 After your new subscription is approved and created via TechBiz, your projects and tools will be mapped to your new subscription.
@@ -304,7 +297,12 @@ Yes. These users will be allocated a guest account.
 </details>
 <br>
 
+<details>
+ <summary><b>  Are there additional charges for creating dedicated/group runners in GitLab?</b></summary><br>  
 
+No.
+</details>
+<br>
 
 <!--
 **Topics**

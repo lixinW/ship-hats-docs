@@ -32,3 +32,7 @@
 ## Features roadmap
 
 [Product Roadmap](./roadmap-features.md ':include')
+
+## Key tool decommission dates
+
+Refer to [**Key tool decommission dates**](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=key-tool-decommission-dates).

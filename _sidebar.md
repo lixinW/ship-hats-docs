@@ -4,6 +4,7 @@
   - [What's New](what-s-new)
   - [Architecture](architecture)
   - [Tools](ship-hats-tools)
+  - [Roadmap](roadmap)
 **Key Features**
   - [Compliance Framework](compliance-framework)
   - [Dashboards](dashboards)
@@ -11,7 +12,7 @@
   - [Sample pipeline](sample-pipeline)  
 **Onboard to SHIP-HATS** 
   - [Subscription](subscription)
-  - [Onboarding](onboard-to-ship-hats)  
+  - [Onboarding](onboard-to-ship-hats) 
 **Environment Connectivity**
   - [AWS VPC Endpoint](aws-vpc-endpoint)
   - [IPsec Tunnel](ipsec-tunnel)

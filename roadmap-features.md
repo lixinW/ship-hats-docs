@@ -1,5 +1,6 @@
 |Items|GA (Jan’23)|Future Releases|
 |---|---|---|
+Planning tools | Jira  on-prem<br><br> Confluence  on-prem| Jira Cloud<br><br>Confluence Cloud|
 Runners|SHIP-hosted runner<br><br>Agency hosted runner|Gitlab Shared runners
 Deployment (common service)|GCC* 1.0 (Internet)<br><br> GCC* 1.0 (Intranet)<br><br>GCC* 2.0 (non-GEN/GEN)|Agency On-prem (DC)<br><br>Commercial Cloud (CC)<br><br>GCC 2.0 GCP|
 Automated Testing (Runtime)|Internet, non-GEN|Intranet, GEN|

@@ -5,6 +5,8 @@
 <!--![Roadmap](./images/ship-hats-roadmap.jpg)-->
 
 
+<!--
+
 ## Tools roadmap
 
 |Stage|Tools in 1.0|Tools in 2.0 |Tools in 2.0|Q4 FY22|Q1 FY23|Q2 FY23|Q3 FY23|
@@ -25,6 +27,7 @@
 |Other Tests|Purple HATS|GitLab (Pa11y)|Purple HATS
 |Deploy & Release|Digital.ai|GitLab CI/CD|NA|-|Decommission Digital.ai (31 May 2023)
 |Deploy & Release|Atlassian Bamboo|GitLab CI/CD|NA||31 December 2023	
+-->
 
 ## Features roadmap
 

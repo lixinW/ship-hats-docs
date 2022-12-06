@@ -57,7 +57,7 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 |100| Tools|[Developer Journey - Idea to Production](https://www.youtube.com/watch?v=4aGvMxRe9go)| 
 100|Management|	GitLab as a PM Tool (Coming soon!)
 100	|Management	|What are the [DORA metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)?
-|100 |Management |DevOps Metrics with GitLab (Coming soon!)|
+|100 |Management |[DevOps Metrics with GitLab](https://www.youtube.com/watch?v=Zh0uVUMyzLI)|
 |200|Tools|[Understanding Templates](pipeline-templates) |
 |200|Process|[Understanding Compliance Framework](https://youtu.be/jCCN_d0fCPM)|
 
@@ -68,7 +68,7 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
  100 |Overview| [Overview](https://youtu.be/dRfI_zXgiHs) <br><br> [Getting Started documentation](ship-hats-overview)
 |100 | Overview| [Technical Architecture Video](https://youtu.be/aMARb5xd1qI) <br><br> [Technical Architecture Doc](architecture)
 |100| Tools|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) | 
-|100| Tools|Developer Journey (Coming soon!) | 
+|100| Tools|[Developer Journey - Idea to Production](https://www.youtube.com/watch?v=4aGvMxRe9go) | 
 100	|Tools|[Understand Pipeline Template Overview](pipeline-templates)<br><br> [Sample Pipeline](sample-pipeline)
 |200 | Access| Access to SGTS: [TechPass for Developers](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) <br><br> Access to SGTS: [SEED for Developer Devices](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/)
 |200|Tools|[Review End to End Pipelines (For SHIP-HATS Users)](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/ship-hats-templates) <br><br>Accessible after onboarding to SHIP-HATS 2.0.

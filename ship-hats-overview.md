@@ -21,12 +21,12 @@ SHIP-HATS drives best practices and policy compliance requirements. The platform
 
 - [Compliance Framework](compliance-framework)
 - [Dashboards](dashboards)
+- [Pipeline templates](pipeline-templates)
+- [Sample pipeline](sample-pipeline)  
 
 
 ### Related topics
 
-- [Compliance Framework](compliance-framework)
-- [Dashboards](dashboards)
 - [Architecture](architecture)
 
 <!--

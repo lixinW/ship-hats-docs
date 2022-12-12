@@ -13,7 +13,9 @@ The SHIP-HATS 2.0 Architecture can be described in the following sections:
 
 ![Architecture](./images/architecture.png)
 
-?> The above architecture diagram represents our vision. For information on our roadmap, refer to [Upcoming features](#upcoming-features). 
+!> **Important:** The above diagram represents our vision. Please note that GSIB rules and policies apply as always that may lead to limited services available on GSIB. Before finalizing any changes to your environment based on the above diagram, please reach out to our team.
+
+?> **Note:** The above architecture diagram represents our vision. For information on our roadmap, refer to [Upcoming features](#upcoming-features). 
 
 ## Access
 

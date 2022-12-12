@@ -17,6 +17,7 @@ The above listed data and metrics can only be retrieved from the use of GitLab n
 
 Following developer dashboards are available:
 
+- [Analytics dashboard](https://docs.gitlab.com/ee/user/analytics/)
 - [Environments dashboard](https://docs.gitlab.com/ee/ci/environments/environments_dashboard.html) 
 - [Operations](https://docs.gitlab.com/ee/user/operations_dashboard/)
 - [Security](https://docs.gitlab.com/ee/user/application_security/security_dashboard/) 

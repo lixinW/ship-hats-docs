@@ -13,7 +13,21 @@ In SHIP-HATS 2.0., we are leveraging the *GitLab dashboards* available within th
 
 The above listed data and metrics can only be retrieved from the use of GitLab native tools. Therefore, to utilize the benefits of these Dashboards, agencies must adopt as many GitLab native tools as possible.
 
+## Developer dashboards
+
+Following developer dashboards are available:
+
+- [Environments dashboard](https://docs.gitlab.com/ee/ci/environments/environments_dashboard.html) 
+- [Operations](https://docs.gitlab.com/ee/user/operations_dashboard/)
+- [Security](https://docs.gitlab.com/ee/user/application_security/security_dashboard/) 
+
+To access these dashboards, select **Main menu**, and then choose the dashboard (Environments/Operations/Security) that you want to view under **Your dashboards**. However, you must configure the dashboards as described in GitLab documentation to view meaningful response. 
+
+![Developer Dashboards](./images/gitlab-developer-dashboards.png)
+
+
 ### Related topics
+
 For more information, refer to the following GitLab resources:
 
 |Dashboard|GitLab Documentation|

@@ -48,7 +48,7 @@ In SHIP-HATS 2.0 platform, there are 3 types of runners:
     |---|---|---|---|---|---|
     |CStack Runner|kubernetes|FALSE|YES|YES|Run as non-root
     |Docker Runner|docker+machine|FALSE|YES|NO|We have removed privileged access for SHIP-HATS shared runner. This affects build of systems that used the shared runners with docker-in-docker. Alternatively, you can use Kaniko.
-    |Windows Runner|shell|N/A|YES|NO|- OS: MS Windows Server 2019 Base<br>- Git: 2.36.1<br>- Visual Studio 2022 version 17.0<br>- .Net framework 4.8 development tools
+    |Windows Runner|shell|N/A|YES|NO|- OS: MS Windows Server 2019 Base<br>- Git: 2.36.1<br>- Visual Studio 2022 version 17.0<br>- .Net framework 4.8 development tools<br>- Refer to [GitLab Windows Runners](#gitlab-windows-runners) for important details on cleanup job.
 
 - **Agency-hosted Remote Runner:** The agency-hosted remote runners are the dedicated machines that are set-up and managed by agencies. These runners can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS. 
 - **GitLab Shared Runner on SaaS:** The GitLab shared runner on SaaS will be available over the next couple months. 
@@ -56,6 +56,21 @@ In SHIP-HATS 2.0 platform, there are 3 types of runners:
 <Image>
 
 For more information, refer to the [GitLab Runner](https://docs.gitlab.com/runner/) documentation.
+
+### GitLab Windows Runners
+
+Note the following when using Windows Runners:
+
+- Windows Runner has been set to run one job per instance at a time. 
+- Windows runner includes a cleanup job to remove all the downloaded and build artefacts after the job completes. For this cleanup job to work, you must use `git clone` (instead of `git fetch` - If you use `git fetch`, the folder becomes unremovable.) in your.NET project settings.  
+    To change the project settings, you can follow one of the following
+    - Go to **Settings** > **CI/CD** > **General Pipelines** > **Git strategy** > **Git clone**  
+    OR  
+    - Enforce `git clone` in you CI pipeline `.yml` file by adding the following line of code: `GIT_STRATEGY: clone`
+-  Since the cleanup job has been enabled in Windows Runner to clean up everything after the job completes, you must push the artefacts to their repository (e.g. Nexus) for safer purpose.
+- You must complete the necessary cleanup after the build is completed by deleting any password or confidential files that might have been created or downloaded during the build job (e.g., docker config, etc.).
+
+
 
 ## GitLab Groups
 

@@ -60,10 +60,10 @@ Users with on-prem resources can configure Remote Runners in their data centre a
 
 For more information, refer to the [GitLab Runner](https://docs.gitlab.com/runner/) documentation.-->
 
-### Docker Alternative FAQs
+<!--### Docker Alternative FAQs
 
 [Docker Alternative FAQs](docker-alternative-faqs.md ':include')
-
+-->
 ### Windows Runner
 
 [Windows runner](./windows-runner.md ':include')

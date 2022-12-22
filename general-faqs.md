@@ -1,6 +1,6 @@
 # General FAQs
 
->**Tip:** Click the triangle to view the answer.
+>**Tip:** Click the question or triangle to view the answer.
 
 <details>
   <summary><b>What is a named user?</b></summary><br>

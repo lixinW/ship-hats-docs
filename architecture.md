@@ -41,29 +41,12 @@ Users with on-prem resources can configure Remote Runners in their data centre a
 
 ## Runners
 
-[runners](runners.md ':include')
+[runners](./runners-snippet.md ':include')
 
-<!--In SHIP-HATS 2.0 platform, there are 3 types of runners:  
+### Docker Alternative FAQs
 
-- **SHIP-HATS hosted Shared Runner:** The shared runners are hosted by the SHIP-HATS team. There are 3 variants in the shared runner pool. These runners are easily accessible to users and are scalable on demand.
+[Docker Alternative FAQs](./docker-alternative-faqs.md ':include')
 
-    |Runner Variant|Executor|Privileged|Cache Enabled|Run Untag|Notes|
-    |---|---|---|---|---|---|
-    |CStack Runner|kubernetes|FALSE|YES|YES|Run as non-root
-    |Docker Runner|docker + machine|FALSE|YES|NO|We have removed privileged access for SHIP-HATS shared runner. This affects build of systems that used the shared runners with docker-in-docker. Alternatively, you can use [Kaniko](#kaniko-faqs).
-    |[Windows Runner](#windows-runner)|shell|N/A|YES|NO|- OS: MS Windows Server 2019 Base<br>- Git: 2.36.1<br>- Visual Studio 2022 version 17.0<br>- .Net framework 4.8 development tools<br>- Refer to [GitLab Windows Runners](#windows-runner) for important details on **cleanup job** included with Windows Runner.
-
-- **Agency-hosted Remote Runner:** The agency-hosted remote runners are the dedicated machines that are set-up and managed by agencies. These runners can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS. 
-- **GitLab Shared Runner on SaaS:** The GitLab shared runner on SaaS will be available over the next couple months. 
-
-<Image>
-
-For more information, refer to the [GitLab Runner](https://docs.gitlab.com/runner/) documentation.-->
-
-<!--### Docker Alternative FAQs
-
-[Docker Alternative FAQs](docker-alternative-faqs.md ':include')
--->
 ### Windows Runner
 
 [Windows runner](./windows-runner.md ':include')
@@ -79,8 +62,6 @@ Gitlab subgroups have the inheritance characteristic from the parents. For more 
 
 ![User Grouping Strategy](./images/user-group-strategy.png)
 
-
-
 ## Templates
 
 With SHIP-HATS 2.0, we offer:  
@@ -91,11 +72,9 @@ With SHIP-HATS 2.0, we offer:
 These templates are re-usable and are designed according to the standard guidelines to help agencies to follow better DevOps practices, such as GitOps workflow, bootstrapping deployment runners, and release rollback. 
 
 
-Following image shows an example of production pipeline in Gitlab: 
+Following image shows an example of production pipeline in GitLab: 
 
-![](./images/gitlab-end-to-end-pipeline.png)
-
-
+![Production Pipeline](./images/gitlab-end-to-end-pipeline.png)
 
 <!-- We will also open up the template development for inner-sourcing. Anyone in SHIP-HATS community, expecting up to 3000 users will be able to contribute freely and to consume what others have contributed. We are hoping with more active engagement in the community is able to help the development team to accelerate their devops maturity journey. -->
 
@@ -107,21 +86,6 @@ Following image shows an example of production pipeline in Gitlab:
 ## Upcoming features
 
 [Product Roadmap](./roadmap-features.md ':include')
-
-<!--
-|Items|GA (Jan’23)|Future Releases|
-|---|---|---|
-Runners|SHIP-hosted runner<br><br>Agency hosted runner|Gitlab Shared runners
-Deployment (common service)|GCC* 1.0 (Internet)<br><br> GCC* 1.0 (Intranet)<br><br>GCC* 2.0 (non-GEN/GEN)|Agency On-prem (DC)<br><br>Commercial Cloud (CC)<br><br>GCC 2.0 GCP|
-Automated Testing (Runtime)|Internet, non-GEN|Intranet, GEN|
-E2E Pipeline Template|Support common use cases|Mature with inner-sourcing contributions
-Compliance Pipeline|Limited coverage|Comprehensive, with SLSA framework, DevSecOps Policy
-DevOps Maturity Metrics|Preliminary|Continuous development on VSM
-
-*AWS & Azure
--->
-<!-- SaaS Applications|GitLab|JIRA, Confluence, Fortify on Demand, Sonatype
- -->
 
 ## Terminology
 This documentation uses the following terminology:

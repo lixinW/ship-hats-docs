@@ -8,7 +8,7 @@ Note the following when using Windows Runner:
     ![Git Strategy Properties](./images/git-strategy-properties.png)
 
     OR  
-    - Enforce `git clone` in you `gitlab-ci.yml` file by setting the `GIT_Strategy` variable to: `GIT_STRATEGY: clone`
+    - Enforce `git clone` in your `gitlab-ci.yml` file by setting the `GIT_Strategy` variable to: `GIT_STRATEGY: clone`
 
     ![Git Strategy Command Line](./images/git-strategy-cmd.png ':size=40%')
 

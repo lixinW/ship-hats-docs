@@ -7,8 +7,8 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
-Webinar<br><br> TBD|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Webinar<br><br> 16 Jan, 2023 <br><br> 2 PM - 3 PM|**GitLab Security & SHIP-HATS Compliance Pipelines**<br><br>Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard. PMs who are keen to learn can join too!|Tech <br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+Webinar<br><br> 30 Jan, 2023 <br><br> 2 PM - 3 PM |**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
 
 

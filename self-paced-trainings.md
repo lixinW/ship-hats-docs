@@ -78,6 +78,8 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 </details>
 <br>
 
+### Related topics
+- [Developer Essentials for Public Sector](https://docs.developer.tech.gov.sg/docs/developer-essentials-for-public-sector/)
 
 <!--
 

@@ -2,7 +2,7 @@
 
 SHIP-HATS Subscription can be initiated by public officers in Agencies. Once subscribed, the Subscription Admin (SA) can invite Project Admins (PA) and users who can be public officers or in the vendor teams. 
 
-!> **Important:** After GA in January 2023, SA can use the [TechBiz service to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to [onboard to the SHIP-HATS product](onboard-to-ship-hats).
+!> **Important:** SA must use the [TechBiz service to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to [onboard to the SHIP-HATS product](onboard-to-ship-hats).
 
 ?> **Note:** All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 

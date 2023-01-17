@@ -1,6 +1,7 @@
 # Architecture
 
-The integrated CI/CD used is GitLab on SaaS is hosted in Singapore and dedicated to GovTech usage. Based on the risk assessment and compliance review, this architecture is approved to host systems with classification of **Restricted and below**.
+The integrated CI/CD used is GitLab on SaaS is hosted in Singapore and dedicated to GovTech usage. Based on the risk assessment and compliance review, this architecture is approved to host systems with classification of **Confidential Cloud Eligible (CCE)** and below.
+
 
 
 The SHIP-HATS 2.0 Architecture can be described in the following sections: 

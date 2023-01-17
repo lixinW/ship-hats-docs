@@ -98,11 +98,13 @@ This section provides a high level of overview of templates to expect for migrat
 
 You can access following examples of E2E CI pipeline using SHIP-HATS templates [here](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines): 
 
-- **javaap:** Example end to end CI pipeline for a sample 3-tier application hosted in AWS EC2
-- **javadockerapp:** Example end to end CI pipeline for sample containerized Java application hosted in AWS EKS
-- **netapp:** Example end to end CI pipeline for sample containerized .NET applications hosted in Azure App Service
-- **netdocker:** Example end to end CI pipeline for sample containerized .NET Core application hosted in AWS Fargate
-- **nodetsapp:** Example end to end CI pipeline for sample Node.js typescript application hosted in Azure App Service
+|Template|Description|Mirror|
+|---|---|---|
+[javaap](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/javaapp)| Example end to end CI pipeline for a sample 3-tier application hosted in AWS EC2|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/javaapp)
+[javadockerapp](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/javadockerapp)| Example end to end CI pipeline for sample containerized Java application hosted in AWS EKS|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-javadockerapp/browse)
+[netapp](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/netapp) |Example end to end CI pipeline for sample containerized .NET applications hosted in Azure App Service|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-netapp/browse)
+[netdocker](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/netdocker)| Example end to end CI pipeline for sample containerized .NET Core application hosted in AWS Fargate|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-netdocker/browse)
+[nodetsapp](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/nodetsapp) |Example end to end CI pipeline for sample Node.js typescript application hosted in Azure App Service|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-nodetsapp/browse)
 
 
 ### E2E templates

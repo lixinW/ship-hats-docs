@@ -79,6 +79,8 @@ You can connect to SHIP-HATS using one of the following methods based on your se
 
 The following table provides a list of SHIP-HATS VPC Endpoint Services:
 
+?> **Note:** SHIP-HATS supports common ports as listed in the table below. If you need to use a specific port, please [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11).
+
 |Service Name|Full URL|Endpoint Service Name|Port|Protocol|
 |---|---|---|---|---|
 |GitLab SAAS	|sgts.gitlab-dedicated.com|com.amazonaws.vpce.ap-southeast-1.vpce-svc-0c4c6c964095f9102	|443<br>22	|HTTPS<br>SSH|

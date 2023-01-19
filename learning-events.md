@@ -7,9 +7,16 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
-Webinar<br><br> 30 Jan, 2023 <br><br> 2 PM - 3 PM |**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+Webinar<br><br>30 Jan 2023 <br><br>11 AM to 12 PM|**SHIP-HATS 2.0 Webapp E2E Pipeline Template**<br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Webapp E2E Template|Tech <br><br> SHIP-HATS Users & Prospects |200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+Webinar<br><br>6 Feb 2023 <br><br>2 PM to 3 PM|**SHIP-HATS 2.0 Runners**<br><br>Introduction to Runners|Tech <br><br> SHIP-HATS Users & Prospects |200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+Webinar<br><br> On Hold |**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
+<!--
+|Date|Topic|Audience|Level|Sign up|
+|---|---|---|---|---|
+Webinar|**Docker Image CI Pipeline Template** <br><br>This webinar shows how to deliver a compliant CI pipeline for a standard docker application considering best practices as well as security aspects.	 |	Tech<br><br>SHIP-HATS Users & Prospects|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
+-->
 
 <!--
 ### Classroom
@@ -23,7 +30,7 @@ Webinar<br><br> 30 Jan, 2023 <br><br> 2 PM - 3 PM |**GitLab as a PM tool**<br><b
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
-Webinar<br><br> 16 Jan, 2023 <br><br> 2 PM - 3 PM|**GitLab Security & SHIP-HATS Compliance Pipelines**<br><br>Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard. PMs who are keen to learn can join too!|Coming soon|[Download the PDF here](./files/GitLab-Security-Compliance.pdf)
+Webinar<br><br> 16 Jan, 2023 <br><br> 2 PM - 3 PM|**GitLab Security & SHIP-HATS Compliance Pipelines**<br><br>Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard. PMs who are keen to learn can join too!|[GitLab Security & SHIP-HATS Compliance Pipelines](https://www.youtube.com/watch?v=yJ9J84bxllk) - [33-minute video]|[Download the PDF here](./files/GitLab-Security-Compliance.pdf)
 Briefing <br><br> 9 Jan, 2023 <br><br>3:00 PM - 4:00 PM|**Wave 1 - SHIP-HATS 2.0 Onboarding Briefing** [Only Public Officers] <br><br>Onboarding SHIP-HATS: Subscribing on TechBiz portal, Configuring Tools on SHIP-HATS Portal| All Public Officers can access the [Wave 1 Briefing Intro and Demo](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIDA%2DGoSync%2Fgdspdd%2Dai%2Fship%2FShared%20Documents%2FSHIP%2DHATS%202%2E0%2FWave%201%20Onboarding%20Briefing%20%2809%20Jan%29) (via link hosted on intranet).|All Public Officers can [Access the PDF and FAQs here](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIDA%2DGoSync%2Fgdspdd%2Dai%2Fship%2FShared%20Documents%2FSHIP%2DHATS%202%2E0%2FWave%201%20Onboarding%20Briefing%20%2809%20Jan%29) (via link hosted on intranet).
 Webinar<br><br> 6 Dec, 2022 <br><br>10:00 AM - 11:00 AM|**Advanced CI/CD & SHIP-HATS Pipeline templates**<br><br>Requires basic CI/CD knowledge and covers advanced topics such as includes/extends, rules, child pipelines, and pipeline templates on SHIP-HATS. |[Advanced CI/CD & SHIP-HATS Pipeline](https://youtu.be/8ZC6aErBV1s) - 53 min|[Download the PDF here](./files/CI_CD%20Advanced.pdf)
 |Webinar<br><br> 30 Nov, 2022<br><br>2:00 PM - 3:00 PM |**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) - 1 hour|[Download the PDF here](./files/CI-CD-Basics.pdf)|
@@ -48,6 +55,8 @@ Webinar<br><br> 17 Oct, 2022<br><br>2:00 PM- 3:00 PM |**GitLab Security & SHIP-H
 
 
 <!--
+|Date|Topic|Audience|Level|Sign up|
+|---|---|---|---|---|
 |Webinar<br><br> 8 Sep, 2022 <br><br>11:00 AM -12:00 PM|**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|Tech & Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Webinar<br><br> 9 Sep, 2022 <br><br>11:00 AM -12:00 PM|**Developer Journey - Idea to Production**<br><br>Covers a typical workflow for a developer from getting assigned an issue to work on through creating the merge request, making changes and reviewing the pipeline results, and participating in code reviews|Tech<br><br>SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Briefing<br><br>13 Sep, 2022 <br><br>10:00 AM - 12:00 PM|**SHIP-HATS 2.0 Migration Briefing**<br><br>Deep dive into migration planning, activities, and support.|Tech & Non Tech<br><br>SHIP-HATS users|100|Please contact your SHIP-HATS Subscription / Project Admins after 30th Aug.|
@@ -60,5 +69,10 @@ Webinar<br><br> 1 Nov, 2022 <br><br>10:00 AM - 11:00 AM |**DevOps Metrics with G
 |Webinar<br><br> 30 Nov, 2022<br><br>2:00 PM - 3:00 PM |**CI/CD Basics with GitLab**<br><br>Covers the basics of how to set up a pipeline to build, test, and deploy your code|Tech & Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Webinar<br><br> 6 Dec, 2022 <br><br>10:00 AM - 11:00 AM|**Advanced CI/CD & SHIP-HATS Pipeline templates**<br><br>Requires basic CI/CD knowledge and covers advanced topics such as includes/extends, rules, child pipelines, and pipeline templates on SHIP-HATS. |Tech <br><br> SHIP-HATS Users & prospects|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Webinar<br><br> 16 Jan, 2023 <br><br> 2 PM - 3 PM|**GitLab Security & SHIP-HATS Compliance Pipelines**<br><br>Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard. PMs who are keen to learn can join too!|Tech <br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+
+-->
+
+<!--
+Learning Event <br><br> 19 Jan, 2023 <br><br>11:00 AM - 12:00 PM|**Tips & Tricks to review migration quotations** [Only Public Officers] <br><br>Onboarding SHIP-HATS: Subscribing on TechBiz portal, Configuring Tools on SHIP-HATS Portal| All Public Officers can access the [Wave 1 Briefing Intro and Demo](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIDA%2DGoSync%2Fgdspdd%2Dai%2Fship%2FShared%20Documents%2FSHIP%2DHATS%202%2E0%2FWave%201%20Onboarding%20Briefing%20%2809%20Jan%29) (via link hosted on intranet).|All Public Officers can [Access the PDF and FAQs here](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIDA%2DGoSync%2Fgdspdd%2Dai%2Fship%2FShared%20Documents%2FSHIP%2DHATS%202%2E0%2FWave%201%20Onboarding%20Briefing%20%2809%20Jan%29) (via link hosted on intranet).
 
 -->

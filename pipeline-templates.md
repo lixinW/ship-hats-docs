@@ -28,7 +28,7 @@ This section provides a high level of overview of templates to expect for migrat
 
 
 > **Notes:** 
->- After you have onboarded to SHIP-HATS 2.0, you can [log in to GitLab](https://sgts.gitlab-dedicated.com/) to refer to complete list of [SHIP-HATS Templates](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/ship-hats-templates).
+>- After you have onboarded to SHIP-HATS 2.0, you can [log in to GitLab](https://sgts.gitlab-dedicated.com/) to refer to complete list of [SHIP-HATS Templates](https://sgts.gitlab-dedicated.com/WOG/GVT/ship/ship-hats-templates). If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-ship-hats-templates/browse) for reference only. 
 >- For GitLab CI/CD examples, refer to [https://docs.gitlab.com/ee/ci/examples/](https://docs.gitlab.com/ee/ci/examples/).
 
 
@@ -43,6 +43,10 @@ This section provides a high level of overview of templates to expect for migrat
 - [E2E templates](#e2e-templates)
 
 ### Common templates
+
+Following [Common templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates) are available for use.
+
+?> If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-ship-hats-templates/browse/templates) for reference only. 
 
 |Template|Description|Template Type|
 |---|---|---|
@@ -60,6 +64,10 @@ This section provides a high level of overview of templates to expect for migrat
 
 
 ### Testing/scanning templates 
+
+Following [Testing/Scanning templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates) are available for use.
+
+?> If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-ship-hats-templates/browse/templates) for reference only. 
 
 |Template|Description|Template Type|
 |---|---|---|
@@ -83,6 +91,11 @@ This section provides a high level of overview of templates to expect for migrat
 
 ### Nexus Repo templates 
 
+Following [Nexus Repo templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates) are available for use.
+
+?> If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-ship-hats-templates/browse/templates) for reference only. 
+
+
 |Template|Description|Template Type|
 |---|---|---|
 |[`docker pull` fr Nexus Repo](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-nexus-docker-pullyml)|This template allows you to pull a docker image through SHIP Nexus Repository docker-proxy in the "before_script" key for a job.|Modular Template
@@ -96,11 +109,16 @@ This section provides a high level of overview of templates to expect for migrat
 ### Reference pipelines
 
 
-You can access following examples of E2E CI pipeline using SHIP-HATS templates [here](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines): 
+<!--You can access following examples of E2E CI pipeline using SHIP-HATS templates [here](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines): -->
+
+Following [E2E CI pipeline examples using SHIP-HATS templates](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines) are available for use. 
+
+?> If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB) for reference only. 
+
 
 |Template|Description|Mirror|
 |---|---|---|
-[javaap](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/javaapp)| Example end to end CI pipeline for a sample 3-tier application hosted in AWS EC2|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/javaapp)
+[javaap](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/javaapp)| Example end to end CI pipeline for a sample 3-tier application hosted in AWS EC2|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-javaapp/browse)
 [javadockerapp](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/javadockerapp)| Example end to end CI pipeline for sample containerized Java application hosted in AWS EKS|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-javadockerapp/browse)
 [netapp](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/netapp) |Example end to end CI pipeline for sample containerized .NET applications hosted in Azure App Service|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-netapp/browse)
 [netdocker](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/netdocker)| Example end to end CI pipeline for sample containerized .NET Core application hosted in AWS Fargate|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-netdocker/browse)
@@ -109,7 +127,9 @@ You can access following examples of E2E CI pipeline using SHIP-HATS templates [
 
 ### E2E templates
 
-https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates
+Following [end to end pipeline templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates) are available for use.
+
+?> If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-ship-hats-templates/browse/templates) for reference only. 
 
 |Template|Description|Template Type|
 |---|---|---|
@@ -121,6 +141,9 @@ https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates
 > **Note:** The End-to-End Reference templates are derived from the Bamboo plan templates provided by GovTech SVC Clusters & Technology Management Office (CTMO) in SHIP-HATS 1.0.  
 
 
+### Mirror Templates
+
+If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB) for reference only. 
 
 
 

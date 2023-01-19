@@ -22,7 +22,7 @@ We aligned the subscription strategy with our 1.0 user observations.
 
 - Any SHIP-HATS subscriber starts with a [Base plan](#base-plan). 
 - Based on needs subscribers, you can optionally choose any [Add-ons](#add-ons).
-- For all new subscriptions, there will be a **Minimum Commitment Period of six months** from the date of SHIP-HATS account provisioning. 
+- For all new subscriptions, there will be a **Minimum Commitment Period of three months** from the date of SHIP-HATS account provisioning. 
 
 
 ### Base plan
@@ -75,7 +75,7 @@ All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2
 
 - Any SHIP-HATS subscriber starts with a [Base plan](#base-plan). 
 - Based on needs subscribers, you can optionally choose any [Add-ons](#add-ons).
-- For all new subscriptions, there will be a **Minimum Commitment Period of six months** from the date of SHIP-HATS account provisioning. 
+- For all new subscriptions, there will be a **Minimum Commitment Period of three months** from the date of SHIP-HATS account provisioning. 
 
 
 Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
@@ -119,7 +119,7 @@ All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2
 
 - Any SHIP-HATS subscriber starts with a [Base plan](#base-plan). 
 - Based on needs subscribers, you can optionally choose any [Add-ons](#add-ons).
-- For all new subscriptions, there will be a **Minimum Commitment Period of six months** from the date of SHIP-HATS account provisioning. 
+- For all new subscriptions, there will be a **Minimum Commitment Period of three months** from the date of SHIP-HATS account provisioning. 
 
  </details>
 <br>

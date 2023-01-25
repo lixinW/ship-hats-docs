@@ -46,9 +46,9 @@ Extended support is charged at **50% of the total subscription** based on the st
 
 ## View support requests history 
 
-To view the history of your support requests, refer to your requests in the [Help Center](https://jira.ship.gov.sg/servicedesk/customer/user/requests?status=open) or follow these steps:
+To view the history of your support requests, refer to your requests in the [SHIP-HATS Service Desk](https://jira.ship.gov.sg/servicedesk/customer/user/requests?status=open) or follow these steps:
 
-1. Navigate to [Help Center](https://jira.ship.gov.sg/servicedesk/customer/portal/11).
+1. Navigate to [SHIP-HATS Service Desk](https://jira.ship.gov.sg/servicedesk/customer/portal/11).
 1. Click **Requests** > **My requests**.
 
   ![My requests](./images/support-my-requests.png ':size=70%')
@@ -65,7 +65,10 @@ To view the history of your support requests, refer to your requests in the [Hel
 
 ## FAQs
 
-- [General FAQs](general-faqs)
+- [FAQs](general-faqs)
+
+<!--
 - [TechPass FAQs](techpass-faqs)
 - [SEED FAQs](seed-faqs)
 - [Subscription FAQs](subscription?id=faqs)
+-->

@@ -19,6 +19,8 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 |Other Tests|GitLab (Pa11y)|Purple HATS
 |Deploy & Release|GitLab CI/CD|NA|
 
+?> **SHIP-HATS tools** such as GitLab, Confluence, Jira, Nexus Repo, Nexus IQ, and SHIP-HATS Service Desk **can be accessed via GSIB**.
+
 [Tooling strategy](tooling-strategy.md ':include')
 
 <!--

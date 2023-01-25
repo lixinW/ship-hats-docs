@@ -26,9 +26,7 @@
 **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
-  - [General FAQs](general-faqs)
-  - [TechPass FAQs](techpass-faqs)    
-  - [SEED FAQs](seed-faqs)
+  - [FAQs](general-faqs)
   - [Contact us](contact-us) 
 
 &nbsp;
@@ -41,6 +39,8 @@
 
 
 <!--
+  - [TechPass FAQs](techpass-faqs)    
+  - [SEED FAQs](seed-faqs)
 
   - [Tooling Strategy](tooling-strategy)
   - [Roadmap](roadmap)

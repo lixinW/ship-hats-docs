@@ -52,9 +52,7 @@ SHIP-HATS team will configure a VPN at AWS GCC 2.0 and share the VPN configurati
 
     Your local network gateways are created.
 
-Following image shows an example. 
-
-![Review + Create](./images/create-Local-network.png ':size=80%')
+<!--Following image shows an example. ![Review + Create](./images/create-Local-network.png ':size=80%')-->
 
 ## Create Connections
 

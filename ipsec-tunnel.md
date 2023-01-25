@@ -48,13 +48,11 @@ SHIP-HATS team will configure a VPN at AWS GCC 2.0 and share the VPN configurati
     - In the **IP Address** field, enter the Virtual Private Gateway IP from above.
     - In the **Address Space** field, enter the SHIP-HATS GCC 2.0 AWS PROD VPC CIDR: *100.10.4.0/22*. 
 
-    Following image shows an example.
-    
-    ![Review + Create](./images/create-Local-network.png ':size=80%')
-
 1. Click **Review + create**.  
 
     Your local network gateways are created.
+
+<!--Following image shows an example. ![Review + Create](./images/create-Local-network.png ':size=80%')-->    
 
 ## Create Connections
 

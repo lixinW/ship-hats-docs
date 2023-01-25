@@ -71,7 +71,9 @@ Create **two** connections - one for each IPsec tunnel.
 
     ![Add connection](./images/add-connection.png ':size=60%')
 
-    Repeat the above steps to create a second connection. Make sure that you select values in the **Name**, **Local network gateway**, and **Shared key (PSK)** fields corresponding to IPsec Tunnel 2.
+Repeat the above steps to create a second connection. Make sure that you select values in the **Name**, **Local network gateway**, and **Shared key (PSK)** fields corresponding to IPsec Tunnel 2.
+
+## Configure Connections
 
 1. From the grid, select the newly created connection (**Home** > **Virtual network gateways** > **AWSVnetGateway** > **Connections**). 
 
@@ -99,10 +101,12 @@ Create **two** connections - one for each IPsec tunnel.
 
 1. Click **Save**.
 
-## Set up custom dns server
+Repeat the above steps for the second connection.
+
+## Set up custom DNS server
 
 
-### To configure custom dns servers on VM that hosts the GitLab runner, complete the following steps:
+### To configure custom DNS servers on VM that hosts the GitLab runner, complete the following steps:
 
 1. Request the SHIP-HATS team for DNS Resolver IPs. 
 1. Log in to Azure portal, and then select **Virtual machines**. 

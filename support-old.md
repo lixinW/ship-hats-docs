@@ -75,6 +75,79 @@ To view the history of your support requests, refer to your requests in the [Hel
 
   ![My requests](./images/support-my-requests.png ':size=70%')
 
+<!--## FAQs
+
+
+>**Tip:** Click the triangle to view the answer.-->
+
+<!--<details>
+  <summary><b> What is basic support?</b></summary><br>
+
+Basic support is the support provided by SHIP-HATS team as per the service agreement.
+</details>
+<br>
+
+<details>
+  <summary><b>What are the operating hours for basic support? </b></summary><br>
+
+SHIP-HATS basic support to all users is offered from Monday to Friday, 9.00 AM to 5.30 PM (excluding Public Holidays).
+
+Agencies can subscribe to the extended support hours as an add-on if required.
+</details>
+<br>-->
+<!--<details>
+  <summary><b>What are the operating hours for extended support? </b></summary><br>
+
+SHIP-HATS extended support is offered from Monday to Friday, 9.00 AM to 10.00 PM (excluding Public Holidays).
+</details>
+<br>-->
+<!--<details>
+  <summary><b>Is the basic support free? </b></summary><br>
+
+Yes, it is free with any subscription tier.
+</details>
+<br>-->
+<!--<details>
+  <summary><b>What are the rates for extended support? </b></summary><br>
+
+Extended support is charged at 50% of the total subscription based on the standard price.
+</details>
+<br>-->
+<!--<details>
+  <summary><b>Can I subscribe to Extended Support for a limited time? </b></summary><br>
+
+Yes. A one-month advance notice is required. There is no pro-rated price and is computed as a full-month's rate. Hence, to maximise it is recommended to start on the 1st of any month.
+</details>
+<br>
+<details>
+  <summary><b>How do I subscribe to extended support? </b></summary><br>
+
+Email [enquiries_enp@tech.gov.sg](enquiries_enp@tech.gov.sg) to subscribe to the extended support.
+</details>
+<br>
+<details>
+  <summary><b>How do I cancel extended support? </b></summary><br>
+
+Email [enquiries_enp@tech.gov.sg](enquiries_enp@tech.gov.sg) to cancel extended support.
+</details>
+<br>
+<details>
+  <summary><b>Can I view the history of my support requests? </b></summary><br>
+
+You can refer to your requests on the <a href="https://jira.ship.gov.sg/servicedesk/customer/user/requests?status=open&reporter=all">SSD portal</a>.
+</details>
+<br>
+
+<details>
+  <summary><b> How do I submit my requests for any support required? </b></summary><br>
+
+For technical support, send an email to [enquiries_ship@tech.gov.sg](enquiries_ship@tech.gov.sg) or submit a ticket on the [SHIP service desk (SSD) portal](https://jira.ship.gov.sg/servicedesk/customer/portal/11)</a>. 
+
+If you have a subscription or billing related query, please send an email to enquiries_enp@tech.gov.sg
+
+</details>
+<br>-->
+
 ## FAQs
 
 - [General FAQs](general-faqs)

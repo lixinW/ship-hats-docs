@@ -25,7 +25,7 @@ The SHIP-HATS 2.0 Architecture can be described in the following sections:
 SHIP-HATS 2.0 is accessible using [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/) & [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) as this is the unified approach to accessing any SGTS product. 
 Users can either access from GSIB or SEED-enabled developer devices to authenticate themselves via TechPass login. 
 
-![](./images/tp-seed.png)
+![techpass seed](./images/tp-seed.png)
  
 - [TechPass is a single sign-on IAM solution](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/) to allow users to gain authentication and authorization to different services in SHIP-HATS as well as other SGTS subscriptions. 
 - [SEED is an MDM application](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/) to be installed on user devices, which is a mandatory requirement to access to SGTS services.
@@ -54,14 +54,7 @@ Users with on-prem resources can configure Remote Runners in their data centre a
 
 ## GitLab Groups
 
-Gitlab allows groups and multi-level subgroups. The subgroups enable access control for multi-tenancy. 
-
-The first three levels of subgroups are managed by SHIP-HATS. The first-level subgroups are the root level groups for WOG, the second-level subgroups are grouped by agency names, and the third-level subgroups are offered to our subscribers (e.g. project initiative name, department, or division name). Based on your requirement, SHIP-HATS team will create and manage these for you.   
-**After the third-level groups are created, you will have the permission to create and manage any subsequent subgroups within it.**  
-
-Gitlab subgroups have the inheritance characteristic from the parents. For more information, refer to the GitLab [groups](https://docs.gitlab.com/ee/user/group/index.html) and [subgroups](https://docs.gitlab.com/ee/user/group/subgroups/) documentation. 
-
-![User Grouping Strategy](./images/user-group-strategy.png)
+![GitLab Groups](./gitlab-groups.md ':include')
 
 ## Templates
 
@@ -89,21 +82,8 @@ Following image shows an example of production pipeline in GitLab:
 [Product Roadmap](./roadmap-features.md ':include')
 
 ## Terminology
-This documentation uses the following terminology:
 
-| **Term** | **Description** |
-| --- | --- |
-|CC|Commercial Cloud|
-|GCP|Google Cloud Platform|
-| GSIB | Government Standard Image Build|
-| GCC | Government Commercial Cloud |
-|Runner  | Agents that run the CI/CD jobs that come from GitLab|
-|SaaS | Whitelisted services & resources in the Commercial cloud
-|SEED|Security Suite for Engineering Endpoint Devices
-|Self-Hosted |  Services & resources hosted in ship-hats GCC environment
-| SOE | Standard ICT Operating Environment|
-| VPC | Virtual Private Cloud|
-| TGW | Transit GateWay|
+![Terminology](./terminology.md ':include')
 
 ### Related topics
 

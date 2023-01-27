@@ -2,7 +2,6 @@
   - [Audience](audience)
   - [Overview](ship-hats-overview)
   - [What's New](what-s-new)
-  - [Architecture](architecture)
   - [Tools](ship-hats-tools)
   - [Roadmap](roadmap)
 **Key Features**
@@ -10,6 +9,8 @@
   - [Dashboards](dashboards)
   - [Pipeline templates](pipeline-templates)
   - [Sample pipeline](sample-pipeline)  
+**Architecture**
+  - [Architecture](architecture)
 **Onboard to SHIP-HATS** 
   - [Subscription](subscription)
   - [Onboarding](onboard-to-ship-hats) 
@@ -41,6 +42,7 @@
 <!--
   - [TechPass FAQs](techpass-faqs)    
   - [SEED FAQs](seed-faqs)
+  - [Runners](runners)
 
   - [Tooling Strategy](tooling-strategy)
   - [Roadmap](roadmap)

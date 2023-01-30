@@ -64,7 +64,7 @@ To upgrade a subscription, [Raise a service request](https://jira.ship.gov.sg/se
 
 ## Downgrade
 
-You can downgrade only after the <b>Minimum Commitment Period</b> (Six consecutive months from the date of account provisioning).
+You can downgrade only after the <b>Minimum Commitment Period</b> (Three consecutive months from the date of account provisioning).
 
 
 To downgrade a subscription, [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. 
@@ -200,14 +200,14 @@ If you are a **new customer** and coming onboard to 2.0 directly, you will start
 Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. 
 
 - You may upgrade to additional users and add-on anytime.  
-- You can downgrade only after the <b>Minimum Commitment Period</b> (Six consecutive months from the date of account provisioning).
+- You can downgrade only after the <b>Minimum Commitment Period</b> (Three consecutive months from the date of account provisioning).
 </details>
 <br>
 
 <details>
  <summary><b> What is the minimum commitment period before I can downgrade SHIP-HATS tools? </b></summary><br>  
 
-You can downgrade only after the <b>Minimum Commitment Period</b> of six consecutive months from the date of account provisioning.
+You can downgrade only after the <b>Minimum Commitment Period</b> of three consecutive months from the date of account provisioning.
 </details>
 <br>
 

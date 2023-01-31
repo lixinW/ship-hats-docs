@@ -1,25 +1,5 @@
 >**Tip:** Click the triangle to view the answer.
 
-
-<details>
-  <summary><b> Can I choose not to migrate to TechPass?  </b></summary><br>
-
-To start using SHIP-HATS 2.0 services, you must onboard to SEED and TechPass. SHIP-HATS Users can either access from from GSIB or GMD to authenticate yourself via TechPass. 
-
-Users with Internet devices must onboard to SEED by installing MDM applications before they are allowed to authenticate via TechPass to consume SGTS services, including SHIP-HATS.
-
-</details>
-
----
-
-<details>
-  <summary><b>When will my SHIP-HATS account be enabled for TechPass login?  </b></summary><br>
-
-All SHIP-HATS users should have received TechPass onboarding request. If you have not received the onboarding email, please send an email to [enquiries_ship@tech.gov.sg](enquiries_ship@tech.gov.sg)
-</details>
-
----
-
 <details>
   <summary><b>How do I ensure that I have successfully onboarded TechPass for my SHIP-HATS login? </b></summary><br>
 
@@ -79,4 +59,27 @@ TechPass is a Single Sign-on, Identity Access Management solution for developer 
 <br>
 
 <b>On a GSIB device:</b> Log in to TechPass, and then access any of the SHIP-HATS tools. You have successfully onboarded if you are able to access them. For more details, refer to [Use TechPass to log in to SHIP-HATS and integrated services](https://confluence.ship.gov.sg/display/SHIP/SHIP+TechPass+Enablement+-+User+Guide).
+-->
+
+<!--
+
+<details>
+  <summary><b> Can I choose not to migrate to TechPass?  </b></summary><br>
+
+To start using SHIP-HATS 2.0 services, you must onboard to SEED and TechPass. SHIP-HATS Users can either access from from GSIB or GMD to authenticate yourself via TechPass. 
+
+Users with Internet devices must onboard to SEED by installing MDM applications before they are allowed to authenticate via TechPass to consume SGTS services, including SHIP-HATS.
+
+</details>
+
+---
+
+<details>
+  <summary><b>When will my SHIP-HATS account be enabled for TechPass login?  </b></summary><br>
+
+All SHIP-HATS users should have received TechPass onboarding request. If you have not received the onboarding email, please send an email to [enquiries_ship@tech.gov.sg](enquiries_ship@tech.gov.sg)
+</details>
+
+---
+
 -->

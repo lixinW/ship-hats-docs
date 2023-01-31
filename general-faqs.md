@@ -1,31 +1,6 @@
 # FAQs
 
-## General FAQs
 
->**Tip:** Click the question or triangle to view the answer.
-
-<details>
-  <summary><b>What is a named user?</b></summary><br>
-
-A named user refers to the license that is bound to a specific user. Each named user uses a license in the subscription quota.
-</details>
-
-
----
-
-<details>
-  <summary><b>Are admin accounts such as Subscription Admin (SA) and Service Accounts considered as a named user account? </b></summary><br>
-
-Yes. Subscription Admin (SA) and Service Accounts are considered as a named user account.
-</details>
-
----
-
-## SEED FAQs
-
-[SEED FAQs](./seed-faqs.md ':include')
-
-## TechPass FAQs
 
 [TechPass FAQs](./techpass-faqs.md ':include')
 
@@ -58,3 +33,31 @@ Refer to the [manage accounts](https://docs.developer.tech.gov.sg/docs/ship-hats
 <!--<details>
   <summary><b><b>Can I access SHIP-HATS tools via GSIB device?</b></b></summary><br>
 Yes. You can access SHIP-HATS tools such as Confluence, Jira, Nexus Repo, Nexus IQ, and SHIP-HATS Service Desk via GSIB.</details><br>-->
+<!--
+## General FAQs
+
+>**Tip:** Click the question or triangle to view the answer.
+
+<details>
+  <summary><b>What is a named user?</b></summary><br>
+
+A named user refers to the license that is bound to a specific user. Each named user uses a license in the subscription quota.
+</details>
+
+
+---
+
+<details>
+  <summary><b>Are admin accounts such as Subscription Admin (SA) and Service Accounts considered as a named user account? </b></summary><br>
+
+Yes. Subscription Admin (SA) and Service Accounts are considered as a named user account.
+</details>
+
+---
+
+## SEED FAQs
+
+[SEED FAQs](./seed-faqs.md ':include')
+
+## TechPass FAQs
+-->

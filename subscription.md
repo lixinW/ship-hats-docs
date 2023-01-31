@@ -57,10 +57,7 @@ Additional support|Per hour (after 5:30 PM)|Outside office hours|
 
 ## Upgrade 
 
-You may upgrade to additional users and add-on anytime.  
-
-To upgrade a subscription, [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. 
-
+You may upgrade to additional users and add-on anytime via the TechBiz portal.  
 
 ## Downgrade
 
@@ -74,13 +71,14 @@ To downgrade a subscription, [Raise a service request](https://jira.ship.gov.sg/
 All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
 - Any SHIP-HATS subscriber starts with a [Base plan](#base-plan). 
-- Based on needs subscribers, you can optionally choose any [Add-ons](#add-ons).
+- Based on needs, you can optionally choose any [Add-ons](#add-ons).
 - For all new subscriptions, there will be a **Minimum Commitment Period of three months** from the date of SHIP-HATS account provisioning. 
 
+### Billing 
 
-Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
+**Billing starts** from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
 
-**The new pricing is applicable from April, 2023.**
+?> **Note:** The new pricing is applicable from April, 2023.
 
 If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge for until April 2023.
 
@@ -110,7 +108,7 @@ If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 
 
 >**TIP:** Click the triangle or the question to view the answer.
 
-
+<!--
 <details>
  <summary><b>What is the pricing for SHIP-HATS 2.0?  </b></summary><br>  
 
@@ -149,19 +147,18 @@ If you are a **new customer** and coming onboard to 2.0 directly, you will start
 
 
 
-<!--SA can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.-->
 </details>
 <br>
-
+-->
 <details>
  <summary><b> How can we onboard to SHIP-HATS 2.0? </b></summary><br>  
 
-You can [subscribe to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats) after GA in January 2023.
+You can [subscribe to SHIP-HATS via the TechBiz portal](onboard-to-ship-hats) after GA in January 2023.
 
  </details>
 <br>
 
-<details>
+<!--<details>
  <summary><b> I am migrating from 1.0 to 2.0. How will pricing work for me?	 </b></summary><br>  
 
 If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until April 2023.
@@ -190,7 +187,6 @@ If you are a **new customer** and coming onboard to 2.0 directly, you will start
 
 ?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
-<!--SA can [log in to the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to view pricing details.-->
 </details>
 <br>
 
@@ -218,7 +214,7 @@ You can downgrade only after the <b>Minimum Commitment Period</b> of three conse
 
 </details>
 <br>
-
+-->
 
 <details>
  <summary><b> How do I cancel my subscription? </b></summary><br>  
@@ -359,10 +355,8 @@ No.
 ## More FAQs
 
 - [Migration FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/faqs)
-- [Support FAQs](support?id=faqs)
-- [General FAQs](general-faqs)
-- [TechPass FAQs](techpass-faqs)
-- [SEED FAQs](seed-faqs)
+- [FAQs](general-faqs)
+
 
 <!--
 **Topics**

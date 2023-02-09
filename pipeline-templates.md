@@ -44,12 +44,13 @@ This section provides a high level of overview of templates to expect for migrat
 
 ### Common templates
 
-Following [Common templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates) are available for use.
+Following [Common/Modular templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates) are available for use.
 
 ?> If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-ship-hats-templates/browse/templates) for reference only. 
 
 |Template|Description|Template Type|
 |---|---|---|
+|[Build and push docker image](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-docker-buildyml)|This template allows you to build and push docker image to private registry in one single action which is defined in the "script" key.|Modular Template|
 |[Readiness check for web application](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-check-app-readinessyml)|This template allows you to check if a web application is ready by querying the URL and searching for a given text in a loop until a given wait duration.|Modular Template
 |[Readiness check for docker service](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-check-app-readinessyml)|This template allows you to check if a web application is ready by querying the URL and searching for a given text in a loop until a given wait duration.|Modular Template
 |[AZ CLI invocation](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-azureyml)|This template allows you to invoke Azure CLI commands.|Modular Template

@@ -3,6 +3,7 @@
 The integrated CI/CD used is GitLab on SaaS is hosted in Singapore and dedicated to GovTech usage. Based on the risk assessment and compliance review, this architecture is approved to host systems with classification of **Confidential Cloud Eligible (CCE)** and below.
 
 
+## SHIP-HATS Architecture
 
 The SHIP-HATS 2.0 Architecture can be described in the following sections: 
 - [Access](#access)
@@ -11,10 +12,10 @@ The SHIP-HATS 2.0 Architecture can be described in the following sections:
 - [GitLab Groups](#gitlab-groups)
 - [Templates](#templates)
 
+!> **Important:** Please note that only a limited set of services are available if you access SHIP-HATS via GSIB's Secure Internet Surfing (SIS). Services not supported via GSIB include executing any git commands. Please reach out to our team before making major ICT decisions based on the below diagram. 
 
 ![Architecture](./images/architecture.png)
 
-!> **Important:** Please note that only a limited set of services are available if you access SHIP-HATS via GSIB's Secure Internet Surfing (SIS). Services not supported via GSIB include executing any git commands. Please reach out to our team before making major ICT decisions based on the above diagram. 
 
 <!--Please note that GSIB rules and policies apply as always that may lead to limited services available on GSIB. Before finalizing any changes to your environment based on the above diagram, please reach out to our team.-->
 
@@ -54,7 +55,7 @@ Users with on-prem resources can configure Remote Runners in their data centre a
 
 ## GitLab Groups
 
-![GitLab Groups](./gitlab-groups.md ':include')
+[GitLab Groups](./gitlab-groups.md ':include')
 
 ## Templates
 

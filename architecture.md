@@ -14,7 +14,7 @@ The SHIP-HATS 2.0 Architecture can be described in the following sections:
 
 !> **Important:** Please note that only a limited set of services are available if you access SHIP-HATS via GSIB's Secure Internet Surfing (SIS). Services not supported via GSIB include executing any git commands. Please reach out to our team before making major ICT decisions based on the below diagram. 
 
-![Architecture](./images/architecture.png)
+![Architecture](./images/architecture.png ':size=110%')
 
 
 <!--Please note that GSIB rules and policies apply as always that may lead to limited services available on GSIB. Before finalizing any changes to your environment based on the above diagram, please reach out to our team.-->

@@ -9,7 +9,7 @@
 **MSBuild16_PATH**| C:\Program Files (x86)\Microsoft VisualStudio\2019\BuildTools\MSBuild\Current\bin 
 **MSBuild15_PATH**| C:\Program Files (x86)\Microsoft VisualStudio\2017\BuildTools\MSBuild\Current\bin 
 **.NET SDK**|C:\Windows\Microsoft.NET\Framework64\v4.0.30319 - v4 (64 bit)<br><br>C:\Windows\Microsoft.NET\Framework\v4.0.30319 -v4(32 bit)
-AppDeployment Toolkit|C:\PADT\Toolkit
+**AppDeployment Toolkit**|C:\PADT\Toolkit
 **VS2017_TEST_PATH**|C:\Program Files (x86)\Microsoft VisualStudio\2017\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow
 **VS2019_TEST_PATH**|C:\Program Files (x86)\Microsoft VisualStudio\2019\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow
 **VS2022_TEST_PATH**|C:\Program Files (x86)\Microsoft VisualStudio\2017\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow

@@ -1,6 +1,15 @@
 >**Tip:** Click the question or triangle to view the answer.
 
 <details>
+  <summary><b>Is there a sample pipeline template available using Kaniko?</b></summary><br>
+
+You can use the [Build and push docker image](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-docker-buildyml) template. This template allows you to build and push docker image to private registry in one single action which is defined in the "script" key. 
+
+?> **Note:** This template might be updated in the future to use other docker alternatives. 
+</details>
+<br>
+
+<details>
   <summary><b>What docker alternatives are available to replace docker commands?</b></summary><br>
 
 In [SHIP-HATS Templates](pipeline-templates) (from tag v1.0.4), the docker alternative tools used in our templates include Kaniko, Skopeo, and Crane. 

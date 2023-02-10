@@ -1,11 +1,12 @@
 # Runners
 
+## About Runners
 
-Runners **run the CI/CD pipelines**. The Pipeline **jobs are assigned** to available Runners. Runners **execute the work** you defined in your GitLab pipeline jobs.
+Runners **run the CI/CD pipelines**. The Pipeline **jobs are assigned** to available Runners. Runners **execute the work** you define in your GitLab pipeline jobs.
 
-You can install Runners on your local machine, VM, Docker container, or any cloud infrastructure.
+You can **install Runners** on your local machine, VM, Docker container, or any cloud infrastructure.
 
-Runners are supported on Linux, Windows, MacOS, and FreeBSD
+Runners are **supported on** Linux, Windows, MacOS, and FreeBSD.
 
 ### GitLab Runner Executor
 
@@ -26,16 +27,19 @@ You can **configure Tags** on the GitLab Runner. **Reference tags** in a GitLab
 
 In SHIP-HATS 2.0 platform, there are 2 types of runners:  
 
+- [SHIP-HATS Shared Runners](#ship-hats-shared-runners)
+- [Self-hosted Remote Runners](#self-hosted-remote-runners)
+
+<!--
 |SHIP-HATS Shared Runners|Self-hosted Remote Runners|
 |---|---|
-|- Hosted by SHIP-HATS team <br><br>- Created on-demand |- Dedicated machines that are set-up and managed by agencies<br><br>- Can be configured for Group or Project level access<br><br>- Can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS
-|- No overheads for Agencies as they do not need to maintain runners<br>- Available for all SHIP-HATS users at no additional costs!|- Agencies bear the costs of hosting their own runners<br><br>- Agencies have full-control of the runners
+|- Hosted by SHIP-HATS team <br><br>- Created on-demand <br><br>- No overheads for Agencies as they do not need to maintain runners<br><br>- Available for all SHIP-HATS users at no additional costs!|- Dedicated machines that are set-up and managed by agencies<br><br>- Can be configured for Group or Project level access<br><br>- Can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS<br><br>- Agencies bear the costs of hosting their own runners<br><br>- Agencies have full-control of the runners
+-->
 
-
-## 1. SHIP-HATS Shared Runners
+## SHIP-HATS Shared Runners
 <!--The shared runners are hosted by the SHIP-HATS team. There are 4 variants in the shared runner pool. These runners are easily accessible to users and are scalable on demand.-->
 
-These runners are: 
+Shared runners are: 
 - Hosted by SHIP-HATS team 
 - Created on-demand 
 - Available for all SHIP-HATS users at no additional costs!
@@ -55,64 +59,110 @@ There are 4 variants:
 |[CStack Runner](#1-cstack-runner)|kubernetes|cstack<br>non_privileged<br>no_root|FALSE|YES|YES|
 |[Docker Runner](#2-docker-runner)|docker + machine|ship_docker<br>non_privileged|FALSE|YES|NO|
 |[Windows Runner](#3-windows-runner)|shell|ship_windows|N/A|YES|NO|
-|GitLab Shared Runner on SaaS|The GitLab shared runner on SaaS may replace the above runners when available in the future. 
+|GitLab Shared Runner on SaaS||The GitLab shared runner on SaaS may replace the above runners when available in the future. 
 
-## 1. CStack Runner
+<!--
+<table>
+    <thead>
+        <tr>
+            <th>Runner </th>
+            <th>Executor</th>
+            <th>Tags</th>
+            <th>Privileged</th>
+            <th>Cache Enabled</th>
+            <th>Run</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>CStack Runner</td>
+            <td>kubernetes</td>
+            <td>cstack<br>non_privileged<br>no_root</td>
+            <td>FALSE</td>
+            <td>YES</td>
+            <td>YES</td>
+        </tr> 
+        <tr>
+            <td>Docker Runner</td>
+            <td>docker + machine</td>
+            <td>ship_docker<br>non_privileged</td>
+            <td>FALSE</td>
+            <td>YES</td>
+            <td>NO</td>
+        </tr>            
+        <tr>
+            <td>Windows Runner</td>
+            <td>shell</td>
+            <td>ship_windows</td>
+            <td>N/A</td>
+            <td>YES</td>
+            <td>NO</td>
+        </tr> 
+        <tr>
+            <td>1GitLab Shared Runner on SaaS	</td>
+            <td colspan=5>The GitLab shared runner on SaaS may replace the above runners when available in the future. </td>
+        </tr>
+    </tbody>
+</table>
+-->
 
-!> We recommend using this runner by default.
+### CStack Runner
+
+?> We **recommend** using this runner by default.
 
 - Run as non-root
 - Run as 65533 user
-- Uses Container Stack in SGTS
+- Uses [Container Stack](https://go.gov.sg/container-stack-docs) in SGTS
 
 |Runner|Executor|Tags|Privileged|Cache Enabled|Run Untag|Version|
 |---|---|---|---|---|---|---|
 |CStack Runner|kubernetes|cstack<br>non_privileged<br>no_root|FALSE|YES|YES|NA|
  
 
-## 2. Docker Runner
+### Docker Runner
 
-Use this runner to build a docker image.
+?> Use this runner to **build a docker image**.
 
 - Run as root
 - This runner is slower than CStack Runner for use cases that can run both runners.
 - We have removed privileged access for SHIP-HATS shared runner. This affects build of systems that used the shared runners with docker-in-docker. 
-- Use [Kaniko as a docker alternative](#docker-alternative-faqs). [Build and push docker image](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-docker-buildyml)
+- Use [Kaniko as a docker alternative](#docker-alternative-faqs). Refer to [Build and push docker image](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-docker-buildyml) template.
 
 |Runner|Executor|Tags|Privileged|Cache Enabled|Run Untag|Version|
 |---|---|---|---|---|---|---|
 |Docker Runner|docker + machine|ship_docker<br>non_privileged|FALSE|YES|NO|NA|
 
 
-## 3. Windows Runner
+### Windows Runner
 
-Use this runner for `.Net framework`. Note that a [clean up job](#note-the-following-when-using-windows-runner) is required at the beginning.
+?> Use this runner for **.Net framework**. 
+
+Note that a [clean up job](#note-the-following-when-using-windows-runner) is required at the beginning.
 
 |Runner|Executor|Tags|Privileged|Cache Enabled|Run Untag|Version|
 |---|---|---|---|---|---|---|
 |Windows Runner|shell|ship_windows|N/A|YES|NO|- OS: MS Windows Server 2019 Base<br>- Git: 2.36.1<br>- Visual Studio 2022 version 17.0<br>- .Net framework 4.8 development tools| 
 
-### **Libraries**
+**Libraries**
 
 |Component|Path|
 |---|---|
 **JAVA_HOME**|  C:\Program Files\OpenJDK\openjdk-11.0.15_10
 **Git**|  C:\Program Files\Git
-**Visual Studio IDE**|
-**MSBuild17_PATH**| C:\Program Files\Microsoft VisualStudio\2022\BuildTools\MSBuild\Current\Bin
-**MSBuild16_PATH**| C:\Program Files (x86)\Microsoft VisualStudio\2019\BuildTools\MSBuild\Current\bin 
-**MSBuild15_PATH**| C:\Program Files (x86)\Microsoft VisualStudio\2017\BuildTools\MSBuild\Current\bin 
+**MSBuild17_PATH**| C:\Program Files\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin
+**MSBuild16_PATH**| C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\bin 
+**MSBuild15_PATH**| C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\Current\bin 
 **.NET SDK**|C:\Windows\Microsoft.NET\Framework64\v4.0.30319 - v4 (64 bit)<br><br>C:\Windows\Microsoft.NET\Framework\v4.0.30319 -v4(32 bit)
 **AppDeployment Toolkit**|C:\PADT\Toolkit
 **VS2017_TEST_PATH**|C:\Program Files (x86)\Microsoft VisualStudio\2017\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow
 **VS2019_TEST_PATH**|C:\Program Files (x86)\Microsoft VisualStudio\2019\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow
 **VS2022_TEST_PATH**|C:\Program Files (x86)\Microsoft VisualStudio\2017\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow
-**Microsoft VS Code**|C:\Program Files\Microsoft VS Code<br>Chocolatey v1.1.0<br>Scoop<br>nano 6.3-7<br>Vim
+**Microsoft VS Code**|C:\Program Files\Microsoft VS Code
 
-### **Note the following when using Windows Runner:**
+**Note the following when using Windows Runner:**
 
 - Windows Runner has been set to run one job per instance at a time. 
-- Windows Runner includes a cleanup job to remove all the downloaded and build artefacts after the job completes. For this cleanup job to work, you must use `git clone` (instead of `git fetch`) in your.NET project settings. If you use `git fetch`, the folder becomes unremovable.
+- Windows Runner includes a **cleanup job** to remove all the downloaded and build artefacts after the job completes. For this cleanup job to work, you must use `git clone` (instead of `git fetch`) in your.NET project settings. If you use `git fetch`, the folder becomes unremovable.
     To change the project settings, you can follow one of the following methods:
     - Go to **Settings** > **CI/CD** > **General Pipelines** > **Git strategy**, and then select **Git clone**.
 
@@ -126,7 +176,7 @@ Use this runner for `.Net framework`. Note that a [clean up job](#note-the-follo
 -  Since the cleanup job has been enabled in Windows Runner to clean up everything after the job completes, you must push the artefacts to their repository (e.g. Nexus) to ensure data safety.
 - You must complete the necessary cleanup after the build is completed by deleting any password or confidential files that might have been created or downloaded during the build job (e.g., docker config).
 
-## 2. Self-hosted Remote Runners
+## Self-hosted Remote Runners
 
 <!--The agency-hosted remote runners are the dedicated machines that are set-up and managed by agencies. These runners can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS.--> 
 
@@ -139,16 +189,16 @@ For these runners:
 - Agencies bear the costs of hosting their own runners
 - Agencies have full-control of the runners
 
-## Remote Runner Registration
+## Runner Registration
 
-- Group or Project owner can obtain runner token through the UI.
+- Group or Project owner/maintainer can obtain runner token through the UI.
 - Registered runner has access to the project code
-- Review properly when granting group/project level permission.
+    - Review properly when granting group/project level permission.
+
+
+![Remote registeration](./images/remote-registeration.png)
 
 <!--
-### Remote Bamboo Agent vs Remote Gitlab Runner Registration
-
-
 
 ## Remote Runner Architecture
 
@@ -187,6 +237,15 @@ Therefore, to save costs, agencies should consider using the SHIP-HATS Shared  R
 ## Docker Alternative FAQs
 
 >**Tip:** Click the question or triangle to view the answer.
+
+<details>
+  <summary><b>Is there a sample pipeline template available using Kaniko?</b></summary><br>
+
+You can use the [Build and push docker image](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-docker-buildyml) template. This template allows you to build and push docker image to private registry in one single action which is defined in the "script" key. 
+
+?> **Note:** This template might be updated in the future to use other docker alternatives. 
+</details>
+<br>
 
 <details>
   <summary><b>What docker alternatives are available to replace docker commands?</b></summary><br>

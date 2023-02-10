@@ -39,7 +39,7 @@ In SHIP-HATS 2.0 platform, there are 2 types of runners:
 ## SHIP-HATS Shared Runners
 <!--The shared runners are hosted by the SHIP-HATS team. There are 4 variants in the shared runner pool. These runners are easily accessible to users and are scalable on demand.-->
 
-Shared runners are: 
+SHIP-HATS Shared runners are: 
 - Hosted by SHIP-HATS team 
 - Created on-demand 
 - Available for all SHIP-HATS users at no additional costs!
@@ -47,64 +47,12 @@ Shared runners are:
 
 There are 4 variants: 
 
-<!--
-1. [CStack Runner]()
-1. [Docker Runner]()
-1. [Windows Runner](#windows-runner)
-1. GitLab Shared Runner on SaaS: The GitLab shared runner on SaaS may replace the above runners when available in the future. 
--->
-
 |Runner|Executor|Tags|Privileged|Cache Enabled|Run Untag|
 |---|---|---|---|---|---|
 |[CStack Runner](#1-cstack-runner)|kubernetes|cstack<br>non_privileged<br>no_root|FALSE|YES|YES|
 |[Docker Runner](#2-docker-runner)|docker + machine|ship_docker<br>non_privileged|FALSE|YES|NO|
 |[Windows Runner](#3-windows-runner)|shell|ship_windows|N/A|YES|NO|
 |GitLab Shared Runner on SaaS||The GitLab shared runner on SaaS may replace the above runners when available in the future. 
-
-<!--
-<table>
-    <thead>
-        <tr>
-            <th>Runner </th>
-            <th>Executor</th>
-            <th>Tags</th>
-            <th>Privileged</th>
-            <th>Cache Enabled</th>
-            <th>Run</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>CStack Runner</td>
-            <td>kubernetes</td>
-            <td>cstack<br>non_privileged<br>no_root</td>
-            <td>FALSE</td>
-            <td>YES</td>
-            <td>YES</td>
-        </tr> 
-        <tr>
-            <td>Docker Runner</td>
-            <td>docker + machine</td>
-            <td>ship_docker<br>non_privileged</td>
-            <td>FALSE</td>
-            <td>YES</td>
-            <td>NO</td>
-        </tr>            
-        <tr>
-            <td>Windows Runner</td>
-            <td>shell</td>
-            <td>ship_windows</td>
-            <td>N/A</td>
-            <td>YES</td>
-            <td>NO</td>
-        </tr> 
-        <tr>
-            <td>1GitLab Shared Runner on SaaS	</td>
-            <td colspan=5>The GitLab shared runner on SaaS may replace the above runners when available in the future. </td>
-        </tr>
-    </tbody>
-</table>
--->
 
 ### CStack Runner
 
@@ -180,7 +128,7 @@ Note that a [clean up job](#note-the-following-when-using-windows-runner) is req
 
 <!--The agency-hosted remote runners are the dedicated machines that are set-up and managed by agencies. These runners can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS.--> 
 
-These runners are:
+Self-hosted Remote runners are:
 - Dedicated machines that are set-up and managed by agencies
 - Can be configured for Group or Project level access
 - Can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS
@@ -189,12 +137,9 @@ For these runners:
 - Agencies bear the costs of hosting their own runners
 - Agencies have full-control of the runners
 
-## Runner Registration
+## Remote Runner Registration
 
-- Group or Project owner/maintainer can obtain runner token through the UI.
-- Registered runner has access to the project code
-    - Review properly when granting group/project level permission.
-
+For Remote runner registration, Group or Project owner/maintainer can obtain runner token through the UI. Registered runner has access to the project code. Therefore, review properly when granting group/project level permission.
 
 ![Remote registeration](./images/remote-registeration.png)
 
@@ -212,10 +157,10 @@ For these runners:
 ### When to use which runner
 ### Include Docker  Images with Kaniko
 -->
-### GitLab Runner monitoring
+## GitLab Runner Monitoring
 
 The GitLab runner has embedded Prometheus metrics HTTP server for monitoring.
-- Runner business logic metrics (current running jobs?)
+- Runner business logic metrics 
 - Go-specific process metrics (garbage collection, memory stats)
 - General process metrics (memory, CPU utilization )
 - Build version information
@@ -228,10 +173,10 @@ The GitLab runner has embedded Prometheus metrics HTTP server for monitoring.
 ## Recommended Approach
 
 - SHIP-HATS Shared  Runners is highly recommended 
-- Remote runner for what we don’t support example iOS 
-- Unlike Bamboo, in GitLab, there is a more robust runner mechanism with sufficient runners to support parallel jobs
+- Use Remote runner for what SHIP-HATS Shared  Runners do not support (example iOS) 
+- Unlike Bamboo, GitLab has a more robust runner mechanism with sufficient runners to support parallel jobs
 
-Therefore, to save costs, agencies should consider using the SHIP-HATS Shared  Runners except for highly urgent projects that require dedicated runners. 
+?> To save costs, agencies should consider using the SHIP-HATS Shared  Runners except for highly urgent projects that require dedicated runners. 
 
 
 ## Docker Alternative FAQs

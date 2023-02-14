@@ -45,13 +45,7 @@ Users with on-prem resources can configure Remote Runners in their data centre a
 
 [runners](./runners-snippet.md ':include')
 
-### Docker Alternative FAQs
-
-[Docker Alternative FAQs](./docker-alternative-faqs.md ':include')
-
-### Windows Runner
-
-[Windows runner](./windows-runner.md ':include')
+For detailed information, refer to [Runners](runners) topic.
 
 ## GitLab Groups
 

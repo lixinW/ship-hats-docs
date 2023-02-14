@@ -138,26 +138,13 @@ For these runners:
 - Agencies bear the costs of hosting their own runners
 - Agencies have full-control of the runners
 
+
 ## Remote Runner Registration
 
 For Remote runner registration, Group or Project owner/maintainer can obtain runner token through the UI. Registered runner has access to the project code. Therefore, review properly when granting group/project level permission.
 
 ![Remote registeration](./images/remote-registeration.png)
 
-<!--
-
-## Remote Runner Architecture
-
-### Manage self-hosted runners
-### Configure runners 
-
-#### Configure runners for deployment to GCC
-
-
-## Choosing a runner
-### When to use which runner
-### Include Docker  Images with Kaniko
--->
 ## GitLab Runner Monitoring
 
 The GitLab runner has embedded Prometheus metrics HTTP server for monitoring.
@@ -257,3 +244,18 @@ If you are unable to find a suitable image in Pipeline COE, you may [raise a req
 
 - [Set up GitLab Runners](gitlab-runners)
 - [GitLab Runner](https://docs.gitlab.com/runner/)
+
+<!--
+
+## Remote Runner Architecture
+
+### Manage self-hosted runners
+### Configure runners 
+
+#### Configure runners for deployment to GCC
+
+
+## Choosing a runner
+### When to use which runner
+### Include Docker  Images with Kaniko
+-->

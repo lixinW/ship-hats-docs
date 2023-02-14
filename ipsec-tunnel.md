@@ -59,7 +59,7 @@ SHIP-HATS team will configure a VPN at AWS GCC 2.0 and share the VPN configurati
 Create **two** connections - one for each IPsec tunnel. 
 
 1. Navigate to **Virtual network gateways** > **AWSVnetGateway** > **Connections**, and then click **Add**.
-1. In the **Name** field, select the *Local network gateway* corresponding to IPsec Tunnel 1.
+1. In the **Name** field, enter the name of the IPsec Tunnel 1.
 1. In the **Connection type**, select **Site-to-site (IPsec)**.
 1. In the **Local network gateway** field, select the gateway for the IPsec Tunnel 1. 
 1. In the **Shared key (PSK)** field, copy the value of **Pre-Shared Key** corresponding to IPsec Tunnel 1 from the *VPN configuration* file provided by the SHIP-HATS team.
@@ -70,7 +70,7 @@ Create **two** connections - one for each IPsec tunnel.
 
     ![Add connection](./images/add-connection.png ':size=60%')
 
-Repeat the above steps to create a second connection. Make sure that you select values in the **Name**, **Local network gateway**, and **Shared key (PSK)** fields corresponding to IPsec Tunnel 2.
+Repeat the above steps to create a second connection. Make sure that you select/enter values in the **Name**, **Local network gateway**, and **Shared key (PSK)** fields corresponding to IPsec Tunnel 2.
 
 ## Configure Connections
 

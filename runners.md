@@ -20,8 +20,9 @@ GitLab Runner Executor **determines the environment** in which a job will run:
 
 ### GitLab Tags
 
-You can **configure Tags** on the GitLab Runner. **Reference tags** in a GitLab pipeline **specify which runners should be used for the job**.
+You can **configure Tags** on the GitLab Runner. **Reference tags** in a GitLab pipeline **specify which runners should be used for the job**. An example is shown in the image below:
 
+![Tags](./images/runner-tags.png ':size=40%')
 
 ## Types of Runners
 
@@ -164,6 +165,8 @@ The GitLab runner has embedded Prometheus metrics HTTP server for monitoring.
 - Go-specific process metrics (garbage collection, memory stats)
 - General process metrics (memory, CPU utilization )
 - Build version information
+
+For more information, refer to the [GitLab runner monitoring](https://docs.gitlab.com/runner/monitoring/) documentation.
 
 
 <!--## Common Errors-->

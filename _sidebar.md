@@ -11,6 +11,7 @@
   - [Sample pipeline](sample-pipeline)  
 **Architecture**
   - [Architecture](architecture)
+  - [Runners](runners)
 **Onboard to SHIP-HATS** 
   - [Subscription](subscription)
   - [Onboarding](onboard-to-ship-hats) 

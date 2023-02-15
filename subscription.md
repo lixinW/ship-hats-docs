@@ -76,7 +76,7 @@ All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2
 
 ### Billing 
 
-**Billing starts** from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
+**Billing starts** from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. **We charge on a monthly basis, however, overall invoicing will be quarterly.** 
 
 ?> **Note:** The new pricing is applicable from April, 2023.
 

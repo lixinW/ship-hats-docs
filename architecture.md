@@ -43,9 +43,12 @@ Users with on-prem resources can configure Remote Runners in their data centre a
 
 ## Runners
 
-[runners](./runners-snippet.md ':include')
+In SHIP-HATS 2.0 platform, there are 2 types of runners:  
 
-For detailed information, refer to [Runners](runners) topic.
+- SHIP-HATS Shared Runners
+- Self-hosted Remote Runners
+
+For detailed information, refer to the [Runners](runners) topic.
 
 ## GitLab Groups
 

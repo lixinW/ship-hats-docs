@@ -16,17 +16,20 @@ Agencies are reminded NOT to override the default SHIP-HATS Confluence retention
 
 
 <details>
-  <summary><b>What if I want to keep one or few of older versions/attachments for our future reference?</b></summary><br>
-  We strongly recommend you to backup and store the pages/attachments in your own local storage services if needed.
+  <summary style="font-size:20px"><b>What if I want to keep one or few of older versions/attachments for our future reference?</b></summary><br>
+
+We strongly recommend you to backup and store the pages/attachments in your own local storage services if needed.
 </details>
 <br>
 <details>
-  <summary><b>Will there be any notification send to agency what are the pages/attachments were deleted?</b></summary><br>
-  No notification will be sent to the agency. Please work with your project admin and do necessary housekeeping actions.
+  <summary style="font-size:20px"><b>Will there be any notification send to agency what are the pages/attachments were deleted?</b></summary><br>
+
+No notification will be sent to the agency. Please work with your project admin and do necessary housekeeping actions.
 </details>
 <br>
 <details>
-  <summary><b>What if my latest version itself is not updated for more than 6 months? Will it get deleted as well?</b></summary><br>
-  No, the current page version itself will not be affected.
+  <summary style="font-size:20px"><b>What if my latest version itself is not updated for more than 6 months? Will it get deleted as well?</b></summary><br>
+
+No, the current page version itself will not be affected.
 </details>
 <br>

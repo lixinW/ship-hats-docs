@@ -1,7 +1,7 @@
 >**Tip:** Click the triangle to view the answer.
 
 <details>
-  <summary><b>How do I ensure that I have successfully onboarded TechPass for my SHIP-HATS login? </b></summary><br>
+  <summary style="font-size:20px"><b>How do I ensure that I have successfully onboarded TechPass for my SHIP-HATS login? </b></summary><br>
 
 **Complete the following steps:**
 
@@ -14,7 +14,7 @@ You have successfully onboarded if you are able to access the [SHIP-HATS portal]
 ---
 
 <details>
-  <summary><b>What is the benefit of enabling TechPass for my SHIP-HATS account? </b></summary><br>
+  <summary style="font-size:20px"><b>What is the benefit of enabling TechPass for my SHIP-HATS account? </b></summary><br>
 
 You can use TechPass to access SHIP-HATS services seamlessly on GSIB and GMD devices without logging in to individual tools.
 </details>

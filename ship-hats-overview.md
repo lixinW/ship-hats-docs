@@ -28,6 +28,7 @@ SHIP-HATS drives best practices and policy compliance requirements. The platform
 ### Related topics
 
 - [Architecture](architecture)
+- [Runners](runners)
 
 <!--
 **Topics**

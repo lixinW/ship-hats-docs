@@ -7,6 +7,7 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
+Webinar <br><br>23 Feb 2023 <br><br>11 AM to 12 PM |**SHIP-HATS Pipeline Webinar: Docker Image CI Pipeline Template** <br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Docker Image CI Pipeline Template|Tech<br><br> SHIP-HATS Users & Prospects |200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Webinar<br><br> On Hold |**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
 <!--

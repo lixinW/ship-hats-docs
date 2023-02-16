@@ -42,7 +42,7 @@ This section provides a high level of overview of templates to expect for migrat
 - [Reference pipelines](#reference-pipelines)
 - [E2E templates](#e2e-templates)
 
-### Common templates
+## Common templates
 
 Following [Common/Modular templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates) are available for use.
 
@@ -64,7 +64,7 @@ Following [Common/Modular templates](https://sgts.gitlab-dedicated.com/wog/gvt/s
 |[Delete Images from GitLab Container Registry](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-docker-deleteyml)|This template allows you to delete image together with its cosign signature from GitLab Container Registry.|Modular Template
 
 
-### Testing/scanning templates 
+## Testing/scanning templates 
 
 Following [Testing/Scanning templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates) are available for use.
 
@@ -90,7 +90,7 @@ Following [Testing/Scanning templates](https://sgts.gitlab-dedicated.com/wog/gvt
 |[Postman API](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-postmanyml)|This template allows you to run API testing using Postman (newman CLI) with test reports generated inside reports folder.|Modular Template
 |[FOD SAST MSBuild](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-run-fod-scanyml)|This template allows you to do Fortify SAST and generate a Gitlab UI-compatible report.|Modular Template
 
-### Nexus Repo templates 
+## Nexus Repo templates 
 
 Following [Nexus Repo templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates) are available for use.
 
@@ -107,7 +107,7 @@ Following [Nexus Repo templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/
 |[NuGet artefact publish to Nexus Repo using NuGet CLI](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-publish-to-nexusyml)|This template allows you to publish NuGet artefacts to SHIP-HATS Nexus Repo as the main job script.|Modular Template
 |[NuGet artefact publish to Nexus Repo using dotNet CLI](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-publish-to-nexusyml)|This template allows you to publish NuGet artefacts to SHIP-HATS Nexus Repo as the main job script.|Modular Template
 
-### Reference pipelines
+## Reference pipelines
 
 
 <!--You can access following examples of E2E CI pipeline using SHIP-HATS templates [here](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines): -->
@@ -126,7 +126,7 @@ Following [E2E CI pipeline examples using SHIP-HATS templates](https://sgts.gitl
 [nodetsapp](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines/nodetsapp) |Example end to end CI pipeline for sample Node.js typescript application hosted in Azure App Service|[Mirror template in BitBucket for reference only if you do not have access to GitLab](https://bitbucket.ship.gov.sg/projects/CLGLAB/repos/gitlab-mirror-reference-pipelines-nodetsapp/browse)
 
 
-### E2E templates
+## E2E templates
 
 Following [end to end pipeline templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates) are available for use.
 
@@ -142,7 +142,7 @@ Following [end to end pipeline templates](https://sgts.gitlab-dedicated.com/wog/
 > **Note:** The End-to-End Reference templates are derived from the Bamboo plan templates provided by GovTech SVC Clusters & Technology Management Office (CTMO) in SHIP-HATS 1.0.  
 
 
-### Mirror Templates
+## Mirror Templates
 
 If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB) for reference only. 
 

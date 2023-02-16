@@ -2,7 +2,7 @@
 
 The following topic provides details for **onboarding to SHIP-HATS**. 
 
-![](./images/onboarding-flow.png)
+![Onboarding Flow](./images/onboarding-flow.png)
 The above image provides high level steps to complete onboarding to SHIP-HATS. Detailed steps are provided below along with documentation links to complete the steps. 
 
 ## Step 0: Pre-onboarding

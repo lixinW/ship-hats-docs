@@ -37,8 +37,8 @@ The above image provides high level steps to complete onboarding to SHIP-HATS. D
 |---|---|---|
 |Access SHIP-HATS Portal|[Agency PM](#performed-by-roles) & [Technical POC](#performed-by-roles)|[Access portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/access-ship-hats-portal)
 |Verify Users and System (s)|[Agency PM](#performed-by-roles) & [Technical POC](#performed-by-roles)|[Manage users](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-users)
-|Create project and assign PA|[Agency PM](#performed-by-roles) & [Technical POC](#performed-by-roles)|[Manage projects](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-projects)<br><br>[Manage admins](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-admins)
-|Add Projects|[Agency PM](#performed-by-roles) & [Technical POC](#performed-by-roles)|[Manage projects](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-projects)
+|Create project|[Agency PM](#performed-by-roles) & [Technical POC](#performed-by-roles)|[Manage projects](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-projects)
+|Assign Project Admin|[Agency PM](#performed-by-roles) & [Technical POC](#performed-by-roles)|[Manage admins](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-admins)
 |Add GitLab tool (and other tools as per your subscription)|[Technical POC](#performed-by-roles)|[Manage tools](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools)
 
 

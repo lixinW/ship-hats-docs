@@ -50,7 +50,7 @@ The above image provides high level steps to complete onboarding to SHIP-HATS. D
 |---|---|---|
 |Verify user mapping|[Technical POC](#performed-by-roles)|1. In SHIP-HATS Portal, click **GitLab group.** <br><br>2. In GitLab, Click **Subgroup information** > **Members**
 |Set up SSH keys|Developer|[Communicate using SSH keys](communicate-using-ssh-keys)
-|Set up and GPG keys|Developer|[Sign commits with GPG](signing-commits-with-gpg)
+|Set up GPG keys|Developer|[Sign commits with GPG](signing-commits-with-gpg)
 
 ## Step 4: Configure Pipelines
 

@@ -14,7 +14,7 @@
   - [Runners](runners)
 **Onboard to SHIP-HATS** 
   - [Subscription](subscription)
-  - [Onboarding](onboard-to-ship-hats) 
+  - [Onboarding](onboard-to-ship-hats)
 **Environment Connectivity**
   - [AWS VPC Endpoint](aws-vpc-endpoint)
   - [IPsec Tunnel](ipsec-tunnel)
@@ -22,7 +22,6 @@
   - [Sign commits with GPG](signing-commits-with-gpg)
   - [Communicate using SSH keys](communicate-using-ssh-keys)  
 **Training**
-  - [Overview](training)
   - [Learning events](learning-events)
   - [Self-paced trainings](self-paced-trainings)
 **Support**
@@ -41,10 +40,13 @@
 
 
 <!--
+  - [Overview](training)
+  - [Step 1: Subscribe to SH](./onboarding/techbiz.md)
+  - [Onboarding to SHIP-HATS Portal](./onboarding/sh-to-gl.md)
+  - [NewOnboarding](onboarding) 
   - [TechPass FAQs](techpass-faqs)    
   - [SEED FAQs](seed-faqs)
   - [Runners](runners)
-
   - [Tooling Strategy](tooling-strategy)
   - [Roadmap](roadmap)
 

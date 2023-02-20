@@ -3,7 +3,7 @@
 ?> Complete these steps in the **[GitLab](https://sgts.gitlab-dedicated.com/) tool**. 
 
 
-## Verify User Mapping
+## Step 3a: Verify User Mapping
 
 ### To verify user mapping
 
@@ -29,10 +29,14 @@
 
     1. Provide values in the **Username or email address** and **Select a role** fields, and then click **Invite**. 
 
-## Set up SSH keys
+## Step 3b: Set up SSH keys
 
 In GitLab, each developer must [Use SSH keys to communicate with GitLab](https://docs.gitlab.com/ee/user/ssh.html).
 
-## Set up GPG keys	
+## Step 3c: Set up GPG keys	
 
 In GitLab, each developer must [Sign commits with GPG](https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/).
+
+### What's Next
+
+- [Step 4: Configure Pipelines](configure-pipelines) 

@@ -15,6 +15,11 @@
 **Onboard to SHIP-HATS** 
   - [Subscription](subscription)
   - [Onboarding](onboard-to-ship-hats)
+  - [Step 0: Pre-onboarding](pre-onboarding)
+  - [Step 1: Subscribe to SHIP-HATS](subscribe-via-techbiz-portal)
+  - [Step 2: Onboard to SHIP-HATS Portal](onboard-via-ship-hats-portal)
+  - [Step 3: Configure GitLab](configure-gitlab)  
+  - [Step 4: Configure Pipelines](configure-pipelines)   
 **Environment Connectivity**
   - [AWS VPC Endpoint](aws-vpc-endpoint)
   - [IPsec Tunnel](ipsec-tunnel)

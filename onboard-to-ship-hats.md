@@ -3,7 +3,20 @@
 The following topic provides details for **onboarding to SHIP-HATS**. 
 
 ![Onboarding Flow](./images/onboarding-flow.png)
-The above image provides high level steps to complete onboarding to SHIP-HATS. Detailed steps are provided below along with documentation links to complete the steps. 
+
+The above image provides high level steps to complete onboarding to SHIP-HATS. Detailed steps are provided in the topics below:
+
+- [Step 0: Pre-onboarding](pre-onboarding)
+- [Step 1: Subscribe to SHIP-HATS](subscribe-via-techbiz-portal)
+- [Step 2: Onboard to SHIP-HATS Portal](onboard-via-ship-hats-portal)
+- [Step 3: Configure GitLab](configure-gitlab)  
+- [Step 4: Configure Pipelines](configure-pipelines) 
+
+
+
+
+
+<!--
 
 ## Step 0: Pre-onboarding
 
@@ -28,6 +41,7 @@ The above image provides high level steps to complete onboarding to SHIP-HATS. D
 |Add and configure products|[Agency PM](#performed-by-roles)|[Add and configure products](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/add-and-configure-products)
 |Select the required Tool(s) and Add users|[Agency PM](#performed-by-roles)|[Manage user access for subscribed SGTS products](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/manage-user-access-subscribed-sgts-products)<br><br>You must subscribe to required Tools (e.g. GitLab) and add-ons as needed (e.g. Jira/Confluence), and then add users for each of the subscribed tools.
 
+
 ## Step 2: Onboard to SHIP-HATS
 
 ?> Complete these steps in the **[SHIP-HATS Portal](https://portal.ship.gov.sg/)**.
@@ -44,13 +58,15 @@ The above image provides high level steps to complete onboarding to SHIP-HATS. D
 
 ## Step 3: Configure GitLab
 
-?> Complete these steps in the **[GitLab](https://sgts.gitlab-dedicated.com/) tool**.
+?> Complete these steps in the **[GitLab](https://sgts.gitlab-dedicated.com/) tool**. Follow the instructions [here](configure-gitlab).
+
 
 |Activity|[Performed by](#performed-by-roles)|GovTech Supporting Guide|  
 |---|---|---|
 |Verify user mapping|[Technical POC](#performed-by-roles)|1. In SHIP-HATS Portal, click **GitLab group.** <br><br>2. In GitLab, Click **Subgroup information** > **Members**
 |Set up SSH keys|Developer|[Communicate using SSH keys](communicate-using-ssh-keys)
 |Set up GPG keys|Developer|[Sign commits with GPG](signing-commits-with-gpg)
+
 
 ## Step 4: Configure Pipelines
 
@@ -87,6 +103,7 @@ The above image provides high level steps to complete onboarding to SHIP-HATS. D
 
 [User roles and permissions](user-roles-permissions.md ':include')
 
+-->
 
 <!--
 

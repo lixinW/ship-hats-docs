@@ -3,7 +3,7 @@
 ?> Complete these steps in the **[SHIP-HATS Portal](https://portal.ship.gov.sg/)**.
 
 
-## Access SHIP-HATS Portal
+## Step 2a: Access SHIP-HATS Portal
 
 ### To access the SHIP-HATS portal
 
@@ -27,7 +27,7 @@
 
     <kbd>![Dashboard](./images/dashboard.png)</kbd>    
 
-## Verify Users and System (s)
+## Step 2b: Verify Users and System (s)
 
 Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in their account if the users were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
 
@@ -55,7 +55,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
    **Last Login**|Indicates the date and time when the user logged in the last time. The time indicated is based on data captured until the daily scheduled job runs.
 
 
-## Create Project
+## Step 2c: Create Project
 
 Subscription Admin (SA) can create new projects in SHIP-HATS.
 
@@ -92,7 +92,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS.
     ![Projects](./images/projects-all.png)
 
 
-## Assign Project Admins
+## Step 2d: Assign Project Admins
 
 Subscription Admins can add Project Admins using the SHIP-HATS portal. When creating a project in an account, it is mandatory to specify at least one Project Admin. SAs can add additional PAs anytime in the future.  
 
@@ -132,7 +132,7 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
    After a user is successfully added, an email notification will be sent to the requesting SA with copy sent to other SA and the newly added PA.
 
 
-## Add GitLab
+## Step 2e: Add GitLab
 
 SA or PA can add the tools (GitLab and add-ons) under the **Subscribed Tools** section based on the tools subscribed in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).  
 
@@ -182,3 +182,8 @@ SA or PA can add the tools (GitLab and add-ons) under the **Subscribed Tools** s
     The selected project tool (GitLab in our example) is added.
 
     ![GitLab added](./images/gitlab-added.png)    
+
+### Whats' Next 
+
+- [Step 3: Configure GitLab](configure-gitlab) 
+

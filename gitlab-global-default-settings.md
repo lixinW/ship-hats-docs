@@ -1,5 +1,5 @@
 The global level settings had been pre-defined for all users.
-Overriding of settings is not encouraged. Please refer to the [terms and conditions](gitlab/gitlab-terms-and-conditions) for details.
+Overriding of settings is not encouraged. Please refer to the [terms and conditions](#gitlab-terms-and-policies) for details.
 
 |S.No.|Setting|Limit/Size|
 |---|---|---|

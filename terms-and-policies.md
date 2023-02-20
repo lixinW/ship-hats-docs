@@ -4,9 +4,13 @@
 
 [Fair Usage Policy](gitlab-fair-usage-policy.md ':include')
 
-## Global Default Settings
+## GitLab Global Default Settings
 
 [Global Default Settings](./gitlab-global-default-settings.md ':include')
+
+## GitLab Terms and Policies
+
+[GitLab Terms and Policies](./gitlab-terms-and-conditions.md ':include')
 
 ## Confluence Global Retention Rules
 

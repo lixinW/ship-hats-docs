@@ -82,6 +82,7 @@ There are 4 variants:
 |Docker Runner|docker + machine|ship_docker<br>non_privileged|FALSE|YES|NO|NA|
 
 
+
 ### Windows Runner
 
 ?> Use this runner for **.Net framework**. 
@@ -143,7 +144,46 @@ For these runners:
 
 For Remote runner registration, Group or Project owner/maintainer can obtain runner token through the UI. Registered runner has access to the project code. Therefore, review properly when granting group/project level permission.
 
-![Remote registeration](./images/remote-registeration.png)
+![Remote registration](./images/remote-registeration.png)
+
+## Remote Runner Architecture
+
+In the below example diagram (referenced from an [AWS DevOps Blog](https://aws.amazon.com/blogs/devops/deploy-and-manage-gitlab-runners-on-amazon-ec2/
+)), you can see the use of an AWS CloudFormation template to set up a Docker-based runner on 2 different AWS account environments. This architecture also uses ASG to allow the ease of scaling up the runner. You can also attach different IAM roles/Security group to the runners according to your setup.
+
+With this setup, the runner will easily have the required network/roles access that it needs for the build job because it is already hosted in the environment for which it requires the access.
+
+
+![Remote Runner Architecture](./images/remote-runner-architecture.png)
+
+Few additional examples are provided below for your reference. 
+
+### Example 1: Azure
+
+![Azure 1](./images/architecture-azure1.png ':size=120%')
+
+### Example 2: Azure
+
+![Azure 2](./images/architecture-azure2.png ':size=120%')
+
+### Example 3: AWS
+
+![AWS 1](./images/architecture-aws1.png ':size=120%')
+
+## Choosing a Self-hosted Remote Runner
+
+**Determine the tasks** your self-hosted runner is running to choose whether you require a CI runner, CD runner, or CI/CD runner.
+
+|Runner|When to choose|
+|---|---|
+CI runner|When you need your runner to have Internet compartment. For example, placing your runner in an Internet compartment will be usually required if your build jobs need to have access to external sources.
+CD runner|When you need your runner to have access to your application. For example, your CD runner will need to have network access to your application host when you need to transport your build artifact that you have built into your application host.
+CI/CD runner|When you require: Internet compartment and Access to your application as described above.|
+
+**Ensure Recommended Runner Specifications are met**
+  - t3.medium
+  - Start small and adjust to your future needs
+
 
 ## GitLab Runner Monitoring
 
@@ -154,9 +194,6 @@ The GitLab runner has embedded Prometheus metrics HTTP server for monitoring.
 - Build version information
 
 For more information, refer to the [GitLab runner monitoring](https://docs.gitlab.com/runner/monitoring/) documentation.
-
-
-<!--## Common Errors-->
 
 
 
@@ -174,7 +211,7 @@ For more information, refer to the [GitLab runner monitoring](https://docs.gitla
 >**Tip:** Click the question or triangle to view the answer.
 
 <details>
-  <summary><b>Is there a sample pipeline template available using Kaniko?</b></summary><br>
+  <summary style="font-size:20px"><b>Is there a sample pipeline template available using Kaniko?</b></summary><br>
 
 You can use the [Build and push docker image](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-docker-buildyml) template. This template allows you to build and push docker image to private registry in one single action which is defined in the "script" key. 
 
@@ -183,14 +220,14 @@ You can use the [Build and push docker image](https://sgts.gitlab-dedicated.com/
 <br>
 
 <details>
-  <summary><b>What docker alternatives are available to replace docker commands?</b></summary><br>
+  <summary style="font-size:20px"><b>What docker alternatives are available to replace docker commands?</b></summary><br>
 
 In [SHIP-HATS Templates](pipeline-templates) (from tag v1.0.4), the docker alternative tools used in our templates include Kaniko, Skopeo, and Crane. 
 </details>
 <br>
 
 <details>
-  <summary><b>Why can't SHIP-HATS Templates use one tool (e.g. Buildah or Podman) to replace all docker commands? </b></summary><br>
+  <summary style="font-size:20px"><b>Why can't SHIP-HATS Templates use one tool (e.g. Buildah or Podman) to replace all docker commands? </b></summary><br>
 <!--Why multiple docker alternative tools are available in SHIP-HATS Templates?-->
 
 In our testing, Buildah and Podman require minimally some elevated capabilities on runner to work. These elevated capabilities are undesirable in a shared runner model as they allow host escape. So, SHIP-HATS Templates leverage several tools that do not require such runner settings to fulfil some docker commands. For example: 
@@ -204,28 +241,28 @@ In our testing, Buildah and Podman require minimally some elevated capabilities 
 <br>
 
 <details>
-  <summary><b>Are the docker alternatives identified able to fully replace the docker commands?</b></summary><br>
+  <summary style="font-size:20px"><b>Are the docker alternatives identified able to fully replace the docker commands?</b></summary><br>
 
 No, there are certain functions that cannot be performed by the suggested docker alternatives, such as `docker run` and `docker compose`. You may consider using [GitLab services](https://docs.gitlab.com/ee/ci/services/) with your services designed to provide additional features which are network accessible.
 </details>
 <br>
 
 <details>
-  <summary><b>Docker alternative tools are insufficient for me and I would still need to run docker commands directly. What can I do?</b></summary><br>
+  <summary style="font-size:20px"><b>Docker alternative tools are insufficient for me and I would still need to run docker commands directly. What can I do?</b></summary><br>
 
 SHIP-HATS does not supply Docker-in-Docker (`dind`) or privileged shared runners. You need to self host privileged runner to use `dind` image for running docker commands directly. Refer to [Set up GitLab Runners documentation](gitlab-runners) to set up self-hosted GitLab Runner.
 </details>
 <br>
 
 <details>
-  <summary><b>Can the docker alternatives run on non-root and non-privileged runners (CStack runners)?</b></summary><br>
+  <summary style="font-size:20px"><b>Can the docker alternatives run on non-root and non-privileged runners (CStack runners)?</b></summary><br>
 
 Based on our testing on docker alternatives, Skopeo and Crane can run on non-root and non-privileged runners (tags: cstacks, non_privileged, no_root) whereas Kaniko can run on runners with root and non-privileged runners (tags: ship_docker, non_privileged).
 </details>
 <br>
 
 <details>
-  <summary><b>Are there any image or job templates that I can reference in my job if there are tasks that require multiple tools. For example, AWS assumes role with Kaniko to build and push image to AWS ECR.</b></summary><br>
+  <summary style="font-size:20px"><b>Are there any image or job templates that I can reference in my job if there are tasks that require multiple tools. For example, AWS assumes role with Kaniko to build and push image to AWS ECR.</b></summary><br>
 
 [Pipeline COE](https://sgts.gitlab-dedicated.com/pipelinecoe/containers) is an InnerSource project where custom images are built and shared across all projects. Most images in Pipeline COE are built from container base image that comes with multiple common tools (e.g., Wget, Git, curl, and JQ).
 
@@ -240,9 +277,82 @@ If you are unable to find a suitable image in Pipeline COE, you may [raise a req
 
 -->
 
+## Runner FAQs
+
+?>**Tip:** Click the triangle or question to view the answer.
+
+
+<details>
+  <summary style="font-size:20px"><b> What are the types of runners available on SHIP-HATS 2.0?
+ </b></summary><br>
+
+
+There are 3 types of runners available for our subscribers:
+
+- SHIP-HATS Shared Runners are self-hosted runners in a scalable environment.
+- GitLab Shared Runners are SaaS based shared runners. 
+- Agency-hosted Remote Runners are dedicated runners set up in the agency environment. 
+
+</details>
+
+---
+
+<details>
+  <summary style="font-size:20px"><b> Will the subscribers be able to host their our own GitLab runners?
+ </b></summary><br>
+
+Yes, the subscribers can host remote runners in their own environment. 
+
+</details>
+
+---
+
+<details>
+  <summary style="font-size:20px"><b> What are the agents that we use for deployment? </b></summary><br>
+
+Runners (Shared or Dedicated) are used for deployment in SHIP-HATS.
+
+</details>
+
+---
+
+
+<details>
+  <summary style="font-size:20px"><b> Can the shared runner access our servers in GCC or OnPrem? </b></summary><br>
+
+For GCC, the users can use SHIP-HATS Shared Runner and for OnPrem, users need an Agency-hosted Remote Runner. 
+
+</details>
+
+---
+
+<details>
+  <summary style="font-size:20px"><b>Can SHIP-HATS integrate with other SaaS such as Salesforce? </b></summary><br>
+
+Every SaaS has different integration capability. Therefore, it depends on the product.
+
+</details>
+
+---
+
+<details>
+  <summary style="font-size:20px"><b> Can the GitLab Shared Runner download packages from the internet?
+ </b></summary><br>
+
+All the packages from the internet have to proxy through Nexus on SHIP-HATS for security reasons. 
+
+</details>
+
+---
+
+
 ### Related topics
 
 - [Set up GitLab Runners](gitlab-runners)
+- [Sign commits with GPG](signing-commits-with-gpg)
+- [Communicate using SSH Keys](communicate-using-ssh-keys)
+- [Connect using AWS VPC Endpoint](aws-vpc-endpoint)
+- [Connect using IPsec Tunnel](ipsec-tunnel)
 - [GitLab Runner](https://docs.gitlab.com/runner/)
 
 <!--
@@ -258,4 +368,7 @@ If you are unable to find a suitable image in Pipeline COE, you may [raise a req
 ## Choosing a runner
 ### When to use which runner
 ### Include Docker  Images with Kaniko
+
+## Common Errors
+
 -->

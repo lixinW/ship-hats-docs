@@ -1,16 +1,6 @@
 # Self-paced trainings
 
 To ensure we support at scale, anyone can access Self-paced trainings. 
-<!--
-The training journey has been divided into various sections and has been categorized into different levels based on different experience levels. The [Prerequisites](#prerequisites) section covers basic concepts that are required to understand the product. After you have familiarized yourself with basic concepts, take a [DevSecOps Basic Quiz](#devsecops-basic-quiz) to review your fundamentals. The [Learning Resources](#learning-resources) provides you various resources in the form of [Webinars](#webinar-series) has been divided into three sections to 
-
-The Level 100 trainings cover introductory topics. In the first phase of training roll out, we will be focusing on this level. While the Level 200 trainings cover topics for practitioners who have hands-on experience of the introductory topics, the Level 300 trainings focus on topics for intermediate to expert practitioners.
-
-To begin your learning journey, we recommend that you complete the [prerequisites](#prerequisites) section before you deep dive into the level-based [technical](#technical) and [non-technical](#non-technical) training resources.
-
-![](./images/training-levels.png)
-
--->
 
 ## Prerequisites
 
@@ -75,11 +65,28 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 |200|Tools|Review Modular Pipeline (For SHIP-HATS Users) (Coming soon!)
 |200|Tools|[Apply Compliance Framework](https://sgts.gitlab-dedicated.com/WOG/ship-hats-compliance) <br><br> Accessible after onboarding to SHIP-HATS 2.0.
 
-</details>
-<br>
+
 
 ### Related topics
 - [Developer Essentials for Public Sector](https://docs.developer.tech.gov.sg/docs/developer-essentials-for-public-sector/)
+
+<!--
+The training journey has been divided into various sections and has been categorized into different levels based on different experience levels. The [Prerequisites](#prerequisites) section covers basic concepts that are required to understand the product. After you have familiarized yourself with basic concepts, take a [DevSecOps Basic Quiz](#devsecops-basic-quiz) to review your fundamentals. The [Learning Resources](#learning-resources) provides you various resources in the form of [Webinars](#webinar-series) has been divided into three sections to 
+
+The Level 100 trainings cover introductory topics. In the first phase of training roll out, we will be focusing on this level. While the Level 200 trainings cover topics for practitioners who have hands-on experience of the introductory topics, the Level 300 trainings focus on topics for intermediate to expert practitioners.
+
+To begin your learning journey, we recommend that you complete the [prerequisites](#prerequisites) section before you deep dive into the level-based [technical](#technical) and [non-technical](#non-technical) training resources.
+
+![](./images/training-levels.png)
+
+-->
+<!--
+
+## Vision
+
+
+
+-->
 
 <!--
 
@@ -98,66 +105,55 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 |Prerequisites|- [Read the recommended best practices in the DevSecOps playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)<br>- [Learn the CI/CD basics](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/devsecops-playbook?id=elements-of-devsecops-continuous-integration-amp-continuous-delivery)|
 |Products 101|- CI/CD with GitLab (Coming in September)
 |SHIP-HATS 101|- [Architecture Overview](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture)<br>- Tools Overview (coming soon)
--->
 
-<!--
----
-Option 2
 
----
 
 ### Pre-requisites
 
 - [Read the recommended best practices in the DevSecOps playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/)
 - [Learn the CI/CD basics]()
--->
-<!--
+
+
 |Pre-requisites||
 |---|---|
 [DevSecOps](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/) – read the recommended best practices in the playbook|Tech Doc
 CI/CD basics|Self-learn
--->
 
-<!--
+
 ### Products 101
 - CI/CD with GitLab [Coming in September]
     - Video Playlist
 - Should we list tutorials of non GitLab tools??|
--->
 
-<!--
+
 |Products 101||
 |---|---|
 CI/CD with GitLab [Coming in September]|Video Playlist
 Should we list tutorials of non GitLab tools??|
--->
- 
-<!--
+
+
 ### Onboarding SHIP-HATS
 
 - [Pricing & Subscription Overview [Coming in October]]()
 - [Subscription Process](subscription) 
 
--->
 
-<!--
+
 |Onboarding SHIP-HATS||
 |---|---|
 Pricing & Subscription Overview [Coming in October]|Video
 Subscription Process |Tech Doc
--->
-<!--
+
+
 ### SHIP-HATS 101
 
 - [Project management using SHIP-HATS Portal]()
--->
-<!--
+
+
 |SHIP-HATS 101||
 |---|---|
 Project management using SHIP-HATS Portal|Tech Doc
--->
 
-<!--
 ## For Developers
 
 ### Prerequisites
@@ -177,9 +173,7 @@ Project management using SHIP-HATS Portal|Tech Doc
 - [Architecture Overview](architecture)
 - [Templates Overview](templates)
 - [Tools Overview]()
--->
 
-<!--
 |Topic|Resources|
 |---|---|
 Architecture Overview | Tech Doc

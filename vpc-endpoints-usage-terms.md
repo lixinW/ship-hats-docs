@@ -1,0 +1,2 @@
+- Tenants shall not misuse/exploit SHIP's services or provide any means of connection to our services via SHIP-HATS VPC endpoints.
+- SHIP-HATS VPC endpoints are strictly meant for programmatic access.

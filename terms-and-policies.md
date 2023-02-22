@@ -20,6 +20,10 @@
 
 [Service level agreement](./service-level-agreement.md ':include')
 
+## VPC Endpoints Usage Terms
+
+[SHIP-HATS VPC Endpoints Usage Terms](./vpc-endpoints-usage-terms.md ':include')
+
 ## Third party schedule 
 
 [Third party schedule](./third-party-schedule.md ':include')

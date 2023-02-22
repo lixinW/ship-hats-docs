@@ -94,19 +94,21 @@ Sonar (Developer Edition)|sonar1.hats.stack.gov.sg|com.amazonaws.vpce.ap-southea
 Twistlock|twistlock.apps.hats.stack.gov.sg|com.amazonaws.vpce.ap-southeast-1.vpce-svc-021d94466d60feca2	|443|	HTTPS|
 Device Farm CLI|device-farm-cli-be.hats.stack.gov.sg|com.amazonaws.vpce.ap-southeast-1.vpce-svc-02e850b5422c1ea27	|443|	HTTPS|
 
+## VPC Endpoints Usage Terms
+
+[SHIP-HATS VPC Endpoints Usage Terms](./vpc-endpoints-usage-terms.md ':include')
 
 ## FAQs
-
-
 
 >**Tip:** Click the question/triangle to view the answer.
 
 <details>
-  <summary><b>If I am reusing DevOps and VPC endpoints that I created for SHIP-HATS 1.0, can I continue to use the endpoints?</b></summary><br>
+  <summary style="font-size:20px"><b>If I am reusing DevOps and VPC endpoints that I created for SHIP-HATS 1.0, can I continue to use the endpoints?</b></summary><br>
 
 - For tools that are being carried forward from SHIP-HATS 1.0 (e.g. Jira, Nexus, etc.), you can continue to use the same endpoints. 
 - For new tools in SHIP-HATS 2.0 (SaaA GitLab), you must create and use new endpoints.</details>
-<br>
+
+---
 
 ## What's Next
 

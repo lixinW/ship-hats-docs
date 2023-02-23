@@ -6,7 +6,8 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
-Webinar <br><br>23 Feb 2023 <br><br>11 AM to 12 PM |**SHIP-HATS Pipeline Webinar: Docker Image CI Pipeline Template** <br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Docker Image CI Pipeline Template|Tech<br><br> SHIP-HATS Users & Prospects |200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+Webinar <br><br>15 March 2023 <br><br>11 AM to 12 PM |**SHIP-HATS 2.0**<br><br>Overview of SHIP-HATS 2.0|Non Tech<br><br> SHIP-HATS Users & prospects|100|Only by invitation|
+Webinar<br><br>26 April 2023<br><br>5 PM to 6 PM|**SHIP-HATS & Sonatype**<br><br>Covers Benefits of Sonatype Nexus IQ for OSS consumption, Nexus Platform Best Practices, and demo|Tech & Non Tech|100|Sign up coming soon!
 Webinar<br><br> On Hold |**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
 <!--
@@ -28,6 +29,7 @@ Webinar|**Docker Image CI Pipeline Template** <br><br>This webinar shows how to 
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
+Webinar <br><br>23 Feb 2023 <br><br>11 AM to 12 PM |**SHIP-HATS Pipeline Webinar: Docker Image CI Pipeline Template** <br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Docker Image CI Pipeline Template|[SHIP-HATS Docker Image CI Pipeline](https://youtu.be/aBF1eDX8Ano)|Coming soon!
 |Briefing <br><br>13 Feb, 2023 <br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 02**<br><br>Covers Process, Success Criteria,Pre-migration Technical setup, SCR Migration & validation and Self-help resources|[SHIP-HATS 2.0 Migration Briefing Wave 02](https://youtu.be/-1SeVv1-uMU) [32 min video] |[Download the PDF here](./files/MigrationBriefing_13_Feb_2023.pdf)|
 Webinar<br><br>13 Feb, 2023 <br><br>2 PM to 3 PM|**SHIP-HATS 2.0 Runners**<br><br>Introduction to Runners|[SHIP-HATS 2.0 Runners](https://youtu.be/GOuhtjP3V70) [60 min video]|[Download the PDF here](./files/2.0_Runners_Webinar.pdf)|
 Webinar<br><br>30 Jan, 2023 <br><br>11 AM to 12 PM|**SHIP-HATS 2.0 Webapp E2E Pipeline Template**<br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Webapp E2E Template|[SHIP-HATS 2.0 Webapp E2E Pipeline Template](https://youtu.be/An2U2_P5ILQ) [60 min video]|[Download the PDF here](./files/SHIP-HATS-webapp-webinar.pdf)|
@@ -73,6 +75,7 @@ Webinar<br><br> 6 Dec, 2022 <br><br>10:00 AM - 11:00 AM|**Advanced CI/CD & SHIP-
 Webinar<br><br> 16 Jan, 2023 <br><br> 2 PM - 3 PM|**GitLab Security & SHIP-HATS Compliance Pipelines**<br><br>Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard. PMs who are keen to learn can join too!|Tech <br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Webinar<br><br>30 Jan 2023 <br><br>11 AM to 12 PM|**SHIP-HATS 2.0 Webapp E2E Pipeline Template**<br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Webapp E2E Template|Tech <br><br> SHIP-HATS Users & Prospects |200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 Webinar<br><br>13 Feb 2023 <br><br>2 PM to 3 PM|**SHIP-HATS 2.0 Runners**<br><br>Introduction to Runners|Tech <br><br> SHIP-HATS Users & Prospects |200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+Webinar <br><br>23 Feb 2023 <br><br>11 AM to 12 PM |**SHIP-HATS Pipeline Webinar: Docker Image CI Pipeline Template** <br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Docker Image CI Pipeline Template|Tech<br><br> SHIP-HATS Users & Prospects |200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
 -->
 

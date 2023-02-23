@@ -29,7 +29,7 @@ Webinar|**Docker Image CI Pipeline Template** <br><br>This webinar shows how to 
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
-Webinar <br><br>23 Feb 2023 <br><br>11 AM to 12 PM |**SHIP-HATS Pipeline Webinar: Docker Image CI Pipeline Template** <br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Docker Image CI Pipeline Template|[SHIP-HATS Docker Image CI Pipeline](https://youtu.be/aBF1eDX8Ano)|Coming soon!
+Webinar <br><br>23 Feb 2023 <br><br>11 AM to 12 PM |**SHIP-HATS Pipeline Webinar: Docker Image CI Pipeline Template** <br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Docker Image CI Pipeline Template|[SHIP-HATS Docker Image CI Pipeline](https://youtu.be/aBF1eDX8Ano) [35 min video]|Coming soon!
 |Briefing <br><br>13 Feb, 2023 <br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 02**<br><br>Covers Process, Success Criteria,Pre-migration Technical setup, SCR Migration & validation and Self-help resources|[SHIP-HATS 2.0 Migration Briefing Wave 02](https://youtu.be/-1SeVv1-uMU) [32 min video] |[Download the PDF here](./files/MigrationBriefing_13_Feb_2023.pdf)|
 Webinar<br><br>13 Feb, 2023 <br><br>2 PM to 3 PM|**SHIP-HATS 2.0 Runners**<br><br>Introduction to Runners|[SHIP-HATS 2.0 Runners](https://youtu.be/GOuhtjP3V70) [60 min video]|[Download the PDF here](./files/2.0_Runners_Webinar.pdf)|
 Webinar<br><br>30 Jan, 2023 <br><br>11 AM to 12 PM|**SHIP-HATS 2.0 Webapp E2E Pipeline Template**<br><br>Learn how to run a CI/CD pipeline using SHIP-HATS Webapp E2E Template|[SHIP-HATS 2.0 Webapp E2E Pipeline Template](https://youtu.be/An2U2_P5ILQ) [60 min video]|[Download the PDF here](./files/SHIP-HATS-webapp-webinar.pdf)|

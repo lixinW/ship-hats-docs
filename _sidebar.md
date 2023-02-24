@@ -9,6 +9,7 @@
   - [Dashboards](dashboards)
   - [Pipeline templates](pipeline-templates)
   - [Sample pipeline](sample-pipeline)  
+  - [Pipeline COE](./pipeline-coe.md)
 **Architecture**
   - [Architecture](architecture)
   - [Runners](runners)
@@ -45,6 +46,7 @@
 
 
 <!--
+  - [New Self-paced trainings](self-paced-trainings-new)
   - [Overview](training)
   - [Step 1: Subscribe to SH](./onboarding/techbiz.md)
   - [Onboarding to SHIP-HATS Portal](./onboarding/sh-to-gl.md)

@@ -1,4 +1,4 @@
->**Tip:** Click the triangle to view the answer.
+?>**Tip:** Click the triangle to view the answer.
 
 <details>
   <summary style="font-size:20px"><b>How do I ensure that I have successfully onboarded TechPass for my SHIP-HATS login? </b></summary><br>

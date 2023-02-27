@@ -63,6 +63,8 @@ You may upgrade to additional users and add-on anytime via the TechBiz portal.
 
 You can downgrade only after the **Minimum Commitment Period** (Three consecutive months from the date of account provisioning).
 
+- If you were using SHIP-HATS 1.0 and have now migrated to SHIP-HATS 2.0, your **Minimum Commitment Period** began from the date SHIP-HATS 1.0 was provisioned. 
+- If you are new to SHIP-HATS and started using SHIP-HATS 2.0 directly, your **Minimum Commitment Period** begins from the date SHIP-HATS 2.0 was provisioned. 
 
 To downgrade a subscription, [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. 
 

@@ -158,15 +158,15 @@ With this setup, the runner will easily have the required network/roles access t
 
 Few additional examples are provided below for your reference. 
 
-### Example 1: Azure
+### Example: Azure
 
 ![Azure 1](./images/architecture-azure1.png ':size=120%')
 
-### Example 2: Azure
+<!--### Example 2: Azure
 
-![Azure 2](./images/architecture-azure2.png ':size=120%')
+![Azure 2](./images/architecture-azure2.png ':size=120%')-->
 
-### Example 3: AWS
+### Example: AWS
 
 ![AWS 1](./images/architecture-aws1.png ':size=120%')
 

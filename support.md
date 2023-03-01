@@ -33,10 +33,26 @@ Extended support is charged at **50% of the total subscription** based on the st
 
 ### Subscribe to Extended support
 
-- To **subscribe to extended support**, send an email [enquiries_enp@tech.gov.sg](enquiries_enp@tech.gov.sg)
-- To **subscribe to Extended Support for a limited tim**e, one-month advance notice is required. There is no pro-rated price and is computed as a full-month's rate. Therefore, it is recommended to start on the 1st of any month.
-- To **cancel extended support**, send an email to [enquiries_enp@tech.gov.sg](enquiries_enp@tech.gov.sg) 
+To subscribe to extended support, you must add additional **hours** via the [TechBiz portal](https://portal.techbiz.suite.gov.sg/). 
 
+1. Access the [TechBiz Portal](https://portal.techbiz.suite.gov.sg/). 
+1. Access your account to which you want to add extended hours. 
+1. Select **SUBSCRIBED PRODUCTS**.
+1. Click **SHIP-HATS 2.0** > **Edit subscription**.
+1. Within **Adhoc Support**, add the number of **Additional Support Hour (s)** required.
+
+    ![Extended support](./images/extended-support.png)
+
+1. Click **Next**, review the changes, and then click **Submit**.  
+  The **Update subscriptions and configuration** dialog box appears. 
+1. Click **Confirm**.  
+  A success message appears and email is sent to SA and PA indicating the change. 
+
+<!--
+- To **subscribe to extended support**, send an email [enquiries_enp@tech.gov.sg](enquiries_enp@tech.gov.sg)
+- To **subscribe to Extended Support for a limited time**, one-month advance notice is required. There is no pro-rated price and is computed as a full-month's rate. Therefore, it is recommended to start on the 1st of any month.
+- To **cancel extended support**, send an email to [enquiries_enp@tech.gov.sg](enquiries_enp@tech.gov.sg) 
+-->
 
 ## Raise a service request
 

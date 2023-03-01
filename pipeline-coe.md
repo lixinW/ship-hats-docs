@@ -12,18 +12,16 @@ CI/CD Pipeline authors
 
 Using Pipeline COE, you can reduce redundancy by having a consolidated place where commonly used images by runners can be defined and stored. 
 
-### Key Features & Takeaways
+### Key Features 
 
-- Availability of Open source code that builds the images
-- Integration of container scanning in build pipeline to ensure all images in CR are scanned
+
+- Integrated container scanning in build pipeline to ensure all images in CR are scanned
 - Curated by deprecating versions with security vulnerabilities with regular clean ups and scans
 - Up to date & patched base image
 
 ?> **Note:** For Bamboo users, this process is similar to the maintenance of custom images on top of SHIP's golden image, where golden image is the equivalent base image in Pipeline COE.
 
 ## Using Pipeline COE
-
-When users are looking for an image to define for runners to use, they should look at the available ones in Pipeline COE. In the event that they are not able to find one, they may:
 
 If you are looking for an image to define for runners to use, you can look for the same in the available resources in the Pipeline COE. If you are not able to find an image as per your requirement, you can:
 

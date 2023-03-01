@@ -368,6 +368,24 @@ A possible way ahead for your Confi systems to be on SHIP-HATS 2.0
 
 ---
 
+<details>
+  <summary style="font-size:20px"><b> Can I access SHIP-HATS source code repository via a non-SE GSIB?</b></summary><br>
+
+You could view the source codes via a non-SE GSIB and edit files via the GitLab Web IDE via secure browsing. However, you could not perform most development activities on a non-SE GSIB, such as `git push`, `git pull`, `git fetch` in SHIP-HATS.
+
+</details>
+
+---
+
+<!--
+<details>
+  <summary style="font-size:20px"><b> </b></summary><br>
+
+
+</details>
+
+---
+-->
 
 ## TechPass FAQs
 

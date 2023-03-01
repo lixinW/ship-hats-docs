@@ -20,7 +20,7 @@ Following section provides tooling assessment and strategy to make the most of S
 |Build|GitLab Package Registry|Nexus Repository Pro|[GitLab vs Nexus](#gitlab-vs-nexus)|
 |Build|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|[GitLab vs Nexus](#gitlab-vs-nexus)|
 |Build Testing|GitLab SAST|Fortify-on-Demand SAST(new!)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
-|Other Tests|GitLab Code Quality Scanning Tool |SonarQube Community/Developer Edition|[GitLab vs SonarQube](#gitlab-vs-sonarqube)|
+|Other Tests|GitLab Code Quality Scanning Tool <br> <br>**Note:** Please refer to [our recommendation and assessment](#gitlab-vs-sonarqube) below before choosing GitLab Code Quality Scanning Tool.|SonarQube Community/Developer Edition|[GitLab vs SonarQube](#gitlab-vs-sonarqube)|
 |Other Tests|GitLab DAST|Fortify-on-demand DAST (new!)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
 |Other Tests|GitLab Container Scanning|NA|NA|
 |Other Tests|NA|pCloudy Test Farm|NA|
@@ -50,8 +50,11 @@ For more information, refer to the GitLab [Sonatype Nexus Repository vs. GitLab]
 
 ## GitLab vs SonarQube
 
+<!--!> We recommend that agencies who require code quality scanning to choose the alternative offering, SonarQube - at the moment, SHIP-HATS does not offer shared runners that can support GitLab's Code Quality Scanning tool which requires the runner to be either in privileged mode to support DinD or a runner with Docker socket binding. However, if you wish to still use GitLab's Code Quality Scanning tool, please note that you will have to set up your own self-hosted runners after performing risk assessment, and obtaining approval from your IT Steering Committee.-->
+
 |Feature|GitLab|SonarQube|
 |---|---|---|
+|Recommendation||We recommend that **agencies who require code quality scanning to choose SonarQube** (the alternative offering). Currently, SHIP-HATS does not offer shared runners that can support GitLab's Code Quality Scanning tool which requires the runner to be either in privileged mode to support DinD or a runner with Docker socket binding. However, if you want to still use GitLab's Code Quality Scanning tool, please note that you will have to set up your own self-hosted runners after performing risk assessment, and obtaining approval from your IT Steering Committee.|
 |Languages Supported|Refer to the [SonarQube vs. GitLab](https://about.staging.gitlab.com/devops-tools/sonarqube-vs-gitlab.html) documentation for details. |Community Edition* supports static code analysis for 17 languages: `Java`, `C#`, `JavaScript`, `TypeScript`, `CloudFormation`, `Terraform`, `Kotlin`, `Ruby`, `Go`, `Scala`, `Flex`, `Python`, `PHP`, `HTML`, `CSS`, `XML`, and `VB.NET` <br><br>Developer Edition supports static code analysis for 7 more languages: `C`, `C++`, `Obj-C`, `Swift`, `ABAP`, `T-SQL`, `PL/SQL`<br><br>*SHIP-HATS provides a self-hosted (in-country) version of SonarQube Community and Developer Editions|
 |Gating|-|SonarQube supports gating that can be configured via its UI. Without this gating capability, the alternative will be to script the gates into the pipeline. This would require additional effort and should be templated.|
 |Security Reports	|GitLab Ultimate automatically includes broad security scanning with every code commit including Static and Dynamic Application Security Testing, along with dependency scanning, container scanning, and license management.|	SonaQube provides a more detailed report than GitLab's SCA report. It contains information on code smell, portfolio, reliability, maintainability, etc. that are more developer-centric than security-centric.<br><br> SonarQube can report on unit tests, code coverage, and complexity. 

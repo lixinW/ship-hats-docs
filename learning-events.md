@@ -6,7 +6,7 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
-Webinar <br><br>15 March 2023 <br><br>11 AM to 12 PM |**SHIP-HATS 2.0**<br><br>Overview of SHIP-HATS 2.0|Non Tech<br><br> SHIP-HATS Users & prospects|100|Only by invitation|
+Webinar <br><br>20 March 2023 <br><br>3 PM to 4 PM |**SGTS Learning Events - SHIP-HATS Product Briefing**<br>SGTS Overview<br>SHIP-HATS 2.0 Product Offering & Roadmap<br>Subscription packages<br> Learning Resources & Training|Non Tech<br><br> SHIP-HATS Users & prospects|100|Only by invitation|
 Webinar<br><br>26 April 2023<br><br>5 PM to 6 PM|**SHIP-HATS & Sonatype**<br><br>Covers Benefits of Sonatype Nexus IQ for OSS consumption, Nexus Platform Best Practices, and demo|Tech & Non Tech|100|Sign up coming soon!
 Webinar<br><br> On Hold |**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 

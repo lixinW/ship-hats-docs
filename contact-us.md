@@ -8,3 +8,6 @@ Based on your requirement, please select one of the following option to contact 
 |Subscription or Billing related query|Send an email to [enquiries_enp@tech.gov.sg](enquiries_enp@tech.gov.sg)
 |Business Enquiries|[Submit enquiry via a form](https://form.gov.sg/6086619c7be16c0012b35281)
 |Submit Feedback|[Submit feedback via form](https://form.gov.sg/#!/6086619c7be16c0012b35281)
+
+
+?> For more support-related information, refer to the **[SHIP-HATS Support](https://docs.developer.tech.gov.sg/docs/ship-hats-support/)** documentation. 

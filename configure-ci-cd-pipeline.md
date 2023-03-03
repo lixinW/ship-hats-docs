@@ -1,4 +1,4 @@
-# Checkpoints
+pl# Checkpoints
 
 
 This tutorial is divided into various checkpoints that help you build and deploy a simple Python web application using SHIP-HATS e2e template. Make sure that you meet the specified [prerequisites](web-app-tutorial) before you [fork this tutorial](#fork-this-tutorial).

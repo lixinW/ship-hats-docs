@@ -31,8 +31,6 @@
   - [Learning events](learning-events)
   - [Self-paced trainings](self-paced-trainings)
 **Support**
-  - [Terms & Policies](terms-and-policies)
-  - [Support](support)
   - [FAQs](general-faqs)
   - [Contact us](contact-us) 
 
@@ -40,9 +38,11 @@
 
 ---
 **Additional Resources**
-  - [Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
-  - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview) 
-  - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
+  - [SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview) 
+  - [SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
+  - [SHIP-HATS Support](https://docs.developer.tech.gov.sg/docs/ship-hats-support/)
+  - [Migration from 1.0 to 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
+  
 
 
 <!--

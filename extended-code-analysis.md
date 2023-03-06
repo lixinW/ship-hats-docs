@@ -6,6 +6,11 @@ Developed by GovTech’s Cyber Security Group (CSG) , XCA is integrated and enab
 
 XCA is designed to operate alongside other code scanning solutions and is deeply integrated with GitLab’s-native features. You can interact with XCA findings through the GitLab UI.
 
+## XCA vs GitLab vs FOD
+
+XCA augments existing code scanning solutions, such as GitLab SAST and Fortify-on-Demand SAST. While GitLab SAST and Fortify-on-Demand SAST provides generic rulesets to identify vulnerabilities, XCA provides custom rules based on past vulnerabilities and targets specific, known vulnerable code patterns with a high true positive rate instead of general code hygiene or potential vulnerabilities.
+
+
 ## FAQs
 
 ?>**Tip:** Click the triangle to view the answer.

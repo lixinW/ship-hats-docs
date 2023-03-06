@@ -41,8 +41,8 @@ No. XCA augments existing code scanning solutions. XCA provides custom rules bas
   <summary style="font-size:20px"><b>Where can I find more information on XCA? </b></summary><br>
 
 You can read more on XCA via the following resources:
-- [XCA-Rules](https://sgts.gitlab-dedicated.com/wog/gvt/acpd/RNI/XCA/XCA-rules) 
-- [Required Pipeline Configuration for XCA CI - GitLab documentation](https://docs.gitlab.com/ee/user/admin_area/settings/continuous_integration.html#required-pipeline-configuration)
+- [XCA Rules](https://sgts.gitlab-dedicated.com/wog/gvt/acpd/RNI/XCA/XCA-rules) 
+- [XCA CI - GitLab documentation](https://docs.gitlab.com/ee/user/admin_area/settings/continuous_integration.html#required-pipeline-configuration)
 </details>
 
 ---

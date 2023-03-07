@@ -29,7 +29,7 @@
   - [Communicate using SSH keys](communicate-using-ssh-keys)  
 **Training**
   - [Learning events](learning-events)
-  - [Self-paced trainings](self-paced-trainings)
+  - [Self-paced trainings](./self-paced-trainings/overview.md)
 **Support**
   - [FAQs](general-faqs)
   - [Contact us](contact-us) 
@@ -46,6 +46,7 @@
 
 
 <!--
+  - [Self-paced trainings](self-paced-trainings)
   - [New Self-paced trainings](self-paced-trainings-new)
   - [Overview](training)
   - [Step 1: Subscribe to SH](./onboarding/techbiz.md)

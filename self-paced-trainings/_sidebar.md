@@ -1,5 +1,5 @@
 - **Self-paced Training**
-  - [Vision](./self-paced-trainings/vision.md)
+  - [Overview](./self-paced-trainings/overview)
   - [DevSecOps](./self-paced-trainings/devsecops.md)
   - [What is SHIP-HATS?](./self-paced-trainings/what-is-ship-hats.md)
   - [Know Your Tools](./self-paced-trainings/know-your-tools.md)

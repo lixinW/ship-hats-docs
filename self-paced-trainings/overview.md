@@ -1,4 +1,7 @@
-# Vision
+# Overview
+
+To ensure we support at scale, anyone can access Self-paced trainings.
+
 
 ## Vision for DevSecOps with SHIP-HATS [15 min video]
 
@@ -15,3 +18,4 @@
 <ifigure>
 <iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/embed/RlZCyexsJBc?t=260?showinfo=0" height="615" width="860" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </ifigure>
+

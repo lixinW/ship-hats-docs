@@ -1,5 +1,8 @@
 # Self-paced trainings
 
+This content has moved. Access latest content [here](./self-paced-trainings/overview.md).
+
+<!--
 To ensure we support at scale, anyone can access Self-paced trainings. 
 
 ## Prerequisites
@@ -69,6 +72,8 @@ For webinar series, refer to the [Learning events > Past events](https://docs.de
 
 ### Related topics
 - [Developer Essentials for Public Sector](https://docs.developer.tech.gov.sg/docs/developer-essentials-for-public-sector/)
+
+-->
 
 <!--
 The training journey has been divided into various sections and has been categorized into different levels based on different experience levels. The [Prerequisites](#prerequisites) section covers basic concepts that are required to understand the product. After you have familiarized yourself with basic concepts, take a [DevSecOps Basic Quiz](#devsecops-basic-quiz) to review your fundamentals. The [Learning Resources](#learning-resources) provides you various resources in the form of [Webinars](#webinar-series) has been divided into three sections to 

@@ -10,22 +10,26 @@ XCA is designed to operate alongside other code scanning solutions and is deeply
 
 XCA augments existing code scanning solutions, such as GitLab SAST and Fortify-on-Demand SAST. While GitLab SAST and Fortify-on-Demand SAST provides generic rulesets to identify vulnerabilities, XCA provides custom rules based on past vulnerabilities and targets specific, known vulnerable code patterns with a high true positive rate instead of general code hygiene or potential vulnerabilities.
 
-## FAQs
-
-?>**Tip:** Click the triangle to view the answer.
-
-<details>
-  <summary style="font-size:20px"><b> Where can I access Security Vulnerabilities?	</b></summary><br>
+## Access Security Vulnerabilities
 
 ### To access Security Vulnerabilities
-1. Navigate to the **Default** branch of your project.
+
+1. In GitLab, navigate to the **Default** branch of your project.
 1. In the left navigation, click **Security & Compliance** > **Vulnerability report**.
     
     XCA findings are marked as **XCA** under the **Identifier** and **Tool** columns.
 
-</details>
+## Additional Resources
 
----
+You can read more on XCA via the following resources:
+- [Extended Code Analysis (XCA) Overview](https://www.developer.tech.gov.sg/products/categories/cybersecurity/xca/overview.html)
+- [XCA Rules](https://sgts.gitlab-dedicated.com/wog/gvt/acpd/RNI/XCA/XCA-rules) 
+- [XCA CI - GitLab documentation](https://docs.gitlab.com/ee/user/admin_area/settings/continuous_integration.html#required-pipeline-configuration)
+
+
+## FAQs
+
+?>**Tip:** Click the triangle to view the answer.
 
 <details>
   <summary style="font-size:20px"><b>Is XCA meant to replace my primary code-scanning solution? </b></summary><br>
@@ -50,4 +54,4 @@ You can read more on XCA via the following resources:
 <details>
   <summary style="font-size:20px"><b>How can I activate or enable XCA? </b></summary><br>
 
-XCA is integrated and enabled for all SHIP-HATS 2.0 GitLab tenants by default. No additional steps are required to activate or enable XCA.
+XCA is integrated and enabled for all SHIP-HATS 2.0 GitLab tenants by default. No additional steps are required to activate or enable XCA. It is triggered in the `.pre` stage for the **Default** branch and for **Merge Request events**.

@@ -284,74 +284,9 @@ If you are unable to find a suitable image in Pipeline COE, you may [raise a req
 
 -->
 
-## Runner FAQs
+## FAQs
 
-?>**Tip:** Click the triangle or question to view the answer.
-
-
-<details>
-  <summary style="font-size:20px"><b> What are the types of runners available on SHIP-HATS 2.0?
- </b></summary><br>
-
-
-There are 3 types of runners available for our subscribers:
-
-- SHIP-HATS Shared Runners are self-hosted runners in a scalable environment.
-- GitLab Shared Runners are SaaS based shared runners. 
-- Agency-hosted Remote Runners are dedicated runners set up in the agency environment. 
-
-</details>
-
----
-
-<details>
-  <summary style="font-size:20px"><b> Will the subscribers be able to host their our own GitLab runners?
- </b></summary><br>
-
-Yes, the subscribers can host remote runners in their own environment. 
-
-</details>
-
----
-
-<details>
-  <summary style="font-size:20px"><b> What are the agents that we use for deployment? </b></summary><br>
-
-Runners (Shared or Dedicated) are used for deployment in SHIP-HATS.
-
-</details>
-
----
-
-
-<details>
-  <summary style="font-size:20px"><b> Can the shared runner access our servers in GCC or OnPrem? </b></summary><br>
-
-For GCC, the users can use SHIP-HATS Shared Runner and for OnPrem, users need an Agency-hosted Remote Runner. 
-
-</details>
-
----
-
-<details>
-  <summary style="font-size:20px"><b>Can SHIP-HATS integrate with other SaaS such as Salesforce? </b></summary><br>
-
-Every SaaS has different integration capability. Therefore, it depends on the product.
-
-</details>
-
----
-
-<details>
-  <summary style="font-size:20px"><b> Can the GitLab Shared Runner download packages from the internet?
- </b></summary><br>
-
-All the packages from the internet have to proxy through Nexus on SHIP-HATS for security reasons. 
-
-</details>
-
----
-
+![Runner FAQs](./runner-faqs.md ':include')
 
 ### Related topics
 

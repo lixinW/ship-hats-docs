@@ -147,7 +147,9 @@ Following [end to end pipeline templates](https://sgts.gitlab-dedicated.com/wog/
 If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB) for reference only. 
 
 
+## FAQs
 
+[GitLab & Pipeline FAQs](./gitlab-faqs.md ':include')
 
 
 

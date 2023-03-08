@@ -1,5 +1,3 @@
-# Tooling Strategy
-
 Following section provides tooling assessment and strategy to make the most of SHIP-HATS 2.0 offering.
 
 - All tools (both GitLab Native and Alternatives) enable compliance with [IM8 DevSecOps](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Security/Topics/Application-Development-Security.aspx) policy under Application Development Security. 
@@ -19,12 +17,12 @@ Following section provides tooling assessment and strategy to make the most of S
 |Build|GitLab CI/CD|NA|NA|
 |Build|GitLab Package Registry|Nexus Repository Pro|[GitLab vs Nexus](#gitlab-vs-nexus)|
 |Build|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|[GitLab vs Nexus](#gitlab-vs-nexus)|
-|Build Testing|GitLab SAST|Fortify-on-Demand SAST(new!)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
+|Build Testing|GitLab SAST + [XCA SAST by GovTech](#extended-code-analysis)|Fortify-on-Demand SAST + [XCA SAST by GovTech](#extended-code-analysis)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
 |Other Tests|GitLab Code Quality Scanning Tool <br> <br>**Note:** Please refer to [our recommendation and assessment](#gitlab-vs-sonarqube) below before choosing GitLab Code Quality Scanning Tool.|SonarQube Community/Developer Edition|[GitLab vs SonarQube](#gitlab-vs-sonarqube)|
-|Other Tests|GitLab DAST|Fortify-on-demand DAST (new!)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
+|Other Tests|GitLab DAST|Fortify-on-demand DAST|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
 |Other Tests|GitLab Container Scanning|NA|NA|
 |Other Tests|NA|pCloudy Test Farm|NA|
-|Other Tests|GitLab (Pa11y)|Purple HATS|[GitLab (Pa11y) vs Purple HATS](#gitlab-pa11y-vs-purple-hats)|
+|Other Tests|GitLab (Pa11y)|Purple HATS|GitLab (Pa11y) vs Purple HATS(Coming soon!)|
 |Deploy & Release|GitLab CI/CD|NA|NA|
 
 
@@ -82,8 +80,8 @@ If you are **new to application security testing**, we recommend GitLab SAST/DAS
 
 The following table lists supporting languages and its respective SAST tool set under GitLab offering: 
 
-|Language|GitLab SAST Tool|Assessment|
-|---|---|---|
+|Language|GitLab SAST Tool|
+|---|---|
 |.Net core, .Net Framework	|Security Code Scan
 Java	|Semgrep, SpotBugs
 Javascript|	Semgrep, ESlint Security Plugin
@@ -105,6 +103,6 @@ Elixir	|SoBelow
 - ZAP have less number of security checks whereas FOD have complex security engine, which will conduct lot of security checks. Therefore, the scan is extensive in FOD compared to ZAP. 
 
 
-## GitLab (Pa11y) vs Purple HATS
+<!--## GitLab (Pa11y) vs Purple HATS
 
-Coming soon!
+Coming soon!-->

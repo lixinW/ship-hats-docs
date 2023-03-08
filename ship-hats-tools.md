@@ -11,9 +11,9 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 |Build|GitLab CI/CD|NA|
 |Build|GitLab Package Registry|Nexus Repository Pro|
 |Build|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|
-|Build Testing|GitLab SAST|Fortify-on-Demand SAST(new!)
-|Other Tests|GitLab Code Quality Scanning Tool |SonarQube Community/Developer Edition
-|Other Tests|GitLab DAST|Fortify-on-demand DAST (new!)
+|Build Testing |GitLab SAST + [XCA SAST by GovTech](#extended-code-analysis)|Fortify-on-Demand SAST + [XCA SAST by GovTech](#extended-code-analysis)
+|Other Tests|GitLab Code Quality Scanning Tool <br> <br>**Note:** Please refer to [our recommendation and assessment](#gitlab-vs-sonarqube) below before choosing GitLab Code Quality Scanning Tool. |SonarQube Community/Developer Edition
+|Other Tests|GitLab DAST|Fortify-on-demand DAST
 |Other Tests|GitLab Container Scanning|NA
 |Other Tests|NA|pCloudy Test Farm
 |Other Tests|GitLab (Pa11y)|Purple HATS
@@ -21,7 +21,13 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 
 ?> **SHIP-HATS tools** such as GitLab, Confluence, Jira, Nexus Repo, Nexus IQ, and SHIP-HATS Service Desk **can be accessed via GSIB**.
 
+# Tooling Strategy
+
 [Tooling strategy](tooling-strategy.md ':include')
+
+# Extended Code Analysis
+
+[XCA](./extended-code-analysis.md ':include')
 
 <!--
 

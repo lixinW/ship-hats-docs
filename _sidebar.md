@@ -1,7 +1,7 @@
 **Overview**
   - [Audience](audience)
   - [Overview](ship-hats-overview)
-  - [What's New](what-s-new)
+  - [What's New](./whats-new/what-s-new.md)
   - [Tools](ship-hats-tools)
   - [Roadmap](roadmap)
 **Key Features**

@@ -10,20 +10,21 @@ Following section provides tooling assessment and strategy to make the most of S
 
 |Stage|GitLab Native|Alternative Tool|Assessment|
 |---|---|---|---|
-|Access|TechPass & SEED|TechPass & SEED|NA
+|Access|TechPass & SEED|TechPass & SEED|N/A
 |Plan|GitLab Issues|Jira |[GitLab Wiki vs Atlassian Jira](#gitlab-issues-vs-atlassian-jira)|	
 |Plan|GitLab Wiki| Confluence |[GitLab Wiki vs Atlassian Confluence](#gitlab-wiki-vs-atlassian-confluence)|	
-|Plan|Gitlab Security Dashboard|NA|NA	
-|Build|GitLab CI/CD|NA|NA|
+|Plan|Gitlab Security Dashboard|N/A|N/A	
+|Build|GitLab CI/CD|N/A|N/A|
 |Build|GitLab Package Registry|Nexus Repository Pro|[GitLab vs Nexus](#gitlab-vs-nexus)|
 |Build|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|[GitLab vs Nexus](#gitlab-vs-nexus)|
-|Build Testing|GitLab SAST + [XCA SAST by GovTech](#extended-code-analysis)|Fortify-on-Demand SAST + [XCA SAST by GovTech](#extended-code-analysis)|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
+|Build Testing|GitLab SAST |Fortify-on-Demand SAST |[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
+|Build Testing|[XCA (available for all by default)](#extended-code-analysis) |[XCA (available for all by default)](#extended-code-analysis) |N/A
 |Other Tests|GitLab Code Quality Scanning Tool <br> <br>**Note:** Please refer to [our recommendation and assessment](#gitlab-vs-sonarqube) below before choosing GitLab Code Quality Scanning Tool.|SonarQube Community/Developer Edition|[GitLab vs SonarQube](#gitlab-vs-sonarqube)|
 |Other Tests|GitLab DAST|Fortify-on-demand DAST|[GitLab vs Fortify-on-Demand](#gitlab-vs-fortify-on-demand)|
-|Other Tests|GitLab Container Scanning|NA|NA|
-|Other Tests|NA|pCloudy Test Farm|NA|
+|Other Tests|GitLab Container Scanning|N/A|N/A|
+|Other Tests|N/A|pCloudy Test Farm|N/A|
 |Other Tests|GitLab (Pa11y)|Purple HATS|GitLab (Pa11y) vs Purple HATS(Coming soon!)|
-|Deploy & Release|GitLab CI/CD|NA|NA|
+|Deploy & Release|GitLab CI/CD|N/A|N/A|
 
 
 ## GitLab Issues vs Atlassian Jira

@@ -12,6 +12,7 @@ XCA provides an additional niche set of custome rules that are built specificall
 
 <!--XCA augments existing code scanning solutions, such as GitLab SAST and Fortify-on-Demand SAST. While GitLab SAST and Fortify-on-Demand SAST provides generic rulesets to identify vulnerabilities, XCA provides custom rules based on past vulnerabilities and targets specific, known vulnerable code patterns with a high true positive rate instead of general code hygiene or potential vulnerabilities.-->
 
+<!--
 ## Access Security Vulnerabilities
 
 ### To access Security Vulnerabilities
@@ -20,6 +21,7 @@ XCA provides an additional niche set of custome rules that are built specificall
 1. In the left navigation, click **Security & Compliance** > **Vulnerability report**.
     
     XCA findings are marked as **XCA** under the **Identifier** and **Tool** columns.
+-->
 
 ## Additional Resources
 

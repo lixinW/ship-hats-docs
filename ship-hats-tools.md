@@ -7,17 +7,18 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 |Access|TechPass & SEED|TechPass & SEED|
 |Plan|GitLab Issues|Jira 	
 |Plan|GitLab Wiki| Confluence 
-|Plan|Gitlab Security Dashboard|NA|	
-|Build|GitLab CI/CD|NA|
+|Plan|Gitlab Security Dashboard|N/A|	
+|Build|GitLab CI/CD|N/A|
 |Build|GitLab Package Registry|Nexus Repository Pro|
 |Build|GitLab Dependency Scanning|Nexus Intelligence/Nexus IQ Server|
-|Build Testing |GitLab SAST + [XCA SAST by GovTech](#extended-code-analysis)|Fortify-on-Demand SAST + [XCA SAST by GovTech](#extended-code-analysis)
+|Build Testing |GitLab SAST |Fortify-on-Demand SAST
+|Build Testing|[XCA (available for all by default)](#extended-code-analysis) |[XCA (available for all by default)](#extended-code-analysis) 
 |Other Tests|GitLab Code Quality Scanning Tool <br> <br>**Note:** Please refer to [our recommendation and assessment](#gitlab-vs-sonarqube) below before choosing GitLab Code Quality Scanning Tool. |SonarQube Community/Developer Edition
 |Other Tests|GitLab DAST|Fortify-on-demand DAST
-|Other Tests|GitLab Container Scanning|NA
-|Other Tests|NA|pCloudy Test Farm
+|Other Tests|GitLab Container Scanning|N/A
+|Other Tests|N/A|pCloudy Test Farm
 |Other Tests|GitLab (Pa11y)|Purple HATS
-|Deploy & Release|GitLab CI/CD|NA|
+|Deploy & Release|GitLab CI/CD|N/A|
 
 ?> **SHIP-HATS tools** such as GitLab, Confluence, Jira, Nexus Repo, Nexus IQ, and SHIP-HATS Service Desk **can be accessed via GSIB**.
 

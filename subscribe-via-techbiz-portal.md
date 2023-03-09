@@ -1,4 +1,4 @@
-c# Step 1: Subscribe to SHIP-HATS
+# Step 1: Subscribe to SHIP-HATS
 
 ?> Complete these steps in the **[TechBiz Portal](https://portal.techbiz.suite.gov.sg/)**. 
 

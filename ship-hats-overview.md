@@ -7,7 +7,7 @@
 
 By offering a common development platform, automating delivery of applications and simplifying policy clearance, SHIP-HATS establishes a consistent and automated way for continuous integration, continuous testing and delivery to create better quality products faster. 
 
-## Features
+## Benefits
 
 The SHIP-HATS platform offers following features:
 - **Visibility & Transparency:** Have a better understanding of how your project is being carried out
@@ -17,13 +17,13 @@ The SHIP-HATS platform offers following features:
 
 SHIP-HATS drives best practices and policy compliance requirements. The platform provides recommended configurations and recipes to accelerate the development work and provide greater transparency in software development activities to promote collaboration and to support auditing tasks.
 
-## Key 2.0 Features
+## Key Features
 
 - [Compliance Framework](compliance-framework)
 - [Dashboards](dashboards)
 - [Pipeline templates](pipeline-templates)
-- [Sample pipeline](sample-pipeline)  
-
+- [Sample pipeline](sample-pipeline) 
+- [Pipeline COE](./pipeline-coe.md) 
 
 ### Related topics
 

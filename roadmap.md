@@ -29,11 +29,11 @@
 |Deploy & Release|Atlassian Bamboo|GitLab CI/CD|NA||31 December 2023	
 -->
 
-## Features roadmap
+## Product Roadmap
 
 [Product Roadmap](./roadmap-features.md ':include')
 
-## Key tool decommission dates
+## Key Tool Decommission Dates
 
 Refer to [**Key tool decommission dates**](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=key-tool-decommission-dates).
 

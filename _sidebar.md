@@ -7,8 +7,8 @@
 **Key Features**
   - [Compliance Framework](compliance-framework)
   - [Dashboards](dashboards)
-  - [Pipeline templates](pipeline-templates)
-  - [Sample pipeline](sample-pipeline)  
+  - [Pipeline Templates](pipeline-templates)
+  - [Sample Pipeline](sample-pipeline)  
   - [Pipeline COE](./pipeline-coe.md)
 **Architecture**
   - [Architecture](architecture)
@@ -28,8 +28,8 @@
   - [Sign commits with GPG](signing-commits-with-gpg)
   - [Communicate using SSH keys](communicate-using-ssh-keys)  
 **Training**
-  - [Learning events](learning-events)
-  - [Self-paced trainings](./self-paced-trainings/overview.md)
+  - [Learning Events](learning-events)
+  - [Self-paced Trainings](./self-paced-trainings/overview.md)
 **Support**
   - [FAQs](general-faqs)
   - [Contact us](contact-us) 

@@ -55,7 +55,20 @@ You can read more on XCA via the following resources:
 
 ---
 
+
+<details>
+  <summary style="font-size:20px"><b>What do I do with the security vulnerabilities? Can I still deploy if I have these vulnerabilities?</b></summary><br>
+
+The identified security vulnerabilities should be treated as any other vulnerability detected by any other security scanning tool. Only difference is XCA vulnerabilities are high-confidence and are likely true positives.
+
+These security vulnerabilities should be patched. If patching is not possible, the Risk Management Methodology (RMM) should be applied accordingly.
+</details>
+
+---
+
 <details>
   <summary style="font-size:20px"><b>How can I activate or enable XCA? </b></summary><br>
 
 XCA is integrated and enabled for all SHIP-HATS 2.0 GitLab tenants by default. No additional steps are required to activate or enable XCA. It is triggered in the `.pre` stage for the **Default** branch and for **Merge Request events**.
+
+---

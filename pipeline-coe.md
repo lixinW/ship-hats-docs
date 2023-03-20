@@ -44,3 +44,9 @@ If you are looking for an image to define for runners to use, you can search in 
 - Automation for announcements when an image is about to be deprecated
 - Maintenance rules
 - Add all users as developers as member to Pipeline COE
+
+## Additional Resources
+
+- [GitLab Image documentation](https://docs.gitlab.com/ee/ci/yaml/#image)
+- [Run your CI/CD jobs in Docker containers](https://docs.gitlab.com/ee/ci/docker/using_docker_images.html)
+- [GitLab DevSecOps Governance Framework (DGF) Documentation](https://gitlab-org.gitlab.io/professional-services-automation/pipelinecoe/pipeline-templates/#/)

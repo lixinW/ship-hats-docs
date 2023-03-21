@@ -1,8 +1,10 @@
 # Audience
 
-This documentation is intended for the following users:
+The **SHIP-HATS Getting Started** documentation is intended for the following users:
 - **Subscription Administrator (SA) and Project Admin (PA)** to subscribe and onboard to SHIP-HATS.
 - **New users** to understand how SHIP-HATS helps you set up your CI/CD pipeline and **access training resources** on using SHIP-HATS. 
+
+
 
 Following additional documentation resources are available:
 

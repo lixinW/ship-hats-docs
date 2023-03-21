@@ -58,7 +58,7 @@ For detailed information, refer to the [Runners](runners) topic.
 
 With SHIP-HATS 2.0, we offer:  
 
-- End-to-end CI/CD templates for [common use cases](pipeline-templates) in-line with [Gitlab pipeline COE](https://docs.gitlab.com/ee/ci/pipelines/). 
+- End-to-end CI/CD templates for [common use cases](pipeline-templates) in-line with [Gitlab pipelines](https://docs.gitlab.com/ee/ci/pipelines/). 
 - Pipeline Compliance Framework to support GovTech standards & guidelines (e.g., DevSecOps IM8), on an audit-friendly platform. 
 
 These templates are re-usable and are designed according to the standard guidelines to help agencies to follow better DevOps practices, such as GitOps workflow, bootstrapping deployment runners, and release rollback. 

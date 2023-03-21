@@ -2,11 +2,11 @@
 
 Developed by GovTech’s Cyber Security Group (CSG) , XCA is integrated and enabled for all SHIP-HATS 2.0 GitLab tenants. It helps to detect and prevent repeated vulnerabilities at scale through SHIP-HATS 2.0 GitLab repositories. Individual projects benefit from XCA scans with no additional configuration required.
 
-## Integration with GitLab
+### Integration with GitLab
 
 XCA is designed to operate alongside other code scanning solutions and is deeply integrated with GitLab’s-native features. You can interact with XCA findings through the GitLab UI.
 
-## XCA vs GitLab vs FOD
+### XCA vs GitLab vs FOD
 
 XCA provides an additional niche set of custome rules that are built specifically for the Singapore Government context and offer high true positive rate for this use case. XCA should be applied along with GitLab or FOD SAST to ensure coverage. 
 
@@ -23,7 +23,7 @@ XCA provides an additional niche set of custome rules that are built specificall
     XCA findings are marked as **XCA** under the **Identifier** and **Tool** columns.
 -->
 
-## Additional Resources
+### Additional Resources
 
 You can read more on XCA via the following resources:
 - [Extended Code Analysis (XCA) Overview](https://www.developer.tech.gov.sg/products/categories/cybersecurity/xca/overview.html)
@@ -31,7 +31,7 @@ You can read more on XCA via the following resources:
 - [XCA CI - GitLab documentation](https://docs.gitlab.com/ee/user/admin_area/settings/continuous_integration.html#required-pipeline-configuration)
 
 
-## FAQs
+### FAQs
 
 ?>**Tip:** Click the triangle to view the answer.
 

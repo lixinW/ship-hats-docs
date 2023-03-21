@@ -1,16 +1,6 @@
 # Roadmap
 
-## Product Roadmap
-
-[Product Roadmap](./roadmap-features.md ':include')
-
-## Key Tool Decommission Dates
-
-Refer to [**Key tool decommission dates**](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=key-tool-decommission-dates).
-
-## Tools Change Summary
-
-Refer to [**Change Summary**](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-overview?id=change-summary).
+[Product Roadmap](./ship-hats-roadmap.md ':include')
 
 <!--![Roadmap](./images/ship-hats-roadmap.jpg)-->
 

@@ -22,13 +22,21 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 
 ?> **SHIP-HATS tools** such as GitLab, Confluence, Jira, Nexus Repo, Nexus IQ, and SHIP-HATS Service Desk **can be accessed via GSIB**.
 
-# Tooling Strategy
+## Tooling Strategy
 
 [Tooling strategy](tooling-strategy.md ':include')
 
-# Extended Code Analysis
+## Extended Code Analysis
 
 [XCA](./extended-code-analysis.md ':include')
+
+## Key Tool Decommission Dates
+
+Refer to [**Key tool decommission dates**](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=key-tool-decommission-dates).
+
+## Tools Change Summary
+
+Refer to [**Change Summary**](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-overview?id=change-summary).
 
 <!--
 

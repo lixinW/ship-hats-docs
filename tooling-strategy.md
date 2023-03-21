@@ -6,7 +6,7 @@ Following section provides tooling assessment and strategy to make the most of S
 - Dashboards within GitLab are most useful when most GitLab Native components are in use.
 
 
-## Assessment
+### Assessment
 
 |Stage|GitLab Native|Alternative Tool|Assessment|
 |---|---|---|---|
@@ -27,16 +27,16 @@ Following section provides tooling assessment and strategy to make the most of S
 |Deploy & Release|GitLab CI/CD|N/A|N/A|
 
 
-## GitLab Issues vs Atlassian Jira
+### GitLab Issues vs Atlassian Jira
 
 Refer to [Jira vs GitLab](https://about.gitlab.com/devops-tools/jira-vs-gitlab/) for a comparison.
 
-## GitLab Wiki vs Atlassian Confluence 
+### GitLab Wiki vs Atlassian Confluence 
 
 Coming soon!
 
 
-## GitLab vs Nexus 
+### GitLab vs Nexus 
 
 |Feature|GitLab|Nexus Repo & Nexus Intelligence|
 |---|---|---|
@@ -47,7 +47,7 @@ Coming soon!
 For more information, refer to the GitLab [Sonatype Nexus Repository vs. GitLab](https://about.staging.gitlab.com/devops-tools/sonatype-nexus-repo-vs-gitlab.html) documentation.
 
 
-## GitLab vs SonarQube
+### GitLab vs SonarQube
 
 <!--!> We recommend that agencies who require code quality scanning to choose the alternative offering, SonarQube - at the moment, SHIP-HATS does not offer shared runners that can support GitLab's Code Quality Scanning tool which requires the runner to be either in privileged mode to support DinD or a runner with Docker socket binding. However, if you wish to still use GitLab's Code Quality Scanning tool, please note that you will have to set up your own self-hosted runners after performing risk assessment, and obtaining approval from your IT Steering Committee.-->
 
@@ -61,7 +61,7 @@ For more information, refer to the GitLab [Sonatype Nexus Repository vs. GitLab]
 
 
 
-## GitLab vs Fortify-on-Demand 
+### GitLab vs Fortify-on-Demand 
 
 If you are **new to application security testing**, we recommend GitLab SAST/DAST as it will be simpler to integrate with GitLab SAST/DAST than Fortify-on-Demand’s extensive product offering that could be overwhelming for a new user.
 
@@ -71,7 +71,7 @@ If you are **new to application security testing**, we recommend GitLab SAST/DAS
 |Data Sources |GitLab’s data is mostly open-sourced. <br><br><br><br>Compatible with industry standards.| Fortify-on-Demand has verified data sources. <br>Please use Fortify-on-Demand if you require verified data sources. <br><br>Compatible with industry standards. |
 |Remediation|Basic services | Fortify provides remediation advice, which is more detailed than GitLab native. |
 
-### SAST
+#### SAST
 
 - Semgrep is the highly potential tool and supports Java, javascript, TypeScript, React, Python and Go.
 - For `GO` and `Elixir`, GitLab is recommended whereas FOD supports many other language stack. 
@@ -97,13 +97,13 @@ Kotlin	|MobSF, SpotBugs with FindSec plugin
 Elixir	|SoBelow
 
 
-### DAST
+#### DAST
 
 - In [GitLab recommended ZAP](https://docs.gitlab.com/ee/user/application_security/dast/), the number of vulnerabilities and number of false positives are less. 
 - In WebInspect, the scan coverage is vast and number of vulnerabilities are far higher when compare to Gitlab DAST.
 - ZAP have less number of security checks whereas FOD have complex security engine, which will conduct lot of security checks. Therefore, the scan is extensive in FOD compared to ZAP. 
 
 
-<!--## GitLab (Pa11y) vs Purple HATS
+<!--### GitLab (Pa11y) vs Purple HATS
 
 Coming soon!-->

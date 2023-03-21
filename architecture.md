@@ -77,7 +77,7 @@ Following image shows an example of production pipeline in GitLab:
 
 ## Upcoming Features
 
-[Product Roadmap](./roadmap-features.md ':include')
+[Product Roadmap](./ship-hats-roadmap.md ':include')
 
 ## Terminology
 

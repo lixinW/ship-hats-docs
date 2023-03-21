@@ -34,7 +34,7 @@ Users can either access from GSIB or SEED-enabled developer devices to authentic
 > **Note:** The decommissioning date for [OpenVPN is 31st, Dec 2022](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/ship-hats-migration-what-to-expect?id=key-tool-decommission-dates).
 
 
-## Deployment endpoints
+## Deployment Endpoints
 
 Users can leverage SHIP-HATS deployment Runners offered as a common service to the tenant hosting environments. SHIP-HATS supports deployment to GCC 2.0, GCC 1.0, and Commercial Cloud, for both Internet & intranet/Gen compartments.
 
@@ -75,7 +75,7 @@ Following image shows an example of production pipeline in GitLab:
 
 > **Note:** For more information, refer to [Pipeline templates](pipeline-templates) documentation.
 
-## Upcoming features
+## Upcoming Features
 
 [Product Roadmap](./roadmap-features.md ':include')
 
@@ -83,7 +83,7 @@ Following image shows an example of production pipeline in GitLab:
 
 ![Terminology](./terminology.md ':include')
 
-### Related topics
+### Related Topics
 
 - [AWS VPC Endpoint](aws-vpc-endpoint)
 - [IPsec Tunnel](ipsec-tunnel)

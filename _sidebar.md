@@ -3,7 +3,7 @@
   - [Overview](ship-hats-overview)
   - [What's New](./whats-new/what-s-new.md)
   - [Tools](ship-hats-tools)
-  - [Roadmap](roadmap)
+  - [Roadmap](./roadmap.md)
 **Key Features**
   - [Compliance Framework](compliance-framework)
   - [Dashboards](dashboards)

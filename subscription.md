@@ -78,32 +78,32 @@ All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2
 
 ### Billing 
 
-**Billing starts** from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. **We charge on a monthly basis, however, overall invoicing will be quarterly.** 
+**Billing starts** from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 July 2023. **We charge on a monthly basis, however, overall invoicing will be quarterly.** 
 
-?> **Note:** The new pricing is applicable from April, 2023.
+?> **Note:** The new pricing is applicable from July, 2023.
 
-If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge for until April 2023.
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from July onwards. For example, if you complete migrating to 2.0 in January, there will be no charge for until July 2023.
 
-If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from April onwards. 
+If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from July onwards. 
 
 
 ### Final pricing
 
-We will announce final pricing in March 2023. The final pricing will be applicable from April, 2023 onwards. 
+We will announce final pricing in June 2023. The final pricing will be applicable from July, 2023 onwards. 
 
 ### Charges until final pricing
 
-Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
+Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 July 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
 
-**The new pricing is applicable from April, 2023 onwards.**
+**The new pricing is applicable from July, 2023 onwards.**
 
-If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until April 2023.
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from July onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until July 2023.
 
-If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from April onwards. 
+If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from July onwards. 
 
 ### Pricing while migrating from 1.0 to 2.0.
 
-If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until April 2023.
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from July onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until July 2023.
 
 
 ## FAQs
@@ -158,7 +158,7 @@ All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2
 <details>
  <summary style="font-size:20px"><b>When do I get the final pricing for SHIP-HATS 2.0?  </b></summary><br>  
 
-We will announce final pricing in March 2023. The final pricing will be applicable from April, 2023 onwards. 
+We will announce final pricing in March 2023. The final pricing will be applicable from July, 2023 onwards. 
 
 ?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
@@ -168,13 +168,13 @@ We will announce final pricing in March 2023. The final pricing will be applicab
 <details>
  <summary style="font-size:20px"><b>How will I be charged until final pricing? </b></summary><br>  
 
-Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
+Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 July 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
 
-**The new pricing is applicable from April, 2023 onwards.**
+**The new pricing is applicable from July, 2023 onwards.**
 
-If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until April 2023.
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from July onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until July 2023.
 
-If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from April onwards. 
+If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from July onwards. 
 
 ?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
@@ -187,14 +187,14 @@ If you are a **new customer** and coming onboard to 2.0 directly, you will start
 <!--<details>
  <summary style="font-size:20px"><b> I am migrating from 1.0 to 2.0. How will pricing work for me?	 </b></summary><br>  
 
-If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until April 2023.
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from July onwards. For example, if you complete migrating to 2.0 in January, there will be no charge until July 2023.
 
-If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from April onwards. 
+If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from July onwards. 
 
 ?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 
 
-**The new pricing is applicable from April, 2023 onwards.**
+**The new pricing is applicable from July, 2023 onwards.**
 
  </details>
 <br>
@@ -203,13 +203,13 @@ If you are a **new customer** and coming onboard to 2.0 directly, you will start
 <details>
  <summary style="font-size:20px"><b>When does billing start for a subscription? </b></summary><br>  
 
-Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 April 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
+Billing starts from the first of the following month as we offer free subscription from the day of account provisioning until the first of the following month. For example, if account was provisioned on 5 or 25 March 2023, billing starts from 1 July 2023. We charge on a monthly basis, however, overall invoicing will be quarterly. 
 
-**The new pricing is applicable from April, 2023.**
+**The new pricing is applicable from July, 2023.**
 
-If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from April onwards. For example, if you complete migrating to 2.0 in January, there will be no charge for until April 2023.
+If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from July onwards. For example, if you complete migrating to 2.0 in January, there will be no charge for until July 2023.
 
-If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from April onwards. 
+If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from July onwards. 
 
 ?> All Public Officers can [**view pricing details on GSIB**](https://go.gov.sg/sh2indicative) (via link hosted on intranet).
 

@@ -86,7 +86,7 @@ We do **not** have Mac OS runner support at the moment. For now, we suggest that
 <details>
   <summary style="font-size:20px"><b>How powerful is the shared runners? For example, what’s the storage and RAM? </b></summary><br>
 
-Default runner (CStack runner) has 40GB and 2vCPU and 8GB mem. Docker machine is t3.medium. Agencies may [set up their own self-hosted runners](./gitlab-runners.md), if they require different settings.
+Default runner (CStack runner) has 40GB and 2vCPU and 8GB mem. Docker machine is t3.large. Agencies may [set up their own self-hosted runners](./gitlab-runners.md), if they require different settings.
 
 </details>
 

@@ -1,6 +1,5 @@
 **Overview**
   - [Home](./README.md)
-  - [Audience](audience)
   - [Overview](ship-hats-overview)
   - [What's New](./whats-new/what-s-new.md)
   - [Tools](ship-hats-tools)

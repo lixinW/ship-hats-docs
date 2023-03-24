@@ -286,7 +286,7 @@ If you are unable to find a suitable image in Pipeline COE, you may [raise a req
 
 ## FAQs
 
-![Runner FAQs](./runner-faqs.md ':include')
+![Runner FAQs](./snippets/runner-faqs.md ':include')
 
 ### Related topics
 

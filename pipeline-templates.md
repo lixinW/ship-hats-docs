@@ -149,7 +149,7 @@ If you do not have access to GitLab, you may [access mirror templates in BitBuck
 
 ## FAQs
 
-[GitLab & Pipeline FAQs](./gitlab-faqs.md ':include')
+[GitLab & Pipeline FAQs](./snippets/gitlab-faqs.md ':include')
 
 
 

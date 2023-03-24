@@ -108,7 +108,7 @@ If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 
 
 ## FAQs
 
-[Subscription FAQs](./subscription-faqs.md ':include')
+[Subscription FAQs](./snippets/subscription-faqs.md ':include')
 
 ## More FAQs
 

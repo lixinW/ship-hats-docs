@@ -24,11 +24,11 @@ The following section provides list of tools for each stage in CI/CD pipeline of
 
 ## Tooling Strategy
 
-[Tooling strategy](tooling-strategy.md ':include')
+[Tooling strategy](./snippets/tooling-strategy.md ':include')
 
 ## Extended Code Analysis
 
-[XCA](./extended-code-analysis.md ':include')
+[XCA](./snippets/extended-code-analysis.md ':include')
 
 ## Key Tool Decommission Dates
 

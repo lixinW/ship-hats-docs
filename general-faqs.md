@@ -2,28 +2,27 @@
 
 ## Subscription FAQs
 
-[Subscription FAQs](./subscription-faqs.md ':include')
+[Subscription FAQs](./snippets/subscription-faqs.md ':include')
 
 ## Onboarding FAQs
 
-[Onboarding FAQs](./onboarding-faqs.md ':include')
+[Onboarding FAQs](./snippets/onboarding-faqs.md ':include')
 
 ## GitLab & Pipeline FAQs
 
-[GitLab & Pipeline FAQs](./gitlab-faqs.md ':include')
+[GitLab & Pipeline FAQs](./snippets/gitlab-faqs.md ':include')
 
 ## Runner FAQs
 
-[Runner FAQs](./runner-faqs.md ':include')
+[Runner FAQs](./snippets/runner-faqs.md ':include')
+
+## AWS VPC Endpoint FAQs
+
+[AWS VPC Endpoint FAQs](./snippets/aws-vpc-endpoint-faqs.md ':include')
 
 ## TechPass FAQs
 
-[TechPass FAQs](./techpass-faqs.md ':include')
-
-
-### Related Topics
-
-- [Subscription FAQs](subscription?id=faqs)
+[TechPass FAQs](./snippets/techpass-faqs.md ':include')
 
 
 

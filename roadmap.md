@@ -1,6 +1,6 @@
 # Roadmap
 
-[Product Roadmap](./ship-hats-roadmap.md ':include')
+[Product Roadmap](./snippets/ship-hats-roadmap.md ':include')
 
 <!--![Roadmap](./images/ship-hats-roadmap.jpg)-->
 

@@ -52,7 +52,7 @@ For detailed information, refer to the [Runners](runners) topic.
 
 ## GitLab Groups
 
-[GitLab Groups](./gitlab-groups.md ':include')
+[GitLab Groups](./snippets/gitlab-groups.md ':include')
 
 ## Templates
 
@@ -77,11 +77,11 @@ Following image shows an example of production pipeline in GitLab:
 
 ## Upcoming Features
 
-[Product Roadmap](./ship-hats-roadmap.md ':include')
+[Product Roadmap](./snippets/ship-hats-roadmap.md ':include')
 
 ## Terminology
 
-![Terminology](./terminology.md ':include')
+![Terminology](./snippets/terminology.md ':include')
 
 ### Related Topics
 

@@ -16,7 +16,7 @@ The above image provides high level steps to complete onboarding to SHIP-HATS. D
 
 ## FAQs
 
-[Onboarding FAQs](./onboarding-faqs.md ':include')
+[Onboarding FAQs](./snippets/onboarding-faqs.md ':include')
 
 <!--
 

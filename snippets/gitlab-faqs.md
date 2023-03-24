@@ -24,7 +24,7 @@ Refer to [Common Functions](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-
 <details>
   <summary style="font-size:20px"><b>Any tool provided to convert Bamboo to GitLab yaml? </b></summary><br>
 
-No, we do not have any tools to convert Bamboo to GitLab yaml. The team is working on streamlining Bamboo pipelines to GitLab yaml. You can read about [E2E templates](pipeline-templates) and access the [E2E templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates) to apply.
+No, we do not have any tools to convert Bamboo to GitLab yaml. The team is working on streamlining Bamboo pipelines to GitLab yaml. You can access the [E2E templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates) to apply.
 
 </details>
 
@@ -68,7 +68,7 @@ Refer to following documentation resources:
 <details>
   <summary style="font-size:20px"><b> Can I use Auto DevOps with SHIP-HATS 2.0?</b></summary><br>
 
-Yes, Auto DevOps is available. However, we encourage you to explore our E2E templates. You can read about [E2E templates](pipeline-templates) and access the [E2E templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates).
+Yes, Auto DevOps is available. However, we encourage you to explore our E2E templates. You can access the [E2E templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates).
 
 </details>
 
@@ -140,7 +140,7 @@ Yes. Viewers of the GitLab wiki page must have access to your Confluence link to
 <details>
   <summary style="font-size:20px"><b>Will compliance framework updates break my pipeline?</b></summary><br>
 
-We are working on compliance version release management. You will be able to upgrade at your own convenience by changing the version to reference. [Compliance Framework](compliance-framework)
+We are working on compliance version release management. You will be able to upgrade at your own convenience by changing the version to reference. [Compliance Framework](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/compliance-framework)
 </details>
 
 ---
@@ -199,7 +199,7 @@ You can [enable emails on push](https://docs.gitlab.com/ee/user/project/integrat
 <details>
   <summary style="font-size:20px"><b>Can I build my own custom image? </b></summary><br>
 
-You can build and store your custom image in your GitLab Project container registry. You can also contribute your custom image to the [Pipeline COE (innersource)](pipeline-coe).
+You can build and store your custom image in your GitLab Project container registry. You can also contribute your custom image to the [Pipeline COE (innersource)](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-coe).
 
 </details>
 

@@ -5,4 +5,4 @@ The first three levels of subgroups are managed by SHIP-HATS. The first-level su
 
 Gitlab subgroups have the inheritance characteristic from the parents. For more information, refer to the GitLab [groups](https://docs.gitlab.com/ee/user/group/index.html) and [subgroups](https://docs.gitlab.com/ee/user/group/subgroups/) documentation. 
 
-![User Grouping Strategy](../images/user-group-strategy.png)
+![User Grouping Strategy](./images/user-group-strategy.png)

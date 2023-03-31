@@ -1,6 +1,6 @@
-**[Pipeline COE](https://sgts.gitlab-dedicated.com/innersource/projects/sgts-pipelinecoe)** is a GitLab project that aims to **build and store images** that all users on SHIP-HATS GitLab dedicated can use.
+**[Pipeline COE](https://sgts.gitlab-dedicated.com/innersource/projects/sgts-pipelinecoe)** is a GitLab project that aims to **build and store images** that all users on SHIP-HATS GitLab dedicated can use. This feature is based on [GitLab DevSecOps Governance Framework (DGF)](https://gitlab-org.gitlab.io/professional-services-automation/pipelinecoe/pipeline-templates/#/). 
 
-Pipeline COE is an internal project (not a private project) where all **logged in users are able to view, raise Merge Requests (MRs), and run pipelines on non-protected branches**.
+
 
 ### Audience
 
@@ -8,14 +8,14 @@ CI/CD Pipeline authors
 
 ## Benefits of Pipeline COE
 
-Using Pipeline COE, you can reduce redundancy by having a consolidated place where commonly used images by runners can be defined and stored. 
+Pipeline COE is an internal project (not a private project)  where all **logged in users are able to view, raise Merge Requests (MRs), and run pipelines on non-protected branches**.
 
 ### Key Features 
 
 
 - Integrated container scanning in build pipeline to ensure all images in CR are scanned
-- Curated by deprecating versions with security vulnerabilities with regular clean ups and scans
-- Up to date & patched base image
+- Curated repo by deprecating versions with security vulnerabilities with regular clean ups and scans
+- Up to date & patched base images
 
 ?> **Note:** For Bamboo users, this process is similar to the maintenance of custom images on top of SHIP's golden image, where golden image is the equivalent base image in Pipeline COE.
 
@@ -48,3 +48,13 @@ If you are looking for an image to define for runners to use, you can search in 
 - [GitLab Image documentation](https://docs.gitlab.com/ee/ci/yaml/#image)
 - [Run your CI/CD jobs in Docker containers](https://docs.gitlab.com/ee/ci/docker/using_docker_images.html)
 - [GitLab DevSecOps Governance Framework (DGF) Documentation](https://gitlab-org.gitlab.io/professional-services-automation/pipelinecoe/pipeline-templates/#/)
+
+<!--## Purpose
+
+Using Pipeline COE, you can reduce redundancy by having a consolidated place where commonly used images by runners can be defined and stored. This enables you to get started quickly by using the available resources. 
+
+Pipeline COE is a repository of images that you can include in various stages (For example, `Build.gitlab-ci.yml`) of a project's repository. You can build an end to end pipeline using the [Pipeline Templates](./pipeline-templates-snippet) as shown in the example image below:
+
+![Pipeline COE Build](./images/pipeline-coe-build.png)
+
+-->

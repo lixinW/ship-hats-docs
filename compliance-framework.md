@@ -18,3 +18,8 @@ The following list provides few of the DevSecOps practices supported by the Comp
 <!--You have the option to not use the compliance framework but you are highly recommended to do so in order to reap the benefits of practising DevSecOps.-->
 
 We will continuously review and improve the compliance framework to help meet more standards. We recommend that you apply [compliance pipeline](https://sgts.gitlab-dedicated.com/WOG/ship-hats-compliance) when building your pipeline.
+
+
+## Additional Resources
+
+- [SHIP-HATS Compliance](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance)

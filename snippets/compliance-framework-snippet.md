@@ -1,9 +1,4 @@
-# Compliance Framework
-
-[Compliance Framework](./snippets/compliance-framework-snippet.md ':include')
-
-<!--
-[SHIP-HATS 2.0. Compliance Framework](https://sgts.gitlab-dedicated.com/WOG/ship-hats-compliance) is based on [GitLab Compliance Framework](https://docs.gitlab.com/ee/administration/compliance.html) feature. 
+**[SHIP-HATS 2.0 Compliance Framework](https://sgts.gitlab-dedicated.com/WOG/ship-hats-compliance)** is based on [GitLab Compliance Framework](https://docs.gitlab.com/ee/administration/compliance.html) feature. 
 
 Using this feature, you can automate the [DevSecOps practices](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/) that we encourage all agencies to adopt based on industry pipeline security as well as IM8 DevSecOps standards. 
 
@@ -18,6 +13,7 @@ The following list provides few of the DevSecOps practices supported by the Comp
 - Checksum verification of artefacts
 - Use of artifactory
 
+<!--You have the option to not use the compliance framework but you are highly recommended to do so in order to reap the benefits of practising DevSecOps.-->
 
 We will continuously review and improve the compliance framework to help meet more standards. We recommend that you apply [compliance pipeline](https://sgts.gitlab-dedicated.com/WOG/ship-hats-compliance) when building your pipeline.
 
@@ -40,6 +36,3 @@ Using SHIP-HATS compliance templates, you can assure that your pipeline includes
 
 - [SHIP-HATS Compliance](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance)
 - [GitLab Compliance Framework](https://docs.gitlab.com/ee/administration/compliance.html)
--->
-
-<!--You have the option to not use the compliance framework but you are highly recommended to do so in order to reap the benefits of practising DevSecOps.-->

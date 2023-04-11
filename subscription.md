@@ -1,6 +1,6 @@
 # Subscription
 
-Subscription Admins can use the [TechBiz Portal to subscribe to SHIP-HATS](https://portal.techbiz.suite.gov.sg/) and the [SHIP-HATS Portal](https://portal.ship.gov.sg/) to onboard to the SHIP-HATS product. 
+Subscription Admins can use the [TechBiz Portal to subscribe to SHIP-HATS](https://portal.techbiz.suite.gov.sg/) (accessible via GSIB devices only) and the [SHIP-HATS Portal](https://portal.ship.gov.sg/) to onboard to the SHIP-HATS product. 
 
 SHIP-HATS Subscription can be initiated by public officers in Agencies. Once subscribed, the Subscription Admin (SA) can invite Project Admins (PA) and users who can be public officers or in the vendor teams. 
 

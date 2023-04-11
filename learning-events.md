@@ -12,6 +12,13 @@ Webinar<br><br>26 April 2023<br><br>4 PM to 5 PM|**SGTS Learning Events: SHIP-HA
 Webinar<br><br> On Hold |**SGTS Learning Events - GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
 <!--
+|Webinar<br><br>8 May, 2023<br><br>  3 PM - 4 PM|**SGTS Learning Events: GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |Tech <br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+|Webinar<br><br>15 May, 2023<br><br>  3 PM - 4 PM|**SGTS Learning Events: PM/BA session**<br><br> add description|Tech <br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+|Webinar<br><br>22 May, 2023<br><br>  3 PM - 4 PM|**SGTS Learning Events: Modernising your Application using Container Stack**<br><br>Learn how to leverage the cloud and go from zero to running in the shortest time. |Tech <br><br>CStack Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+-->
+
+
+<!--
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Webinar|**Docker Image CI Pipeline Template** <br><br>This webinar shows how to deliver a compliant CI pipeline for a standard docker application considering best practices as well as security aspects.	 |	Tech<br><br>SHIP-HATS Users & Prospects|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|

@@ -1,8 +1,10 @@
 # Subscription
 
-Subscription Admins can use the [TechBiz Portal to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) and the [SHIP-HATS Portal](onboard-to-ship-hats) to onboard to the SHIP-HATS product. 
+Subscription Admins can use the [TechBiz Portal to subscribe to SHIP-HATS](https://portal.techbiz.suite.gov.sg/) and the [SHIP-HATS Portal](https://portal.ship.gov.sg/) to onboard to the SHIP-HATS product. 
 
 SHIP-HATS Subscription can be initiated by public officers in Agencies. Once subscribed, the Subscription Admin (SA) can invite Project Admins (PA) and users who can be public officers or in the vendor teams. 
+
+
 
 <!--!> **Important:** SA must use the [TechBiz service to subscribe to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) to [onboard to the SHIP-HATS product](onboard-to-ship-hats).-->
 
@@ -117,6 +119,10 @@ If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 
 - [Migration FAQs](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/faqs)
 - [FAQs](general-faqs)
 
+## Additional Resources
+
+- [TechBiz Documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/)
+- [Onboard to SHIP-HATS Documentation](onboard-to-ship-hats)
 
 <!--
 **Topics**

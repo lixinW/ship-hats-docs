@@ -2,6 +2,9 @@
 
 The following section provides list of tools for each stage in CI/CD pipeline offered under **SHIP-HATS**. 
 
+!> **Important:** The instance of tools available in SHIP-HATS 2.0 remains the same as SHIP-HATS 1.0. 
+
+
 |Stage|GitLab Native|Alternative Tool|
 |---|---|---|
 |Access|TechPass & SEED|TechPass & SEED|

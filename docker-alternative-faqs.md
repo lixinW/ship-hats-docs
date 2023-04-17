@@ -40,7 +40,7 @@ No, there are certain functions that cannot be performed by the suggested docker
 <details>
   <summary><b>Docker alternative tools are insufficient for me and I would still need to run docker commands directly. What can I do?</b></summary><br>
 
-SHIP-HATS does not supply Docker-in-Docker (`dind`) or privileged shared runners. You need to self host privileged runner to use `dind` image for running docker commands directly. Refer to [Set up GitLab Runners documentation](gitlab-runners) to set up self-hosted GitLab Runner.
+SHIP-HATS does not support Docker-in-Docker (`dind`) or privileged shared runners. You need to self host privileged runner to use `dind` image for running docker commands directly. Refer to [Set up GitLab Runners documentation](gitlab-runners) to set up self-hosted GitLab Runner.
 </details>
 <br>
 

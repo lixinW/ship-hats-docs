@@ -47,11 +47,11 @@ SHIP-HATS Shared runners are:
 
 There are 4 variants: 
 
-|Runner|Executor|Tags|Privileged|Cache Enabled|Run Untag|
-|---|---|---|---|---|---|
-|[CStack Runner](#cstack-runner)|kubernetes|cstack<br>non_privileged<br>no_root|FALSE|YES|YES|
-|[Docker Runner](#docker-runner)|docker + machine|ship_docker<br>non_privileged|FALSE|YES|NO|
-|[Windows Runner](#windows-runner)|shell|ship_windows|N/A|YES|NO|
+|Runner|Executor|Tags|Privileged|Cache Enabled|Run Untag|Egress IP Address|
+|---|---|---|---|---|---|---|
+|[CStack Runner](#cstack-runner)|kubernetes|cstack<br>non_privileged<br>no_root|FALSE|YES|YES|13.251.177.7/32<br>18.143.61.190/32
+|[Docker Runner](#docker-runner)|docker + machine|ship_docker<br>non_privileged|FALSE|YES|NO|18.143.26.175/32<br>18.142.30.19/32<br>18.140.93.144/32
+|[Windows Runner](#windows-runner)|shell|ship_windows|N/A|YES|NO|18.143.26.175/32<br>18.142.30.19/32<br>18.140.93.144/32
 |GitLab Shared Runner on SaaS||The GitLab shared runner on SaaS may replace the above runners when available in the future. 
 
 ### CStack Runner

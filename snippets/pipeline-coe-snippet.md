@@ -1,6 +1,8 @@
 **[Pipeline COE](https://sgts.gitlab-dedicated.com/innersource/projects/sgts-pipelinecoe)** is a GitLab project that aims to **build and store images** that all users on SHIP-HATS GitLab dedicated can use. This feature is based on [GitLab DevSecOps Governance Framework (DGF)](https://gitlab-org.gitlab.io/professional-services-automation/pipelinecoe/pipeline-templates/#/). 
 
+Using Pipeline COE, you can reduce redundancy by having a consolidated place where commonly used images by runners can be defined and stored. This enables you to get started quickly by using the available resources.
 
+Pipeline COE is a repository of images that you can use in your pipeline for runner image configuration.
 
 ### Audience
 

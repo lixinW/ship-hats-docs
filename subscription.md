@@ -50,7 +50,7 @@ Jira/Confluence|1 x Jira/Confluence License|Based on the number of users
 Sonatype Nexus IQ & Nexus Repo|1 x Nexus IQ <br><br>1 x Nexus Repo User License|Based on the number of users
 pCloudy Testing Farm|1 x pCloudy ios Device (dedicated)<br><br> 1 x pCloudy Android Device (dedicated)|1 device can be used concurrently across multiple GitLab Projects, and tests can be run in parallel
 SonarQube|1 x SonarQube Community Edition App<br><br>1 x SonarQube Dev Edition App|1 app can be used for 1 subscription (i.e. shared across GitLab projects)<br><br>1 app can be used for 1 subscription (i.e. shared across GitLab projects)
-Fortify-on-Demand|1 x FOD App|1 app can be shared across multiple GitLab Projects, but tests cannot be run in parallel.
+Fortify-on-Demand|1 x FOD App|1 app can be shared across multiple GitLab Projects, but tests cannot be run in parallel.<br><br>Notes regarding releases for the same application:<br>- Releases can be for different technology stack (e.g. Java, .NET, etc.)<br>- There is no hard limit for the number of releases. However, releases for the same app will be queued during scans i.e. scans cannot be run in parallel. 
 Additional support|Per hour (after 5:30 PM)|Outside office hours|
 
 

@@ -16,13 +16,13 @@ For more information, refer to [Set up Runners](gitlab-runners).
 
 ## Step 4b: Configure CI/CD Pipeline
 
-1. Decide the approach, and then copy the [E2E Template](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates?id=e2e-templates) into your own repository and update the project variables. Refer to [Pipeline architecture by GitLab](https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html) & [Continuous integration best practices by GitLab](https://about.gitlab.com/topics/ci-cd/continuous-integration-best-practices/). 
+1. Decide the CI approach, and then copy the [E2E Template](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates?id=e2e-templates) into your own repository and update the project variables. Refer to [Pipeline architecture by GitLab](https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html) & [Continuous integration best practices by GitLab](https://about.gitlab.com/topics/ci-cd/continuous-integration-best-practices/). 
 1. **[Optional]** Modify your pipeline using the Modular template. If the E2E template does not meet your requirement, you can modify your pipeline using the [Common Templates (Modular)](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates?id=common-templates) or [Reference Pipeline](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates?id=reference-pipelines) for any additional capabilities. 
     
     >**Tip:** [View Sample Pipeline](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/sample-pipeline).
     
 1. Apply [Compliance Framework](compliance-framework).	
-1. Decide the approach, and then execute deployment successfully on non-production and production environments. Refer to [Gitlab CD Approaches](https://sgts.gitlab-dedicated.com/groups/wog/gvt/ctmo/reference-pipelines/-/wikis/Gitlab-CD-Approaches) (accessible via SHIP-HATS GitLab account).
+1. Decide the CD approach, and then execute deployment successfully on non-production and production environments. Refer to [Gitlab CD Approaches](https://sgts.gitlab-dedicated.com/groups/wog/gvt/ctmo/reference-pipelines/-/wikis/Gitlab-CD-Approaches) (accessible via SHIP-HATS GitLab account).
 
 
 ?> After you have completed above setup, you can use **[GitLab dashboards](dashboards)** and review **[DORA metrics](dashboards)** to ensure BAU in GitLab.

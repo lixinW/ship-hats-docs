@@ -69,7 +69,7 @@ These security vulnerabilities should be patched. If patching is not possible, t
 <details>
   <summary style="font-size:20px"><b>How can I activate or enable XCA? </b></summary><br>
 
-XCA is integrated and enabled for all SHIP-HATS 2.0 GitLab tenants by default. No additional steps are required to activate or enable XCA. It is triggered in the `.pre` stage for the **Default** branch and for **Merge Request events**.
+XCA is integrated and enabled for all SHIP-HATS 2.0 GitLab tenants by default. No additional steps are required to activate or enable XCA. It is triggered in the `.post` stage for the **Default** branch and for **Merge Request events**.
 
 </details>
 

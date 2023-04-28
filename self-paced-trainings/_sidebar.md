@@ -1,9 +1,5 @@
 - **Self-paced Training**
   - [Overview](./self-paced-trainings/overview)
-  - [DevSecOps](./self-paced-trainings/devsecops.md)
-  - [What is SHIP-HATS?](./self-paced-trainings/what-is-ship-hats.md)
-  - [Know Your Tools](./self-paced-trainings/know-your-tools.md)
-  - [Know Your Platform](./self-paced-trainings/know-your-platform.md)
   - [Non-Tech Path](./self-paced-trainings/non-tech-path.md)
   - [Tech Path](./self-paced-trainings/tech-path.md)
 - **Additional Resources**
@@ -13,7 +9,12 @@
   - [Migration from 1.0 to 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
   
 
-
+<!--
+  - [DevSecOps](./self-paced-trainings/devsecops.md)
+  - [What is SHIP-HATS?](./self-paced-trainings/what-is-ship-hats.md)
+  - [Know Your Tools](./self-paced-trainings/know-your-tools.md)
+  - [Know Your Platform](./self-paced-trainings/know-your-platform.md)
+-->
 <!--
   - [New Self-paced trainings](self-paced-trainings-new)
   - [Overview](training)

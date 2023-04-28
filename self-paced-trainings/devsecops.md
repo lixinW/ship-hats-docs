@@ -1,4 +1,4 @@
-# DevSecOps
+<!--# DevSecOps-->
 
 If you are new to DevSecOps, we recommend that you refer to following resources:
 

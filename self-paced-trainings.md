@@ -28,11 +28,11 @@ To ensure we support at scale, anyone can access Self-paced trainings.
 
 # Non-Tech Path
 
-[DevSecOps](./self-paced-trainings/non-tech-path.md ':include')
+[Non-Tech Path](./self-paced-trainings/non-tech-path.md ':include')
 
 # Tech Path
 
-[DevSecOps](./self-paced-trainings/tech-path.md ':include')
+[Tech Path](./self-paced-trainings/tech-path.md ':include')
 
 
 

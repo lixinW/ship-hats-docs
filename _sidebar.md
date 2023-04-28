@@ -31,6 +31,7 @@
 **Training**
   - [Learning Events](learning-events)
   - [Self-paced Trainings](./self-paced-trainings/overview.md)
+  - [Self-paced Trainings](self-paced-trainings)
 **Support**
   - [FAQs](general-faqs)
   - [Contact us](contact-us) 

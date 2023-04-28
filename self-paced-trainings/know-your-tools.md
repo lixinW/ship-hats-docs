@@ -1,4 +1,4 @@
-# Know Your Tools
+<!--## Know Your Tools-->
 
 
 SHIP-HATS offers the following tools. Before you can get started with SHIP-HATS, we recommend that you familiarise yourself with the basics of these tools using the tool-specific resources provided here.

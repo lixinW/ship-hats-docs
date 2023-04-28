@@ -23,3 +23,14 @@ To ensure we support at scale, anyone can access Self-paced trainings.
 
 [DevSecOps](./devsecops.md ':include')
 
+## What is SHIP-HATS?
+
+[What is SHIP-HATS](./what-is-ship-hats.md ':include')
+
+## Know Your Tools
+
+[Know Your Tools](./know-your-tools.md ':include')
+
+## Know Your Platform
+
+[Know Your Platform](./know-your-platform.md ':include')

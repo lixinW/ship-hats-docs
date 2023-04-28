@@ -1,4 +1,4 @@
-# Know Your Platform
+<!--## Know Your Platform-->
 
 SHIP-HATS offers following resources to support your CI/CD journey:
 

@@ -1,4 +1,4 @@
-# What is SHIP-HATS?
+<!--## What is SHIP-HATS?-->
 
 **SHIP-HATS** is a Continuous Integration/Continuous Delivery (CI/CD) component within [Singapore Government Technology Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/) with security and governance guardrails that enables developers to plan, build, test, and deploy code to production. 
 

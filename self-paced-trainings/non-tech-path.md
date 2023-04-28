@@ -1,6 +1,6 @@
-## Non-Tech Path
+# Non-Tech Path
 
-### Overview
+## Overview
 
 |Topic|Description|Level|
 |---|---|---|
@@ -8,7 +8,7 @@
 [SHIP-HATS 2.0 Strategy & Updates](https://youtu.be/dRfI_zXgiHs) [20 min video]|Understand SHIP-HATS goals, tools, and subscription and what GitLab has to offer.|100
 
 
-### Subscribing and Onboarding
+## Subscribing and Onboarding
 |Topic|Description|Level|
 |---|---|---|
 [SHIP-HATS Subscription Offering (Available on intranet only)](https://go.gov.sg/sh2indicative) [22 min video]<br><br>[Subscription for SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscription) [6 min read]|Learn about subscription offering in SHIP-HATS|100
@@ -16,7 +16,7 @@
 [Onboard to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats) [20 min read]|Step-by-step procedure to onboard to SHIP-HATS using the SHIP-HATS portal|100
 
 
-### Setting up pipelines on SHIP-HATS
+## Setting up pipelines on SHIP-HATS
 
 |Topic|Description|Level|
 |---|---|---|
@@ -24,7 +24,7 @@
 [SHIP-HATS 2.0 Pipeline & Compliance Framework Demo](https://youtu.be/HPrgV_zUdww) [8 min video]<br><br>[Compliance Framework](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/compliance-framework) [2 min read]|Understand what Compliance framework is and how to implement it using templates|200
 
 
-### Managing SHIP-HATS
+## Managing SHIP-HATS
 
 |Topic|Description|Level|
 |---|---|---|

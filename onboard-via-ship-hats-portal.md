@@ -185,7 +185,7 @@ SA or PA can add the tools (GitLab and add-ons) under the **Subscribed Tools** s
 
     ![GitLab added](./images/gitlab-added.png)    
 
-### Whats' Next 
+## Whats' Next 
 
 - [Step 3: Configure GitLab](configure-gitlab) 
 

@@ -1,5 +1,7 @@
 # Step 1: Subscribe to SHIP-HATS
 
+## Steps
+
 ?> Complete these steps in the **[TechBiz Portal](https://portal.techbiz.suite.gov.sg/)**. 
 
 <!--Public Officers can access **[how-to videos for subscription via TechBiz](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIDA-GoSync%2Fgdspdd-ai%2Fship%2FShared%20Documents%2FSHIP-HATS%202%2E0%2FOnboarding%20how-to%20videos)** via Intranet. -->
@@ -17,7 +19,7 @@ For more information, refer to the [TechBiz documentation](https://docs.develope
 
 <!--![How to videos TechBiz](./images/how-to-videos-techbiz.png ':size=70%')-->
 
-### What's Next
+## What's Next
 
 - [Step 2: Onboard to SHIP-HATS Portal](onboard-via-ship-hats-portal)
 

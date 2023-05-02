@@ -2,9 +2,22 @@
 
 The following topic provides details for **onboarding to SHIP-HATS**. 
 
+## Onboarding Flow
+
+**Following image provides high level steps to complete onboarding to SHIP-HATS:**
+
 ![Onboarding Flow](./images/onboarding-flow.png)
 
-The above image provides high level steps to complete onboarding to SHIP-HATS. Detailed steps are provided in the topics below:
+
+## Journey from TechBiz to GitLab
+
+**Following image shows flow from TechBiz Portal to SHIP-HATS Portal to GitLab:**
+
+![Subscription & Onboarding](./images/subscription-onboarding-gitlab.png)
+
+## Onboarding Steps
+
+Detailed steps are provided in the topics below:
 
 - [Step 0: Pre-onboarding](pre-onboarding)
 - [Step 1: Subscribe to SHIP-HATS](subscribe-via-techbiz-portal)

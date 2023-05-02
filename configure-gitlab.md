@@ -5,7 +5,7 @@
 
 ## Step 3a: Verify User Mapping
 
-### To verify user mapping
+**To verify user mapping**
 
 1. In the [SHIP-HATS portal](https://portal.ship.gov.sg/), click GitLab group.
 
@@ -37,6 +37,6 @@ In GitLab, each developer must [Use SSH keys to communicate with GitLab](https:/
 
 In GitLab, each developer must [Sign commits with GPG](https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/).
 
-### What's Next
+## What's Next
 
 - [Step 4: Configure Pipelines](configure-pipelines) 

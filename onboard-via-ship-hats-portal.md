@@ -2,10 +2,12 @@
 
 ?> Complete these steps in the **[SHIP-HATS Portal](https://portal.ship.gov.sg/)**.
 
+You can **[access video for onboarding to SHIP-HATS portal](https://youtu.be/DCJQEOX0HIA?t=2558)**.
+
 
 ## Step 2a: Access SHIP-HATS Portal
 
-### To access the SHIP-HATS portal
+**To access the SHIP-HATS portal**
 
 1. Go to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
 1. Click **Login with TechPass**.
@@ -31,7 +33,7 @@
 
 Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in their account if the users were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
 
-### To view users
+**To view users**
 
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
 
@@ -59,7 +61,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 
 Subscription Admin (SA) can create new projects in SHIP-HATS.
 
-### To create a new project
+**To create a new project**
 
 1. From the side menu, click **Workspace**.
     
@@ -96,7 +98,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS.
 
 Subscription Admins can add Project Admins using the SHIP-HATS portal. When creating a project in an account, it is mandatory to specify at least one Project Admin. SAs can add additional PAs anytime in the future.  
 
-### To add a project admin
+**To add a project admin**
 
 
 1. From the side menu, click **Workspace**.
@@ -136,7 +138,7 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 
 SA or PA can add the tools (GitLab and add-ons) under the **Subscribed Tools** section based on the tools subscribed in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).  
 
-### To add tools
+**To add tools**
 
 1. From the side menu, click **Workspace**.
     

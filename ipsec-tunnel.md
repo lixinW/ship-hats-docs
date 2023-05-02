@@ -105,7 +105,7 @@ Repeat the above steps for the second connection.
 ## Set up custom DNS server
 
 
-### To configure custom DNS servers on VM that hosts the GitLab runner, complete the following steps:
+**To configure custom DNS servers on VM that hosts the GitLab runner, complete the following steps:**
 
 1. Request the SHIP-HATS team for DNS Resolver IPs. 
 1. Log in to Azure portal, and then select **Virtual machines**. 

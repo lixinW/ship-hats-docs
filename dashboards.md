@@ -1,5 +1,7 @@
 # Dashboards
 
+## About Dashboards
+
 In SHIP-HATS 2.0., we are leveraging the *GitLab dashboards* available within the *GitLab Ultimate Tier*. These dashboards will be able to showcase the following key metrics for GitLab native tools:  
 
 - **DevOps Adoption:** View how a project is utilizing end-to-end CI/CD components. <!--This dashboard will show GitLab native adoption only.-->
@@ -27,7 +29,7 @@ To access these dashboards, select **Main menu**, and then choose the dashboard 
 ![Developer Dashboards](./images/gitlab-developer-dashboards.png)
 
 
-### Related topics
+## Related topics
 
 For more information, refer to the following GitLab resources:
 

@@ -83,7 +83,7 @@ Following image shows an example of production pipeline in GitLab:
 
 ![Terminology](./snippets/terminology.md ':include')
 
-### Related Topics
+## Related Topics
 
 - [AWS VPC Endpoint](aws-vpc-endpoint)
 - [IPsec Tunnel](ipsec-tunnel)

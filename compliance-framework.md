@@ -1,5 +1,7 @@
 # Compliance Framework
 
+## About Compliance Framework
+
 [Compliance Framework](./snippets/compliance-framework-snippet.md ':include')
 
 <!--

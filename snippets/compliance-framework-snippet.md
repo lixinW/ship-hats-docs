@@ -27,7 +27,7 @@ Using SHIP-HATS compliance templates, you can assure that your pipeline includes
 
 ?> **Note:** Agency that chooses to use its own configurations/templates will be required to have its own risk assessment, and to be consulted by their ACISO and MCISO.
 
-### Sample Compliance Framework
+## Sample Compliance Framework
 
 ![Sample Compliance Framework](./images/sample-compliance-framework.png)
 

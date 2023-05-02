@@ -77,6 +77,8 @@ Webinar<br><br>30 Jan, 2023 <br><br>11 AM to 12 PM|**SHIP-HATS 2.0 Webapp E2E Pi
 |---|---|---|---|
 Webinar <br><br>20 March 2023 <br><br>3 PM to 4 PM |**SGTS Learning Events: SHIP-HATS Product Briefing**<br>SGTS Overview<br>SHIP-HATS 2.0 Product Offering & Roadmap<br>Subscription packages<br> Learning Resources & Training|[SGTS Learning Events: SHIP-HATS Product Briefing](https://www.youtube.com/watch?v=YuqHLd1ZfgA) [60 min video]|[Download the PDF here](./files/2.0._New_Customer_Briefing_20_March_2023.pdf)|
 |Briefing<br><br> 28 Nov, 2022<br><br>2:00 PM - 3:30 PM|**SHIP-HATS 2.0 Subscription Briefing**<br><br>Overview of SHIP-HATS 2.0 subscription plans| All Public Officers can [access the recording](https://go.gov.sg/sh2indicative) (via link hosted on intranet).|All Public Officers can [access the PDF](https://go.gov.sg/sh2indicative) (via link hosted on intranet)
+Webinar<br><br>26 April 2023<br><br>4 PM to 5 PM|**SGTS Learning Events: SHIP-HATS & Sonatype Best Practices**<br><br>Covers Benefits of Sonatype Nexus IQ for OSS consumption, Nexus Platform Best Practices, and demo|[Access the recording here](https://youtu.be/VeRZm1hN-Ug) [56 min video] 
+Webinar<br><br>13 April 2023<br><br>4 PM to 5 PM|**SGTS Learning Events: SHIP-HATS & Application Security with FOD**<br><br>Learn how modernised tools seamlessly integrate into the CI/CD pipeline to drive the quality of results, enable ease of fixing, and reducing risks efficiently.|[SHIP-HATS & Application Security with FOD](https://www.youtube.com/watch?v=UaoLO2RZcAk) [60 min video]|[Download the PDF here](./files/FOD_13_april_2023.pdf)
 
 
 
@@ -84,6 +86,7 @@ Webinar <br><br>20 March 2023 <br><br>3 PM to 4 PM |**SGTS Learning Events: SHIP
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
+Webinar<br><br>26 April 2023<br><br>4 PM to 5 PM|**SGTS Learning Events: SHIP-HATS & Sonatype Best Practices**<br><br>Covers Benefits of Sonatype Nexus IQ for OSS consumption, Nexus Platform Best Practices, and demo|[Access the recording here](https://youtu.be/VeRZm1hN-Ug) [56 min video] |
 Webinar<br><br>17 April 2023<br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 03**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|[Access the recording here](https://www.youtube.com/watch?v=DCJQEOX0HIA) [65 min video]|[Download the PDF here](./files/Migration_Briefing_17_April_2023.pdf)
 Webinar<br><br>13 April 2023<br><br>4 PM to 5 PM|**SGTS Learning Events: SHIP-HATS & Application Security with FOD**<br><br>Learn how modernised tools seamlessly integrate into the CI/CD pipeline to drive the quality of results, enable ease of fixing, and reducing risks efficiently.|[SHIP-HATS & Application Security with FOD](https://www.youtube.com/watch?v=UaoLO2RZcAk) [60 min video]|[Download the PDF here](./files/FOD_13_april_2023.pdf)
 Webinar <br><br>20 March 2023 <br><br>3 PM to 4 PM |**SGTS Learning Events: SHIP-HATS Product Briefing**<br>SGTS Overview<br>SHIP-HATS 2.0 Product Offering & Roadmap<br>Subscription packages<br> Learning Resources & Training|[SGTS Learning Events: SHIP-HATS Product Briefing](https://www.youtube.com/watch?v=YuqHLd1ZfgA) [60 min video]|[Download the PDF here](./files/2.0._New_Customer_Briefing_20_March_2023.pdf)|

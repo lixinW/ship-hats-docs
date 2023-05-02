@@ -25,7 +25,7 @@ SHIP-HATS drives best practices and policy compliance requirements. The platform
 - [Sample pipeline](sample-pipeline) 
 - [Pipeline COE](./pipeline-coe.md) 
 
-### Related topics
+## Related topics
 
 - [Architecture](architecture)
 - [Runners](runners)

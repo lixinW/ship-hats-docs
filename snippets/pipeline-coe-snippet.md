@@ -4,15 +4,15 @@ Using Pipeline COE, you can reduce redundancy by having a consolidated place whe
 
 Pipeline COE is a repository of images that you can use in your pipeline for runner image configuration.
 
-### Audience
+## Audience
 
 CI/CD Pipeline authors 
 
-## Benefits of Pipeline COE
+## Benefits
 
 Pipeline COE is an internal project (not a private project)  where all **logged in users are able to view, raise Merge Requests (MRs), and run pipelines on non-protected branches**.
 
-### Key Features 
+## Key Features 
 
 
 - Integrated container scanning in build pipeline to ensure all images in CR are scanned

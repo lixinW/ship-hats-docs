@@ -58,7 +58,7 @@ Administrator can add users individually and manage their permissions.
 
 ### Bamboo Group access 
 Groups are an easier and efficient way to manage user access for multiple users. 
-Users can raise a <a href="https://jira.ship.gov.sg/servicedesk/customer/portal/11/">service request</a> with the required group name, project name and user details such as name and email address. Crowd administrator in the SHIP-HATS team evaluates the request and approves it accordingly.  
+Users can raise a <a href="https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request/">service request</a> with the required group name, project name and user details such as name and email address. Crowd administrator in the SHIP-HATS team evaluates the request and approves it accordingly.  
 
 If approved, the group is created with the agency name prefixed to it. For example, *govtech-codex-documentation*. If a group was already created for managing users in any one of the Atlassian products added to your project on SHIP-HATS, you would be able to see that in all the integrated Atlassian products. Bamboo project administrators can manage user groups for this project.
 
@@ -117,7 +117,7 @@ If you already ran with `6.10.4 JAR` file, you can skip these steps as `6.10.4 J
 ### Prerequisites
 
 - Make sure that you are a [Subscription Admin (SA), a Project Admin (PA), or a Developer](user-roles-permissions).
-- Make sure that you provision for Bamboo Remote Agent. Bamboo Remote Agent is an add-on tool, which is not part of the standard subscription. Ensure that you have a sufficient quota of bamboo agents subscribed. If there are none subscribed/insufficient quota, SA will need to subscribe/increase the quota by raising a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) ticket. 
+- Make sure that you provision for Bamboo Remote Agent. Bamboo Remote Agent is an add-on tool, which is not part of the standard subscription. Ensure that you have a sufficient quota of bamboo agents subscribed. If there are none subscribed/insufficient quota, SA will need to subscribe/increase the quota by raising a [service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) ticket. 
 - [Install the Remote Agent](#install-a-remote-agent)
 - [Set up VPC Endpoint Connections](). This is required if you are setting up an agent in AWS, you can leverage VPC endpoints to connect to VPC endpoint services provided by SHIP. You must create VPC endpoints for SHIP's endpoint services in the same VPC as the DevOps zone.  
     Note the following requirements:
@@ -125,10 +125,10 @@ If you already ran with `6.10.4 JAR` file, you can skip these steps as `6.10.4 J
     -	Bitbucket and Bitbucket endpoint services are required to check out configuration and deployment scripts.
 - Set up Machine VPN. This is required if you are setting up an agent outside AWS (e.g. Azure) or if you cannot leverage VPC endpoints to connect to VPC endpoint services provided by SHIP.  
     Complete the following steps:  
-    1.	Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) to SHIP for OpenVPN Client config file for the Bamboo agent. This config file should not require password authentication. 
+    1.	Submit a [service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) to SHIP for OpenVPN Client config file for the Bamboo agent. This config file should not require password authentication. 
     2.	[Install OpenVPN client](https://openvpn.net/vpn-server-resources/how-to-connect-to-access-server-from-a-linux-computer/). 
 
->**Note:** Based on the prerequisites mentioned above, [raise a service request ticket](https://jira.ship.gov.sg/servicedesk/customer/portal/11) as needed.
+>**Note:** Based on the prerequisites mentioned above, [raise a service request ticket](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) as needed.
 
 ### To create an Elastic Agent:
 

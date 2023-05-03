@@ -41,7 +41,7 @@ You can add and manage users as Group and Individual Users.
 
 ### Confluence Groups 
 
-Groups are an easier and efficient way to manage user access for multiple users. Users can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) with the required group name, project name and user details such as name and email address. Crowd administrator in the SHIP-HATS team evaluates the request and approves it accordingly.  
+Groups are an easier and efficient way to manage user access for multiple users. Users can raise a [service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request/) with the required group name, project name and user details such as name and email address. Crowd administrator in the SHIP-HATS team evaluates the request and approves it accordingly.  
 
 If approved, the group is created with the agency name prefixed to it. For example, *govtech-codex-documentation*. If a group was already created for managing users in any one of the Atlassian products added to your project on SHIP-HATS, you would be able to see that in all the integrated Atlassian products. Note that user groups are created at a global level and are visible to all SHIP-HATS users. Space administrators can manage user groups for the space.
 

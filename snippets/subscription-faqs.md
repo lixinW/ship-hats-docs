@@ -12,7 +12,7 @@ You can [subscribe to SHIP-HATS via the TechBiz portal](onboard-to-ship-hats) af
 <details>
  <summary style="font-size:20px"><b> How do I cancel my subscription? </b></summary><br>  
 
-Subscription Administrator can [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) to cancel subscription with one month notice as per the service sheet. 
+Subscription Administrator can [raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) to cancel subscription with one month notice as per the service sheet. 
 </details>
 
 ---
@@ -50,7 +50,7 @@ You can subscribe for [Base plan](#base-plan) and opt for [add-ons](#add-ons) as
 <details>
  <summary style="font-size:20px"><b>  Can I request for a trial subscription?</b></summary><br>  
 
-Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. 
+Yes. [Raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) with your requirement. 
 </details>
 
 ---

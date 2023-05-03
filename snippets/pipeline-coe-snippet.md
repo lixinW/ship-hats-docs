@@ -25,9 +25,9 @@ Pipeline COE is an internal project (not a private project)  where all **logged 
 
 If you are looking for an image to define for runners to use, you can search in the available resources in the Pipeline COE. If you are not able to find an image as per your requirement, you can:
 
-1. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) to update your role to **Developer** to add/change the image to the current project. SHIP-HATS team will then review and merge the request as per their approval process. 
-1. If the requirement does not fit into any of the existing projects, [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) to create a project within Pipeline COE. You can then raise a **Merge Request (MR)** for the SHIP-HATS team to complete step 1.
-1. For any additional help, please [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) to get support. 
+1. [Raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) to update your role to **Developer** to add/change the image to the current project. SHIP-HATS team will then review and merge the request as per their approval process. 
+1. If the requirement does not fit into any of the existing projects, [raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) to create a project within Pipeline COE. You can then raise a **Merge Request (MR)** for the SHIP-HATS team to complete step 1.
+1. For any additional help, please [raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) to get support. 
 
 
 ## Approval Tips

@@ -79,7 +79,7 @@ You can connect to SHIP-HATS using one of the following methods based on your se
 
 The following table provides a list of SHIP-HATS VPC Endpoint Services:
 
-?> **Note:** SHIP-HATS supports common ports as listed in the table below. If you need to use a specific port, please [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11).
+?> **Note:** SHIP-HATS supports common ports as listed in the table below. If you need to use a specific port, please [raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request).
 
 |Service Name|Full URL|Endpoint Service Name|Port|Protocol|
 |---|---|---|---|---|

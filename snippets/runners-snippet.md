@@ -273,7 +273,7 @@ Based on our testing on docker alternatives, Skopeo and Crane can run on non-roo
 
 <!--Please note that this project is a work in progress and the location of the images might be changed later. You may refer to the images there in your job should you find any one suitable. You may refer to the images in your job to find something suitable to your requirements.--> 
 
-If you are unable to find a suitable image in Pipeline COE, you may [raise a request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) or if you find an image that can add on the tools that you require, you may edit the Dockerfile and raise an MR for platform team to review and approve. 
+If you are unable to find a suitable image in Pipeline COE, you may [raise a request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) or if you find an image that can add on the tools that you require, you may edit the Dockerfile and raise an MR for platform team to review and approve. 
 </details>
 
 ---

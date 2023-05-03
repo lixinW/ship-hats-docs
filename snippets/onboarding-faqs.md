@@ -6,7 +6,7 @@
 
 Yes, the default GitLab project’s parent group name that is created for agency will always be the same as SHIP-HATS subscription name. If you want to rename the parent group, you must first rename the SHIP-HATS subscription title.
 
-If you want to change the subscription title and parent group name, [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11). In the **Summary** field of the ticket, indicate `SHIP-HATS 2.0 GitLab - <your request>`
+If you want to change the subscription title and parent group name, [raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request). In the **Summary** field of the ticket, indicate `SHIP-HATS 2.0 GitLab - <your request>`
 
 For more information on the groups, refer to our [GitLab Groups](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture?id=gitlab-groups) documentation. 
 

@@ -70,7 +70,7 @@ You can downgrade only after the **Minimum Commitment Period** (Three consecutiv
 - If you were using SHIP-HATS 1.0 and have now migrated to SHIP-HATS 2.0, your **Minimum Commitment Period** began from the date SHIP-HATS 1.0 was provisioned. 
 - If you are new to SHIP-HATS and started using SHIP-HATS 2.0 directly, your **Minimum Commitment Period** begins from the date SHIP-HATS 2.0 was provisioned. 
 
-To downgrade a subscription, [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. 
+To downgrade a subscription, [Raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) with your requirement. 
 
 ## Pricing
 
@@ -227,7 +227,7 @@ If you are a **new customer** and coming onboard to 2.0 directly, you will start
 <details>
  <summary style="font-size:20px"><b> Can I upgrade or downgrade to a different subscription plan and how do I do this? </b></summary><br>  
 
-Yes. [Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement. 
+Yes. [Raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) with your requirement. 
 
 - You may upgrade to additional users and add-on anytime.  
 - You can downgrade only after the <b>Minimum Commitment Period</b> (Three consecutive months from the date of account provisioning).
@@ -244,7 +244,7 @@ You can downgrade only after the <b>Minimum Commitment Period</b> of three conse
 <details>
  <summary style="font-size:20px"><b> How can I add-on or scale-down tools or resources bundled along with my subscription? </b></summary><br>  
 
-[Raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement.  
+[Raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) with your requirement.  
 
 </details>
 <br>

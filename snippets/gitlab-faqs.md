@@ -116,7 +116,7 @@ Refer to [GitLab documentation](https://docs.gitlab.com/ee/ci/cloud_services/aws
 
 Baseline configuration limits each repo size to 2G. GitLab repositories are code repositories. Therefore, it is recommended that it does not store binaries like executables, pictures, or videos, etc. 
 
-If your GitLab repo size > 2GB repo, consider reducing size. For further support, [raise a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with your requirement.
+If your GitLab repo size > 2GB repo, consider reducing size. For further support, [raise a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) with your requirement.
 </details>
 
 ---

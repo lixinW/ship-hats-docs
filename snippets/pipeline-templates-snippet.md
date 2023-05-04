@@ -93,7 +93,7 @@ Following [Nexus Repo templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/
 
 ## Reference pipelines
 
-Following [E2E CI pipeline examples using SHIP-HATS templates](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines) are available for use. 
+Following [E2E CI pipeline examples using SHIP-HATS templates](https://sgts.gitlab-dedicated.com/wog/gvt/ctmo/reference-pipelines) are available for use. You can also refer to [Common Prerequisites to Using Reference Pipelines](https://sgts.gitlab-dedicated.com/groups/wog/gvt/ctmo/reference-pipelines/-/wikis/Common-Pre-requisites-to-Using-Reference-Pipelines-(WIP)#leveraging-gitlab-as-iam-oidc-provider-to-gain-access-to-csp-resources).
 
 ?> If you do not have access to GitLab, you may [access mirror templates in BitBucket](https://bitbucket.ship.gov.sg/projects/CLGLAB) for reference only. 
 

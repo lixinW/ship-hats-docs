@@ -8,7 +8,7 @@ XCA is designed to operate alongside other code scanning solutions and is deeply
 
 ### XCA vs GitLab vs FOD
 
-XCA provides an additional niche set of custome rules that are built specifically for the Singapore Government context and offer high true positive rate for this use case. XCA should be applied along with GitLab or FOD SAST to ensure coverage. 
+XCA provides an additional niche set of custom rules that are built specifically for the Singapore Government context and offer high true positive rate for this use case. XCA should be applied along with GitLab or FOD SAST to ensure coverage. 
 
 <!--XCA augments existing code scanning solutions, such as GitLab SAST and Fortify-on-Demand SAST. While GitLab SAST and Fortify-on-Demand SAST provides generic rulesets to identify vulnerabilities, XCA provides custom rules based on past vulnerabilities and targets specific, known vulnerable code patterns with a high true positive rate instead of general code hygiene or potential vulnerabilities.-->
 

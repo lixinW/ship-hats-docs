@@ -1,7 +1,7 @@
 **Overview**
   - [Home](./README.md)
   - [Overview](ship-hats-overview)
-  - [What's New](./whats-new/what-s-new.md)
+  - [What's New](./whats-new/2023.md)
   - [Tools](ship-hats-tools)
   - [Roadmap](./roadmap.md)
 **Key Features**

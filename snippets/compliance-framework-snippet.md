@@ -31,6 +31,20 @@ Using SHIP-HATS compliance templates, you can assure that your pipeline includes
 
 ![Sample Compliance Framework](./images/sample-compliance-framework.png)
 
+## GitLab Infrastructure as Code (IaC) Scanning
+
+IaC SAST scanning has now been integrated with the Compliance Framework. 
+
+To use this feature, you must **get the latest version v1.0.3** of the [SHIP-HATS Compliance Template](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance/-/blob/main/README).
+
+**By default, IaC SAST scanning is enabled.** We recommend that you use the default option if you are using GitOps. However, if you need to disable the IAC SAST scanning, you can set the `$IAC_SAST_DISABLED` to `true` in your project's CI/CD variables.
+
+For more information, refer to following resources:
+
+- [SHIP-HATS Compliance FAQ](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance/-/tree/main#faq)
+- [IaC SAST scanning - Choice of tools](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance/-/tree/main#choice-of-tools)
+- [GitLab Infrastructure as Code (IaC) Scanning](https://docs.gitlab.com/ee/user/application_security/iac_scanning/)
+
 
 ## Additional Resources
 

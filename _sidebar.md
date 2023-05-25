@@ -7,6 +7,7 @@
 **Key Features**
   - [Compliance Framework](compliance-framework)
   - [Dashboards](dashboards)
+  - [Metrics](./metrics.md)
   - [Pipeline Templates](pipeline-templates)
   - [Sample Pipeline](sample-pipeline)  
   - [Pipeline COE](./pipeline-coe.md)

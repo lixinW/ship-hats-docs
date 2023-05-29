@@ -29,7 +29,8 @@
   - [IPsec Tunnel](ipsec-tunnel)
   - [Set up GitLab Runners](gitlab-runners)
   - [Sign commits with GPG](signing-commits-with-gpg)
-  - [Communicate using SSH keys](communicate-using-ssh-keys)  
+  - [Communicate using SSH keys](communicate-using-ssh-keys)
+  - [SIS Whitelisting](./sis-whitelisting.md)  
 **Training**
   - [Learning Events](learning-events)
   - [Self-paced Trainings](./self-paced-trainings/overview.md)

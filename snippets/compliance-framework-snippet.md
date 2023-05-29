@@ -31,6 +31,8 @@ Using SHIP-HATS compliance templates, you can assure that your pipeline includes
 
 ![Sample Compliance Framework](./images/sample-compliance-framework.png)
 
+<!--
+
 ## GitLab Infrastructure as Code (IaC) Scanning
 
 IaC SAST scanning has now been integrated with the Compliance Framework. 
@@ -45,6 +47,7 @@ For more information, refer to following resources:
 - [IaC SAST scanning - Choice of tools](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance/-/tree/main#choice-of-tools)
 - [GitLab Infrastructure as Code (IaC) Scanning](https://docs.gitlab.com/ee/user/application_security/iac_scanning/)
 
+-->
 
 ## Additional Resources
 

@@ -6,7 +6,7 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
-|Webinar<br><br>30 May, 2023<br><br>  3 PM - 4 PM|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |Tech <br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+|Briefing <br><br>7 June, 2023<br><br>  11 AM - 11:30 AM|**Subscription Management: New TechBiz Feature**<br><br>Covers details on the new TechBiz feature to manage users, how it impacts the existing users, and what action is required from the existing users.|Tech & Non Tech<br><br>SHIP-HATS Users|100|By invitation|
 
 <!--
 
@@ -113,6 +113,7 @@ Briefing<br><br> 19 Aug, 22|**SHIP-HATS 2.0 Announcement Briefing**|[Vision for 
 
 
 <!-- OLD CONTENT PASTE HERE
+
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 |Webinar<br><br> 8 Sep, 2022 <br><br>11:00 AM -12:00 PM|**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|Tech & Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
@@ -137,6 +138,7 @@ Webinar<br><br>26 April 2023<br><br>4 PM to 5 PM|**SGTS Learning Events: SHIP-HA
 |Hands on Workshop <br><br> 15 May, 2023 <br><br> 2 PM to 5 PM (Hive L8 Open Area)|**Code Scanning Rule Writing workshop**<br><br>Learn how to write Semgrep rules to automatically detect vulnerabilities in code and learn how they can scale them across government with the eXtended Code Analysis (XCA) project on SHIP-HATS 2.0. A rule-writing competition with attractive prizes will be held after the workshop.|Tech|200|[Sign up](https://form.gov.sg/64338a911a084c00131a61d9)|
 |Webinar<br><br>17 May, 2023<br><br>  3 PM - 4:30 PM|**Configuring SHIP-HATS 101 (Part 1) - GitLab**<br><br> Covers guidelines and checklists for configuring SHIP-HATS platform and GitLab|Tech <br><br>SHIP-HATS Users & Prospects|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 |Webinar<br><br>22 May, 2023<br><br>  3 PM - 4 PM|**Modernising your Application using Container Stack**<br><br>Learn how to leverage the cloud and go from zero to running in the shortest time. |Tech <br><br>CStack Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+|Webinar<br><br>30 May, 2023<br><br>  3 PM - 4 PM|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |Tech <br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
 -->
 

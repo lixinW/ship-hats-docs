@@ -6,12 +6,16 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
-|Briefing <br><br>7 June, 2023<br><br>  11 AM - 11:30 AM|**Subscription Management: New TechBiz Feature**<br><br>Covers details on the new TechBiz feature to manage users, how it impacts the existing users, and what action is required from the existing users.|Tech & Non Tech<br><br>SHIP-HATS Users|100|By invitation|
 |Webinar<br><br>Coming soon!|**Monitoring using StackOps**<br><br>|Tech & Non Tech<br><br>StackOps Users and prospects|100|Coming soon!|
 |Webinar<br><br>Coming soon!|**Configuring SH 101 Part 2**<br><br>|Tech <br><br>SHIP-HATS Users|200|Coming soon!|
 |Webinar<br><br>Coming soon!|**GitLab: Issue, labels, and boards**<br><br>|Tech & Non Tech<br><br>SHIP-HATS Users & Prospects|100|Coming soon!|
 
 
+<!--
+
+|Briefing <br><br>7 June, 2023<br><br>  11 AM - 11:30 AM|**Subscription Management: New TechBiz Feature**<br><br>Covers details on the new TechBiz feature to manage users, how it impacts the existing users, and what action is required from the existing users.|Tech & Non Tech<br><br>SHIP-HATS Users|100|By invitation|
+
+-->
 <!--
 
 Webinar<br><br> On Hold |**SGTS Learning Events - GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|

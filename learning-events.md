@@ -7,6 +7,10 @@
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
 |Briefing <br><br>7 June, 2023<br><br>  11 AM - 11:30 AM|**Subscription Management: New TechBiz Feature**<br><br>Covers details on the new TechBiz feature to manage users, how it impacts the existing users, and what action is required from the existing users.|Tech & Non Tech<br><br>SHIP-HATS Users|100|By invitation|
+|Webinar<br><br>Coming soon!|**Monitoring using StackOps**<br><br>|Tech & Non Tech<br><br>StackOps Users and prospects|100|Coming soon!|
+|Webinar<br><br>Coming soon!|**Configuring SH 101 Part 2**<br><br>|Tech <br><br>SHIP-HATS Users|200|Coming soon!|
+|Webinar<br><br>Coming soon!|**GitLab: Issue, labels, and boards**<br><br>|Tech & Non Tech<br><br>SHIP-HATS Users & Prospects|100|Coming soon!|
+
 
 <!--
 
@@ -49,6 +53,7 @@ Briefing<br><br> 19 Aug, 22|**SHIP-HATS 2.0 Announcement Briefing**|[Vision for 
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
+|Webinar<br><br>30 May, 2023<br><br>  3 PM - 4 PM|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |[Access the recording here](https://youtu.be/oVqCo3pp3VE) [25 min video]|[Download the PDF here](./files/GitLab-as-a-PM-tool.pdf)|
 Webinar<br><br> 16 Jan, 2023 <br><br> 2 PM - 3 PM|**GitLab Security & SHIP-HATS Compliance Pipelines**<br><br>Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard. PMs who are keen to learn can join too!|[GitLab Security & SHIP-HATS Compliance Pipelines](https://www.youtube.com/watch?v=yJ9J84bxllk) - [33 min video]|[Download the PDF here](./files/GitLab-Security-Compliance.pdf)
 Webinar<br><br> 6 Dec, 2022 <br><br>10:00 AM - 11:00 AM|**Advanced CI/CD & SHIP-HATS Pipeline templates**<br><br>Requires basic CI/CD knowledge and covers advanced topics such as includes/extends, rules, child pipelines, and pipeline templates on SHIP-HATS. |[Advanced CI/CD & SHIP-HATS Pipeline](https://youtu.be/8ZC6aErBV1s) [53 min video]|[Download the PDF here](./files/CI_CD%20Advanced.pdf)
 |Webinar<br><br> 30 Nov, 2022<br><br>2:00 PM - 3:00 PM |**CI/CD Basics with GitLab**<br><br> Covers the basics of how to set up a pipeline to build, test, and deploy your code|[CI/CD Basics with GitLab](https://youtu.be/x0WZkNScbzs) [60 min video]|[Download the PDF here](./files/CI-CD-Basics.pdf)|

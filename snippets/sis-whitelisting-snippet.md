@@ -1,5 +1,5 @@
 
-If you are using GSIB for your developer work and require to upload/download files from our dedicated GitLab (sgts.gitlab-dedicated.com), you can follow the below steps to whitelist 
+If you are using GSIB for your developer work, you can follow the below steps to whitelist the site to upload/download files from our dedicated GitLab (sgts.gitlab-dedicated.com)
 
 ## Steps
 

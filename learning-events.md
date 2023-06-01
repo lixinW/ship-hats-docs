@@ -83,6 +83,7 @@ Webinar<br><br>13 April 2023<br><br>4 PM to 5 PM|**SHIP-HATS & Application Secur
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
+|Webinar<br><br>30 May, 2023<br><br>  3 PM - 4 PM|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |[Access the recording here](https://youtu.be/oVqCo3pp3VE) [25 min video]|[Download the PDF here](./files/GitLab-as-a-PM-tool.pdf)|
 |Webinar<br><br>22 May, 2023<br><br>  3 PM - 4 PM|**SGTS Learning Events: Modernising your Application using Container Stack**<br><br>Learn how to leverage the cloud and go from zero to running in the shortest time.|[Access the recording here](https://youtu.be/LrOJWIx0FAI) [60 min video]|[Download the PDF here](./files/Modernizing_Application_Using_CStack_22_May_2023.pdf)|
 |Webinar<br><br>17 May, 2023<br><br>  3 PM - 4:30 PM|**Configuring SHIP-HATS 101 (Part 1) - GitLab**<br><br> Covers guidelines and checklists for configuring SHIP-HATS platform and GitLab|[Access the recording here](https://youtu.be/J2w8_00upeE) [52 min video]|[Download the PDF here](./files/2.0._Configuring_SHIP_HATS_101_17_May_2023.pdf)
 Webinar<br><br>26 April 2023<br><br>4 PM to 5 PM|**SHIP-HATS & Sonatype Best Practices**<br><br>Covers Benefits of Sonatype Nexus IQ for OSS consumption, Nexus Platform Best Practices, and demo|[Access the recording here](https://youtu.be/VeRZm1hN-Ug) [56 min video]|[Download the PDF here](./files/Sonatype-Best-Practices-26-april-2023.pdf)

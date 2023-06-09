@@ -1,10 +1,10 @@
-**Overview**
+- **Overview**
   - [Home](./README.md)
   - [Overview](ship-hats-overview)
   - [What's New](./whats-new/2023.md)
   - [Tools](ship-hats-tools)
   - [Roadmap](./roadmap.md)
-**Key Features**
+- **Key Features**
   - [Compliance Framework](compliance-framework)
   - [Dashboards](dashboards)
   - [Metrics](./metrics.md)
@@ -13,10 +13,10 @@
   - [Pipeline COE](./pipeline-coe.md)
   - [SLSA](./slsa.md)
   - [Contribute](./contribute.md)
-**Architecture**
+- **Architecture**
   - [Architecture](architecture)
   - [Runners](runners)
-**Onboard to SHIP-HATS** 
+- **Onboard to SHIP-HATS** 
   - [Subscription](subscription)
   - [Onboarding](onboard-to-ship-hats)
   - [Step 0: Pre-onboarding](pre-onboarding)
@@ -24,17 +24,17 @@
   - [Step 2: Onboard to SHIP-HATS Portal](onboard-via-ship-hats-portal)
   - [Step 3: Configure GitLab](configure-gitlab)  
   - [Step 4: Configure Pipelines](configure-pipelines)   
-**Environment Connectivity**
+- **Environment Connectivity**
   - [AWS VPC Endpoint](aws-vpc-endpoint)
   - [IPsec Tunnel](ipsec-tunnel)
   - [Set up GitLab Runners](gitlab-runners)
   - [Sign commits with GPG](signing-commits-with-gpg)
   - [Communicate using SSH keys](communicate-using-ssh-keys)
   - [SIS Whitelisting](./sis-whitelisting.md)  
-**Training**
+- **Training**
   - [Learning Events](learning-events)
   - [Self-paced Trainings](./self-paced-trainings/overview.md)
-**Support**
+- **Support**
   - [FAQs](general-faqs)
   - [Contact us](contact-us) 
 

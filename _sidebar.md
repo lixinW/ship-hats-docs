@@ -4,15 +4,18 @@
   - [What's New](./whats-new/2023.md)
   - [Tools](ship-hats-tools)
   - [Roadmap](./roadmap.md)
-- **Key Features**
-  - [Compliance Framework](compliance-framework)
-  - [Dashboards](dashboards)
-  - [Metrics](./metrics.md)
-  - [Pipeline Templates](pipeline-templates)
-  - [Sample Pipeline](sample-pipeline)  
-  - [Pipeline COE](./pipeline-coe.md)
-  - [SLSA](./slsa.md)
-  - [Contribute](./contribute.md)
+  - **Key Features**
+    - [Compliance Framework](compliance-framework)
+    - [Dashboards](dashboards)
+    - [Metrics](./metrics.md)
+    - [Pipeline Templates](pipeline-templates)
+    - [Sample Pipeline](sample-pipeline)  
+    - [Pipeline COE](./pipeline-coe.md)
+    - [SLSA](./slsa.md)
+    - [Contribute](./contribute.md)
+- **Training**
+  - [Learning Events](learning-events)
+  - [Self-paced Trainings](./self-paced-trainings/overview.md)
 - **Architecture**
   - [Architecture](architecture)
   - [Runners](runners)
@@ -31,9 +34,6 @@
   - [Sign commits with GPG](signing-commits-with-gpg)
   - [Communicate using SSH keys](communicate-using-ssh-keys)
   - [SIS Whitelisting](./sis-whitelisting.md)  
-- **Training**
-  - [Learning Events](learning-events)
-  - [Self-paced Trainings](./self-paced-trainings/overview.md)
 - **Support**
   - [FAQs](general-faqs)
   - [Contact us](contact-us) 

@@ -6,9 +6,12 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
-|Webinar<br><br>Coming soon!|**Monitoring using StackOps**<br><br>|Tech & Non Tech<br><br>StackOps Users and prospects|100|Coming soon!|
-|Webinar<br><br>Coming soon!|**Configuring SH 101 Part 2**<br><br>|Tech <br><br>SHIP-HATS Users|200|Coming soon!|
-|Webinar<br><br>Coming soon!|**GitLab: Issue, labels, and boards**<br><br>|Tech & Non Tech<br><br>SHIP-HATS Users & Prospects|100|Coming soon!|
+|Webinar<br><br>3 July '23<br><br>3 PM to 4 PM|**Monitoring using StackOps**<br><br>Covers introduction to StackOps, basic use cases, and a quick run through of the product.|Tech & Non Tech<br><br>StackOps Users and prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+| Briefing<br><br>12 July '23<br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 04**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|Tech & Non Tech<br><br>StackOps Users and prospects|100|By invitation only|
+|Webinar<br><br>17 July '23<br><br>3 PM to 4:30 PM|**Configuring SH 101 Part 2**<br><br>Covers guidelines and checklists for configuring SHIP-HATS platform and alternative tools |Tech <br><br>SHIP-HATS Users|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+|Webinar<br><br>24 July '23<br><br>3 PM to 4 PM|**GitLab: Issue, labels, and boards**<br><br>Covers more tips & tricks on issues, labels, and boards |Tech & Non Tech<br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+
+<!--|Experts Clinic|Coming soon!-->
 
 
 <!--

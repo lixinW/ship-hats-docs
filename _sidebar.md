@@ -38,8 +38,6 @@
   - [FAQs](general-faqs)
   - [Contact us](contact-us) 
 
-&nbsp;
-
 ---
 **Additional Resources**
   - [SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview) 

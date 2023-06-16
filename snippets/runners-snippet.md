@@ -207,28 +207,27 @@ For more information, refer to the [GitLab runner monitoring](https://docs.gitla
 
 ## Docker Alternative FAQs
 
+<!--
 >**Tip:** Click the question or triangle to view the answer.
+-->
 
 <details>
-  <summary style="font-size:20px"><b>Is there a sample pipeline template available using Kaniko?</b></summary><br>
+  <summary>Is there a sample pipeline template available using Kaniko?</summary><br>
 
 You can use the [Build and push docker image](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/templates#file-gitlab-ci-docker-buildyml) template. This template allows you to build and push docker image to private registry in one single action which is defined in the "script" key. 
 
 ?> **Note:** This template might be updated in the future to use other docker alternatives. 
 </details>
 
----
-
 <details>
-  <summary style="font-size:20px"><b>What docker alternatives are available to replace docker commands?</b></summary><br>
+  <summary>What docker alternatives are available to replace docker commands?</summary><br>
 
 In SHIP-HATS Templates (from tag v1.0.4), the docker alternative tools used in our templates include Kaniko, Skopeo, and Crane. 
 </details>
 
----
 
 <details>
-  <summary style="font-size:20px"><b>Why can't SHIP-HATS Templates use one tool (e.g. Buildah or Podman) to replace all docker commands? </b></summary><br>
+  <summary>Why can't SHIP-HATS Templates use one tool (e.g. Buildah or Podman) to replace all docker commands? </summary><br>
 <!--Why multiple docker alternative tools are available in SHIP-HATS Templates?-->
 
 In our testing, Buildah and Podman require minimally some elevated capabilities on runner to work. These elevated capabilities are undesirable in a shared runner model as they allow host escape. So, SHIP-HATS Templates leverage several tools that do not require such runner settings to fulfil some docker commands. For example: 
@@ -240,43 +239,43 @@ In our testing, Buildah and Podman require minimally some elevated capabilities 
 - Crane is a tool for interacting with remote images and registries. For example, it is ideal to replace `docker pull` and `docker push` (that cannot be performed by Kaniko and Skopeo).
 </details>
 
----
+
 
 <details>
-  <summary style="font-size:20px"><b>Are the docker alternatives identified able to fully replace the docker commands?</b></summary><br>
+  <summary>Are the docker alternatives identified able to fully replace the docker commands?</summary><br>
 
 No, there are certain functions that cannot be performed by the suggested docker alternatives, such as `docker run` and `docker compose`. You may consider using [GitLab services](https://docs.gitlab.com/ee/ci/services/) with your services designed to provide additional features which are network accessible.
 </details>
 
----
+
 
 <details>
-  <summary style="font-size:20px"><b>Docker alternative tools are insufficient for me and I would still need to run docker commands directly. What can I do?</b></summary><br>
+  <summary>Docker alternative tools are insufficient for me and I would still need to run docker commands directly. What can I do?</summary><br>
 
 SHIP-HATS does not support Docker-in-Docker (`dind`) or privileged shared runners. You need to self host privileged runner to use `dind` image for running docker commands directly. Refer to [Set up GitLab Runners documentation](gitlab-runners) to set up self-hosted GitLab Runner.
 </details>
 
----
+
 
 <details>
-  <summary style="font-size:20px"><b>Can the docker alternatives run on non-root and non-privileged runners (CStack runners)?</b></summary><br>
+  <summary>Can the docker alternatives run on non-root and non-privileged runners (CStack runners)?</summary><br>
 
 Based on our testing on docker alternatives, Skopeo and Crane can run on non-root and non-privileged runners (tags: cstacks, non_privileged, no_root) whereas Kaniko can run on runners with root and non-privileged runners (tags: ship_docker, non_privileged).
 </details>
 
----
+
 
 <details>
-  <summary style="font-size:20px"><b>Are there any image or job templates that I can reference in my job if there are tasks that require multiple tools. For example, AWS assumes role with Kaniko to build and push image to AWS ECR.</b></summary><br>
+  <summary>Are there any image or job templates that I can reference in my job if there are tasks that require multiple tools. For example, AWS assumes role with Kaniko to build and push image to AWS ECR.</summary><br>
 
 [Pipeline COE](https://sgts.gitlab-dedicated.com/innersource/projects/sgts-pipelinecoe/containers) is an InnerSource project where custom images are built and shared across all projects. Most images in Pipeline COE are built from container base image that comes with multiple common tools (e.g., Wget, Git, curl, and JQ).
 
-<!--Please note that this project is a work in progress and the location of the images might be changed later. You may refer to the images there in your job should you find any one suitable. You may refer to the images in your job to find something suitable to your requirements.--> 
+Please note that this project is a work in progress and the location of the images might be changed later. You may refer to the images there in your job should you find any one suitable.<!--You may refer to the images in your job to find something suitable to your requirements.--> 
 
 If you are unable to find a suitable image in Pipeline COE, you may [raise a request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request) or if you find an image that can add on the tools that you require, you may edit the Dockerfile and raise an MR for platform team to review and approve. 
 </details>
 
----
+
 
 <!--
 

@@ -1,4 +1,3 @@
-?>**Tip:** Click the triangle to view the answer.
 
 <details>
   <summary style="font-size:20px"><b> Will the default GitLab project’s parent group name that is created for our agency always be the SHIP-HATS subscription name?	
@@ -12,7 +11,7 @@ For more information on the groups, refer to our [GitLab Groups](https://docs.de
 
 </details>
 
----
+
 
 <details>
   <summary style="font-size:20px"><b>Since the subscription model includes GitLab Native tools, do we still need to subscribe to other tools such as SonarQube? Is there a checklist on the difference between the tools that we can refer to? </b></summary><br>
@@ -20,7 +19,7 @@ For more information on the groups, refer to our [GitLab Groups](https://docs.de
 Choice of tools depends on agency-specific use case and requirements. Refer to our [Tooling Strategy and Assessment](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/ship-hats-tools?id=tooling-strategy)
 </details>
 
----
+
 
 <details>
   <summary style="font-size:20px"><b>Can my Confi system be onboarded to SHIP-HATS 2.0 ? </b></summary><br>
@@ -41,5 +40,5 @@ A possible way ahead for your Confi systems to be on SHIP-HATS 2.0:
 
 </details>
 
----
+
 

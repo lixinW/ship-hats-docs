@@ -21,7 +21,7 @@ Depending on your use case, you can configure one of the following runners:
 
     ![Group runner token](./images/group-runner-token.png)
 
-### To retrieve project runner token:
+### To retrieve project runner token
 
 - Navigate to your project setting page and access the menu as shown below:
 

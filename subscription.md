@@ -105,10 +105,13 @@ If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 
 
 If you are a **new customer** and coming onboard to 2.0 directly, you will start paying the 2.0 pricing from October onwards. 
 
+<!--
+
 ### Pricing while migrating from 1.0 to 2.0.
 
 If you are a **1.0 customer who is migrating to 2.0**, you will continue to pay 1.0 pricing until you have migrated completely. You will start paying the 2.0 pricing from October onwards. For example, if you complete migrating to 2.0 in July, there will be no charge until October 2023.
 
+-->
 
 ## FAQs
 

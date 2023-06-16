@@ -99,6 +99,51 @@ After the SBOM files have been generated, you can sign and verify as a software 
     -   In your verifying job, include the  `SBOM_PREDICATE_TYPE`  variable. For blob verification, the  `SIGNED_SBOM_FILE`  variable is also needed. This will tell the job to verify the SBOM for the software artifact
     -   In your verifying job, you can optionally include the  `VERIFY_SBOM_OPTS`  variable to customise the arguments when verifying the SBOM.
 
+
+## SLSA and Compliance Framework
+
+SLSA, SBOM, and Attestation mechanisms have been integrated with the [Compliance Framework v1.0.3](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance) and applied to [E2E templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates).
+
+With the Compliance Framework v1.0.3 and E2E templates, the SBOM signing and verification will be automatically included in your pipeline. However, if you are using only Compliance template, you must complete the following steps:
+1. Generate the attestation in your build job 
+1. Pass the following variables:
+    - `ATTESTATION_PREDICATE_TYPE`
+    <!--: This variable is required if you want to verify the gitlab attestation. The gitlab attestation follows the "slsaprovenance" predicate type.-->
+    - `VERIFY_ATTESTATION_OPTS` 
+    <!--: This variable is for including extra arguments when verifying the attestation. "--check-claims=false" is required for gitlab attestation.  -->
+    - `SIGNED_ATTESTATION_FILE` 
+ 
+After the above conditions are met, the attestation signing and verification will be automatically included in your pipeline. **[[Read more here](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance)]**
+
+<!--
+
+### Templates
+
+**E2E Examples** 
+- Docker Image CI App v1.0.2
+- Docker Single Service App
+- Docker Multi Service App
+- Nodets Webapp 
+
+**SHIP-HATS Templates** 
+- Blob-Signing 
+- Container-Signing 
+
+-->
+
+### E2E Examples
+
+- [Docker Image CI App](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/docker-image-ci-app)  
+- [Docker Single Service App](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/docker-single-service-app)
+- [Docker Multi Service App](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/docker-multi-services-app)
+- [Nodets Webapp](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/nodets-webapp) 
+
+### Examples: SHIP-HATS Templates
+
+- [Blob-Signing](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/blob/main/gitlab-ci/Blob-Signing.yml) | [Documentation](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/gitlab-ci#example-blob-signing) 
+
+- [Container-Signing Example](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/blob/main/gitlab-ci/Container-Signing.yml) | [Documentation](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/gitlab-ci#example-container-signing)
+
 ## Additional Resources
 
 -   SLSA Website:  [https://slsa.dev/](https://slsa.dev/)

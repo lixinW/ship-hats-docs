@@ -12,6 +12,7 @@
     - [Sample Pipeline](sample-pipeline)  
     - [Pipeline COE](./pipeline-coe.md)
     - [SLSA](./slsa.md)
+    - [Hivemind Chatbot](./hivemind-chatbot.md)
     - [Contribute](./contribute.md)
 - **Training**
   - [Learning Events](learning-events)
@@ -19,7 +20,7 @@
 - **Architecture**
   - [Architecture](architecture)
   - [Runners](runners)
-- **Onboard to SHIP-HATS** 
+- **Subscribe & Onboard** 
   - [Subscription](subscription)
   - [Onboarding](onboard-to-ship-hats)
   - [Step 0: Pre-onboarding](pre-onboarding)

@@ -115,27 +115,21 @@ With the Compliance Framework v1.0.3 and E2E templates, the SBOM signing and ver
  
 After the above conditions are met, the attestation signing and verification will be automatically included in your pipeline. **[[Read more here](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance)]**
 
-<!--
 
-### Templates
+### E2E Templates 
 
-**E2E Examples** 
-- Docker Image CI App v1.0.2
-- Docker Single Service App
-- Docker Multi Service App
-- Nodets Webapp 
+Attestation have been applied to the following templates: 
 
-**SHIP-HATS Templates** 
-- Blob-Signing 
-- Container-Signing 
+- SHIP-HATS Docker Image CI Pipeline Templates (v1.0.2)
+- SHIP-HATS Docker Multi Services App E2E Templates (v1.0.2)
+- SHIP-HATS Docker Single Service App E2E Templates (v1.0.2)
+- SHIP-HATS Webapp E2E Templates (v1.0.1)
 
--->
-
-### E2E Examples
+### Examples: E2E Examples
 
 - [Docker Image CI App](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/docker-image-ci-app)  
-- [Docker Single Service App](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/docker-single-service-app)
 - [Docker Multi Service App](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/docker-multi-services-app)
+- [Docker Single Service App](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/docker-single-service-app)
 - [Nodets Webapp](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates/examples/nodets-webapp) 
 
 ### Examples: SHIP-HATS Templates

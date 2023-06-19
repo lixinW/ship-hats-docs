@@ -1,5 +1,7 @@
 ?> **Goal:** Centralise Source Code Management, CI/CD, and app testing with built-in best DevSecOPs practices for ease of use by agencies.
 
+## Roadmap 
+
 |Component|Q1|Q2|Q3|Q4|
 |---|---|---|---|---|
 **Platform Enablement**|SSO for Atlassian Products  **(shipped)**<br><br>TechPass SSO refinement|Runners to support GitLab-Native services<br><br>Jira/Confluence Cloud Pilot (JSM & Multi-tenancy)|Shared runners for Intranet deployment|Jira/Confluence Cloud GA (JSM/Multi-tenancy)
@@ -7,6 +9,12 @@
 **Security Baseline & Testing Tools**|SemGrep (bg scanning)<br><br>SLSA **(shipped)**|-|SLSA|-
 **Metrics and VSM**|DevSecOps Maturity Report (Beta) **(shipped)**|-|-|DevSecOps Maturity Dashboard
 **Migration**|ChatOps (Workato for migration) **(shipped)**|Workato for ops monitoring|Migration Deadline|-
+
+
+## Request a feature
+
+For any new features requests and suggestions, please click [here](https://tinyurl.com/Sgts-fb).
+
 
 <!--
 |Component|Q1|Q2|Q3|Q4|

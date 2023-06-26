@@ -1,15 +1,19 @@
 # Hivemind Chatbot
 
+?> This is a pilot project.
+
 ## About Hivemind Chatbot
 
-Hivemind chatbot was launched in April 2023 to help answer queries on SHIP-HATS. 
+Hivemind chatbot (pilot) was launched in April 2023 to help answer queries on SHIP-HATS. 
 
 Hivemind chatbot is based on ChatGPT and brings the power of ChatGPT to internal knowledge management. Learn more on [Integrating ChatGPT with internal knowledge base and question-answer platform](https://medium.com/singapore-gds/integrating-chatgpt-with-internal-knowledge-base-and-question-answer-platform-36a3283d6334) via our Medium article.
 
 ## Using Hivemind chatbot
 
+
 **To use the Hivemind chatbot:**
 
+1. Please ask your SA to add you to the telegram group: **SHIP-HATS 2.0 Group**. 
 1. Send a private message to **@HivemindChatBot**.
 1. Select **/Start**.
 

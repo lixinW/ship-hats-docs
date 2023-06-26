@@ -15,7 +15,6 @@
 
 For any new features requests and suggestions, please click [here](https://tinyurl.com/Sgts-fb).
 
-
 <!--
 |Component|Q1|Q2|Q3|Q4|
 |---|---|---|---|---|

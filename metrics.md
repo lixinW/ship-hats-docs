@@ -18,7 +18,7 @@ Following image shows an example of DevSecOps Maturity Report:
 
 ![DevSecOps Maturity Report](./images/devsecops-maturity-report.png)
 
-### Interpreting the report
+<!-- ### Interpreting the report
 
 You can use the following features to interpret the report:
 
@@ -33,6 +33,8 @@ You can use the following features to interpret the report:
 - **Take Action for failed score:** Click **View Actions** to view the suggested **Action Required** to pass. You can complete the suggested actions > run the pipeline > generate the report to verify if the Score changed to **PASS**.
 
     ![](./images/devsecops-maturity-report-click-action.png)
+
+-->
 
 <!--![](./images/devsecops-maturity-report-view-action.png ':size=30%')-->
 

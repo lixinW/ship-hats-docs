@@ -2,16 +2,19 @@
 
 ## About Hivemind Chatbot
 
-The Hivemind chatbot was launched in April 2023 to help answer queries on SHIP-HATS. 
-The Hivemind chatbot is based on ChatGPT and brings the power of ChatGPT to internal knowledge management. 
+Hivemind chatbot was launched in April 2023 to help answer queries on SHIP-HATS. 
 
-Learn more on [Integrating ChatGPT with internal knowledge base and question-answer platform](https://medium.com/singapore-gds/integrating-chatgpt-with-internal-knowledge-base-and-question-answer-platform-36a3283d6334) via our Medium article.
+Hivemind chatbot is based on ChatGPT and brings the power of ChatGPT to internal knowledge management. Learn more on [Integrating ChatGPT with internal knowledge base and question-answer platform](https://medium.com/singapore-gds/integrating-chatgpt-with-internal-knowledge-base-and-question-answer-platform-36a3283d6334) via our Medium article.
 
 ## Using Hivemind chatbot
 
-To use the Hivemind chatbot:
+**To use the Hivemind chatbot:**
+
 1. Send a private message to **@HivemindChatBot**.
 1. Select **/Start**.
+
+    ![](./images/hivemindbot.png ':size=70%')
+
 1. Use one of the commands below to ask your query:
 
     |Command|Description|Example|
@@ -24,8 +27,9 @@ To use the Hivemind chatbot:
 
 1. Click :thumbsup:	or  :thumbsdown: to indicate if your answer was helpful. 
 
-
 ?> **Note:** All interactions are recorded for analytics purpose.
+
+
 
 <!--## Commands
 Use the following commands to ask your queries:-->

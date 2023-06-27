@@ -99,7 +99,7 @@ After the SBOM files have been generated, you can sign and verify as a software 
     -   In your verifying job, include the  `SBOM_PREDICATE_TYPE`  variable. For blob verification, the  `SIGNED_SBOM_FILE`  variable is also needed. This will tell the job to verify the SBOM for the software artifact
     -   In your verifying job, you can optionally include the  `VERIFY_SBOM_OPTS`  variable to customise the arguments when verifying the SBOM.
 
-<!--
+
 ## SLSA and Compliance Framework
 
 SLSA, SBOM, and Attestation mechanisms have been integrated with the [Compliance Framework v1.0.3](https://sgts.gitlab-dedicated.com/wog/ship-hats-compliance) and applied to [E2E templates](https://sgts.gitlab-dedicated.com/wog/gvt/ship/e2e-templates).
@@ -136,7 +136,7 @@ Attestation have been applied to the following templates:
 
 - [Container-Signing Example](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/blob/main/gitlab-ci/Container-Signing.yml) | [Documentation](https://sgts.gitlab-dedicated.com/wog/gvt/ship/ship-hats-templates/-/tree/main/gitlab-ci#example-container-signing)
 
--->
+
 
 <!--: This variable is required if you want to verify the gitlab attestation. The gitlab attestation follows the "slsaprovenance" predicate type.-->
 

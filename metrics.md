@@ -18,7 +18,7 @@ Following image shows an example of DevSecOps Maturity Report:
 
 ![DevSecOps Maturity Report](./images/devsecops-maturity-report.png)
 
-<!-- ### Interpreting the report
+### Interpreting the report
 
 You can use the following features to interpret the report:
 
@@ -34,7 +34,7 @@ You can use the following features to interpret the report:
 
     ![](./images/devsecops-maturity-report-click-action.png)
 
--->
+
 
 <!--![](./images/devsecops-maturity-report-view-action.png ':size=30%')-->
 

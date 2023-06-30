@@ -1,20 +1,22 @@
 - **What's New**
-  - [2023](./whats-new/2023.md)
-  - [2022](./whats-new/2022.md)
+  - [2023](./2023.md)
+  - [2022](./2022.md)
 - **Additional Resources**
   - [Getting Started with SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/)
   - [SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/ship-hats-portal-overview) 
   - [SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/tools-overview) 
   - [SHIP-HATS Support](https://docs.developer.tech.gov.sg/docs/ship-hats-support/)
-  - [Migration from 1.0 to 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
+  - [Migration from 1.0 to 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)
 
-<!--
-  - [March 2023](./whats-new/march-2023.md)
-  - [February 2023](./whats-new/february-2023.md)
-  - [January 2023](./whats-new/january-2023.md)
-  - [November 2022](./whats-new/november-2022.md)
-  - [October 2022](./whats-new/october-2022.md)
-  - [September 2022](./whats-new/september-2022.md)
+<!--&nbsp;
+
+---
+**Additional Resources**
+  - [Getting Started with SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/)
+  - [SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/ship-hats-portal-overview) 
+  - [SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/tools-overview) 
+  - [SHIP-HATS Support](https://docs.developer.tech.gov.sg/docs/ship-hats-support/)
+  - [Migration from 1.0 to 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
 -->
 
 <!-- READ ME Please
@@ -23,5 +25,16 @@
 3. Make sure that new release is added at the top to maintain latest release on top.
 4. Maintain consistency with earlier released doc/file in terms of naming convention as well as writing style.
 
+- [2023](./whats-new/2023.md)
+- [2022](./whats-new/2022.md)
+- [What's New](./whats-new/what-s-new.md)
 
 -->  
+
+<!--
+- [Release 3.24.23 and 3.24.24](3-24-23-and-3-24-24)
+- [Release 3.23.22 and 3.23.23](3-23-22-and-3-23-23)
+- [Release 3.22.21 and 3.22.22](3-22-21-and-3-22-22)
+- [Release 3.21.20 and 3.21.21](3-21-20-and-3-21-21)
+- [Release 3.20.19 and 3.20.20](3-20-19-and-3-20-20)
+-->

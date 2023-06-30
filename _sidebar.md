@@ -13,7 +13,7 @@
     - [Pipeline COE](./pipeline-coe.md)
     - [SLSA](./slsa.md)
     - [Hivemind Chatbot](./hivemind-chatbot.md)
-    - [Contribute](./contribute.md)
+    - [Innersource](./innersource.md)
 - **Training**
   - [Learning Events](learning-events)
   - [Self-paced Trainings](./self-paced-trainings/overview.md)

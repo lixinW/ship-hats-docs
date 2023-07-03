@@ -132,7 +132,8 @@ Note that a [clean up job](#note-the-following-when-using-windows-runner) is req
 Self-hosted Remote runners are:
 - Dedicated machines that are set-up and managed by agencies
 - Can be configured for Group or Project level access
-- Can connect to SHIP-HATS via the *IPSec tunnel* or *VPC endpoint* if they are hosted on GCC AWS or CC AWS
+- Can connect to SHIP-HATS via *VPC endpoint (AWS)* or *IPSec tunnel (non-AWS Eg. Azure)*. Note that all AWS/non-AWS accounts must be on GCC platform/environment.
+
 
 For these runners: 
 - Agencies bear the costs of hosting their own runners

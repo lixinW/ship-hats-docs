@@ -6,9 +6,8 @@
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
-|Webinar<br><br>3 July '23<br><br>3 PM to 4 PM|**Monitoring using StackOps**<br><br>Covers introduction to StackOps, basic use cases, and a quick run through of the product.|Tech & Non Tech<br><br>StackOps Users and prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
-| Briefing<br><br>12 July '23<br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 04**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|Tech & Non Tech<br><br>StackOps Users and prospects|100|By invitation only|
-|Webinar<br><br>17 July '23<br><br>3 PM to 4:30 PM|**Configuring SH 101 Part 2**<br><br>Covers guidelines and checklists for configuring SHIP-HATS platform and alternative tools |Tech <br><br>SHIP-HATS Users|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+| Briefing<br><br>12 July '23<br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 04**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|Tech & Non Tech<br><br>StackOps Users and prospects|100<br><br>SHIP-HATS Users|By invitation only|
+|Webinar<br><br>17 July '23<br><br>3 PM to 4:30 PM|**Configuring SHIP-HATS 2.0 101 Part 2**<br><br>Covers guidelines and checklists for configuring SHIP-HATS platform and alternative tools |Tech <br><br>SHIP-HATS Users|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 |Webinar<br><br>24 July '23<br><br>3 PM to 4 PM|**GitLab: Issue, labels, and boards**<br><br>Covers more tips & tricks on issues, labels, and boards |Tech & Non Tech<br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
 <!--|Experts Clinic|Coming soon!-->
@@ -95,6 +94,7 @@ Webinar<br><br>13 April 2023<br><br>4 PM to 5 PM|**SHIP-HATS & Application Secur
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
+|Webinar<br><br>3 July '23<br><br>3 PM to 4 PM|**Monitoring using StackOps**<br><br>Covers introduction to StackOps, basic use cases, and a quick run through of the product.|[Access the recording here](https://youtu.be/bTcF5aW-05k) [55 min video]|[Download the PDF here](./files/Monitoring-using-StackOps.pdf)
 |Webinar<br><br>30 May, 2023<br><br>  3 PM - 4 PM|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |[Access the recording here](https://youtu.be/oVqCo3pp3VE) [25 min video]|[Download the PDF here](./files/GitLab-as-a-PM-tool.pdf)|
 |Webinar<br><br>22 May, 2023<br><br>  3 PM - 4 PM|**SGTS Learning Events: Modernising your Application using Container Stack**<br><br>Learn how to leverage the cloud and go from zero to running in the shortest time.|[Access the recording here](https://youtu.be/LrOJWIx0FAI) [60 min video]|[Download the PDF here](./files/Modernizing_Application_Using_CStack_22_May_2023.pdf)|
 |Webinar<br><br>17 May, 2023<br><br>  3 PM - 4:30 PM|**Configuring SHIP-HATS 101 (Part 1) - GitLab**<br><br> Covers guidelines and checklists for configuring SHIP-HATS platform and GitLab|[Access the recording here](https://youtu.be/J2w8_00upeE) [52 min video]|[Download the PDF here](./files/2.0._Configuring_SHIP_HATS_101_17_May_2023.pdf)
@@ -152,6 +152,7 @@ Webinar<br><br>26 April 2023<br><br>4 PM to 5 PM|**SGTS Learning Events: SHIP-HA
 |Webinar<br><br>17 May, 2023<br><br>  3 PM - 4:30 PM|**Configuring SHIP-HATS 101 (Part 1) - GitLab**<br><br> Covers guidelines and checklists for configuring SHIP-HATS platform and GitLab|Tech <br><br>SHIP-HATS Users & Prospects|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 |Webinar<br><br>22 May, 2023<br><br>  3 PM - 4 PM|**Modernising your Application using Container Stack**<br><br>Learn how to leverage the cloud and go from zero to running in the shortest time. |Tech <br><br>CStack Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 |Webinar<br><br>30 May, 2023<br><br>  3 PM - 4 PM|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |Tech <br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+|Webinar<br><br>3 July '23<br><br>3 PM to 4 PM|**Monitoring using StackOps**<br><br>Covers introduction to StackOps, basic use cases, and a quick run through of the product.|Tech & Non Tech<br><br>StackOps Users and prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 
 -->
 

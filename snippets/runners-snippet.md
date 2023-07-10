@@ -52,8 +52,11 @@ There are 4 variants:
 |[CStack Runner](#cstack-runner)|kubernetes|cstack<br>non_privileged<br>no_root|FALSE|YES|YES|13.251.177.7/32<br>18.143.61.190/32
 |[Docker Runner](#docker-runner)|docker + machine|ship_docker<br>non_privileged|FALSE|YES|NO|18.143.26.175/32<br>18.142.30.19/32<br>18.140.93.144/32
 |[Windows Runner](#windows-runner)|shell|ship_windows|N/A|YES|NO|18.143.26.175/32<br>18.142.30.19/32<br>18.140.93.144/32
-|[Windows Docker Runner](#windows-docker-runner)|docker-windows|ship_windows_docker|NA|YES|NO|-
 |GitLab Shared Runner on SaaS||The GitLab shared runner on SaaS may replace the above runners when available in the future. 
+
+<!--
+|[Windows Docker Runner](#windows-docker-runner)|docker-windows|ship_windows_docker|NA|YES|NO|-
+-->
 
 ### CStack Runner
 
@@ -126,6 +129,7 @@ Note that a [clean up job](#note-the-following-when-using-windows-runner) is req
 -  Since the cleanup job has been enabled in Windows Runner to clean up everything after the job completes, you must push the artefacts to their repository (e.g. Nexus) to ensure data safety.
 - You must complete the necessary cleanup after the build is completed by deleting any password or confidential files that might have been created or downloaded during the build job (e.g., docker config).
 
+<!--
 ### Windows Docker Runner
 
 ?> Use this runner for **.Net framework**.
@@ -144,7 +148,7 @@ Note that a [clean up job](#note-the-following-when-using-windows-runner) is req
 |**VS2022_TEST_PATH**|C:\Program Files (x86)\Microsoft Visual Studio\2022\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow
 |**VS2019_TEST_PATH**|C:\Program Files (x86)\Microsoft Visual Studio\2019\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow
 |**VS2017_TEST_PATH**|C:\Program Files (x86)\Microsoft Visual Studio\2017\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow
-
+-->
 
 ## Self-hosted Remote Runners
 

@@ -7,38 +7,8 @@
 |---|---|---|---|---|
 Hands on Workshop<br><br> Scheduled every month<br><br>9:00 AM- 5:00 PM|**SHIP-HATS 2.0 and Introduction to Pipeline Templates**<br><br>Classroom session for developers|Tech<br><br>SHIP-HATS Users & Prospects|200|By invitation based on onboarding and migration|
 SHIP-HATS Migration Clinic<br><br> Scheduled every two weeks |**SHIP-HATS Migration Clinic** |Tech<br><br>SHIP-HATS Migration Users|200|By invitation from your Migration Consultant|
-| Briefing<br><br>12 July '23<br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 04**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|Tech & Non Tech<br><br>SHIP-HATS Users and prospects|100<br><br>SHIP-HATS Users|By invitation only|
 |Webinar<br><br>17 July '23<br><br>3 PM to 4:30 PM|**Configuring SHIP-HATS 2.0 101 Part 2**<br><br>Covers guidelines and checklists for configuring SHIP-HATS platform and alternative tools |Tech <br><br>SHIP-HATS Users|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 |Webinar<br><br>24 July '23<br><br>3 PM to 4 PM|**GitLab: Issue, labels, and boards**<br><br>Covers more tips & tricks on issues, labels, and boards |Tech & Non Tech<br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
-
-<!--|Experts Clinic|Coming soon!-->
-
-
-<!--
-
-|Briefing <br><br>7 June, 2023<br><br>  11 AM - 11:30 AM|**Subscription Management: New TechBiz Feature**<br><br>Covers details on the new TechBiz feature to manage users, how it impacts the existing users, and what action is required from the existing users.|Tech & Non Tech<br><br>SHIP-HATS Users|100|By invitation|
-
--->
-<!--
-
-Webinar<br><br> On Hold |**SGTS Learning Events - GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards|Non Tech<br><br> SHIP-HATS Users & prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
-
--->
-
-<!--
-|Date|Topic|Audience|Level|Sign up|
-|---|---|---|---|---|
-Webinar|**Docker Image CI Pipeline Template** <br><br>This webinar shows how to deliver a compliant CI pipeline for a standard docker application considering best practices as well as security aspects.	 |	Tech<br><br>SHIP-HATS Users & Prospects|200|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
-
--->
-
-<!--
-### Classroom
-
-|Topic|Date|Format|Audience|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
-|---|---|---|---|---|
-|SHIP-HATS 2.0 Workshop<br><br>**Pre-requisite:** Basic understanding of CI/CD is essential.|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|Classroom|	Developers (20 pax)|By invitation based on migration and onboarding schedules|
--->
 
 ## Past events
 
@@ -46,6 +16,7 @@ Webinar|**Docker Image CI Pipeline Template** <br><br>This webinar shows how to 
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
+| Briefing<br><br>6 July '23<br><br>4 PM to 5:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 04**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|[Access the recording here](https://www.youtube.com/watch?v=OW4PqMnGXAs)  [75 min video]|[Download the PDF here](./files/SHIPHATS20MigrationBriefingWave4.pdf)
 Webinar<br><br>17 April 2023<br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 03**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|[Access the recording here](https://www.youtube.com/watch?v=DCJQEOX0HIA) [65 min video]|[Download the PDF here](./files/Migration_Briefing_17_April_2023.pdf)
 |Briefing <br><br>13 Feb, 2023 <br><br>3 PM to 4:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 02**<br><br>Covers Process, Success Criteria,Pre-migration Technical setup, SCR Migration & validation and Self-help resources|[SHIP-HATS 2.0 Migration Briefing Wave 02](https://youtu.be/-1SeVv1-uMU) [32 min video] |[Download the PDF here](./files/MigrationBriefing_13_Feb_2023.pdf)|
 Learning Event <br><br> 19 Jan, 2023 <br><br>11:00 AM - 12:00 PM|**SHIP-HATS Tips & Tricks to review migration quotations** [Only Public Officers] <br><br>Onboarding SHIP-HATS: Subscribing on TechBiz portal, Configuring Tools on SHIP-HATS Portal| All Public Officers can [access the recording](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2fsites%2fIDA-GoSync%2fgdspdd-ai%2fship%2fShared%20Documents%2fSHIP-HATS%202.0%2fMigration%20Effort%20Estimate&FolderCTID=0x012000949149768FF4524FA439DE7A9336C142) (via link hosted on intranet) [60 min video]|All Public Officers can [access the PDF here](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2fsites%2fIDA-GoSync%2fgdspdd-ai%2fship%2fShared%20Documents%2fSHIP-HATS%202.0%2fMigration%20Effort%20Estimate&FolderCTID=0x012000949149768FF4524FA439DE7A9336C142) (via link hosted on intranet)
@@ -95,6 +66,7 @@ Webinar<br><br>13 April 2023<br><br>4 PM to 5 PM|**SHIP-HATS & Application Secur
 
 |Date|Topic|Recording|Presentation|
 |---|---|---|---|
+| Briefing<br><br>6 July '23<br><br>4 PM to 5:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 04**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|[Access the recording here](https://www.youtube.com/watch?v=OW4PqMnGXAs)  [75 min video]|[Download the PDF here](./files/SHIPHATS20MigrationBriefingWave4.pdf)
 |Webinar<br><br>3 July '23<br><br>3 PM to 4 PM|**Monitoring using StackOps**<br><br>Covers introduction to StackOps, basic use cases, and a quick run through of the product.|[Access the recording here](https://youtu.be/bTcF5aW-05k) [55 min video]|[Download the PDF here](./files/Monitoring-using-StackOps.pdf)
 |Webinar<br><br>30 May, 2023<br><br>  3 PM - 4 PM|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |[Access the recording here](https://youtu.be/oVqCo3pp3VE) [25 min video]|[Download the PDF here](./files/GitLab-as-a-PM-tool.pdf)|
 |Webinar<br><br>22 May, 2023<br><br>  3 PM - 4 PM|**SGTS Learning Events: Modernising your Application using Container Stack**<br><br>Learn how to leverage the cloud and go from zero to running in the shortest time.|[Access the recording here](https://youtu.be/LrOJWIx0FAI) [60 min video]|[Download the PDF here](./files/Modernizing_Application_Using_CStack_22_May_2023.pdf)|
@@ -126,7 +98,7 @@ Briefing<br><br> 19 Aug, 22|**SHIP-HATS 2.0 Announcement Briefing**|[Vision for 
 
 
 
-<!-- OLD CONTENT PASTE HERE
+<!-- PASTE OLD CONTENT HERE FOR RECORD KEEPING
 
 |Date|Topic|Audience|Level|Sign up|
 |---|---|---|---|---|
@@ -154,6 +126,7 @@ Webinar<br><br>26 April 2023<br><br>4 PM to 5 PM|**SGTS Learning Events: SHIP-HA
 |Webinar<br><br>22 May, 2023<br><br>  3 PM - 4 PM|**Modernising your Application using Container Stack**<br><br>Learn how to leverage the cloud and go from zero to running in the shortest time. |Tech <br><br>CStack Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 |Webinar<br><br>30 May, 2023<br><br>  3 PM - 4 PM|**GitLab as a PM tool**<br><br>Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards	 |Tech <br><br>SHIP-HATS Users & Prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
 |Webinar<br><br>3 July '23<br><br>3 PM to 4 PM|**Monitoring using StackOps**<br><br>Covers introduction to StackOps, basic use cases, and a quick run through of the product.|Tech & Non Tech<br><br>StackOps Users and prospects|100|[Sign up](https://form.gov.sg/#!/630713fb3e0e37001201f40a)|
+| Briefing<br><br>6 July '23<br><br>4 PM to 5:30 PM|**SHIP-HATS 2.0 Migration Briefing Wave 04**<br><br>Covers Process, Success Criteria, Pre-migration Technical setup, SCR Migration & validation and Self-help resources|Tech & Non Tech<br><br>SHIP-HATS Users and prospects|100<br><br>SHIP-HATS Users|By invitation only|
 
 -->
 

@@ -1,3 +1,7 @@
+
+<p><span style="color:red;">This document is obsolete. Refer here for latest content <u>https://go.gov.sg/ship-hats-getting-started</u></span></p>
+<br>
+
 - **Overview**
   - [Home](./README.md)
   - [Overview](ship-hats-overview)
@@ -71,3 +75,14 @@
   - [Pipeline templates](pipeline-templates)
   - [Sample pipeline](sample-pipeline)
 -->  
+
+<!--Access <a href="https://go.gov.sg/ship-hats-getting-started">latest content</a>. This document is obsolete.
+
+<p><span style="color:red;">This document is obsolete. Click for <a href="https://go.gov.sg/ship-hats-getting-started">latest content</a>.</span></p>
+
+<p style="background-color:#0275D6; color:white;">Access <a href="https://docs.developer.tech.gov.sg/docs/ship-hats-docs/">latest content</a>. This document is obsolete.</p>
+
+
+<p><span style="color:red;">IMPORTANT:</span> Access latest content  https://go.gov.sg/ship-hats-getting-started. This document is obsolete. </a> </p>
+
+This document is obsolete. Click https://go.gov.sg/ship-hats-getting-started for latest content.-->
